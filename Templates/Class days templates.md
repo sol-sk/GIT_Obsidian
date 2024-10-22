@@ -1,0 +1,8 @@
+###### T/Th Schedule
+- COGS 401 9:30AM-11AM
+- PSYC 301 12:30-2PM
+- CPSC 430 3:30-5PM
+
+###### Wed Schedule
+- VISA 401 9AM-12PM
+- VISA 480 2PM-5PM
