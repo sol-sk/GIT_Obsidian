@@ -1092,3 +1092,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^04u54z4jogk
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:47:09.182Z","text":"**WHY ARE ALL THESE VIDEOS SO SAD**","updated":"2024-10-24T20:47:09.182Z","document":{"title":""},"references":["b90g8ijm1et","04u54z4jogk"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^6gyhjf6edzo|show annotation]]
+>%%COMMENT%%
+>**WHY ARE ALL THESE VIDEOS SO SAD**
+>%%TAGS%%
+>
+^6gyhjf6edzo
