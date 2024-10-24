@@ -850,3 +850,45 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^bkg2j0p6jur
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:26:01.945Z","text":"Not cell; collection of proteins that uses our cells to replicate","updated":"2024-10-24T20:26:01.945Z","document":{"title":""},"references":["bkg2j0p6jur"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^4ykv94jv2am|show annotation]]
+>%%COMMENT%%
+>Not cell; collection of proteins that uses our cells to replicate
+>%%TAGS%%
+>
+^4ykv94jv2am
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:27:41.224Z","text":"Nervous system specific ","updated":"2024-10-24T20:27:41.224Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7924,"end":7938},{"type":"TextQuoteSelector","exact":"nervous system","prefix":"s virus has an affinity for the ","suffix":".Viral Infections: RabiesInfecti"}]}]}
+>```
+>%%
+>*%%PREFIX%%s virus has an affinity for the%%HIGHLIGHT%% ==nervous system== *
+>%%LINK%%[[#^loefd3fslom|show annotation]]
+>%%COMMENT%%
+>Nervous system specific 
+>%%TAGS%%
+>
+^loefd3fslom
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:28:30.955Z","text":"<15% of bites lead to rabies development: virus needs to make it into the *axon of a motor neuron*","updated":"2024-10-24T20:28:30.955Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7887,"end":7893},{"type":"TextQuoteSelector","exact":"rabies","prefix":"iral InfectionsInfections 32The ","suffix":" virus has an affinity for the n"}]}]}
+>```
+>%%
+>*%%PREFIX%%iral InfectionsInfections 32The%%HIGHLIGHT%% ==rabies== *
+>%%LINK%%[[#^xq17s2fyj|show annotation]]
+>%%COMMENT%%
+><15% of bites lead to rabies development: virus needs to make it into the *axon of a motor neuron*
+>%%TAGS%%
+>
+^xq17s2fyj
