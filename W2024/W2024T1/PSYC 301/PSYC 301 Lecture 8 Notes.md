@@ -836,3 +836,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^1798stzcrll
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:25:53.213Z","text":"Far smaller than bacteria","updated":"2024-10-24T20:25:53.213Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7854,"end":7859},{"type":"TextQuoteSelector","exact":"Viral","prefix":"use encephalitis and meningitis.","suffix":" InfectionsInfections 32The rabi"}]}]}
+>```
+>%%
+>*%%PREFIX%%use encephalitis and meningitis.%%HIGHLIGHT%% ==Viral== *
+>%%LINK%%[[#^bkg2j0p6jur|show annotation]]
+>%%COMMENT%%
+>Far smaller than bacteria
+>%%TAGS%%
+>
+^bkg2j0p6jur
