@@ -551,3 +551,33 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^43xtte9ttvo
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:49:27.885Z","text":"Professional athletes: 111 examined postmortem: 110 had CTE","updated":"2024-10-24T19:49:27.885Z","document":{"title":""},"references":["43xtte9ttvo"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^kbmfearpl9|show annotation]]
+>%%COMMENT%%
+>Professional athletes: 111 examined postmortem: 110 had CTE
+>%%TAGS%%
+>
+^kbmfearpl9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:50:27.138Z","text":"* DV survivors\n* Autistic people who bang their heads often\n* Teenage athletes","updated":"2024-10-24T19:50:27.138Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4138,"end":4141},{"type":"TextQuoteSelector","exact":"Not","prefix":"ed by repeated blows to the head","suffix":" just professional athletes!Joe "}]}]}
+>```
+>%%
+>*%%PREFIX%%ed by repeated blows to the head%%HIGHLIGHT%% ==Not== *
+>%%LINK%%[[#^kyng9bw2cp|show annotation]]
+>%%COMMENT%%
+>* DV survivors
+>* Autistic people who bang their heads often
+>* Teenage athletes
+>%%TAGS%%
+>
+^kyng9bw2cp
