@@ -609,3 +609,18 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^9ykefmxqkch
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:59:00.030Z","text":"Diagnosis can only be probable, not certain, pre-mortem\n","updated":"2024-10-24T19:59:00.030Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5094,"end":5149},{"type":"TextQuoteSelector","exact":"A clear marker of CTE, butrelies on postmortem staining","prefix":" cause of CTEAlso seen in AD, PD","suffix":"22Tau progressionHead injuriesSu"}]}]}
+>```
+>%%
+>*%%PREFIX%%cause of CTEAlso seen in AD, PD%%HIGHLIGHT%% ==A clear marker of CTE, butrelies on postmortem staining== *
+>%%LINK%%[[#^u3bbtbeudm|show annotation]]
+>%%COMMENT%%
+>Diagnosis can only be probable, not certain, pre-mortem
+>
+>%%TAGS%%
+>
+^u3bbtbeudm
