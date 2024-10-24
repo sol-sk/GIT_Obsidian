@@ -793,3 +793,18 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^s0xe5n4r5dp
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:20:32.348Z","text":"* Naturopath family refused medical assistance even after nurse friend diagnosed meningitis\n* Parents said paramedics should be blamed for death of child, \"haters\"","updated":"2024-10-24T20:20:32.348Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7379,"end":7399},{"type":"TextQuoteSelector","exact":"Bacterial infections","prefix":"ectionsInfections 29In the news:","suffix":"Infections 30A type of bacteria "}]}]}
+>```
+>%%
+>*%%PREFIX%%ectionsInfections 29In the news:%%HIGHLIGHT%% ==Bacterial infections== *
+>%%LINK%%[[#^634xqlbn526|show annotation]]
+>%%COMMENT%%
+>* Naturopath family refused medical assistance even after nurse friend diagnosed meningitis
+>* Parents said paramedics should be blamed for death of child, "haters"
+>%%TAGS%%
+>
+^634xqlbn526
