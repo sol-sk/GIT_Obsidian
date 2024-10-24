@@ -1032,3 +1032,33 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^auyhed90f76
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:40:09.367Z","text":"* Needs to change host from rat to cat for life cycle: selectively damages *amygdala*\n* Only affects circuits related to cats: no longer afraid, cat eats rat, life cycle continues\n","updated":"2024-10-24T20:40:09.367Z","document":{"title":""},"references":["auyhed90f76"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^i6c68gnvk3|show annotation]]
+>%%COMMENT%%
+>* Needs to change host from rat to cat for life cycle: selectively damages *amygdala*
+>* Only affects circuits related to cats: no longer afraid, cat eats rat, life cycle continues
+>
+>%%TAGS%%
+>
+^i6c68gnvk3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:42:20.252Z","text":"1/3 of all humans have this infection: difference between infected and not is minimal","updated":"2024-10-24T20:42:20.252Z","document":{"title":""},"references":["auyhed90f76","i6c68gnvk3"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^bd3e9vtcfpa|show annotation]]
+>%%COMMENT%%
+>1/3 of all humans have this infection: difference between infected and not is minimal
+>%%TAGS%%
+>
+^bd3e9vtcfpa
