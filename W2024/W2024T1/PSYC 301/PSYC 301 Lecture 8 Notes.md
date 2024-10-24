@@ -934,3 +934,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^kxg137i0ffn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:34:54.770Z","updated":"2024-10-24T20:34:54.770Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":8077,"end":8130},{"type":"TextQuoteSelector","exact":"~35% of those symptomatic have neurological symptoms ","prefix":"other complications to studying•","suffix":"(Koralnik & Tyler 2020, Mukerji "}]}]}
+>```
+>%%
+>*%%PREFIX%%other complications to studying•%%HIGHLIGHT%% ==~35% of those symptomatic have neurological symptoms== *
+>%%LINK%%[[#^ffp94d9jyni|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ffp94d9jyni
