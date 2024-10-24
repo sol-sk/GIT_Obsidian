@@ -429,3 +429,35 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^7098leq2xyb
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:36:42.304Z","text":"* Ron hunt: fell on drill from 6ft; survived\n* \"It was a trip\" - witness\n* Screwed the drill back out\n* Didn't cause any major damage; pushed the brain out of the way \n* Bankrupted by healthcare system","updated":"2024-10-24T19:36:42.304Z","document":{"title":""},"references":["7098leq2xyb"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^os9vfmzqyu|show annotation]]
+>%%COMMENT%%
+>* Ron hunt: fell on drill from 6ft; survived
+>* "It was a trip" - witness
+>* Screwed the drill back out
+>* Didn't cause any major damage; pushed the brain out of the way 
+>* Bankrupted by healthcare system
+>%%TAGS%%
+>
+^os9vfmzqyu
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:39:23.417Z","text":"Much more common than open head, thankfully","updated":"2024-10-24T19:39:23.417Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3243,"end":3252},{"type":"TextQuoteSelector","exact":"contusion","prefix":"than low15Closed-head injuries: ","suffix":"Head injuriesWell, contusion ess"}]}]}
+>```
+>%%
+>*%%PREFIX%%than low15Closed-head injuries:%%HIGHLIGHT%% ==contusion== *
+>%%LINK%%[[#^v0p1show6x|show annotation]]
+>%%COMMENT%%
+>Much more common than open head, thankfully
+>%%TAGS%%
+>
+^v0p1show6x
