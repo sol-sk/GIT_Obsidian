@@ -624,3 +624,45 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^u3bbtbeudm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:00:33.550Z","text":"Binds to cytoskeleton, released when cytoskeleton needs to change shape","updated":"2024-10-24T20:00:33.550Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4941,"end":4968},{"type":"TextQuoteSelector","exact":"Tau stabilizes cytoskeleton","prefix":"ofibrillary tanglesHead injuries","suffix":"When tau is hyperphosphorylated,"}]}]}
+>```
+>%%
+>*%%PREFIX%%ofibrillary tanglesHead injuries%%HIGHLIGHT%% ==Tau stabilizes cytoskeleton== *
+>%%LINK%%[[#^qe9eog2vfr|show annotation]]
+>%%COMMENT%%
+>Binds to cytoskeleton, released when cytoskeleton needs to change shape
+>%%TAGS%%
+>
+^qe9eog2vfr
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:01:30.421Z","text":"\"tagged\": binds to other tau molecules","updated":"2024-10-24T20:01:30.421Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4980,"end":4999},{"type":"TextQuoteSelector","exact":"hyperphosphorylated","prefix":"bilizes cytoskeletonWhen tau is ","suffix":", it aggregates andcytoskeleton "}]}]}
+>```
+>%%
+>*%%PREFIX%%bilizes cytoskeletonWhen tau is%%HIGHLIGHT%% ==hyperphosphorylated== *
+>%%LINK%%[[#^bifzselbyzc|show annotation]]
+>%%COMMENT%%
+>"tagged": binds to other tau molecules
+>%%TAGS%%
+>
+^bifzselbyzc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:02:17.425Z","text":"Likely not a cause, but marker of CTE","updated":"2024-10-24T20:02:17.425Z","document":{"title":""},"references":["bifzselbyzc"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^d3ifmjvki|show annotation]]
+>%%COMMENT%%
+>Likely not a cause, but marker of CTE
+>%%TAGS%%
+>
+^d3ifmjvki
