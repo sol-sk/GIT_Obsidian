@@ -461,3 +461,21 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^v0p1show6x
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:39:48.524Z","text":"* Hemorrhage/hematoma (bruising in brain) \n* From impact of brain hitting skull\n* Between meninges and skull = epidural\n* Between layers of meninges = subdural\n* In brain = intracranial","updated":"2024-10-24T19:39:48.524Z","document":{"title":""},"references":["v0p1show6x"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^byydef9adw|show annotation]]
+>%%COMMENT%%
+>* Hemorrhage/hematoma (bruising in brain) 
+>* From impact of brain hitting skull
+>* Between meninges and skull = epidural
+>* Between layers of meninges = subdural
+>* In brain = intracranial
+>%%TAGS%%
+>
+^byydef9adw
