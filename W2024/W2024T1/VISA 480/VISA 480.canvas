@@ -1,0 +1,422 @@
+{
+  "nodes": [
+    {
+      "id": "14f6672224a965f6",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 690,
+      "y": 950,
+      "width": 1180,
+      "height": 1172,
+      "label": "09.11.24 Notes on Materials"
+    },
+    {
+      "id": "4fb46c49457de674",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -389,
+      "y": -70,
+      "width": 829,
+      "height": 1606,
+      "label": "SYLLABUS & SCHEDULE"
+    },
+    {
+      "id": "d48b83d482dd410f",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 690,
+      "y": -70,
+      "width": 1020,
+      "height": 813,
+      "label": "09.04.24"
+    },
+    {
+      "id": "86c3b98d0f9dffa9",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/Rhetoric and cognitive bias.md",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 5040,
+      "width": 1020,
+      "height": 625
+    },
+    {
+      "id": "1bf0cf8e9e0bb9c4",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Simpson Notes.md",
+      "styleAttributes": {},
+      "x": 1960,
+      "y": 3340,
+      "width": 401,
+      "height": 1450
+    },
+    {
+      "id": "911e099f7a9833d4",
+      "type": "text",
+      "text": "### 10.23.24",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": 5040,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b3f0b7c51ecc5686",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Le Guin Notes.md",
+      "styleAttributes": {},
+      "x": 1494,
+      "y": 3340,
+      "width": 400,
+      "height": 1014
+    },
+    {
+      "id": "6244138f1d281d55",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Miessen Collaboration and the Conflictual.md",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 3340,
+      "width": 400,
+      "height": 984
+    },
+    {
+      "id": "2380520a3689a17d",
+      "type": "text",
+      "text": "Stories, centered around a hero, are violence, epics, but not core to human experience, rather extravagance. A novel is instead a bag, a carrier of humanity, a container for people and ideas. Containers create a relationship between the things held within, rather than defining a triumph and a tragedy. ",
+      "styleAttributes": {},
+      "x": 1060,
+      "y": 3568,
+      "width": 340,
+      "height": 208
+    },
+    {
+      "id": "491b4d56a4d4bfc2",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/The Carrier Bag Theory of Fiction - Le Guin.pdf",
+      "styleAttributes": {},
+      "x": 1494,
+      "y": 2900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d645b06b1889ad49",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/Miessen-Nightmare-of-Participation Collaboration and the Conflictual.pdf",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 2900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "69ba0683f0bf4f45",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/SIMPSON-EMBODIEDRESURGENTPRACTICE-2017.pdf",
+      "styleAttributes": {},
+      "x": 1961,
+      "y": 2900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2f76eb8a9cce71ce",
+      "type": "text",
+      "text": "### 10.16.24",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": 2900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6fd71e00796ca451",
+      "type": "text",
+      "text": "Strangely, it is also this relative autonomy that has supplied the cultural field with its potential for political critique and discussion - that it has been removed from direct political representation and control, allowing for a different production of knowledge and reflexive processes. Unfortunately, it is also this relative autonomy that has led to a de-politicization of cultural production and the configuration of the art world as an elitist, exclusive club",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 2500,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "187dbc8d1bdc3fee",
+      "type": "text",
+      "text": "> However, the affect of this phenomenon has been variable; in ethnographic societies, narrative is never assumed by a person but by a mediator, shaman, or reciter, whose \"performance\" (i.e., his mastery of the narrative code) can be admired, but never his \"genius.\" The author is a modern character, no doubt produced by our society as it emerged from the Middle Ages, inflected by English empiricism, French rationalism, and the personal faith of the Reformation, thereby discovering the prestige of the individual, or, as we say more nobly, of the \"human person.\"\n> \n>explanation of the work is still sought in the person of its producer,\n>\n>The Author, when we believe in him, is always conceived as the past of his own book: book and author are voluntarily placed on one and the same line, distributed as a before and an after: the Author is supposed to feed the book, i.e., he lives before it, thinks, suffers, lives for it; he has the same relation of antecedence with his work that a father sustains with his child. Quite the contrary, the modern scriptor is born at the same time as his text; he is not furnished with a being which precedes or exceeds his writing, he is not the subject of which his book would be the predicate; there is no time other than that of the speech-act, and every text is written eternally here and now.\n>\n>We know now that a text consists not of a line of words, releasing a single \"theological\" meaning (the \"message\" of the Author-God,) but of a multi-dimensional space in which are married and contested several writings, none of which is original: the text is a fabric of quotations, resulting from a thousand sources of culture.\n",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 1740,
+      "width": 400,
+      "height": 940
+    },
+    {
+      "id": "7d0e977dc2089ccd",
+      "type": "text",
+      "text": "According to Gramsci all men were intellectuals, although not everyone had that role (the potential of mass intellectuality), a role that had to do with involvement, organizing and movements. ",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 2380,
+      "width": 400,
+      "height": 102
+    },
+    {
+      "id": "3f2ac82e70a2cba5",
+      "type": "text",
+      "text": "We must therefore begin to think of artists and intellectuals as not only engaged in the public, but as producing a public through the mode of address and the establishment of platforms or counter publics, something that has already existed in both the east and west, clandestinely and underground respectively, but in opposition to the reigning cultural and political hegemony of the specific society.",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 2160,
+      "width": 400,
+      "height": 207
+    },
+    {
+      "id": "c5861c47c2ad398f",
+      "type": "text",
+      "text": "For the cultural industry, the notion of \"the public\", with its contingent modes of access and articulation, is replaced by the notion of \"the market\", implying commodity-exchange and consumption as modes of access and interaction. This also means that the idea of the Enlightenment, rational-critical subjects and a disciplinary social order, is replaced by the notion of entertainment as communication, as the mechanism of social control and producer of subjectivity.",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1912,
+      "width": 400,
+      "height": 234
+    },
+    {
+      "id": "51a15d10aa2a7b78",
+      "type": "text",
+      "text": "![[cradle-to-cradle_waste-equals-food_McDonough.pdf]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1630,
+      "width": 585,
+      "height": 452
+    },
+    {
+      "id": "fc6b99d03f3d8ae2",
+      "type": "text",
+      "text": "### Materials presentation\n10 min max\nGeneral structure (at least from sugar presentation example)\n- Chemical structure\n- Origin\n- Development: how it became important\n- Processing\n- Culture\n- Industry/economy\n- Artworks\n** visuals important",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": 1801,
+      "width": 534,
+      "height": 281
+    },
+    {
+      "id": "575932d03ee520a7",
+      "type": "text",
+      "text": "> So it says jsut as much about the relationship thats been going on in the circumstances as it does about that action? | Yes. It does need an audience. It does need players. (Marilyn and Murdena)\n> \n> We have to have to sit down and tru t come up with ways and means as to how we can connect or use the healing tense to ... reconnect people, how we are intimiately connected, interconnected with our natural world. So That reconnection has to be somehow brought back into the educational system\n",
+      "styleAttributes": {},
+      "x": 2820,
+      "y": 1741,
+      "width": 400,
+      "height": 320
+    },
+    {
+      "id": "ff955983b3f159e8",
+      "type": "text",
+      "text": " Barthes' post-industrial call to arms, where the death of the author should lead to the birth of the reader, which is a radically different notion of activating the public and presumably deepening democracy, are, in effect, attempts at reconfiguring the function of the author",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1740,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "914f759e59c2b699",
+      "type": "text",
+      "text": "![[VISA 480 Notes on approaches to materials]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1070,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "id": "9e08e31fae651905",
+      "type": "text",
+      "text": "### Material culture, Tilley et al.\n\nMaterial cataloguing vs material study/investigation\n\n",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": 1630,
+      "width": 360,
+      "height": 150
+    },
+    {
+      "id": "23c0a44b5fe606d1",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/public intellectual sheikh.pdf",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "de41849e16d9a3d6",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/barthes_death_transHoward.pdf",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 1320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "435f041498640912",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research[1] 1.pdf",
+      "styleAttributes": {},
+      "x": 2820,
+      "y": 1320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "81dda819f8480e45",
+      "type": "text",
+      "text": "a. Roland Barthes, \"Death of the Author\"  \nb. Iwana, Marshall, Marshall and Bartlett. \"Two-Eyed Seeing and the Language of Healing in Community-Based Research\"  \nc. Simon Sheikh, \"Representation, Contestation and Power: The Artist as Public Intellectual\"",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": 1140,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "e0549b5d1e9f3be8",
+      "type": "text",
+      "text": "## 09.11.24",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 970,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "ef16926a90d9cef9",
+      "type": "text",
+      "text": "#### Wilbert Gore\n- Wanted to insulate cables with PTFE: came to be used widely esp with NASA\n\n#### Bob Gore\n- Heating up teflon to stretch it (can only be done 10% at a time)\n- Expanded PTFE = GoreTex: made from pulling hard on Teflon\n- Waterproofs because pores are smaller than raindrops\n\nGoreTex layered between protective layers both from skin and from exterior\n\n*All patents expired before 2000* .... But is there a difference between PTFE & ePTFE? (potentially predatory patent)\n\nPTFEs cause environmental damage from chemical runoff \nGoreTex plans to phase out GoreTex for polyethylene membranes by **2025**\n- This is what everyone else uses, due to GoreTex's patents\n- Ironic!\n\nePTFE used in cardiovascular grafts: GoreTex sued medical company for using their patented material\n\nNot much art!\n\nArc'Teryx signed on a graffiti artist for their materials, but debatably \"goretex art\"\n\nLots of potential for this material\n\n**Before GoreTex...**\nIndigenous waterproofing material: Intestinal lining used for jackets\n\n\n\n",
+      "styleAttributes": {},
+      "x": 2195,
+      "y": -35,
+      "width": 605,
+      "height": 843
+    },
+    {
+      "id": "370566aedcc012b2",
+      "type": "text",
+      "text": "### Material: Leather",
+      "styleAttributes": {},
+      "x": 730,
+      "y": 620,
+      "width": 540,
+      "height": 60
+    },
+    {
+      "id": "a3cd598d50d3a201",
+      "type": "text",
+      "text": "| VISA_V 401-D_001 - Advanced Open Studio (D) | Studio | Wed <br>9:00 a.m. - 12:00 p.m. <br>PCE-Room 3007 | Xiong Gu | 1   |\n| ------------------------------------------- | ------ | ------------------------------------------------ | -------- | --- |\n",
+      "styleAttributes": {},
+      "x": -369,
+      "y": -50,
+      "width": 739,
+      "height": 100
+    },
+    {
+      "id": "972ce7d300aaaf88",
+      "type": "text",
+      "text": "## 09.04.24",
+      "styleAttributes": {},
+      "x": 710,
+      "y": -40,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b3a8347b181f499e",
+      "type": "text",
+      "text": "Sol Skelton is a multimedia artist currently living in Vancouver, BC on the unceded territory of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səl̓ilwətaɁɬ (Tsleil-Waututh). He moved from Brooklyn to Vancouver in 2021 to study Cognitive Systems and Visual Art at the University of British Columbia. He will be graduating May 2025. \n\nSol investigates the systems which surveil and divide populations, particularly those which act directly on the body. These systems are wide ranging, from societal norms, to government and corporate regulation, and the network of technologies which mediate separation and connection. He is interested in the relationship between cognition–both natural and artificial–and body. \n\nSol's work seeks to push against restrictive, oppressive categorization. His study of perception and cognition informs his view of human experience as something which, is inherently communal and interrelated. His artworks aim to evoke a feeling of bidirectional gaze; the viewer sees and is seen. \n\n\n",
+      "styleAttributes": {},
+      "x": 1270,
+      "y": 40,
+      "width": 420,
+      "height": 515
+    },
+    {
+      "id": "723f6831eca8f82a",
+      "type": "text",
+      "text": "Teflon: \n- Non-stick\n- DuPont controversies\n",
+      "styleAttributes": {},
+      "x": 1829,
+      "y": -9,
+      "width": 291,
+      "height": 129
+    },
+    {
+      "id": "8d6108b8b608513c",
+      "type": "text",
+      "text": "#### **COURSE SCHEDULE — OVERVIEW**\n\n| #   | **Date** | **Focus**                                                   | **Due this week, % value**                                                                                  |\n| --- | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |\n| 1   | 09.04.24 | Intros, incoming artist statement,  <br>community agreement | 1. opening artist statement 2%  <br>2. questions for peers 2%  <br>3. community agreement 1%                |\n| 2   | 09.11.24 | Modes of considering materials                              | 4. reading notes 3%                                                                                         |\n| 3   | 09.18.24 | Materials presentations                                     | **5. materials presentations 15%**  <br>6. presentation notes 2%                                            |\n| 4   | 09.25.24 | Materials presentations                                     | **5. materials presentations 15%**  <br>7. presentation notes 2%                                            |\n| 5   | 10.02.24 | Materials presentations                                     | **5. materials presentations 15%**  <br>8. presentation notes 2%                                            |\n| 6   | 10.09.24 | Positions discussions: roles and relations 1                | 9. reading notes 2%                                                                                         |\n| 7   | 10.16.24 | Positions discussions: roles and relations 2                | 10. reading notes 2%                                                                                        |\n| 8   | 10.23.24 | Discuss readings: rhetoric, cognitive biases                | 11. reading notes 2%                                                                                        |\n| 9   | 10.30.24 | Manifestos discussions                                      | **12. manifesto presentation 6%**  <br>13. reading notes 2%                                                 |\n| 10  | 11.06.24 | Peer studio visits                                          | **14. class lexicon entries 5%**  <br>15. studio visit questions 2%  <br>**16. research response text 14%** |\n|     | 11.13.24 | No class: fall break                                        |                                                                                                             |\n| 11  | 11.20.24 | Field trip or work class, T.B.C.                            | 17. submit selected opportunity 3%  <br>18. critical response 2%                                            |\n| 12  | 11.27.24 | Peer feedback for applications in process                   | **19. application draft 5%**  <br>20. peer feedback 3%                                                      |\n| 13  | 12.04.24 | Presentation & peer assessment for completed applications   | **21. completed application 20%**  <br>22. peer feedback 3%                                                 |\n",
+      "styleAttributes": {},
+      "x": -1320,
+      "y": -50,
+      "width": 890,
+      "height": 714
+    },
+    {
+      "id": "01c68b8a177aeceb",
+      "type": "text",
+      "text": "\n### **COURSE SCHEDULE — DETAILED**\n##### 1. **Sep 4: Course intro** \n- Review syllabus\n- **_Assignment 1 — Artist statement exercise — 2%  \n    _**Write, read aloud, and post on Canvas a 200-word artist statement. Specific instructions in Canvas. Due in class today.\n- **_Assignment 2 — Questions for peers exercise — 2%  \n    _**Write a question for four of your peers that arises from their artist statements. Due at end of the weekend. These questions will serve as prompts for a research response later in the semester.\n- Class activity and **_Assignment 3 — Community agreement exercise — 1%  \n    _**Begin to establish a community agreement or code of conduct to guide how we engage with each other. Following discussion, post one item you would like to see as part of the community agreement. Due on Canvas by end of weekend.\n- Select materials/objects you'll present in the materials presentations of classes 3-5. See proposed list in the Discussion board.\n- Introduction to the six larger assignments: class lexicon, materials presentation, manifesto analysis, research response document, draft of selected application, final application.\n\n##### 2. **Sep 11: Modes of considering materials**\n\n- Introduction to modes for analyzing materials: material flows, materials science, life cycle assessment, material culture/ artifacts.\n- **_Assignment 4 — Reading notes exercise — 3%  \n    _**Read each of the intro readings for different approaches to materials, and make notes (a couple paragraphs) about _one_ of them. Due before class. You will be asked to contribute your comments about this approach in class.\n- Readings:  \n    (materials science) \"Gold, sand, and string,\" chapter 1 in Hall, _Materials: A Very Short Introduction_.  \n    b. (material culture) \"Introduction\" to Tilley et al., _Handbook of Material Culture._  \n    c. (material flows) \"Waste Equals Food,\" chapter 4 in McDonough & Braungart, _Cradle to Cradle_.\n\n##### 3. **Sep 18: Materials presentations & discussion, part 1**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 6 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend.\n\n##### 4. **Sep 25: Materials presentations & discussion, part 2**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 7 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend. \n\n##### 5. **Oct 2: Materials presentations & discussion, part 3**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 8 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend. \n\n##### 6. **Oct 9: Positions readings**\n\n- **_Assignment 9 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Roland Barthes, \"Death of the Author\"  \n    b. Iwana, Marshall, Marshall and Bartlett. \"Two-Eyed Seeing and the Language of Healing in Community-Based Research\"  \n    c. Simon Sheikh, \"Representation, Contestation and Power: The Artist as Public Intellectual\"\n\n##### 7. **Oct 16: Positions readings**\n\n- **_Assignment 10 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Leanne Betasamosake Simpson, \"Embodied Resurgent Practice and Coded Disruption\" in _As We Have Always Done_  \n    b. Markus Miessen, \"Collaboration and the Conflictual\" in _The Nightmare of Participation  \n    _c. Ursula K. le Guin, \"The Carrier Bag Theory of Fiction\"\n\n##### 8. **Oct 23: Positions readings — rhetoric, polemics, cognitive bias**\n\n- \"We die. That may be the meaning of life. But we do language. That may be the measure of our lives,\" - Toni Morrison.  \n    These readings address \"How to Do Things With Words,\" the title of J.L. Austen's key text about the performative and persuasive function of language.\n- **_Assignment 11 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Richard Toye, \"The Scaffolding of Rhetoric\" in _Rhetoric: A Very Short Introduction  \n    _b. Adrian Piper. \"Ideology, Confrontation and Political Self-Awareness\"  \n    c. John Manoogian III and Buster Benson, \"Cognitive Bias Codex\"\n\n##### 9. **Oct 30: Positions readings — manifestos**\n\n- A manifesto is a special form of declaration of intention or position. Let's dig into the various ways they have been used.\n- **_Assignment 12 — Manifesto analysis — 6%_**  \n    Solo or in small groups of up to 4, based on our readings about rhetorical strategies, analyze and make a 5-minute presentation to the class about the methods of persuasion used in an artist manifesto listed in the bibliography, or another manifesto of your choice. Also submit your analysis to Canvas either as notes or written out. Note: 5 minutes spoken = approximately 500 words. Due during class.\n- **_Assignment 13 — Reading notes exercise — 2%  \n    _**Read three of the manifestos in the bibliography, and write a few observations (~300 words) about any patterns you see in the manifestos you read. Due before class.\n- Readings: see bibliography\n\n##### 10. **Nov 6: Peer studio visits**\n\n- In groups of three (assigned) visit each person's studios. In your studio, read your most recent artist statement/description. Ask each other questions that arise about their work process that you think should be addressed in their artist statements or descriptions of their works.\n- **_Assignment 14 due — Contributions to class lexicon — 5%  \n    _**Over the beginning of the term you should have been adding five new terms to the class lexicon document. Collectively, we will be developing a shared vocabulary of unfamiliar terms we encounter through our readings.\n- **_Assignment 15 — Questions for peers — 2%  \n    _**Post to Canvas the questions you posed to your peers during the studio visits. Due at end of class.\n- **_Assignment 16 — Research response assignment — 14%_**  \n    Following the first class your peers and I will have posed some questions to you arising from your artist statement. This assignment is to research and write a 500-word response addressing at least some of those questions, plus a bibliography of the references you consulted. Due at end of weekend.\n\n##### 11. **Nov 20: Field trip (or class work day if needed)**\n\n- Field trip to view exhibition(s) — or a work class if needed.\n- **_Assignment 17 — Identify your selected opportunity — 3%  \n    _**Select a professional opportunity for which you will prepare an application. A list of possible ones will be provided, or find your own. Submit as a PDF the application form or a link, along with a ≤200-word analysis of why this opportunity is appropriate for you and your practice. Due before class.\n- **_Assignment 18 — Critical exercise — 2%  \n    _**_C_ritical response to class field trip or class activity ~300 words. Due at end of weekend.\n\n##### 12. **Nov 27: Feedback on drafts**\n\n- In small groups (assigned), read and give peers feedback about description/proposal section of their selected proposals.\n- **_Assignment 19 — Application draft — 5%  \n    _**Following the guidelines for the professional opportunity you have selected, draft the description or proposal portion of this application, according to its particular instructions. Due at beginning of class.\n- **Assignment 20 _— Peer feedback — 3%_  \n    **Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas.\n\n##### 13. **Dec 4: Feedback on completed applications**\n\n- In small groups (assigned), present all the materials of your completed proposal, including visuals.\n- **_Assignment 21 — Completed application — 20%  \n    _**Present during class your completed art opportunity. Package into a PDF for submission on Canvas as well. Present day of class, submit a couple days later.\n- **Assignment 22 _— Peer feedback — 3%_  \n    **Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas.you read/heard. Due on Canvas after class.\n",
+      "styleAttributes": {},
+      "x": -1320,
+      "y": 680,
+      "width": 890,
+      "height": 746
+    },
+    {
+      "id": "1a6f3a8bcc9f743b",
+      "type": "text",
+      "text": "# VISA 480 Syllabus\n\n##### **COURSE OVERVIEW AND FORMAT**\n\nThis course is designed to have you gain practice in digesting, reflecting upon, and synthesizing issues and discourses in contemporary art—and to hone your own position in relation to these. You will also exercise your capacity for critical viewing and analysis, including self-analysis.\n\nA proposition: _Our choices about how we work and the relations we hold communicate as much about our worldviews and values as any written statements we might make._ That is why this course focuses on methods of working, cultural implications of materials, and modes of communication. \n\nThis offering of the course has an applied professional-practice emphasis. The assignments ask you to read, think and write in different ways, and also consider how your modes of operating also wordlessly communicate your ethics. The assignments represent real-(art)world situations in which you are required to define, refine and communicate your own position in relation to theoretical issues; to critically assess how you and others' work actually operates relative to its intentions; and to speak to your choices of materials and methods.\n\nThe course will unfold through several chapters. In the earlier classes we tour through a variety of materials, methods, positions and terminology, all of which contribute to how a worldview is framed through an art practice and the language we use. We finish with your completing an application to an art-world opportunity, ready to submit should you wish. There will be a combination of in-class exercises and larger assignments. As an overview...\n\n**Materials reading and research.** We begin with a dive into modes and methods of analyzing typical materials used in the world and art world. Through student assignments researching and presenting a selected material, you will become familiar with some techniques for interrogating materials, including based on their social history, material properties, and environmental impact through their life cycles.\n\n**Position reading and research.** Through the middle of the course we will read and discuss a number of texts, mostly by producers, broadly addressing views on what it means to practice. You'll be asked to prepare a few comments about the readings before class and take a lead on introducing some of the texts.\n\n**Artist position refinement.** Based on an artist statement you'll write on the first day, plus questions posed by your peers, you'll research and develop a bibliography specific to your practice and a response to the questions posed by your audience.\n\n**Synthesis into an application.** We finish the semester with your preparing an application to a real professional opportunity of your choice, and submitting this for peer review. Most such opportunities will require you to make decisions about how to distill your theoretical concerns and frame your practice in a relatively succinct way**.**\n\n##### **LEARNING OUTCOMES**\n\nStudents will:\n\n- develop their ability to synthesize theoretical research with their own artistic concerns\n- increase their ability to speak to how their practice is shaped and the decisions they make about how to work\n- hone their ability to speak and present their own and others' work and ideas\n- develop their critical and analytical skills\n- gain practical experience in preparing materials typically needed in a professional art practice.\n\n##### **ASSIGNMENTS AND ASSESSMENT — OVERVIEW**\n\nEach class includes pre- or in-class exercises worth just a couple points each, plus six larger assignments worth more points.\n\nIn general, assignments are to be submitted on Canvas, either as a posting within a discussion or as a Canvas submission, as specified. Consult Canvas for specific details and grading rubric for all the assignments.\n\n**Per-class exercise assignments:** Small writing assignments such as notes on readings are associated with each class, to be completed either before class or by the end of the weekend, depending on the class. These encourage ongoing engaged participation. These are considered critical exercises, and will receive full marks if you reasonably fulfill the requirements, complete them on time, and don't appear to be using AI. This mark will drop to half if submitted up to a week late, and zero beyond that. This reflects the importance of preparing for critical participation in class activity. Each is worth just 2-3 points, but are **_collectively worth a total of_** **_30% of your overall mark_**.\n\n**Larger assignments:** Six larger assignments will be marked more critically. Late submissions will be penalized at a rate of 10% of the assignment value per day, including weekends. Exceptions to this penalty will be granted if you qualify for Academic Concession as outlined below, or if you have spoken with me and we have made alternative arrangements before the deadline.\n\n##### **COURSE SCHEDULE — OVERVIEW**\n\n|     |          |                                                             |                                                                                                             |\n| --- | -------- | ----------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |\n| #   | **Date** | **Focus**                                                   | **Due this week, % value**                                                                                  |\n| 1   | Sep 4    | Intros, incoming artist statement,  <br>community agreement | 1. opening artist statement 2%  <br>2. questions for peers 2%  <br>3. community agreement 1%                |\n| 2   | Sep 11   | Modes of considering materials                              | 4. reading notes 3%                                                                                         |\n| 3   | Sep 18   | Materials presentations                                     | **5. materials presentations 15%**  <br>6. presentation notes 2%                                            |\n| 4   | Sep 25   | Materials presentations                                     | **5. materials presentations 15%**  <br>7. presentation notes 2%                                            |\n| 5   | Oct 2    | Materials presentations                                     | **5. materials presentations 15%**  <br>8. presentation notes 2%                                            |\n| 6   | Oct 9    | Positions discussions: roles and relations 1                | 9. reading notes 2%                                                                                         |\n| 7   | Oct 16   | Positions discussions: roles and relations 2                | 10. reading notes 2%                                                                                        |\n| 8   | Oct 23   | Discuss readings: rhetoric, cognitive biases                | 11. reading notes 2%                                                                                        |\n| 9   | Oct 30   | Manifestos discussions                                      | **12. manifesto presentation 6%**  <br>13. reading notes 2%                                                 |\n| 10  | Nov 6    | Peer studio visits                                          | **14. class lexicon entries 5%**  <br>15. studio visit questions 2%  <br>**16. research response text 14%** |\n|     | Nov 13   | No class: fall break                                        |                                                                                                             |\n| 11  | Nov 20   | Field trip or work class, T.B.C.                            | 17. submit selected opportunity 3%  <br>18. critical response 2%                                            |\n| 12  | Nov 27   | Peer feedback for applications in process                   | **19. application draft 5%**  <br>20. peer feedback 3%                                                      |\n| 13  | Dec 4    | Presentation & peer assessment for completed applications   | **21. completed application 20%**  <br>22. peer feedback 3%                                                 |\n\n##### **COURSE SCHEDULE — DETAILED**\n\n1. **Sep 4: Course intro**\n\n- Review syllabus\n- **_Assignment 1 — Artist statement exercise — 2%  \n    _**Write, read aloud, and post on Canvas a 200-word artist statement. Specific instructions in Canvas. Due in class today.\n- **_Assignment 2 — Questions for peers exercise — 2%  \n    _**Write a question for four of your peers that arises from their artist statements. Due at end of the weekend. These questions will serve as prompts for a research response later in the semester.\n- Class activity and **_Assignment 3 — Community agreement exercise — 1%  \n    _**Begin to establish a community agreement or code of conduct to guide how we engage with each other. Following discussion, post one item you would like to see as part of the community agreement. Due on Canvas by end of weekend.\n- Select materials/objects you'll present in the materials presentations of classes 3-5. See proposed list in the Discussion board.\n- Introduction to the six larger assignments: class lexicon, materials presentation, manifesto analysis, research response document, draft of selected application, final application.\n\n2. **Sep 11: Modes of considering materials**\n\n- Introduction to modes for analyzing materials: material flows, materials science, life cycle assessment, material culture/ artifacts.\n- **_Assignment 4 — Reading notes exercise — 3%  \n    _**Read each of the intro readings for different approaches to materials, and make notes (a couple paragraphs) about _one_ of them. Due before class. You will be asked to contribute your comments about this approach in class.\n- Readings:  \n    (materials science) \"Gold, sand, and string,\" chapter 1 in Hall, _Materials: A Very Short Introduction_.  \n    b. (material culture) \"Introduction\" to Tilley et al., _Handbook of Material Culture._  \n    c. (material flows) \"Waste Equals Food,\" chapter 4 in McDonough & Braungart, _Cradle to Cradle_.\n\n3. **Sep 18: Materials presentations & discussion, part 1**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 6 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend.\n\n4. **Sep 25: Materials presentations & discussion, part 2**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 7 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend. \n\n5. **Oct 2: Materials presentations & discussion, part 3**\n\n- **_Assignment 5 — Materials presentation — 15%, due in class 3, 4 or 5  \n    _**Research and make a 10-minute presentation to the class about one of the materials from the list presented in class 1. Address both its material properties and cultural significance, and try to include documentation of an artwork that uses this material. Due class 3, 4 or 5, depending on the subject**.** Submit a PDF your presentation, including references consulted, to Canvas.\n- **_Assignment 8 — Presentation notes exercise — 2%_**  \n    Post notes (~200 words each) about two of today's presentations. Due at end of weekend. \n\n6. **Oct 9: Positions readings**\n\n- **_Assignment 9 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Roland Barthes, \"Death of the Author\"  \n    b. Iwana, Marshall, Marshall and Bartlett. \"Two-Eyed Seeing and the Language of Healing in Community-Based Research\"  \n    c. Simon Sheikh, \"Representation, Contestation and Power: The Artist as Public Intellectual\"\n\n7. **Oct 16: Positions readings**\n\n- **_Assignment 10 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Leanne Betasamosake Simpson, \"Embodied Resurgent Practice and Coded Disruption\" in _As We Have Always Done_  \n    b. Markus Miessen, \"Collaboration and the Conflictual\" in _The Nightmare of Participation  \n    _c. Ursula K. le Guin, \"The Carrier Bag Theory of Fiction\"\n\n8. **Oct 23: Positions readings — rhetoric, polemics, cognitive bias**\n\n- \"We die. That may be the meaning of life. But we do language. That may be the measure of our lives,\" - Toni Morrison.  \n    These readings address \"How to Do Things With Words,\" the title of J.L. Austen's key text about the performative and persuasive function of language.\n- **_Assignment 11 — Reading notes exercise — 2%  \n    _**Read today's readings in advance, and submit a few notes (~200 words) about the relationship or difference between them. Due before class.\n- Readings:  \n    Richard Toye, \"The Scaffolding of Rhetoric\" in _Rhetoric: A Very Short Introduction  \n    _b. Adrian Piper. \"Ideology, Confrontation and Political Self-Awareness\"  \n    c. John Manoogian III and Buster Benson, \"Cognitive Bias Codex\"\n\n9. **Oct 30: Positions readings — manifestos**\n\n- A manifesto is a special form of declaration of intention or position. Let's dig into the various ways they have been used.\n- **_Assignment 12 — Manifesto analysis — 6%_**  \n    Solo or in small groups of up to 4, based on our readings about rhetorical strategies, analyze and make a 5-minute presentation to the class about the methods of persuasion used in an artist manifesto listed in the bibliography, or another manifesto of your choice. Also submit your analysis to Canvas either as notes or written out. Note: 5 minutes spoken = approximately 500 words. Due during class.\n- **_Assignment 13 — Reading notes exercise — 2%  \n    _**Read three of the manifestos in the bibliography, and write a few observations (~300 words) about any patterns you see in the manifestos you read. Due before class.\n- Readings: see bibliography\n\n10. **Nov 6: Peer studio visits**\n\n- In groups of three (assigned) visit each person's studios. In your studio, read your most recent artist statement/description. Ask each other questions that arise about their work process that you think should be addressed in their artist statements or descriptions of their works.\n- **_Assignment 14 due — Contributions to class lexicon — 5%  \n    _**Over the beginning of the term you should have been adding five new terms to the class lexicon document. Collectively, we will be developing a shared vocabulary of unfamiliar terms we encounter through our readings.\n- **_Assignment 15 — Questions for peers — 2%  \n    _**Post to Canvas the questions you posed to your peers during the studio visits. Due at end of class.\n- **_Assignment 16 — Research response assignment — 14%_**  \n    Following the first class your peers and I will have posed some questions to you arising from your artist statement. This assignment is to research and write a 500-word response addressing at least some of those questions, plus a bibliography of the references you consulted. Due at end of weekend.\n\n11. **Nov 20: Field trip (or class work day if needed)**\n\n- Field trip to view exhibition(s) — or a work class if needed.\n- **_Assignment 17 — Identify your selected opportunity — 3%  \n    _**Select a professional opportunity for which you will prepare an application. A list of possible ones will be provided, or find your own. Submit as a PDF the application form or a link, along with a ≤200-word analysis of why this opportunity is appropriate for you and your practice. Due before class.\n- **_Assignment 18 — Critical exercise — 2%  \n    _**_C_ritical response to class field trip or class activity ~300 words. Due at end of weekend.\n\n12. **Nov 27: Feedback on drafts**\n\n- In small groups (assigned), read and give peers feedback about description/proposal section of their selected proposals.\n- **_Assignment 19 — Application draft — 5%  \n    _**Following the guidelines for the professional opportunity you have selected, draft the description or proposal portion of this application, according to its particular instructions. Due at beginning of class.\n- **Assignment 20 _— Peer feedback — 3%_  \n    **Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas.\n\n13. **Dec 4: Feedback on completed applications**\n\n- In small groups (assigned), present all the materials of your completed proposal, including visuals.\n- **_Assignment 21 — Completed application — 20%  \n    _**Present during class your completed art opportunity. Package into a PDF for submission on Canvas as well. Present day of class, submit a couple days later.\n- **Assignment 22 _— Peer feedback — 3%_  \n    **Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas.you read/heard. Due on Canvas after class.\n\n##### GRADING BREAKDOWN\n\n**UBC grading scale**\n\n90-100%        A+       Distinguished work  \n85-89%          A         Original thinking, superior grasp of subject matter  \n80-84%          A-        Evidence of extensive knowledge base  \n76-79%          B+       Evidence of critical capacity and analytic ability  \n72-75%          B         Reasonable understanding of relevant issues  \n68-71%          B-        Familiarity with subject matter, competent performance  \n64-67%          C+       Understanding of the subject, and solves problems  \n60-63%          C         Not seriously faulty, but lacking style and vigor  \n55-59%          C-        Acceptable but uninspired work  \n50-54%          D         Adequate work  \n 0-49%           F          Inadequate work\n\n##### **ATTENDANCE AND CONDUCT**\n\n**Attendance:** Students are expected to attend all classes in person. Please advise the instructor if you know that you will miss class. Instead of policing attendance, your absence will likely be reflected in your ability to complete the in-class assignments.\n\n**Community Agreement:** As artists, our reputations and identities are staked on our ability to develop articulate opinions and to express these honestly, whether positive or negative. We should also respect people's different modes of engagement. Given these different stakes, on the first day of class we will collectively establish a community agreement or code of conduct to guide how we engage with each other.\n\n##### **BIBLIOGRAPHY**\n\n**Materials: material culture, materials science, material flows**\n\nCallister Jr., William D. and David G. Rethwisch. _Materials Science and Engineering: An Introduction._ 10th edition. Wiley, 2018. PDF available.\n\nConway, Ed. _Material world: the six raw materials that shape modern civilization_. Alfred A. Knopf, 2023. UBC Library reserve: David Lam [HF1051 .C65 2023](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20HF1051%20.C65%202023&searchCode=CALL%2B%252B&searchType=1).\n\nHall, Christopher. _Materials: A Very Short Introduction_. Oxford University Press, 2014. Online: [https://academic.oup.com/book/613](https://academic.oup.com/book/613)\n\n[Links to an external site.](https://academic.oup.com/book/613).\n\nHauschild, Michael Z., Ralph K. Rosenbaum, Stig Irving Olsen, eds. _Life Cycle Assessment: Theory and Practice_. Springer, 2018. PDF available.\n\nHutton, Jane. _Reciprocal Landscapes: Stories of Material Movements_. Routledge, 2020. PDF available.\n\nLubar, Steven and W. David Kingery, eds. _History from things: essays on material culture_. Smithsonian Institution, 1993. UBC library reserve: Koerner [CC77.H5 H59 1993](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20CC77.H5%20H59%201993&searchCode=CALL%2B%252B&searchType=1).\n\nMcDonough, William & Michael Braungart. _Crade to Cradle: Remaking the Way We Make Things_. North Point Press, 2002. UBC Library reserve: IKB TD794.5 .M395 2002.\n\nPrown, Jules David. \"Mind in Matter: An Introduction to Material Culture Theory and Method\" in _Winterthur Portfolio_, 17:1 (Spring, 1982), 1-19. PDF available.\n\nRuby, Ilka and Andreas Ruby. The Materials Book. Ruby Press, 2020. UBC Library reserve: IKB MAA [NA2542.36 .M38 2020](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20NA2542.36%20.M38%202020&searchCode=CALL%2B%252B&searchType=1).\n\nTilley, Christopher, Webb Keane, Susanne Küchler, Michael Rowlands & Patricia Spyer, eds. _Handbook of Material Culture_. SAGE Publications, 2006. Online: [https://sk.sagepub.com/reference/hdbk_matculture?utm_source=ss360&utm_medium=discovery-provider](https://sk.sagepub.com/reference/hdbk_matculture?utm_source=ss360&utm_medium=discovery-provider)\n\n[Links to an external site.](https://sk.sagepub.com/reference/hdbk_matculture?utm_source=ss360&utm_medium=discovery-provider).\n\n**Positions, roles and relations**\n\nBarthes, Roland. \"The Death of the Author\" in _the Rustle of Language_. Farrar, Straus and Giroux, 1986. Original 1967, trans. Richard Howard, 1986. PDF available.\n\nSheikh, Simon. \"Representation, Contestation and Power: The Artist as Public Intellectual.\" _transversal: artists as producers_.  EIPCP webjournal, 12/2004. Online: [https://transversal.at/transversal/1204/sheikh/en#_ftnref4](https://transversal.at/transversal/1204/sheikh/en#_ftnref4)\n\n[Links to an external site.](https://transversal.at/transversal/1204/sheikh/en#_ftnref4).\n\nle Guin, Ursula K. \"The Carrier Bag Theory of Fiction.\" 1986. PDF available.\n\nMiessen, Markus. _The Nightmare of Participation_. Sternberg Press, 2010. PDF available.\n\nSimpson, Leanne Betasamosake. _As We Have Always Done: Indigenous Freedom through Radical Resistance_. University of Minnesota, 2017. Online: [https://www.jstor.org/stable/10.5749/j.ctt1pwt77c](https://www.jstor.org/stable/10.5749/j.ctt1pwt77c)\n\n[Links to an external site.](https://www.jstor.org/stable/10.5749/j.ctt1pwt77c).\n\nWilson, Shawn. _Research Is Ceremony: Indigenous Research Methods_. Fernwood Publishing, 2008. PDF available.\n\n**Ways of seeing, rhetoric, polemic, cognitive bias**\n\nIwana, Marilyn, Murdena Marshall, Albert Marshall and Cheryl Bartlett. \"Two-Eyed Seeing and the Language of Healing in Community-Based Research\" in _Canadian Journal of Native Education_ 32:2 (2009): 3-23. Online: [http://www.integrativescience.ca/uploads/articles/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research[1].pdf](http://www.integrativescience.ca/uploads/articles/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research%5b1%5d.pdf)\n\n[Links to an external site.](http://www.integrativescience.ca/uploads/articles/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research%5b1%5d.pdf).\n\nManoogian III, John, design, and Buster Benson, text. \"Cognitive Bias Codex\" infographic, 2016 Online: [https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf)\n\n[Links to an external site.](https://www.sog.unc.edu/sites/www.sog.unc.edu/files/course_materials/Cognitive%20Biases%20Codex.pdf). Extended by Brian Morrissette at [https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_With_Definitions,_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_With_Definitions,_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg)\n\n[Links to an external site.](https://commons.wikimedia.org/wiki/File:Cognitive_Bias_Codex_With_Definitions,_an_Extension_of_the_work_of_John_Manoogian_by_Brian_Morrissette.jpg).\n\nPiper, Adrian. \"Ideology, Confrontation and Political Self-Awareness,\" originally in _High Performance_, 1981. Reprinted in Linda Frye Burnham and Steven Durland, eds. _The Citizen Artist: 20 Years of Art in the Public Arena, An Anthology from High Performance Magazine 1978-1998._ Critical Press, 1998. PDF available.\n\nRichard Toye. _Rhetoric: A Very Short Introduction._ Oxford, 2013. Online: [https://doi.org/10.1093/actrade/9780199651368.001.0001](https://doi.org/10.1093/actrade/9780199651368.001.0001)\n\n[Links to an external site.](https://doi.org/10.1093/actrade/9780199651368.001.0001).\n\n**Manifestos**\n\nBey, Hakim. \"Pirate Utopias\" and \"Waiting for the Revolution\" in _T.A.Z.:The Temporary Autonomous Zone Ontological Anarchy Poetic Terrorism._ Autonomedia, 1985. Online: [https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism](https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism)\n\n[Links to an external site.](https://archive.org/details/T.A.Z.TheTemporaryAutonomousZoneOntologicalAnarchyPoeticTerrorism).\n\nTania Bruguera, Tania. \"Manifesto on Artists’ Rights\" (2012). Reprinted in Lack, _Why Are We Artists?: 100 world art manifestos_. op. cit.\n\nDebord, Guy. \"Manifesto.\" _Internationale Situationniste_**,** 1960. Online: [http://library.nothingness.org/articles/SI/en/display/9](http://library.nothingness.org/articles/SI/en/display/9)\n\n[Links to an external site.](http://library.nothingness.org/articles/SI/en/display/9).\n\nDenes, Agnes. \"A Manifesto\" (1969). Reprinted in Deepwell, _50 Feminist Art Manifestos_, op. cit.\n\nGuerrilla Girls (collective). \"Guerrilla Girls ManifestA For Art Museums Everywhere.\" 2004. Online: [https://wepresent.wetransfer.com/stories/manifesto-guerrilla-girls](https://wepresent.wetransfer.com/stories/manifesto-guerrilla-girls)\n\n[Links to an external site.](https://wepresent.wetransfer.com/stories/manifesto-guerrilla-girls).\n\nLaderman Ukeles, Mierle. \"Manifesto! Maintenance Art.\" 1969. Online: [https://queensmuseum.org/wp-content/uploads/2016/04/Ukeles-Manifesto-for-Maintenance-Art-1969.pdf](https://queensmuseum.org/wp-content/uploads/2016/04/Ukeles-Manifesto-for-Maintenance-Art-1969.pdf)\n\n[Links to an external site.](https://queensmuseum.org/wp-content/uploads/2016/04/Ukeles-Manifesto-for-Maintenance-Art-1969.pdf).\n\nMaciunas, George. _Fluxus Manifesto_. 1963. Online: [https://socphilqc.ca/pdf/Maciunas%20-%20Manifeste%20-%20Fluxus%201963.pdf](https://socphilqc.ca/pdf/Maciunas%20-%20Manifeste%20-%20Fluxus%201963.pdf)\n\n[Links to an external site.](https://socphilqc.ca/pdf/Maciunas%20-%20Manifeste%20-%20Fluxus%201963.pdf).\n\nManuel, Arthur. \"The Six-Step Program to Decolonization\" in _The Reconciliation Manifesto: Recovering the Land, Rebuilding the Economy_. Lorimer, 2017. UBC Library reserve: Koerner [E92 .M347 2017](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20E92%20.M347%202017&searchCode=CALL%2B%252B&searchType=1).\n\nMurakami, Takashi. \"Superflat Manifesto\" in _Superflat_. Museum of Contemporary Art Los Angeles, 2000. Online: [http://imomus.com/dailyphoto130101.html](http://imomus.com/dailyphoto130101.html)\n\n[Links to an external site.](http://imomus.com/dailyphoto130101.html).\n\nNewman, Barnett. \"The Sublime is Now\" (1948). Reprinted in Danchev, _100 Artists' Manifestos_, op. cit.\n\nOccupy Wall Street (collective). \"Declaration of the Occupation of New York City\" (2011) reprinted in _Lateral_journal, issue 2 (2013). Online: [https://csalateral.org/issue/2/manifestos-occupy-wall-street/](https://csalateral.org/issue/2/manifestos-occupy-wall-street/)\n\n[Links to an external site.](https://csalateral.org/issue/2/manifestos-occupy-wall-street/).\n\n\"Riot Grrrl Manifesto\" (1991). Reprinted in Deepwell, _50 Feminist Art Manifestos_, op. cit.\n\nvon Trier, Lars and Thomas Vinterberg. \"Dogme 95\". 1995. Online: [https://designmanifestos.org/lars-von-trier-and-thomas-vinterberg-dogme-95/](https://designmanifestos.org/lars-von-trier-and-thomas-vinterberg-dogme-95/)\n\n[Links to an external site.](https://designmanifestos.org/lars-von-trier-and-thomas-vinterberg-dogme-95/).\n\nWillard, Tania. \"The BUSH Manifesto\" in _C Magazine_, 1 Dec 2017. Online: [https://cmagazine.com/articles/bush-manifesto](https://cmagazine.com/articles/bush-manifesto)\n\n[Links to an external site.](https://cmagazine.com/articles/bush-manifesto).\n\n**Manifestos — anthologies**\n\nDanchev, Alex, ed. _100 Artists' Manifestos: From the Futurists to the Stuckists_. Penguin, 2011. Online: [https://www.are.na/block/11953526](https://www.are.na/block/11953526)\n\n[Links to an external site.](https://www.are.na/block/11953526).\n\nDeepwell, Katy, ed. _50 Feminist Art_ _Manifestos_. KT Press, 2022. UBC reserve: IKB [N72.F45 A15 2022](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20N72.F45%20A15%202022&searchCode=CALL%2B%252B&searchType=1).\n\nLack, Jennifer, ed. _Why Are We Artists?: 100 world art manifestos_. Penguin, 2017. UBC reserve:: Koerner [N6490 .W449 2017](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20N6490%20.W449%202017&searchCode=CALL%2B%252B&searchType=1)_._\n\nLiese, Jennifer, ed. _Social_ _medium: artists writing_, 2000-2015. Paper Monument, 2016. UBC reserve: IKB MAA[N7452 .S624 2016](https://webcat.library.ubc.ca/vwebv/search?searchArg=%20N7452%20.S624%202016&searchCode=CALL%2B%252B&searchType=1)\n\nNesbett, Peter, Shelly Bancroft and Sarah Andress, eds. _Letters to a Young Artist_. Darte Publishing, n.d. Online: [https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/1/6206/files/2015/09/Letters_to_a_young_artist-sm-20rwgqx.pdf](https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/1/6206/files/2015/09/Letters_to_a_young_artist-sm-20rwgqx.pdf)\n\n[Links to an external site.](https://cpb-us-e1.wpmucdn.com/blogs.cornell.edu/dist/1/6206/files/2015/09/Letters_to_a_young_artist-sm-20rwgqx.pdf).\n\n##### **ACADEMIC CONCESSION, INTEGRITY AND ACCOMMODATION**\n\n**Academic Concession**\n\nIf you miss marked coursework for the first time (assignment, exam, presentation, participation in class) and the course is still in-progress, speak with me immediately to find a solution for your missed coursework.\n\nIf this is not the first time you have requested concession or classes are over, fill out Arts Academic Advising’s online academic concession form (https://students.air.arts.ubc.ca/academic-concession-form/) immediately, so that an advisor can evaluate your concession case. If you are a student in a different Faculty, please consult your faculty's webpage on academic concession, and then contact me if appropriate.\n\n**Academic Integrity**\n\nThe academic enterprise is founded on honesty, civility, and integrity. As members of this enterprise, all students are expected to know, understand, and follow the codes of conduct regarding academic integrity. At the most basic level, this means submitting only original work done by you and acknowledging all sources of information or ideas and attributing them to others as required. This also means you should not cheat, copy, or mislead others about what is your work. Violations of academic integrity (i.e. misconduct) lead to the breakdown of the academic enterprise, and therefore serious consequences arise and harsh sanctions are imposed. For example, incidences of plagiarism or cheating may result in a mark of zero on the assignment or exam and more serious consequences may apply when the matter is referred to the Office of the Dean. Careful records are kept in order to monitor and prevent recurrences. A more detailed description of academic integrity, including the University’s policies and procedures, may be found in the UBC Calendar: Student Conduct and Discipline (http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,0,0).\n\n**Academic Accommodation for Students with Disabilities**\n\nAcademic accommodations help students with a disability or ongoing medical condition overcome challenges that may affect their academic success. Students requiring academic accommodations must register with Access & Diversity (https://students.ubc.ca/about-student-services/centre-for-accessibility). A&D will determine that student's eligibility for accommodations in accordance with Policy 73: Academic Accommodation for Students with Disabilities (https://universitycounsel-2015.sites.olt.ubc.ca/files/2019/08/Disability-Accommodation-Policy_LR7.pdf?file=2010/08/policy73.pdf). Academic accommodations are not determined by your instructors, and instructors should not ask you about the nature of your disability or ongoing medical condition, or request copies of your disability documentation. However, your instructor may consult with Access and Diversity should the accommodations affect the essential learning outcomes of a course.\n\n**Acknowledgment:** UBC’s Point Grey Campus is located on the traditional, ancestral, and unceded territory of the xʷməθkʷəy̓əm (Musqueam). The land it is situated on has always been a place of learning for the Musqueam, who for millennia have passed on their culture, history, and traditions from one generation to the next on this site.",
+      "styleAttributes": {},
+      "x": -380,
+      "y": 100,
+      "width": 739,
+      "height": 1456
+    },
+    {
+      "id": "fad5380bc104fc93",
+      "type": "text",
+      "text": "### Artist statement\nWrite, read aloud in class, and post in the Canvas discussion thread a 200-word artist statement.\n\nThis artist statement should address your general approach, and can include items such as your choice of themes and/or media, the values you embody, your background or self-identification, your influences. What you choose to include or not in this short text also says something about your approach. It should not be an interpretation of a particular work, but could use your works as examples of your general approach. This is the type of statement that is used to introduce an audience to your approach as an artist.   \n\nWithin the main Canvas discussion, start a new response (ie. top layer) for your statement, so that others can post their responses to it. \n\nNote that there are many types of artist statement. Above I have described the particular use requested for this one. Optional resource for artist statements in general: [link to School of the Art Institute of Chicago's PDF guide](https://www.saic.edu/sites/default/files/legacy/Artist_Statement.pdf)\n\n[Links to an external site.](https://www.saic.edu/sites/default/files/legacy/Artist_Statement.pdf).\n",
+      "styleAttributes": {},
+      "x": 690,
+      "y": 40,
+      "width": 540,
+      "height": 515
+    },
+    {
+      "id": "ec66c103415abb87",
+      "type": "text",
+      "text": "### False consensus effect\n- When you assume that people have the same beliefs, habits, and desires as you do \n- Comes from a desire for social cohesion and to fit in; alleviates anxiety to assume that you are successfully conforming \n- Assuming that the way one thinks and behaves is \"correct\" and therefore other people would also be doing the correct thing \n\t- Wanting to act correctly; we have to assume we know what other people's expectations of \"correctness\" are in order to act\n- In the codex, under \"need to act fast\"; \"we must feel confident we can make an impact and feel what we do  is important\" \n- although I feel it's also accurate to categorize it with \"we think we know what other people are thinking\"; complement to \"illusion of transparency\"\n- It can also be a barrier to empathy; assuming someone has had the same experiences as you make it difficult to understand why someone would think or act differently\n\n**Example**\n- you are in VISA 480 class and you raise your hand to discuss a particular reading assuming that lots of other people are also interested in it, and being surprised when you are the only one",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": 5860,
+      "width": 560,
+      "height": 660
+    }
+  ],
+  "edges": [
+    {
+      "id": "ad50fa5d2475cdf5",
+      "styleAttributes": {},
+      "fromNode": "2380520a3689a17d",
+      "fromSide": "right",
+      "toNode": "b3f0b7c51ecc5686",
+      "toSide": "left"
+    },
+    {
+      "id": "2434cd27ee907240",
+      "fromNode": "911e099f7a9833d4",
+      "fromSide": "bottom",
+      "toNode": "86c3b98d0f9dffa9",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
