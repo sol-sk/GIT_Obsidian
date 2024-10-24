@@ -1619,7 +1619,8 @@
 			"width":800,
 			"height":383
 		},
-		{"id":"afc68e318ceb0f33","x":920,"y":7889,"width":440,"height":331,"type":"text","text":"### T'ai Smith meeting"}
+		{"id":"afc68e318ceb0f33","x":920,"y":7889,"width":440,"height":331,"type":"text","text":"### T'ai Smith meeting\nhttps://amberfj.com/texts/la-lucha-sin-fin/\nhttps://www.moma.org/artists/5392\nhttps://en.wikipedia.org/wiki/Sherrie_Levine\nDouglas Crimp, “Pictures\"\nhttps://artistsspace.org/"},
+		{"id":"b18dff2f79d50026","x":1380,"y":7889,"width":400,"height":400,"type":"file","file":"W2024 Files/Crimp_Douglas_1979_Pictures.pdf"}
 	],
 	"edges":[
 		{
