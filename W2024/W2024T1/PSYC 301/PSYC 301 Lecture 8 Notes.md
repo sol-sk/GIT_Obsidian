@@ -581,3 +581,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^kyng9bw2cp
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:57:45.387Z","text":"1/5 high school football players","updated":"2024-10-24T19:57:45.387Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4672,"end":4684},{"type":"TextQuoteSelector","exact":"professional","prefix":"riesNot just concussionNot just ","suffix":" athletesFrom https://www.washin"}]}]}
+>```
+>%%
+>*%%PREFIX%%riesNot just concussionNot just%%HIGHLIGHT%% ==professional== *
+>%%LINK%%[[#^o0hilj4rt1|show annotation]]
+>%%COMMENT%%
+>1/5 high school football players
+>%%TAGS%%
+>
+^o0hilj4rt1
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:58:21.759Z","text":"Repeatedly hit, not just concussion","updated":"2024-10-24T19:58:21.759Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4653,"end":4663},{"type":"TextQuoteSelector","exact":"concussion","prefix":"xGOzsUACTEHead injuriesNot just ","suffix":"Not just professional athletesFr"}]}]}
+>```
+>%%
+>*%%PREFIX%%xGOzsUACTEHead injuriesNot just%%HIGHLIGHT%% ==concussion== *
+>%%LINK%%[[#^9ykefmxqkch|show annotation]]
+>%%COMMENT%%
+>Repeatedly hit, not just concussion
+>%%TAGS%%
+>
+^9ykefmxqkch
