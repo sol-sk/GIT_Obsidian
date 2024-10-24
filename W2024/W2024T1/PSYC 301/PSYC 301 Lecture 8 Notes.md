@@ -509,3 +509,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^ttydduwqp1
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:44:03.453Z","updated":"2024-10-24T19:44:03.453Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3811,"end":3868},{"type":"TextQuoteSelector","exact":"Typically synonymous with concussion, which is a syndrome","prefix":"usion or other structural damage","suffix":", but you can injure your brain "}]}]}
+>```
+>%%
+>*%%PREFIX%%usion or other structural damage%%HIGHLIGHT%% ==Typically synonymous with concussion, which is a syndrome== *
+>%%LINK%%[[#^gwtvcsnx6wc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gwtvcsnx6wc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:44:26.025Z","text":"Having some but not enough concussive symptoms","updated":"2024-10-24T19:44:26.025Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3930,"end":3949},{"type":"TextQuoteSelector","exact":"subconcussive mTBIs","prefix":"n without getting a concussion (","suffix":")18Chronic traumatic encephalopa"}]}]}
+>```
+>%%
+>*%%PREFIX%%n without getting a concussion (%%HIGHLIGHT%% ==subconcussive mTBIs== *
+>%%LINK%%[[#^fd89jkzw2bv|show annotation]]
+>%%COMMENT%%
+>Having some but not enough concussive symptoms
+>%%TAGS%%
+>
+^fd89jkzw2bv
