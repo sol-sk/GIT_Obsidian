@@ -892,3 +892,45 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^xq17s2fyj
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:29:47.891Z","text":"100% fatal","updated":"2024-10-24T20:29:47.891Z","document":{"title":""},"references":["xq17s2fyj"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^rambrm7vne|show annotation]]
+>%%COMMENT%%
+>100% fatal
+>%%TAGS%%
+>
+^rambrm7vne
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:30:32.363Z","text":"Extreme hydrophobia","updated":"2024-10-24T20:30:32.363Z","document":{"title":""},"references":["xq17s2fyj","rambrm7vne"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^oxrt52m1r6d|show annotation]]
+>%%COMMENT%%
+>Extreme hydrophobia
+>%%TAGS%%
+>
+^oxrt52m1r6d
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:30:40.527Z","text":"Aggression likely due to HTh & limbic regions","updated":"2024-10-24T20:30:40.527Z","document":{"title":""},"references":["xq17s2fyj","rambrm7vne","oxrt52m1r6d"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^kxg137i0ffn|show annotation]]
+>%%COMMENT%%
+>Aggression likely due to HTh & limbic regions
+>%%TAGS%%
+>
+^kxg137i0ffn
