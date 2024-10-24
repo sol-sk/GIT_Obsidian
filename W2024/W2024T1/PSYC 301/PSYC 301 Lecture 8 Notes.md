@@ -722,3 +722,45 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^6sdugoty96
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:08:44.311Z","text":"even though most were non-professional","updated":"2024-10-24T20:08:44.311Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":6078,"end":6117},{"type":"TextQuoteSelector","exact":"54% of their brains showed signs of CTE","prefix":"or or college, 19 professional)•","suffix":"•“We found each year of ice hock"}]}]}
+>```
+>%%
+>*%%PREFIX%%or or college, 19 professional)•%%HIGHLIGHT%% ==54% of their brains showed signs of CTE== *
+>%%LINK%%[[#^5fwewqja4zv|show annotation]]
+>%%COMMENT%%
+>even though most were non-professional
+>%%TAGS%%
+>
+^5fwewqja4zv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:09:44.727Z","text":"Bitch ass liar","updated":"2024-10-24T20:09:44.727Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5631,"end":5706},{"type":"TextQuoteSelector","exact":"any documented study that suggests that elements of our game result in CTE.","prefix":" I don't believe there has been ","suffix":"” - Gary Bettman, National Hocke"}]}]}
+>```
+>%%
+>*%%PREFIX%%I don't believe there has been%%HIGHLIGHT%% ==any documented study that suggests that elements of our game result in CTE.== *
+>%%LINK%%[[#^b5jfm3xeb3|show annotation]]
+>%%COMMENT%%
+>Bitch ass liar
+>%%TAGS%%
+>
+^b5jfm3xeb3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:09:51.951Z","text":"kys","updated":"2024-10-24T20:09:51.951Z","document":{"title":""},"references":["b5jfm3xeb3"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^n6xamy0yt7i|show annotation]]
+>%%COMMENT%%
+>kys
+>%%TAGS%%
+>
+^n6xamy0yt7i
