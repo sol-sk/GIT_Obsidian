@@ -976,3 +976,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^p7j5p152el
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:38:01.610Z","text":"Cognitive decline","updated":"2024-10-24T20:38:01.610Z","document":{"title":""},"references":["ffp94d9jyni","wj59jp7kde"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^4qy9wcbjkwa|show annotation]]
+>%%COMMENT%%
+>Cognitive decline
+>%%TAGS%%
+>
+^4qy9wcbjkwa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:38:06.551Z","text":"Effects are most pronounced in >70y/o","updated":"2024-10-24T20:38:06.551Z","document":{"title":""},"references":["ffp94d9jyni","wj59jp7kde","4qy9wcbjkwa"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^c1348suh0qt|show annotation]]
+>%%COMMENT%%
+>Effects are most pronounced in >70y/o
+>%%TAGS%%
+>
+^c1348suh0qt
