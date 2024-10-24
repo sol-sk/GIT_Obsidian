@@ -1004,3 +1004,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^c1348suh0qt
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:39:43.751Z","updated":"2024-10-24T20:39:43.751Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":8684,"end":8720},{"type":"TextQuoteSelector","exact":"ffects largest onoldest participants","prefix":"ognitive decline  vs. controls•E","suffix":"What about COVID-19?Infections 3"}]}]}
+>```
+>%%
+>*%%PREFIX%%ognitive decline  vs. controls•E%%HIGHLIGHT%% ==ffects largest onoldest participants== *
+>%%LINK%%[[#^p9zyr7xhuge|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^p9zyr7xhuge
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:39:48.018Z","text":"Why you're not supposed to be around cats when pregnant","updated":"2024-10-24T20:39:48.018Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":8770,"end":8787},{"type":"TextQuoteSelector","exact":"Toxoplasma gondii","prefix":"9?Infections 35Douaud et al.2022","suffix":": eukaryotic parasitehttps://new"}]}]}
+>```
+>%%
+>*%%PREFIX%%9?Infections 35Douaud et al.2022%%HIGHLIGHT%% ==Toxoplasma gondii== *
+>%%LINK%%[[#^auyhed90f76|show annotation]]
+>%%COMMENT%%
+>Why you're not supposed to be around cats when pregnant
+>%%TAGS%%
+>
+^auyhed90f76
