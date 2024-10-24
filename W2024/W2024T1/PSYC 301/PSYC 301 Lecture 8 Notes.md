@@ -764,3 +764,32 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^n6xamy0yt7i
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:18:08.738Z","text":"* Bacterial meningitis 1/4 fatality rate\n* Difficult to diagnose early; non-specific flu-like symptoms except stiff neck","updated":"2024-10-24T20:18:08.738Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7323,"end":7333},{"type":"TextQuoteSelector","exact":"meningitis","prefix":"ucing an inflammation  known as ","suffix":".Bacterial infectionsInfections "}]}]}
+>```
+>%%
+>*%%PREFIX%%ucing an inflammation  known as%%HIGHLIGHT%% ==meningitis== *
+>%%LINK%%[[#^1zywnx6m4ee|show annotation]]
+>%%COMMENT%%
+>* Bacterial meningitis 1/4 fatality rate
+>* Difficult to diagnose early; non-specific flu-like symptoms except stiff neck
+>%%TAGS%%
+>
+^1zywnx6m4ee
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:19:04.881Z","text":"Antibiotics very effective","updated":"2024-10-24T20:19:04.881Z","document":{"title":""},"references":["1zywnx6m4ee"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^s0xe5n4r5dp|show annotation]]
+>%%COMMENT%%
+>Antibiotics very effective
+>%%TAGS%%
+>
+^s0xe5n4r5dp
