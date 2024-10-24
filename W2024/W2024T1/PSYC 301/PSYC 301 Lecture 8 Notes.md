@@ -1106,3 +1106,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^6gyhjf6edzo
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:49:04.877Z","text":"Became common??? ? 5 cases in one month: contagious","updated":"2024-10-24T20:49:04.877Z","document":{"title":""},"references":["b90g8ijm1et","04u54z4jogk","6gyhjf6edzo"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^l2u4fqty5aa|show annotation]]
+>%%COMMENT%%
+>Became common??? ? 5 cases in one month: contagious
+>%%TAGS%%
+>
+^l2u4fqty5aa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:49:44.156Z","text":"So much better than it being a tumor","updated":"2024-10-24T20:49:44.156Z","document":{"title":""},"references":["b90g8ijm1et","04u54z4jogk","6gyhjf6edzo"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^5ic49p12js9|show annotation]]
+>%%COMMENT%%
+>So much better than it being a tumor
+>%%TAGS%%
+>
+^5ic49p12js9
