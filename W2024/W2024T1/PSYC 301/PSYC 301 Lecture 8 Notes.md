@@ -684,13 +684,27 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 
 >%%
 >```annotation-json
->{"created":"2024-10-24T20:03:38.818Z","text":"Tau aggregation begins in sulcus","updated":"2024-10-24T20:03:38.818Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5179,"end":5190},{"type":"TextQuoteSelector","exact":"Sulci first","prefix":"ng22Tau progressionHead injuries","suffix":" (?): iron deposits from hemorrh"}]}]}
+>{"created":"2024-10-24T20:03:38.818Z","text":"Tau aggregation begins in sulcus in cerebral cortex, spreads","updated":"2024-10-24T20:03:38.818Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5179,"end":5190},{"type":"TextQuoteSelector","exact":"Sulci first","prefix":"ng22Tau progressionHead injuries","suffix":" (?): iron deposits from hemorrh"}]}]}
 >```
 >%%
 >*%%PREFIX%%ng22Tau progressionHead injuries%%HIGHLIGHT%% ==Sulci first== *
 >%%LINK%%[[#^ssn9ddkums|show annotation]]
 >%%COMMENT%%
->Tau aggregation begins in sulcus
+>Tau aggregation begins in sulcus in cerebral cortex, spreads
 >%%TAGS%%
 >
 ^ssn9ddkums
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:05:06.979Z","text":"See diagram; alzheimers, starts in medial areas and then throughout cortex","updated":"2024-10-24T20:05:06.979Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5226,"end":5269},{"type":"TextQuoteSelector","exact":"Tau progression is different for CTE vs. AD","prefix":": iron deposits from hemorrhage?","suffix":"23TaupathiesHead injuriesTrying "}]}]}
+>```
+>%%
+>*%%PREFIX%%: iron deposits from hemorrhage?%%HIGHLIGHT%% ==Tau progression is different for CTE vs. AD== *
+>%%LINK%%[[#^l68u1100afr|show annotation]]
+>%%COMMENT%%
+>See diagram; alzheimers, starts in medial areas and then throughout cortex
+>%%TAGS%%
+>
+^l68u1100afr
