@@ -1076,3 +1076,19 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^b90g8ijm1et
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:45:46.737Z","text":"* CT scan came back normal, but significant and rapid deterioration\n* MRI seemed like a brain tumor\n* ITS ALWAYS INSURANCE","updated":"2024-10-24T20:45:46.737Z","document":{"title":""},"references":["b90g8ijm1et"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^04u54z4jogk|show annotation]]
+>%%COMMENT%%
+>* CT scan came back normal, but significant and rapid deterioration
+>* MRI seemed like a brain tumor
+>* ITS ALWAYS INSURANCE
+>%%TAGS%%
+>
+^04u54z4jogk
