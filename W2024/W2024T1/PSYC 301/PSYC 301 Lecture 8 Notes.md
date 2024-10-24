@@ -537,3 +537,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^fd89jkzw2bv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:48:33.557Z","text":"1/3 amateur athletes :(((","updated":"2024-10-24T19:48:33.557Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":4134,"end":4138},{"type":"TextQuoteSelector","exact":"head","prefix":"Caused by repeated blows to the ","suffix":"Not just professional athletes!J"}]}]}
+>```
+>%%
+>*%%PREFIX%%Caused by repeated blows to the%%HIGHLIGHT%% ==head== *
+>%%LINK%%[[#^43xtte9ttvo|show annotation]]
+>%%COMMENT%%
+>1/3 amateur athletes :(((
+>%%TAGS%%
+>
+^43xtte9ttvo
