@@ -21,107 +21,6 @@
 			"label":"Mind Map"
 		},
 		{
-			"id":"822432290291d2a7",
-			"type":"text",
-			"text":"> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-			"styleAttributes":{},
-			"x":6456,
-			"y":3731,
-			"width":469,
-			"height":155
-		},
-		{
-			"id":"bfcac655d3fa14ac",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
-			"styleAttributes":{},
-			"x":5080,
-			"y":2000,
-			"width":680,
-			"height":1960
-		},
-		{
-			"id":"fbf6ad7ed854772d",
-			"type":"text",
-			"text":"**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-			"styleAttributes":{},
-			"x":5840,
-			"y":2700,
-			"width":320,
-			"height":180
-		},
-		{
-			"id":"c9ef2ac3811d28e0",
-			"type":"text",
-			"text":"**Effect of other-mind on perceiver**",
-			"styleAttributes":{},
-			"x":6673,
-			"y":3040,
-			"width":307,
-			"height":60
-		},
-		{
-			"id":"65421ed7aa074bb4",
-			"type":"text",
-			"text":"**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
-			"styleAttributes":{},
-			"x":5840,
-			"y":2892,
-			"width":320,
-			"height":232
-		},
-		{
-			"id":"87ad87ba863ecc62",
-			"type":"text",
-			"text":"**Morality**",
-			"styleAttributes":{},
-			"x":6640,
-			"y":3253,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"dc87fb4e640fe28c",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
-			"styleAttributes":{},
-			"x":4200,
-			"y":2000,
-			"width":800,
-			"height":1874
-		},
-		{
-			"id":"53fb11076478f995",
-			"type":"text",
-			"text":"Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-			"styleAttributes":{},
-			"x":4120,
-			"y":4080,
-			"width":800,
-			"height":741
-		},
-		{
-			"id":"5fafa1b9d3d61ab1",
-			"type":"text",
-			"text":"##### Moral judgement",
-			"styleAttributes":{},
-			"x":1010,
-			"y":1359,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"01cd3d77641f3c67",
-			"type":"text",
-			"text":"> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-			"styleAttributes":{},
-			"x":350,
-			"y":2016,
-			"width":421,
-			"height":102,
-			"color":"#046214"
-		},
-		{
 			"id":"a491ae7c430f34df",
 			"type":"text",
 			"text":"**The distinction between \"self\" and \"other\" is recognized  early in development; this understanding is the basis for further knowledge acquisition**",
@@ -153,6 +52,275 @@
 			"width":421,
 			"height":244,
 			"color":"#046214"
+		},
+		{
+			"id":"8ce58b7dbc5d7c95",
+			"type":"text",
+			"text":"### Self perception",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1240,
+			"y":1981,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"4098cc6113622111",
+			"type":"text",
+			"text":"### Mimicry/Recursion",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1350,
+			"y":1587,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"8776d2ca18beedee",
+			"type":"text",
+			"text":"##### Mirror stage",
+			"styleAttributes":{},
+			"x":1520,
+			"y":1712,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"32ec167b3c74a534",
+			"type":"text",
+			"text":"**Denial of personhood and mind perception:** \nThe recognition as a person/as a \"mind\" within political context, dehumanization of subjugated groups. Example: Standing Bear, who in 1879 \"sued the U.S. Government to be recognized as a person.\" ",
+			"styleAttributes":{},
+			"x":1140,
+			"y":1202,
+			"width":380,
+			"height":129,
+			"color":"#77be50"
+		},
+		{
+			"id":"4fc81aeec4649ae5",
+			"type":"text",
+			"text":"##### Humanization/dehumanization",
+			"styleAttributes":{"textAlign":"center"},
+			"x":966,
+			"y":1458,
+			"width":349,
+			"height":60
+		},
+		{
+			"id":"4f3b9fb36638737e",
+			"type":"text",
+			"text":"### Recognition of the self in others",
+			"styleAttributes":{"textAlign":"center"},
+			"x":910,
+			"y":1587,
+			"width":340,
+			"height":60
+		},
+		{
+			"id":"0b540a5f996680b1",
+			"type":"text",
+			"text":"**Self/non-self distinction**",
+			"styleAttributes":{},
+			"x":700,
+			"y":1826,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"5fafa1b9d3d61ab1",
+			"type":"text",
+			"text":"##### Moral judgement",
+			"styleAttributes":{},
+			"x":1010,
+			"y":1359,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b02f1d01673ea41a",
+			"type":"text",
+			"text":"- Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents.\n- Harmful agents are seen as lacking civility and warmth and are attributed **animalistic or machine-like traits**; **attribution of less agency correlated with lower scores on other humanness traits** such as rationality, refinement, and self-restraint.",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":560,
+			"y":1208,
+			"width":400,
+			"height":239,
+			"color":"#24995a"
+		},
+		{
+			"id":"c5f5bed58f11ce3f",
+			"type":"text",
+			"text":"###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+			"styleAttributes":{},
+			"x":1140,
+			"y":1124,
+			"width":380,
+			"height":60,
+			"color":"#77be50"
+		},
+		{
+			"id":"e0648d4278a27ead",
+			"type":"text",
+			"text":"### Other perception",
+			"styleAttributes":{"textAlign":"center"},
+			"x":1220,
+			"y":1894,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"847af53085f5d502",
+			"type":"text",
+			"text":"Study of mind perception: self- and other- oriented",
+			"styleAttributes":{},
+			"x":160,
+			"y":1080,
+			"width":320,
+			"height":80
+		},
+		{
+			"id":"b87c3ddef3c60865",
+			"type":"text",
+			"text":"Research in the fields of psychology, philosophy, and art history, in particular cybernetics and media art. ",
+			"styleAttributes":{},
+			"x":160,
+			"y":1278,
+			"width":320,
+			"height":227
+		},
+		{
+			"id":"499372fb915c8f17",
+			"type":"text",
+			"text":"#### Research Question",
+			"styleAttributes":{},
+			"x":160,
+			"y":1000,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"481daf757cac2ab3",
+			"type":"text",
+			"text":"#### Methodology",
+			"styleAttributes":{},
+			"x":160,
+			"y":1198,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0cd352e830a091f7",
+			"type":"text",
+			"text":"###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+			"styleAttributes":{"textAlign":"center"},
+			"x":560,
+			"y":1100,
+			"width":400,
+			"height":98,
+			"color":"#24995a"
+		},
+		{
+			"id":"e47b61a8c04e2ade",
+			"type":"text",
+			"text":"> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+			"styleAttributes":{},
+			"x":1580,
+			"y":1258,
+			"width":380,
+			"height":84,
+			"color":"#1e2180"
+		},
+		{
+			"id":"5ebbc387260a03c2",
+			"type":"text",
+			"text":"> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+			"styleAttributes":{},
+			"x":1580,
+			"y":1342,
+			"width":380,
+			"height":77,
+			"color":"#1e2180"
+		},
+		{
+			"id":"33ed48efceb94d30",
+			"type":"text",
+			"text":"> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+			"styleAttributes":{},
+			"x":1580,
+			"y":1184,
+			"width":380,
+			"height":74,
+			"color":"#1e2180"
+		},
+		{
+			"id":"064097533d4484f5",
+			"type":"text",
+			"text":"**Background literature**\n- Background literature organised into clear themes. \n- Connections drawn between different papers and ideas are present, thoughtful, and provide evidence of synthesis across different areas. \n- At least 6 papers are included with 1- 2 sentences describing the paper and a clear indication of its relevance for your project. \n- Relevance of the literature is clear and specific.",
+			"styleAttributes":{},
+			"x":460,
+			"y":-140,
+			"width":260,
+			"height":454
+		},
+		{
+			"id":"e37df8fda7d5bdb0",
+			"type":"text",
+			"text":"**Methodology**\n- A possible methodology is worked out in good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information",
+			"styleAttributes":{},
+			"x":760,
+			"y":-140,
+			"width":260,
+			"height":256
+		},
+		{
+			"id":"64a52676f09b30e7",
+			"type":"text",
+			"text":"**Research question/Hypothesis**\n- Strong and clear research question(s) – connections are apparent. \n- Clear hypothesis (or guiding direction). \n- Defines a clear direction for a project",
+			"styleAttributes":{},
+			"x":140,
+			"y":-140,
+			"width":290,
+			"height":235
+		},
+		{
+			"id":"6a0111e421134e03",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+			"styleAttributes":{},
+			"x":4200,
+			"y":830,
+			"width":800,
+			"height":542
+		},
+		{
+			"id":"1ac4cdafddd22f72",
+			"type":"text",
+			"text":"[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf]]",
+			"styleAttributes":{},
+			"x":2480,
+			"y":1060,
+			"width":500,
+			"height":50
+		},
+		{
+			"id":"f6df020ce3df7de0",
+			"type":"text",
+			"text":"#### Bibliography",
+			"styleAttributes":{},
+			"x":2720,
+			"y":980,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"acd4d40a2024e63b",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+			"styleAttributes":{},
+			"x":3400,
+			"y":815,
+			"width":720,
+			"height":580
 		},
 		{
 			"id":"7eebbd559580f201",
@@ -210,246 +378,6 @@
 			"color":"#5c28bd"
 		},
 		{
-			"id":"8ce58b7dbc5d7c95",
-			"type":"text",
-			"text":"### Self perception",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1240,
-			"y":1981,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"4098cc6113622111",
-			"type":"text",
-			"text":"### Mimicry/Recursion",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1350,
-			"y":1587,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"8776d2ca18beedee",
-			"type":"text",
-			"text":"##### Mirror stage",
-			"styleAttributes":{},
-			"x":1520,
-			"y":1712,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"32ec167b3c74a534",
-			"type":"text",
-			"text":"**Denial of personhood and mind perception:** \nThe recognition as a person/as a \"mind\" within political context, dehumanization of subjugated groups. Example: Standing Bear, who in 1879 \"sued the U.S. Government to be recognized as a person.\" ",
-			"styleAttributes":{},
-			"x":1140,
-			"y":1202,
-			"width":380,
-			"height":129,
-			"color":"#77be50"
-		},
-		{
-			"id":"b02f1d01673ea41a",
-			"type":"text",
-			"text":"- Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents.\n- Harmful agents are seen as lacking civility and warmth and are attributed **animalistic or machine-like traits**; **attribution of less agency correlated with lower scores on other humanness traits** such as rationality, refinement, and self-restraint.",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":560,
-			"y":1208,
-			"width":400,
-			"height":239,
-			"color":"#24995a"
-		},
-		{
-			"id":"4fc81aeec4649ae5",
-			"type":"text",
-			"text":"##### Humanization/dehumanization",
-			"styleAttributes":{"textAlign":"center"},
-			"x":966,
-			"y":1458,
-			"width":349,
-			"height":60
-		},
-		{
-			"id":"c5f5bed58f11ce3f",
-			"type":"text",
-			"text":"###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-			"styleAttributes":{},
-			"x":1140,
-			"y":1124,
-			"width":380,
-			"height":60,
-			"color":"#77be50"
-		},
-		{
-			"id":"e47b61a8c04e2ade",
-			"type":"text",
-			"text":"> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-			"styleAttributes":{},
-			"x":1580,
-			"y":1258,
-			"width":380,
-			"height":84,
-			"color":"#1e2180"
-		},
-		{
-			"id":"5ebbc387260a03c2",
-			"type":"text",
-			"text":"> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-			"styleAttributes":{},
-			"x":1580,
-			"y":1342,
-			"width":380,
-			"height":77,
-			"color":"#1e2180"
-		},
-		{
-			"id":"e0648d4278a27ead",
-			"type":"text",
-			"text":"### Other perception",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1220,
-			"y":1894,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"847af53085f5d502",
-			"type":"text",
-			"text":"Study of mind perception: self- and other- oriented",
-			"styleAttributes":{},
-			"x":160,
-			"y":1080,
-			"width":320,
-			"height":80
-		},
-		{
-			"id":"7ab1b6439ef1dfc3",
-			"type":"text",
-			"text":"- **I see in you the ways that I want to be**\n- **You are human**",
-			"styleAttributes":{},
-			"x":2054,
-			"y":1170,
-			"width":360,
-			"height":55
-		},
-		{
-			"id":"b87c3ddef3c60865",
-			"type":"text",
-			"text":"Research in the fields of psychology, philosophy, and art history, in particular cybernetics and media art. ",
-			"styleAttributes":{},
-			"x":160,
-			"y":1278,
-			"width":320,
-			"height":227
-		},
-		{
-			"id":"401b260474ab7b07",
-			"type":"text",
-			"text":"#### Background Literature",
-			"styleAttributes":{},
-			"x":1220,
-			"y":1000,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"499372fb915c8f17",
-			"type":"text",
-			"text":"#### Research Question",
-			"styleAttributes":{},
-			"x":160,
-			"y":1000,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"707c6d7c8fe19400",
-			"type":"text",
-			"text":"###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-			"styleAttributes":{},
-			"x":1580,
-			"y":1057,
-			"width":380,
-			"height":98,
-			"color":"#1e2180"
-		},
-		{
-			"id":"33ed48efceb94d30",
-			"type":"text",
-			"text":"> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-			"styleAttributes":{},
-			"x":1580,
-			"y":1184,
-			"width":380,
-			"height":74,
-			"color":"#1e2180"
-		},
-		{
-			"id":"481daf757cac2ab3",
-			"type":"text",
-			"text":"#### Methodology",
-			"styleAttributes":{},
-			"x":160,
-			"y":1198,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"8d63137e4347e77e",
-			"type":"text",
-			"text":"- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-			"styleAttributes":{},
-			"x":2054,
-			"y":1057,
-			"width":360,
-			"height":84
-		},
-		{
-			"id":"0cd352e830a091f7",
-			"type":"text",
-			"text":"###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-			"styleAttributes":{"textAlign":"center"},
-			"x":560,
-			"y":1100,
-			"width":400,
-			"height":98,
-			"color":"#24995a"
-		},
-		{
-			"id":"064097533d4484f5",
-			"type":"text",
-			"text":"**Background literature**\n- Background literature organised into clear themes. \n- Connections drawn between different papers and ideas are present, thoughtful, and provide evidence of synthesis across different areas. \n- At least 6 papers are included with 1- 2 sentences describing the paper and a clear indication of its relevance for your project. \n- Relevance of the literature is clear and specific.",
-			"styleAttributes":{},
-			"x":460,
-			"y":-140,
-			"width":260,
-			"height":454
-		},
-		{
-			"id":"e37df8fda7d5bdb0",
-			"type":"text",
-			"text":"**Methodology**\n- A possible methodology is worked out in good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information",
-			"styleAttributes":{},
-			"x":760,
-			"y":-140,
-			"width":260,
-			"height":256
-		},
-		{
-			"id":"64a52676f09b30e7",
-			"type":"text",
-			"text":"**Research question/Hypothesis**\n- Strong and clear research question(s) – connections are apparent. \n- Clear hypothesis (or guiding direction). \n- Defines a clear direction for a project",
-			"styleAttributes":{},
-			"x":140,
-			"y":-140,
-			"width":290,
-			"height":235
-		},
-		{
 			"id":"95ab9978e38921d9",
 			"type":"text",
 			"text":"**Bibliography**\n- A complete reference list is given for everything cited in-text (mind map and paragraph). \n- Additional sources for the project are given in a supplementary bibliography with labels identifying which mind map topic or concept they relate to. \n- Sources are good quality and specific.",
@@ -480,82 +408,534 @@
 			"height":653
 		},
 		{
-			"id":"794d53ce188cf230",
+			"id":"8e1880a7ba3b7333",
 			"type":"text",
-			"text":"**Dehumanization**",
+			"text":"**Art is constant iteration on other's & own work**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1668,
+			"y":3581,
+			"width":207,
+			"height":60
+		},
+		{
+			"id":"888b2f9a62db25ce",
+			"type":"text",
+			"text":"##### **Why art?**",
+			"styleAttributes":{"shape":"pill","border":"dashed","textAlign":"center"},
+			"x":1869,
+			"y":3521,
+			"width":179,
+			"height":60
+		},
+		{
+			"id":"401b260474ab7b07",
+			"type":"text",
+			"text":"#### Background Literature",
 			"styleAttributes":{},
-			"x":6387,
-			"y":867,
+			"x":1220,
+			"y":1000,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"4f3b9fb36638737e",
+			"id":"707c6d7c8fe19400",
 			"type":"text",
-			"text":"### Recognition of the self in others",
+			"text":"###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+			"styleAttributes":{},
+			"x":1580,
+			"y":1057,
+			"width":380,
+			"height":98,
+			"color":"#1e2180"
+		},
+		{
+			"id":"d92dc4a56c3df173",
+			"type":"text",
+			"text":"###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":1749,
+			"y":3694,
+			"width":421,
+			"height":98,
+			"color":"#4726c0"
+		},
+		{
+			"id":"09aa9103650c16f5",
+			"type":"text",
+			"text":"**Emergence**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1529,
+			"y":3766,
+			"width":153,
+			"height":60
+		},
+		{
+			"id":"7d5e940d9111cff1",
+			"type":"text",
+			"text":"### Mimicry/Recursion",
+			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
+			"x":1480,
+			"y":3428,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"e710505557172988",
+			"type":"text",
+			"text":"**Generative**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1529,
+			"y":3226,
+			"width":152,
+			"height":52
+		},
+		{
+			"id":"2be4d3d6940dc299",
+			"type":"text",
+			"text":"Using metaphor and imagining **visual representations** of difficult concepts can help (students) understand academic material and reframe their studies in their own terms.",
+			"styleAttributes":{},
+			"x":1781,
+			"y":3355,
+			"width":389,
+			"height":103,
+			"color":"#1035a2"
+		},
+		{
+			"id":"97193fd0907fdb6f",
+			"type":"text",
+			"text":"#### Background Literature",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":1256,
+			"y":2816,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ed0a3955a93dee85",
+			"type":"text",
+			"text":"###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":1749,
+			"y":3279,
+			"width":421,
+			"height":67,
+			"color":"#1035a2"
+		},
+		{
+			"id":"ec475b5660e989f7",
+			"type":"text",
+			"text":"Tracing the overlaps between cybernetics and art, from 40s to present; digital art and third-wave cybernetics both focus on **emergent behavior**, which can emerge from either a collective or from the evolution of a series of recursions. [[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=128,12,128,21|p.7]] Art can, in turn, be a form of emergence from the technological systems which shape our lives. ",
+			"styleAttributes":{},
+			"x":1781,
+			"y":3809,
+			"width":389,
+			"height":181,
+			"color":"#4726c0"
+		},
+		{
+			"id":"7ab1b6439ef1dfc3",
+			"type":"text",
+			"text":"- **I see in you the ways that I want to be**\n- **You are human**",
+			"styleAttributes":{},
+			"x":2054,
+			"y":1170,
+			"width":360,
+			"height":55
+		},
+		{
+			"id":"8d63137e4347e77e",
+			"type":"text",
+			"text":"- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+			"styleAttributes":{},
+			"x":2054,
+			"y":1057,
+			"width":360,
+			"height":84
+		},
+		{
+			"id":"8220363b7c1a174b",
+			"type":"text",
+			"text":"## Understanding Perception of Minds: Contemporary Cybernetics in Psychology and Art",
 			"styleAttributes":{"textAlign":"center"},
-			"x":910,
-			"y":1587,
-			"width":340,
+			"x":1750,
+			"y":2482,
+			"width":421,
+			"height":155
+		},
+		{
+			"id":"ed5ad7ff96b1865d",
+			"type":"text",
+			"text":"### Art Theory",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":1976,
+			"y":2818,
+			"width":195,
+			"height":58
+		},
+		{
+			"id":"c21493ea5de185c8",
+			"type":"text",
+			"text":"##### **Recognition of the self in others**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1322,
+			"y":3848,
+			"width":310,
 			"height":60
 		},
 		{
-			"id":"0b540a5f996680b1",
+			"id":"dd1f27ee5669ee75",
 			"type":"text",
-			"text":"**Self/non-self distinction**",
+			"text":"We are constantly contending with the gap between our self-perception and the way that we are perceived; **the difference between self-concept and the mirror**, the photograph, or others' concept of ourselves. We look to AI to produce an idealized mirror of reality which more closely matches our perception/self-perception than reality does.",
 			"styleAttributes":{},
-			"x":700,
-			"y":1826,
+			"x":1781,
+			"y":2979,
+			"width":389,
+			"height":181,
+			"color":"#0b4755"
+		},
+		{
+			"id":"af71130e1c329003",
+			"type":"text",
+			"text":"AI systems are built on biological structure and metaphorical explanations for cognition",
+			"styleAttributes":{},
+			"x":1782,
+			"y":3194,
+			"width":355,
+			"height":58
+		},
+		{
+			"id":"eea35fedda198923",
+			"type":"text",
+			"text":"- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+			"styleAttributes":{},
+			"x":1248,
+			"y":4129,
+			"width":360,
+			"height":84
+		},
+		{
+			"id":"ece3ed8c1e67c1c8",
+			"type":"text",
+			"text":"Inspired by Chapter 1 of education of vision ",
+			"styleAttributes":{},
+			"x":1451,
+			"y":4370,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"263c158a3f0567f0",
+			"id":"02a600d1922b4eae",
 			"type":"text",
-			"text":"Categories of mind perception",
+			"text":"Why separate perception from cognition?",
 			"styleAttributes":{},
-			"x":6072,
-			"y":2203,
+			"x":1451,
+			"y":4457,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"eedb917b24c7e83f",
+			"id":"1673a9562b654fec",
 			"type":"text",
-			"text":"Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
-			"styleAttributes":{},
-			"x":6120,
-			"y":2315,
-			"width":364,
-			"height":417
+			"text":"##### **Mirror stage**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1151,
+			"y":3088,
+			"width":188,
+			"height":60
 		},
 		{
-			"id":"84638da88a1acff7",
+			"id":"5dbb96a8a52c36b5",
 			"type":"text",
-			"text":"Attributing less agency",
+			"text":"**Visual perception allows infants to understand the distinction between \"self\" and \"other\"; this understanding is the basis for further knowledge acquisition**\n\nInfant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development, far before the mirror stage: 2 month olds can recognize from visual information that something has occured **outside of their own agency**. (135)\n",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":611,
+			"y":2979,
+			"width":389,
+			"height":278,
+			"color":"#046214"
+		},
+		{
+			"id":"942ec0dafd12116a",
+			"type":"text",
+			"text":"### ***Vision***",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":1086,
+			"y":3218,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"d8c98b499d78aa80",
+			"type":"text",
+			"text":"- **I see in you the ways that I want to be**\n- **You are human**",
 			"styleAttributes":{},
-			"x":6300,
-			"y":1060,
+			"x":1623,
+			"y":4129,
+			"width":360,
+			"height":84
+		},
+		{
+			"id":"5ed756aff253ad3d",
+			"type":"text",
+			"text":"###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":611,
+			"y":3661,
+			"width":421,
+			"height":60,
+			"color":"#77be50"
+		},
+		{
+			"id":"dc18b23da8dc610e",
+			"type":"text",
+			"text":"Mind perception can be triggered in the *perceiver* by unpredictable or negative occurances; perceiving a mind leads to an intensified emotional experience, triggers self-consciousness/self-awareness, and moral judgement. \n\nIf the *perceived* entity appears humanlike or similar to the viewer, it will be perceived as having more capacity for cognition; entities perceived as having more agency are attributed moral rights and responsibilities. ",
+			"styleAttributes":{},
+			"x":611,
+			"y":3739,
+			"width":389,
+			"height":278,
+			"color":"#77be50"
+		},
+		{
+			"id":"f6c3de92255a6f8a",
+			"type":"text",
+			"text":"**Moral judgement**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1132,
+			"y":3739,
+			"width":226,
+			"height":53
+		},
+		{
+			"id":"9b8ffe8e4b6dea4d",
+			"type":"text",
+			"text":"**De/humanization**",
+			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
+			"x":1131,
+			"y":3611,
+			"width":227,
+			"height":57
+		},
+		{
+			"id":"e14136e65934e642",
+			"type":"text",
+			"text":"Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents. \n\nHarmful agents are seen as lacking civility and warmth, and are attributed **animalistic or machine-like traits**; attribution of less agency correlated with lower scores on humanness traits such as rationality, refinement, and self-restraint. (34)",
+			"styleAttributes":{
+				"textAlign":null
+			},
+			"x":611,
+			"y":3397,
+			"width":389,
+			"height":239,
+			"color":"#24995a"
+		},
+		{
+			"id":"27c810e816422287",
+			"type":"text",
+			"text":"### Other perception",
+			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
+			"x":1134,
+			"y":3487,
+			"width":221,
+			"height":60
+		},
+		{
+			"id":"01cd3d77641f3c67",
+			"type":"text",
+			"text":"> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+			"styleAttributes":{},
+			"x":350,
+			"y":2016,
+			"width":421,
+			"height":102,
+			"color":"#046214"
+		},
+		{
+			"id":"ec45ee7e40495c02",
+			"type":"text",
+			"text":"###### [Modeling Charisma: AI's Fashion Mirror Stage](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5) (Smith 2024)",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":1749,
+			"y":2894,
+			"width":421,
+			"height":74,
+			"color":"#0b4755"
+		},
+		{
+			"id":"e3e88a7bf327db55",
+			"type":"text",
+			"text":"**Visual information as basis for understanding**",
+			"styleAttributes":{"shape":"pill","border":"dashed"},
+			"x":1100,
+			"y":2975,
+			"width":222,
+			"height":60
+		},
+		{
+			"id":"b5daa2728fa26098",
+			"type":"text",
+			"text":"### Self perception",
+			"styleAttributes":{
+				"textAlign":"center",
+				"shape":"parallelogram",
+				"border":null
+			},
+			"x":1135,
+			"y":3387,
+			"width":220,
+			"height":60
+		},
+		{
+			"id":"a98ae86084754b3c",
+			"type":"text",
+			"text":"###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":611,
+			"y":3289,
+			"width":421,
+			"height":98,
+			"color":"#24995a"
+		},
+		{
+			"id":"fbfb2aed8108f670",
+			"type":"text",
+			"text":"###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]] (Butterworth 1992)",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":611,
+			"y":2894,
+			"width":421,
+			"height":74,
+			"color":"#046214"
+		},
+		{
+			"id":"02f70e9dd267837c",
+			"type":"text",
+			"text":"My research can be generally divided into two overlapping categories: psychology of mind perception and cybernetic artwork. Within psychology, I am going to research the relationship between visual information, perception of mind, and understanding of mind in an experimental context. Using theories in cybernetics (across disciplines) and art made within the cybernetics movement, I am going to bring in metaphorical and artificial representations of the mind. Integrating these methodologies can give a richer and more dynamic understanding of how we perceive ourselves and others",
+			"styleAttributes":{},
+			"x":1070,
+			"y":2590,
+			"width":660,
+			"height":170
+		},
+		{
+			"id":"4ea269daafeb983e",
+			"type":"text",
+			"text":"How does visual perception relate to our understanding of our minds and of other (human and artificial) minds? I am going to explore this question through both psychology research and artworks, particularly those influenced by cybernetics.",
+			"styleAttributes":{},
+			"x":611,
+			"y":2590,
+			"width":421,
+			"height":129
+		},
+		{
+			"id":"788ca9810720d69f",
+			"type":"text",
+			"text":"#### Research Question",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":611,
+			"y":2510,
 			"width":260,
 			"height":60
 		},
 		{
-			"id":"4d2aedff91e8ab29",
+			"id":"822432290291d2a7",
 			"type":"text",
-			"text":"Less deserving of rights and protections (less moral standing)",
+			"text":"> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
 			"styleAttributes":{},
-			"x":6500,
-			"y":1148,
+			"x":6456,
+			"y":3731,
+			"width":469,
+			"height":155
+		},
+		{
+			"id":"c9ef2ac3811d28e0",
+			"type":"text",
+			"text":"**Effect of other-mind on perceiver**",
+			"styleAttributes":{},
+			"x":6673,
+			"y":3040,
+			"width":307,
+			"height":60
+		},
+		{
+			"id":"87ad87ba863ecc62",
+			"type":"text",
+			"text":"**Morality**",
+			"styleAttributes":{},
+			"x":6640,
+			"y":3253,
 			"width":260,
+			"height":60
+		},
+		{
+			"id":"83143ceec0d42458",
+			"type":"text",
+			"text":"#### Methodology",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":1070,
+			"y":2510,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"b5a1a0851614f4f0",
+			"type":"text",
+			"text":"### Psychology",
+			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
+			"x":611,
+			"y":2818,
+			"width":185,
+			"height":58
+		},
+		{
+			"id":"db5b8e6eadd5bb01",
+			"type":"text",
+			"text":"> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+			"styleAttributes":{},
+			"x":6455,
+			"y":4112,
+			"width":454,
+			"height":129
+		},
+		{
+			"id":"7a762afbb68426ca",
+			"type":"text",
+			"text":"> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+			"styleAttributes":{},
+			"x":6456,
+			"y":4013,
+			"width":454,
 			"height":76
 		},
 		{
-			"id":"a3e04c19472badc3",
+			"id":"8d071a44c8304a51",
 			"type":"text",
-			"text":"Seen as cold, uncivil, animalistic, machine-like",
+			"text":"**Emergence**",
 			"styleAttributes":{},
-			"x":6580,
-			"y":967,
+			"x":6880,
+			"y":4580,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e9b041fb09c7d7fa",
+			"type":"text",
+			"text":"**Recursion**",
+			"styleAttributes":{},
+			"x":7248,
+			"y":4520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"916bf02255ef6bc2",
+			"type":"text",
+			"text":"#### Self and other perception",
+			"styleAttributes":{},
+			"x":7170,
+			"y":3640,
 			"width":260,
 			"height":60
 		},
@@ -570,14 +950,124 @@
 			"height":860
 		},
 		{
-			"id":"4819fc4e0fa822c0",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+			"id":"e94f4d6999eba9ec",
+			"type":"text",
+			"text":"Generative model",
 			"styleAttributes":{},
-			"x":5080,
-			"y":830,
-			"width":680,
-			"height":1055
+			"x":7468,
+			"y":3900,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1dcf371763f08e1c",
+			"type":"text",
+			"text":"> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+			"styleAttributes":{},
+			"x":6456,
+			"y":3917,
+			"width":454,
+			"height":76
+		},
+		{
+			"id":"d157fe110a00c9ea",
+			"type":"text",
+			"text":"**Mimicry**",
+			"styleAttributes":{},
+			"x":7100,
+			"y":4036,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"7e4f9fb3296caf8e",
+			"type":"text",
+			"text":"Discrimination model",
+			"styleAttributes":{},
+			"x":7338,
+			"y":3770,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"1459ab9df9becf2c",
+			"type":"text",
+			"text":"**Dehumanization**",
+			"styleAttributes":{},
+			"x":6680,
+			"y":2672,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e0f988c03dee0fa8",
+			"type":"text",
+			"text":"> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+			"styleAttributes":{},
+			"x":5920,
+			"y":4241,
+			"width":350,
+			"height":367
+		},
+		{
+			"id":"7891b177ac1e3fd9",
+			"type":"text",
+			"text":"> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+			"styleAttributes":{},
+			"x":5920,
+			"y":4641,
+			"width":350,
+			"height":388
+		},
+		{
+			"id":"222b1e880c80dc09",
+			"type":"text",
+			"text":"> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+			"styleAttributes":{},
+			"x":5920,
+			"y":5060,
+			"width":350,
+			"height":155
+		},
+		{
+			"id":"1b7474c6f9d70add",
+			"type":"text",
+			"text":"https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
+			"styleAttributes":{},
+			"x":6060,
+			"y":3960,
+			"width":260,
+			"height":76
+		},
+		{
+			"id":"794d53ce188cf230",
+			"type":"text",
+			"text":"**Dehumanization**",
+			"styleAttributes":{},
+			"x":6387,
+			"y":867,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"84638da88a1acff7",
+			"type":"text",
+			"text":"Attributing less agency",
+			"styleAttributes":{},
+			"x":6300,
+			"y":1060,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a3e04c19472badc3",
+			"type":"text",
+			"text":"Seen as cold, uncivil, animalistic, machine-like",
+			"styleAttributes":{},
+			"x":6580,
+			"y":967,
+			"width":260,
+			"height":60
 		},
 		{
 			"id":"9567558e3f53dae7",
@@ -588,26 +1078,6 @@
 			"y":888,
 			"width":260,
 			"height":102
-		},
-		{
-			"id":"2ec63e0d4c0ec17e",
-			"type":"text",
-			"text":"**Morality**",
-			"styleAttributes":{},
-			"x":6020,
-			"y":1126,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5b42eac1f846d648",
-			"type":"text",
-			"text":"#### Other perception",
-			"styleAttributes":{},
-			"x":6170,
-			"y":1600,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"25316e1faf936bdb",
@@ -670,6 +1140,146 @@
 			"height":60
 		},
 		{
+			"id":"bfcac655d3fa14ac",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
+			"styleAttributes":{},
+			"x":5080,
+			"y":2000,
+			"width":680,
+			"height":1960
+		},
+		{
+			"id":"65421ed7aa074bb4",
+			"type":"text",
+			"text":"**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
+			"styleAttributes":{},
+			"x":5840,
+			"y":2892,
+			"width":320,
+			"height":232
+		},
+		{
+			"id":"4d2aedff91e8ab29",
+			"type":"text",
+			"text":"Less deserving of rights and protections (less moral standing)",
+			"styleAttributes":{},
+			"x":6500,
+			"y":1148,
+			"width":260,
+			"height":76
+		},
+		{
+			"id":"4819fc4e0fa822c0",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+			"styleAttributes":{},
+			"x":5080,
+			"y":830,
+			"width":680,
+			"height":1055
+		},
+		{
+			"id":"2ec63e0d4c0ec17e",
+			"type":"text",
+			"text":"**Morality**",
+			"styleAttributes":{},
+			"x":6020,
+			"y":1126,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"796edfd7dea47577",
+			"type":"text",
+			"text":">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
+			"styleAttributes":{},
+			"x":3460,
+			"y":3538,
+			"width":580,
+			"height":283
+		},
+		{
+			"id":"361fbfa0fec0fbe7",
+			"type":"text",
+			"text":"##### Emergence",
+			"styleAttributes":{},
+			"x":3780,
+			"y":3458,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"74c201cf1ba79bc8",
+			"type":"text",
+			"text":"- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
+			"styleAttributes":{},
+			"x":6074,
+			"y":2952,
+			"width":410,
+			"height":136
+		},
+		{
+			"id":"bba277bb5047a94b",
+			"type":"text",
+			"text":"> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+			"styleAttributes":{},
+			"x":6000,
+			"y":3120,
+			"width":454,
+			"height":93
+		},
+		{
+			"id":"2fc8270908d406c4",
+			"type":"text",
+			"text":"> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+			"styleAttributes":{},
+			"x":6000,
+			"y":3253,
+			"width":454,
+			"height":105
+		},
+		{
+			"id":"fbf6ad7ed854772d",
+			"type":"text",
+			"text":"**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+			"styleAttributes":{},
+			"x":5840,
+			"y":2700,
+			"width":320,
+			"height":180
+		},
+		{
+			"id":"263c158a3f0567f0",
+			"type":"text",
+			"text":"Categories of mind perception",
+			"styleAttributes":{},
+			"x":6072,
+			"y":2203,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"eedb917b24c7e83f",
+			"type":"text",
+			"text":"Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
+			"styleAttributes":{},
+			"x":6120,
+			"y":2315,
+			"width":364,
+			"height":417
+		},
+		{
+			"id":"5b42eac1f846d648",
+			"type":"text",
+			"text":"#### Other perception",
+			"styleAttributes":{},
+			"x":6170,
+			"y":1600,
+			"width":260,
+			"height":60
+		},
+		{
 			"id":"9cb2e2cd3aa275e3",
 			"type":"text",
 			"text":"\"Social\" vs \"physical\" objects",
@@ -690,16 +1300,6 @@
 			"height":304
 		},
 		{
-			"id":"6a0111e421134e03",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-			"styleAttributes":{},
-			"x":4200,
-			"y":830,
-			"width":800,
-			"height":542
-		},
-		{
 			"id":"ff61b3618c93141a",
 			"type":"file",
 			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
@@ -710,58 +1310,6 @@
 			"height":1176
 		},
 		{
-			"id":"73ca841cfbd00b3a",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-			"styleAttributes":{},
-			"x":3400,
-			"y":2000,
-			"width":720,
-			"height":800
-		},
-		{
-			"id":"7b94ad0ae9fff40e",
-			"type":"text",
-			"text":"###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-			"styleAttributes":{},
-			"x":2980,
-			"y":2990,
-			"width":260,
-			"height":78,
-			"color":"#5c28bd"
-		},
-		{
-			"id":"4eb594233eb426c6",
-			"type":"text",
-			"text":"> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-			"styleAttributes":{},
-			"x":2980,
-			"y":3068,
-			"width":454,
-			"height":76,
-			"color":"#5c28bd"
-		},
-		{
-			"id":"1ac4cdafddd22f72",
-			"type":"text",
-			"text":"[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf]]",
-			"styleAttributes":{},
-			"x":2480,
-			"y":1060,
-			"width":500,
-			"height":50
-		},
-		{
-			"id":"f6df020ce3df7de0",
-			"type":"text",
-			"text":"#### Bibliography",
-			"styleAttributes":{},
-			"x":2720,
-			"y":980,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"2318d07b7800b50b",
 			"type":"text",
 			"text":"Ecological and interpersonal selves intertwine",
@@ -770,16 +1318,6 @@
 			"y":-400,
 			"width":260,
 			"height":60
-		},
-		{
-			"id":"acd4d40a2024e63b",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-			"styleAttributes":{},
-			"x":3400,
-			"y":815,
-			"width":720,
-			"height":580
 		},
 		{
 			"id":"86a6585083fa504a",
@@ -805,6 +1343,16 @@
 			"height":1767
 		},
 		{
+			"id":"53fb11076478f995",
+			"type":"text",
+			"text":"Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+			"styleAttributes":{},
+			"x":4120,
+			"y":4080,
+			"width":800,
+			"height":741
+		},
+		{
 			"id":"3b22556d5d20bb78",
 			"type":"text",
 			"text":"> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
@@ -816,435 +1364,6 @@
 			"color":"#046214"
 		},
 		{
-			"id":"1673a9562b654fec",
-			"type":"text",
-			"text":"##### **Mirror stage**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1151,
-			"y":3088,
-			"width":188,
-			"height":60
-		},
-		{
-			"id":"5dbb96a8a52c36b5",
-			"type":"text",
-			"text":"**Visual perception allows infants to understand the distinction between \"self\" and \"other\"; this understanding is the basis for further knowledge acquisition**\n\nInfant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development, far before the mirror stage: 2 month olds can recognize from visual information that something has occured **outside of their own agency**. (135)\n",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":611,
-			"y":2979,
-			"width":389,
-			"height":278,
-			"color":"#046214"
-		},
-		{
-			"id":"8220363b7c1a174b",
-			"type":"text",
-			"text":"## Understanding Perception of Minds: Contemporary Cybernetics in Psychology and Art",
-			"styleAttributes":{"textAlign":"center"},
-			"x":1750,
-			"y":2482,
-			"width":421,
-			"height":155
-		},
-		{
-			"id":"ec45ee7e40495c02",
-			"type":"text",
-			"text":"###### [Modeling Charisma: AI's Fashion Mirror Stage](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5) (Smith 2024)",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":1749,
-			"y":2894,
-			"width":421,
-			"height":74,
-			"color":"#0b4755"
-		},
-		{
-			"id":"ed5ad7ff96b1865d",
-			"type":"text",
-			"text":"### Art Theory",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":1976,
-			"y":2818,
-			"width":195,
-			"height":58
-		},
-		{
-			"id":"c21493ea5de185c8",
-			"type":"text",
-			"text":"##### **Recognition of the self in others**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1322,
-			"y":3848,
-			"width":310,
-			"height":60
-		},
-		{
-			"id":"942ec0dafd12116a",
-			"type":"text",
-			"text":"### ***Vision***",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":1086,
-			"y":3218,
-			"width":130,
-			"height":60
-		},
-		{
-			"id":"e3e88a7bf327db55",
-			"type":"text",
-			"text":"**Visual information as basis for understanding**",
-			"styleAttributes":{"shape":"pill","border":"dashed"},
-			"x":1100,
-			"y":2975,
-			"width":222,
-			"height":60
-		},
-		{
-			"id":"dd1f27ee5669ee75",
-			"type":"text",
-			"text":"We are constantly contending with the gap between our self-perception and the way that we are perceived; **the difference between self-concept and the mirror**, the photograph, or others' concept of ourselves. We look to AI to produce an idealized mirror of reality which more closely matches our perception/self-perception than reality does.",
-			"styleAttributes":{},
-			"x":1781,
-			"y":2979,
-			"width":389,
-			"height":181,
-			"color":"#0b4755"
-		},
-		{
-			"id":"af71130e1c329003",
-			"type":"text",
-			"text":"AI systems are built on biological structure and metaphorical explanations for cognition",
-			"styleAttributes":{},
-			"x":1782,
-			"y":3194,
-			"width":355,
-			"height":58
-		},
-		{
-			"id":"b5daa2728fa26098",
-			"type":"text",
-			"text":"### Self perception",
-			"styleAttributes":{
-				"textAlign":"center",
-				"shape":"parallelogram",
-				"border":null
-			},
-			"x":1135,
-			"y":3387,
-			"width":220,
-			"height":60
-		},
-		{
-			"id":"eea35fedda198923",
-			"type":"text",
-			"text":"- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-			"styleAttributes":{},
-			"x":1248,
-			"y":4129,
-			"width":360,
-			"height":84
-		},
-		{
-			"id":"d8c98b499d78aa80",
-			"type":"text",
-			"text":"- **I see in you the ways that I want to be**\n- **You are human**",
-			"styleAttributes":{},
-			"x":1623,
-			"y":4129,
-			"width":360,
-			"height":84
-		},
-		{
-			"id":"ece3ed8c1e67c1c8",
-			"type":"text",
-			"text":"Inspired by Chapter 1 of education of vision ",
-			"styleAttributes":{},
-			"x":1451,
-			"y":4370,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"02a600d1922b4eae",
-			"type":"text",
-			"text":"Why separate perception from cognition?",
-			"styleAttributes":{},
-			"x":1451,
-			"y":4457,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"a98ae86084754b3c",
-			"type":"text",
-			"text":"###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":611,
-			"y":3289,
-			"width":421,
-			"height":98,
-			"color":"#24995a"
-		},
-		{
-			"id":"2fb9ba4ebd672f47",
-			"type":"text",
-			"text":"The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-			"styleAttributes":{},
-			"x":1840,
-			"y":4487,
-			"width":460,
-			"height":234
-		},
-		{
-			"id":"5ed756aff253ad3d",
-			"type":"text",
-			"text":"###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":611,
-			"y":3661,
-			"width":421,
-			"height":60,
-			"color":"#77be50"
-		},
-		{
-			"id":"dc18b23da8dc610e",
-			"type":"text",
-			"text":"Mind perception can be triggered in the *perceiver* by unpredictable or negative occurances; perceiving a mind leads to an intensified emotional experience, triggers self-consciousness/self-awareness, and moral judgement. \n\nIf the *perceived* entity appears humanlike or similar to the viewer, it will be perceived as having more capacity for cognition; entities perceived as having more agency are attributed moral rights and responsibilities. ",
-			"styleAttributes":{},
-			"x":611,
-			"y":3739,
-			"width":389,
-			"height":278,
-			"color":"#77be50"
-		},
-		{
-			"id":"f6c3de92255a6f8a",
-			"type":"text",
-			"text":"**Moral judgement**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1132,
-			"y":3739,
-			"width":226,
-			"height":53
-		},
-		{
-			"id":"d92dc4a56c3df173",
-			"type":"text",
-			"text":"###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":1749,
-			"y":3694,
-			"width":421,
-			"height":98,
-			"color":"#4726c0"
-		},
-		{
-			"id":"9b8ffe8e4b6dea4d",
-			"type":"text",
-			"text":"**De/humanization**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1131,
-			"y":3611,
-			"width":227,
-			"height":57
-		},
-		{
-			"id":"09aa9103650c16f5",
-			"type":"text",
-			"text":"**Emergence**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1529,
-			"y":3766,
-			"width":153,
-			"height":60
-		},
-		{
-			"id":"e14136e65934e642",
-			"type":"text",
-			"text":"Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents. \n\nHarmful agents are seen as lacking civility and warmth, and are attributed **animalistic or machine-like traits**; attribution of less agency correlated with lower scores on humanness traits such as rationality, refinement, and self-restraint. (34)",
-			"styleAttributes":{
-				"textAlign":null
-			},
-			"x":611,
-			"y":3397,
-			"width":389,
-			"height":239,
-			"color":"#24995a"
-		},
-		{
-			"id":"7d5e940d9111cff1",
-			"type":"text",
-			"text":"### Mimicry/Recursion",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":1480,
-			"y":3428,
-			"width":250,
-			"height":60
-		},
-		{
-			"id":"e710505557172988",
-			"type":"text",
-			"text":"**Generative**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1529,
-			"y":3226,
-			"width":152,
-			"height":52
-		},
-		{
-			"id":"27c810e816422287",
-			"type":"text",
-			"text":"### Other perception",
-			"styleAttributes":{"textAlign":"center","shape":"parallelogram"},
-			"x":1134,
-			"y":3487,
-			"width":221,
-			"height":60
-		},
-		{
-			"id":"8e1880a7ba3b7333",
-			"type":"text",
-			"text":"**Art is constant iteration on other's & own work**",
-			"styleAttributes":{"textAlign":"center","shape":"pill","border":"dashed"},
-			"x":1668,
-			"y":3581,
-			"width":207,
-			"height":60
-		},
-		{
-			"id":"888b2f9a62db25ce",
-			"type":"text",
-			"text":"##### **Why art?**",
-			"styleAttributes":{"shape":"pill","border":"dashed","textAlign":"center"},
-			"x":1869,
-			"y":3521,
-			"width":179,
-			"height":60
-		},
-		{
-			"id":"2be4d3d6940dc299",
-			"type":"text",
-			"text":"Using metaphor and imagining **visual representations** of difficult concepts can help (students) understand academic material and reframe their studies in their own terms.",
-			"styleAttributes":{},
-			"x":1781,
-			"y":3355,
-			"width":389,
-			"height":103,
-			"color":"#1035a2"
-		},
-		{
-			"id":"fbfb2aed8108f670",
-			"type":"text",
-			"text":"###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]] (Butterworth 1992)",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":611,
-			"y":2894,
-			"width":421,
-			"height":74,
-			"color":"#046214"
-		},
-		{
-			"id":"97193fd0907fdb6f",
-			"type":"text",
-			"text":"#### Background Literature",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":1256,
-			"y":2816,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"02f70e9dd267837c",
-			"type":"text",
-			"text":"My research can be generally divided into two overlapping categories: psychology of mind perception and cybernetic artwork. Within psychology, I am going to research the relationship between visual information, perception of mind, and understanding of mind in an experimental context. Using theories in cybernetics (across disciplines) and art made within the cybernetics movement, I am going to bring in metaphorical and artificial representations of the mind. Integrating these methodologies can give a richer and more dynamic understanding of how we perceive ourselves and others",
-			"styleAttributes":{},
-			"x":1070,
-			"y":2590,
-			"width":660,
-			"height":170
-		},
-		{
-			"id":"4ea269daafeb983e",
-			"type":"text",
-			"text":"How does visual perception relate to our understanding of our minds and of other (human and artificial) minds? I am going to explore this question through both psychology research and artworks, particularly those influenced by cybernetics.",
-			"styleAttributes":{},
-			"x":611,
-			"y":2590,
-			"width":421,
-			"height":129
-		},
-		{
-			"id":"788ca9810720d69f",
-			"type":"text",
-			"text":"#### Research Question",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":611,
-			"y":2510,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"83143ceec0d42458",
-			"type":"text",
-			"text":"#### Methodology",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":1070,
-			"y":2510,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b5a1a0851614f4f0",
-			"type":"text",
-			"text":"### Psychology",
-			"styleAttributes":{"textAlign":"center","shape":"predefined-process"},
-			"x":611,
-			"y":2818,
-			"width":185,
-			"height":58
-		},
-		{
-			"id":"ed0a3955a93dee85",
-			"type":"text",
-			"text":"###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
-			"styleAttributes":{"shape":"predefined-process"},
-			"x":1749,
-			"y":3279,
-			"width":421,
-			"height":67,
-			"color":"#1035a2"
-		},
-		{
-			"id":"e94f4d6999eba9ec",
-			"type":"text",
-			"text":"Generative model",
-			"styleAttributes":{},
-			"x":7468,
-			"y":3900,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1dcf371763f08e1c",
-			"type":"text",
-			"text":"> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-			"styleAttributes":{},
-			"x":6456,
-			"y":3917,
-			"width":454,
-			"height":76
-		},
-		{
-			"id":"783cb05753c91821",
-			"type":"text",
-			"text":"Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli) (Z-Library).pdf#page=25&selection=79,47,82,46|p.25]]\n\nThe imprint of the infrastructures of communication extended beyond the ‘neural telegraph’ analogy of the nineteenth century: it can be found also in the twentieth century’s cybernetic projects of self-organisation that remained crucial in the evolution of artificial neural networks. Indeed, the idea of self-organising computation capable of adapting to the environment and ‘learning’ in enduring fashion is a key part of the ‘epistemic ensemble’ of cybernetics that paved the way to machine learning.11 Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. The link between the self-organising computation of twentieth-century and twenty-first-century AI has been concealed by a complex stratum of technological advancements, in which we lost sight of its origin and development. This chapter undertakes a ‘dig’ into this stratum – into a prehistory of machine learning in which social, communication, and computational networks were all part of continuous (and contiguous) movements of self-organisation. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli) (Z-Library).pdf#page=127&selection=105,0,108,71|p.127]]",
-			"styleAttributes":{},
-			"x":4120,
-			"y":5215,
-			"width":800,
-			"height":383
-		},
-		{
 			"id":"f09b154cc3253b20",
 			"type":"file",
 			"file":"W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli) (Z-Library).pdf",
@@ -1253,106 +1372,6 @@
 			"y":5215,
 			"width":720,
 			"height":545
-		},
-		{
-			"id":"db5b8e6eadd5bb01",
-			"type":"text",
-			"text":"> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-			"styleAttributes":{},
-			"x":6455,
-			"y":4112,
-			"width":454,
-			"height":129
-		},
-		{
-			"id":"7a762afbb68426ca",
-			"type":"text",
-			"text":"> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-			"styleAttributes":{},
-			"x":6456,
-			"y":4013,
-			"width":454,
-			"height":76
-		},
-		{
-			"id":"8d071a44c8304a51",
-			"type":"text",
-			"text":"**Emergence**",
-			"styleAttributes":{},
-			"x":6880,
-			"y":4580,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"d157fe110a00c9ea",
-			"type":"text",
-			"text":"**Mimicry**",
-			"styleAttributes":{},
-			"x":7100,
-			"y":4036,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"7e4f9fb3296caf8e",
-			"type":"text",
-			"text":"Discrimination model",
-			"styleAttributes":{},
-			"x":7338,
-			"y":3770,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e9b041fb09c7d7fa",
-			"type":"text",
-			"text":"**Recursion**",
-			"styleAttributes":{},
-			"x":7248,
-			"y":4520,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"916bf02255ef6bc2",
-			"type":"text",
-			"text":"#### Self and other perception",
-			"styleAttributes":{},
-			"x":7170,
-			"y":3640,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"465ab03efff76484",
-			"type":"text",
-			"text":"Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
-			"styleAttributes":{},
-			"x":1840,
-			"y":4740,
-			"width":460,
-			"height":102
-		},
-		{
-			"id":"105584a9914dc91a",
-			"type":"text",
-			"text":"Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-			"styleAttributes":{},
-			"x":1840,
-			"y":4860,
-			"width":460,
-			"height":100
-		},
-		{
-			"id":"2f2221f4dc604816",
-			"type":"text",
-			"text":"**Anti-embodiment**",
-			"styleAttributes":{},
-			"x":1840,
-			"y":4980,
-			"width":260,
-			"height":60
 		},
 		{
 			"id":"8542a90d171be16d",
@@ -1416,55 +1435,56 @@
 			"height":960
 		},
 		{
-			"id":"ec475b5660e989f7",
-			"type":"text",
-			"text":"Tracing the overlaps between cybernetics and art, from 40s to present; digital art and third-wave cybernetics both focus on **emergent behavior**, which can emerge from either a collective or from the evolution of a series of recursions. [[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=128,12,128,21|p.7]] Art can, in turn, be a form of emergence from the technological systems which shape our lives. ",
+			"id":"dc87fb4e640fe28c",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
 			"styleAttributes":{},
-			"x":1781,
-			"y":3809,
-			"width":389,
-			"height":181,
-			"color":"#4726c0"
+			"x":4200,
+			"y":2000,
+			"width":800,
+			"height":1874
 		},
 		{
-			"id":"73cf9087e878334e",
-			"type":"text",
-			"text":"**Fetishization of language as *the* distinguishing factor between man and animal**",
+			"id":"73ca841cfbd00b3a",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
 			"styleAttributes":{},
-			"x":1840,
-			"y":5060,
-			"width":460,
-			"height":60
+			"x":3400,
+			"y":2000,
+			"width":720,
+			"height":800
 		},
 		{
-			"id":"fb8cc8af3d4ff242",
+			"id":"7b94ad0ae9fff40e",
 			"type":"text",
-			"text":"Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+			"text":"###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
 			"styleAttributes":{},
-			"x":1840,
-			"y":5140,
-			"width":460,
-			"height":76
-		},
-		{
-			"id":"796edfd7dea47577",
-			"type":"text",
-			"text":">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
-			"styleAttributes":{},
-			"x":3460,
-			"y":3538,
-			"width":580,
-			"height":283
-		},
-		{
-			"id":"361fbfa0fec0fbe7",
-			"type":"text",
-			"text":"##### Emergence",
-			"styleAttributes":{},
-			"x":3780,
-			"y":3458,
+			"x":2980,
+			"y":2990,
 			"width":260,
-			"height":60
+			"height":78,
+			"color":"#5c28bd"
+		},
+		{
+			"id":"4eb594233eb426c6",
+			"type":"text",
+			"text":"> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+			"styleAttributes":{},
+			"x":2980,
+			"y":3068,
+			"width":454,
+			"height":76,
+			"color":"#5c28bd"
+		},
+		{
+			"id":"783cb05753c91821",
+			"type":"text",
+			"text":"Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli) (Z-Library).pdf#page=25&selection=79,47,82,46|p.25]]\n\nThe imprint of the infrastructures of communication extended beyond the ‘neural telegraph’ analogy of the nineteenth century: it can be found also in the twentieth century’s cybernetic projects of self-organisation that remained crucial in the evolution of artificial neural networks. Indeed, the idea of self-organising computation capable of adapting to the environment and ‘learning’ in enduring fashion is a key part of the ‘epistemic ensemble’ of cybernetics that paved the way to machine learning.11 Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. The link between the self-organising computation of twentieth-century and twenty-first-century AI has been concealed by a complex stratum of technological advancements, in which we lost sight of its origin and development. This chapter undertakes a ‘dig’ into this stratum – into a prehistory of machine learning in which social, communication, and computational networks were all part of continuous (and contiguous) movements of self-organisation. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli) (Z-Library).pdf#page=127&selection=105,0,108,71|p.127]]",
+			"styleAttributes":{},
+			"x":4120,
+			"y":5215,
+			"width":800,
+			"height":383
 		},
 		{
 			"id":"efa048eed49afd34",
@@ -1500,6 +1520,86 @@
 			"color":"#5c28bd"
 		},
 		{
+			"id":"172dfcb904b9ffba",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
+			"styleAttributes":{},
+			"x":5000,
+			"y":4080,
+			"width":680,
+			"height":949
+		},
+		{
+			"id":"63e399d5f7428f8f",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+			"styleAttributes":{},
+			"x":3320,
+			"y":4080,
+			"width":720,
+			"height":624
+		},
+		{
+			"id":"2fb9ba4ebd672f47",
+			"type":"text",
+			"text":"The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+			"styleAttributes":{},
+			"x":1840,
+			"y":4487,
+			"width":460,
+			"height":234
+		},
+		{
+			"id":"465ab03efff76484",
+			"type":"text",
+			"text":"Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
+			"styleAttributes":{},
+			"x":1840,
+			"y":4740,
+			"width":460,
+			"height":102
+		},
+		{
+			"id":"105584a9914dc91a",
+			"type":"text",
+			"text":"Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+			"styleAttributes":{},
+			"x":1840,
+			"y":4860,
+			"width":460,
+			"height":100
+		},
+		{
+			"id":"2f2221f4dc604816",
+			"type":"text",
+			"text":"**Anti-embodiment**",
+			"styleAttributes":{},
+			"x":1840,
+			"y":4980,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"73cf9087e878334e",
+			"type":"text",
+			"text":"**Fetishization of language as *the* distinguishing factor between man and animal**",
+			"styleAttributes":{},
+			"x":1840,
+			"y":5060,
+			"width":460,
+			"height":60
+		},
+		{
+			"id":"fb8cc8af3d4ff242",
+			"type":"text",
+			"text":"Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+			"styleAttributes":{},
+			"x":1840,
+			"y":5140,
+			"width":460,
+			"height":76
+		},
+		{
 			"id":"60de5dd20cd4f042",
 			"type":"file",
 			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Flash Talk Script.md",
@@ -1518,106 +1618,6 @@
 			"y":4120,
 			"width":640,
 			"height":377
-		},
-		{
-			"id":"1459ab9df9becf2c",
-			"type":"text",
-			"text":"**Dehumanization**",
-			"styleAttributes":{},
-			"x":6680,
-			"y":2672,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"74c201cf1ba79bc8",
-			"type":"text",
-			"text":"- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
-			"styleAttributes":{},
-			"x":6074,
-			"y":2952,
-			"width":410,
-			"height":136
-		},
-		{
-			"id":"bba277bb5047a94b",
-			"type":"text",
-			"text":"> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-			"styleAttributes":{},
-			"x":6000,
-			"y":3120,
-			"width":454,
-			"height":93
-		},
-		{
-			"id":"2fc8270908d406c4",
-			"type":"text",
-			"text":"> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-			"styleAttributes":{},
-			"x":6000,
-			"y":3253,
-			"width":454,
-			"height":105
-		},
-		{
-			"id":"172dfcb904b9ffba",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
-			"styleAttributes":{},
-			"x":5000,
-			"y":4080,
-			"width":680,
-			"height":949
-		},
-		{
-			"id":"e0f988c03dee0fa8",
-			"type":"text",
-			"text":"> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-			"styleAttributes":{},
-			"x":5920,
-			"y":4241,
-			"width":350,
-			"height":367
-		},
-		{
-			"id":"7891b177ac1e3fd9",
-			"type":"text",
-			"text":"> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-			"styleAttributes":{},
-			"x":5920,
-			"y":4641,
-			"width":350,
-			"height":388
-		},
-		{
-			"id":"222b1e880c80dc09",
-			"type":"text",
-			"text":"> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-			"styleAttributes":{},
-			"x":5920,
-			"y":5060,
-			"width":350,
-			"height":155
-		},
-		{
-			"id":"63e399d5f7428f8f",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-			"styleAttributes":{},
-			"x":3320,
-			"y":4080,
-			"width":720,
-			"height":624
-		},
-		{
-			"id":"1b7474c6f9d70add",
-			"type":"text",
-			"text":"https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
-			"styleAttributes":{},
-			"x":6060,
-			"y":3960,
-			"width":260,
-			"height":76
 		}
 	],
 	"edges":[
