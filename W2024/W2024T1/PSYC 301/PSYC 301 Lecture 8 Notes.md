@@ -666,3 +666,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^d3ifmjvki
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:02:28.262Z","text":"\"Neurofibrillary tangles\":  appears in SN in parkinsons, all over in alzheimers","updated":"2024-10-24T20:02:28.262Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5004,"end":5014},{"type":"TextQuoteSelector","exact":"aggregates","prefix":" tau is hyperphosphorylated, it ","suffix":" andcytoskeleton becomes unstabl"}]}]}
+>```
+>%%
+>*%%PREFIX%%tau is hyperphosphorylated, it%%HIGHLIGHT%% ==aggregates== *
+>%%LINK%%[[#^zllrpg1jeir|show annotation]]
+>%%COMMENT%%
+>"Neurofibrillary tangles":  appears in SN in parkinsons, all over in alzheimers
+>%%TAGS%%
+>
+^zllrpg1jeir
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:03:38.818Z","text":"Tau aggregation begins in sulcus","updated":"2024-10-24T20:03:38.818Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5179,"end":5190},{"type":"TextQuoteSelector","exact":"Sulci first","prefix":"ng22Tau progressionHead injuries","suffix":" (?): iron deposits from hemorrh"}]}]}
+>```
+>%%
+>*%%PREFIX%%ng22Tau progressionHead injuries%%HIGHLIGHT%% ==Sulci first== *
+>%%LINK%%[[#^ssn9ddkums|show annotation]]
+>%%COMMENT%%
+>Tau aggregation begins in sulcus
+>%%TAGS%%
+>
+^ssn9ddkums
