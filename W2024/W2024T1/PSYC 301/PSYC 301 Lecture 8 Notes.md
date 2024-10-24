@@ -1062,3 +1062,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^bd3e9vtcfpa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:45:00.809Z","text":"LOS ANGELES!!!!","updated":"2024-10-24T20:45:00.809Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":9063,"end":9086},{"type":"TextQuoteSelector","exact":"Tape  worm in the brain","prefix":"d_nn_tw_ma37Neurocysticercosis: ","suffix":".Parasite infectionsInfectionsht"}]}]}
+>```
+>%%
+>*%%PREFIX%%d_nn_tw_ma37Neurocysticercosis:%%HIGHLIGHT%% ==Tape  worm in the brain== *
+>%%LINK%%[[#^b90g8ijm1et|show annotation]]
+>%%COMMENT%%
+>LOS ANGELES!!!!
+>%%TAGS%%
+>
+^b90g8ijm1et
