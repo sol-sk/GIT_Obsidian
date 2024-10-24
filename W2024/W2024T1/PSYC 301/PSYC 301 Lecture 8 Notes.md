@@ -948,3 +948,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^ffp94d9jyni
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:35:42.716Z","text":"Higher rates of mood disorders, dementia","updated":"2024-10-24T20:35:42.716Z","document":{"title":""},"references":["ffp94d9jyni"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^wj59jp7kde|show annotation]]
+>%%COMMENT%%
+>Higher rates of mood disorders, dementia
+>%%TAGS%%
+>
+^wj59jp7kde
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:35:58.088Z","text":"Blood brain barrier seems to do a good job keeping the infection out of the brain itself","updated":"2024-10-24T20:35:58.088Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":8178,"end":8234},{"type":"TextQuoteSelector","exact":"Often detected in olfactory neurons, likely rare in CNS ","prefix":"r 2020, Mukerji & Solomon 2021)•","suffix":"(Soung et al.2022)•Often markers"}]}]}
+>```
+>%%
+>*%%PREFIX%%r 2020, Mukerji & Solomon 2021)•%%HIGHLIGHT%% ==Often detected in olfactory neurons, likely rare in CNS== *
+>%%LINK%%[[#^p7j5p152el|show annotation]]
+>%%COMMENT%%
+>Blood brain barrier seems to do a good job keeping the infection out of the brain itself
+>%%TAGS%%
+>
+^p7j5p152el
