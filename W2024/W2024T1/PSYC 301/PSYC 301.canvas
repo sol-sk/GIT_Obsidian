@@ -1351,7 +1351,7 @@
 		{"id":"a48f0fe7517778a4","type":"text","text":"### 10.15.24","x":-363,"y":3571,"width":250,"height":60},
 		{"id":"04e67b81c46c6548","type":"text","text":"### 10.17.24","x":-363,"y":3663,"width":250,"height":60},
 		{"id":"f07709665956160c","type":"text","text":"## Jay's illness week :(","x":-683,"y":3571,"width":250,"height":60},
-		{"id":"2909d0c4cc98e532","x":455,"y":3670,"width":250,"height":60,"type":"text","text":"More than 90% of gunshot wounds to the head are "}
+		{"id":"2909d0c4cc98e532","x":1360,"y":4000,"width":250,"height":60,"type":"text","text":"More than 90% of gunshot wounds to the head are lethal"}
 	],
 	"edges":[
 		{"id":"284ff937d0118d70","fromNode":"4d0d53dc157bcc00","fromSide":"top","toNode":"d8753a02b55e6e6f","toSide":"bottom"},

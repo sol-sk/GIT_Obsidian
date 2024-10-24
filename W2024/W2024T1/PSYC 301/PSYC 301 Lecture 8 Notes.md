@@ -1,5 +1,5 @@
 ---
-annotation-target: W2024 Files/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf
+annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf
 ---
 
 
@@ -415,3 +415,17 @@ annotation-target: W2024 Files/PSYC301 Lecture 08 - Causes of brain dysfunction.
 >%%TAGS%%
 >
 ^63pmaxyi55q
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:36:27.850Z","text":"10.24.24 Lecture beginning ","updated":"2024-10-24T19:36:27.850Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3154,"end":3191},{"type":"TextQuoteSelector","exact":"High risk of infection, complications","prefix":"ad injuriesTypically very severe","suffix":"High velocity worse than low15Cl"}]}]}
+>```
+>%%
+>*%%PREFIX%%ad injuriesTypically very severe%%HIGHLIGHT%% ==High risk of infection, complications== *
+>%%LINK%%[[#^7098leq2xyb|show annotation]]
+>%%COMMENT%%
+>10.24.24 Lecture beginning 
+>%%TAGS%%
+>
+^7098leq2xyb
