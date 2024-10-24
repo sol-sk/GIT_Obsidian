@@ -708,3 +708,17 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^l68u1100afr
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:07:20.756Z","text":"Only picks up Tau in brain stem, not cortex (where tau aggregation happens earlier) ","updated":"2024-10-24T20:07:20.756Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":5312,"end":5322},{"type":"TextQuoteSelector","exact":"PET tracer","prefix":"sHead injuriesTrying to develop ","suffix":" for CTE diagnosis in the living"}]}]}
+>```
+>%%
+>*%%PREFIX%%sHead injuriesTrying to develop%%HIGHLIGHT%% ==PET tracer== *
+>%%LINK%%[[#^6sdugoty96|show annotation]]
+>%%COMMENT%%
+>Only picks up Tau in brain stem, not cortex (where tau aggregation happens earlier) 
+>%%TAGS%%
+>
+^6sdugoty96
