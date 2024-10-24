@@ -808,3 +808,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^634xqlbn526
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:22:34.763Z","text":"Jay got them uninvited","updated":"2024-10-24T20:22:34.763Z","document":{"title":""},"references":["634xqlbn526"],"target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^qb93j6e6uz8|show annotation]]
+>%%COMMENT%%
+>Jay got them uninvited
+>%%TAGS%%
+>
+^qb93j6e6uz8
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T20:23:43.069Z","text":"rare these days; major STI for a VERY long time","updated":"2024-10-24T20:23:43.069Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":7586,"end":7594},{"type":"TextQuoteSelector","exact":"syphilis","prefix":"the brain.Bacterial infections: ","suffix":"Infections 31Two types:1. Those "}]}]}
+>```
+>%%
+>*%%PREFIX%%the brain.Bacterial infections:%%HIGHLIGHT%% ==syphilis== *
+>%%LINK%%[[#^1798stzcrll|show annotation]]
+>%%COMMENT%%
+>rare these days; major STI for a VERY long time
+>%%TAGS%%
+>
+^1798stzcrll
