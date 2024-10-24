@@ -479,3 +479,33 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^byydef9adw
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:41:32.803Z","text":"* Initial hit at point of impact = coup\n* Bounce back/rebound of brain at back of brain = contrecoup\n","updated":"2024-10-24T19:41:32.803Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3650,"end":3665},{"type":"TextQuoteSelector","exact":"coup contrecoup","prefix":"ries in general) are frequently ","suffix":" injuries17Mild traumatic brain "}]}]}
+>```
+>%%
+>*%%PREFIX%%ries in general) are frequently%%HIGHLIGHT%% ==coup contrecoup== *
+>%%LINK%%[[#^hd7izm3p41m|show annotation]]
+>%%COMMENT%%
+>* Initial hit at point of impact = coup
+>* Bounce back/rebound of brain at back of brain = contrecoup
+>
+>%%TAGS%%
+>
+^hd7izm3p41m
+
+
+>%%
+>```annotation-json
+>{"created":"2024-10-24T19:42:48.238Z","text":"When there is no visible damage on structural MRI = mild","updated":"2024-10-24T19:42:48.238Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":3723,"end":3811},{"type":"TextQuoteSelector","exact":"When there is a blow to the head but no evidence of contusion or other structural damage","prefix":"brain injury (mTBI)Head injuries","suffix":"Typically synonymous with concus"}]}]}
+>```
+>%%
+>*%%PREFIX%%brain injury (mTBI)Head injuries%%HIGHLIGHT%% ==When there is a blow to the head but no evidence of contusion or other structural damage== *
+>%%LINK%%[[#^ttydduwqp1|show annotation]]
+>%%COMMENT%%
+>When there is no visible damage on structural MRI = mild
+>%%TAGS%%
+>
+^ttydduwqp1
