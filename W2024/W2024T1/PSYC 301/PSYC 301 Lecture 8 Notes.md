@@ -1176,3 +1176,31 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^yh4p90v1ro
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T20:07:52.320Z","text":"First medically approved use of cannabis: MS symptom management","updated":"2024-11-01T20:07:52.320Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":12170,"end":12178},{"type":"TextQuoteSelector","exact":"Cannabis","prefix":"ds3. Immune system modulators4. ","suffix":" (Sativex)5. Physical therapy6. "}]}]}
+>```
+>%%
+>*%%PREFIX%%ds3. Immune system modulators4.%%HIGHLIGHT%% ==Cannabis== *
+>%%LINK%%[[#^4y2hc5ckmkn|show annotation]]
+>%%COMMENT%%
+>First medically approved use of cannabis: MS symptom management
+>%%TAGS%%
+>
+^4y2hc5ckmkn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T20:08:26.627Z","updated":"2024-11-01T20:08:26.627Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":11849,"end":11896},{"type":"TextQuoteSelector","exact":"Only 1 of 801 new MS patients did not have EBV!","prefix":"rus increases risk of MS by 32x!","suffix":"EBV preceded increase in markers"}]}]}
+>```
+>%%
+>*%%PREFIX%%rus increases risk of MS by 32x!%%HIGHLIGHT%% ==Only 1 of 801 new MS patients did not have EBV!== *
+>%%LINK%%[[#^hcps25abw6k|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^hcps25abw6k
