@@ -76,6 +76,26 @@
 			"height":92
 		},
 		{
+			"id":"ce8d9e775ffb026e",
+			"type":"text",
+			"text":"#### OGS 401: Journal Entries (10%)  \nYou will submit seven journal entries during the term. The journal entries are open-  \nended. They should be at least 500 words and pertain to research relevant to at least  \none of the core fields (Philosophy, Psychology, Computer Science, and Linguistics).  \n\nThere is no maximum length. Your journal entries should focus on  \nbrainstorming/developing a topic for your proposal and/or COGS 402.  \nEach journal entry is worth 1% for on-time completion (including meeting the minimum  \nrequirements for length and relevance). You will receive 7% for completion.  \n\nYou will submit a full journal at the end of term which will include all your submitted  \nentries, in addition to other notes and thoughts you had over term. The full submission  \nis worth 3%. To receive full points, your collection of journal entries must showcase  \ndifferent kinds of thinking/planning:  \n• At least two entries must focus on background/literature (e.g., summarising  \nrelevant articles)  \n• At least two entries must focus on brainstorming/developing ideas.  \n• The other three may fall into one of the above categories, but may also be  \nsomething different (but relevant).",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":540,
+			"width":700,
+			"height":461
+		},
+		{
+			"id":"8799c4c678c75190",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/COGS401_ResearchJournal.pdf",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":1065,
+			"width":700,
+			"height":565
+		},
+		{
 			"id":"8c326c5601a6b87a",
 			"type":"text",
 			"text":"### 09.10.24",
@@ -106,26 +126,6 @@
 			"height":60
 		},
 		{
-			"id":"ce8d9e775ffb026e",
-			"type":"text",
-			"text":"#### OGS 401: Journal Entries (10%)  \nYou will submit seven journal entries during the term. The journal entries are open-  \nended. They should be at least 500 words and pertain to research relevant to at least  \none of the core fields (Philosophy, Psychology, Computer Science, and Linguistics).  \n\nThere is no maximum length. Your journal entries should focus on  \nbrainstorming/developing a topic for your proposal and/or COGS 402.  \nEach journal entry is worth 1% for on-time completion (including meeting the minimum  \nrequirements for length and relevance). You will receive 7% for completion.  \n\nYou will submit a full journal at the end of term which will include all your submitted  \nentries, in addition to other notes and thoughts you had over term. The full submission  \nis worth 3%. To receive full points, your collection of journal entries must showcase  \ndifferent kinds of thinking/planning:  \n• At least two entries must focus on background/literature (e.g., summarising  \nrelevant articles)  \n• At least two entries must focus on brainstorming/developing ideas.  \n• The other three may fall into one of the above categories, but may also be  \nsomething different (but relevant).",
-			"styleAttributes":{},
-			"x":-1540,
-			"y":540,
-			"width":700,
-			"height":461
-		},
-		{
-			"id":"8799c4c678c75190",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/COGS401_ResearchJournal.pdf",
-			"styleAttributes":{},
-			"x":-1540,
-			"y":1065,
-			"width":700,
-			"height":565
-		},
-		{
 			"id":"8f77feefe54fa76d",
 			"type":"file",
 			"file":"W2024/W2024T1/COGS 401/COGS 401 Readings/Wittmann_2007-1.pdf",
@@ -145,39 +145,6 @@
 			"y":269,
 			"width":250,
 			"height":60
-		},
-		{
-			"id":"f3f2ce550b80007d",
-			"type":"text",
-			"text":"![[COGS 401 Journal Entry 1 Article Annotated]]",
-			"styleAttributes":{
-				"border":null,
-				"textAlign":null
-			},
-			"x":780,
-			"y":467,
-			"width":525,
-			"height":283
-		},
-		{
-			"id":"693326fba1c463f1",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-			"styleAttributes":{},
-			"x":222,
-			"y":467,
-			"width":479,
-			"height":619
-		},
-		{
-			"id":"0b18e559449e804a",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/COGS 401 Readings/G2 Annotated Reading - Lloy et al.md",
-			"styleAttributes":{},
-			"x":-740,
-			"y":1240,
-			"width":540,
-			"height":50
 		},
 		{
 			"id":"80244124661411d9",
@@ -200,16 +167,6 @@
 			"height":50
 		},
 		{
-			"id":"51c7b4ae738617cf",
-			"type":"text",
-			"text":"**Question:** \nGiven that it's documented that tonal language speakers have greater prevalence of absolute/perfect pitch, I'm curious if there's been any research exploring the association between non-linguistic auditory processing and the kinds of tasks participants were asked to do in this paper. Do you think that generalized auditory processing plays as much of a role as language-specific processing in either learning novel words or within-speaker identification, and if so would you think it would apply more to one of those than the other?",
-			"styleAttributes":{},
-			"x":-739,
-			"y":1303,
-			"width":679,
-			"height":181
-		},
-		{
 			"id":"652f93cf2e345f13",
 			"type":"text",
 			"text":"Sensorimotor timing;\nDopamine role in motor function (as seen in Parkinsons)",
@@ -218,6 +175,26 @@
 			"y":1098,
 			"width":320,
 			"height":50
+		},
+		{
+			"id":"0b18e559449e804a",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/COGS 401 Readings/G2 Annotated Reading - Lloy et al.md",
+			"styleAttributes":{},
+			"x":-740,
+			"y":1240,
+			"width":540,
+			"height":50
+		},
+		{
+			"id":"51c7b4ae738617cf",
+			"type":"text",
+			"text":"**Question:** \nGiven that it's documented that tonal language speakers have greater prevalence of absolute/perfect pitch, I'm curious if there's been any research exploring the association between non-linguistic auditory processing and the kinds of tasks participants were asked to do in this paper. Do you think that generalized auditory processing plays as much of a role as language-specific processing in either learning novel words or within-speaker identification, and if so would you think it would apply more to one of those than the other?",
+			"styleAttributes":{},
+			"x":-739,
+			"y":1303,
+			"width":679,
+			"height":181
 		},
 		{
 			"id":"34914cb71fb25d4b",
@@ -290,6 +267,39 @@
 			"height":60
 		},
 		{
+			"id":"a94f04c50366cf52",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+			"styleAttributes":{},
+			"x":172,
+			"y":2063,
+			"width":400,
+			"height":570
+		},
+		{
+			"id":"f3f2ce550b80007d",
+			"type":"text",
+			"text":"![[COGS 401 Journal Entry 1 Article Annotated]]",
+			"styleAttributes":{
+				"border":null,
+				"textAlign":null
+			},
+			"x":780,
+			"y":467,
+			"width":525,
+			"height":283
+		},
+		{
+			"id":"693326fba1c463f1",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+			"styleAttributes":{},
+			"x":222,
+			"y":467,
+			"width":479,
+			"height":619
+		},
+		{
 			"id":"d8d9497987ff5aeb",
 			"type":"file",
 			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
@@ -308,16 +318,6 @@
 			"y":1394,
 			"width":400,
 			"height":580
-		},
-		{
-			"id":"a94f04c50366cf52",
-			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-			"styleAttributes":{},
-			"x":172,
-			"y":2063,
-			"width":400,
-			"height":570
 		},
 		{
 			"id":"53f1660ae026f56d",
@@ -408,7 +408,9 @@
 			"y":2800,
 			"width":260,
 			"height":60
-		}
+		},
+		{"id":"0037f0da484e0ed3","type":"text","text":"Research journal 28%","x":-20,"y":-509,"width":250,"height":60},
+		{"id":"203af12811b33bb1","x":-40,"y":-419,"width":250,"height":60,"type":"text","text":"Group discussion 20%"}
 	],
 	"edges":[
 		{"id":"bf3f4960c98b574d","fromNode":"8f77feefe54fa76d","fromSide":"left","toNode":"80244124661411d9","toSide":"left"},
