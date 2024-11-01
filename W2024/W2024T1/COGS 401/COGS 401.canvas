@@ -31,6 +31,7 @@
 			"height":900,
 			"label":"D7 Readings"
 		},
+		{"id":"bfc5e7dec6c9f7d1","x":-7,"y":-65,"width":250,"height":60,"type":"text","text":""},
 		{"id":"a1e44f04dfaac744","type":"file","file":"W2024/W2024T1/COGS 401/COGS 401 Readings/Tessier2015_Chapter3-1.pdf","x":-2180,"y":560,"width":400,"height":400},
 		{"id":"9816c6ace22d1514","type":"file","file":"W2024/W2024T1/COGS 401/COGS 401 Readings/Tessier2015_Chapter1_Refresher.pdf","x":-2180,"y":100,"width":400,"height":400},
 		{"id":"bb8d5c9dc7f68041","type":"text","text":"","x":-2620,"y":1340,"width":260,"height":60},
@@ -409,8 +410,9 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"0037f0da484e0ed3","type":"text","text":"Research journal 28%","x":-20,"y":-509,"width":250,"height":60},
-		{"id":"203af12811b33bb1","x":-40,"y":-419,"width":250,"height":60,"type":"text","text":"Group discussion 20%"}
+		{"id":"0037f0da484e0ed3","type":"text","text":"Research journal 29%\n- 10% journals\n- 14% mind map and peer feedback\n- 5% flashtalk","x":-20,"y":-520,"width":250,"height":155},
+		{"id":"203af12811b33bb1","x":-20,"y":-335,"width":250,"height":120,"type":"text","text":"Group discussion 21%\n- 15% leading\n- 6% questions"},
+		{"id":"fbf3e651351ff3ba","x":-20,"y":-190,"width":250,"height":100,"type":"text","text":"Proposal 33%\n- 8% presentation\n- 25% proposal"}
 	],
 	"edges":[
 		{"id":"bf3f4960c98b574d","fromNode":"8f77feefe54fa76d","fromSide":"left","toNode":"80244124661411d9","toSide":"left"},
