@@ -312,26 +312,6 @@
       "height": 112
     },
     {
-      "id": "b095cb47f6146574",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 4331,
-      "width": 512,
-      "height": 420
-    },
-    {
-      "id": "84aff4db7ce71657",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 3911,
-      "width": 512,
-      "height": 340
-    },
-    {
       "id": "67c4adbe0ca968bc",
       "type": "text",
       "text": "Damage:\n- problem with orientation\n\t- ie Parinaud's syndrome, problems with orienting eyes (specifically upward)\n",
@@ -1411,6 +1391,26 @@
       "width": 476,
       "height": 96,
       "color": "3"
+    },
+    {
+      "id": "b095cb47f6146574",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 4331,
+      "width": 512,
+      "height": 420
+    },
+    {
+      "id": "84aff4db7ce71657",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 3911,
+      "width": 512,
+      "height": 340
     },
     {
       "id": "74099acb954bbab3",
