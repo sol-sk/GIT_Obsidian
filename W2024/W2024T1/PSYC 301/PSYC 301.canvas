@@ -312,26 +312,6 @@
       "height": 112
     },
     {
-      "id": "74099acb954bbab3",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4011,
-      "width": 447,
-      "height": 300
-    },
-    {
-      "id": "ad790de7ba0e1dc1",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4331,
-      "width": 447,
-      "height": 420
-    },
-    {
       "id": "b095cb47f6146574",
       "type": "file",
       "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
@@ -599,16 +579,6 @@
       "width": 508,
       "height": 235,
       "color": "4"
-    },
-    {
-      "id": "15e127f8411f8039",
-      "type": "text",
-      "text": "### 10.22.24\n##### Slides 41-43 from Lecture 7; Beginning of Lecture 8",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 3896,
-      "width": 447,
-      "height": 74
     },
     {
       "id": "04e67b81c46c6548",
@@ -1443,13 +1413,44 @@
       "color": "3"
     },
     {
+      "id": "74099acb954bbab3",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4011,
+      "width": 447,
+      "height": 300
+    },
+    {
+      "id": "ad790de7ba0e1dc1",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4331,
+      "width": 447,
+      "height": 420
+    },
+    {
+      "id": "15e127f8411f8039",
+      "type": "text",
+      "text": "### 10.22.24\n##### Slides 41-43 from Lecture 7; Beginning of Lecture 8",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 3896,
+      "width": 447,
+      "height": 74
+    },
+    {
       "id": "4d3944432ead1e6e",
+      "type": "file",
+      "file": "W2024 Files/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf",
+      "styleAttributes": {},
       "x": -1200,
       "y": 4011,
       "width": 400,
-      "height": 269,
-      "type": "file",
-      "file": "W2024 Files/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf"
+      "height": 269
     }
   ],
   "edges": [
