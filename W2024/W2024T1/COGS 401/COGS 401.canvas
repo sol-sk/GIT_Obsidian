@@ -408,15 +408,7 @@
 			"y":2800,
 			"width":260,
 			"height":60
-		},
-		{"id":"0037f0da484e0ed3","type":"text","text":"Research journal 29%\n- 10% journals\n- 14% mind map and peer feedback\n- 5% flashtalk","x":-20,"y":-520,"width":250,"height":155},
-		{"id":"203af12811b33bb1","x":-20,"y":-335,"width":250,"height":120,"type":"text","text":"Group discussion 21%\n- 15% leading\n- 6% questions"},
-		{"id":"fbf3e651351ff3ba","x":-20,"y":-190,"width":250,"height":100,"type":"text","text":"Proposal 33%\n- 8% presentation\n- 25% proposal"},
-		{"id":"bfc5e7dec6c9f7d1","x":-20,"y":-60,"width":250,"height":100,"type":"text","text":"Participation 17%\n- 15% in class\n- 2% ROC"},
-		{"id":"4ec43325e5e42f40","x":260,"y":-520,"width":250,"height":155,"type":"text","text":"10+4+9.25+1.5"},
-		{"id":"3c6bdf96f241d461","x":260,"y":-335,"width":250,"height":120,"type":"text","text":"6 + 12"},
-		{"id":"2d8c183706c85e99","x":260,"y":-190,"width":250,"height":100,"type":"text","text":"25"},
-		{"id":"c96af1818616407a","x":260,"y":-60,"width":250,"height":100,"type":"text","text":"11 + 2"}
+		}
 	],
 	"edges":[
 		{"id":"bf3f4960c98b574d","fromNode":"8f77feefe54fa76d","fromSide":"left","toNode":"80244124661411d9","toSide":"left"},
