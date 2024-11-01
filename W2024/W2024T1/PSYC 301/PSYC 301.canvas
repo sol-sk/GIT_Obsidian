@@ -1441,6 +1441,15 @@
       "width": 476,
       "height": 96,
       "color": "3"
+    },
+    {
+      "id": "4d3944432ead1e6e",
+      "x": -1200,
+      "y": 4011,
+      "width": 400,
+      "height": 269,
+      "type": "file",
+      "file": "W2024 Files/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf"
     }
   ],
   "edges": [
