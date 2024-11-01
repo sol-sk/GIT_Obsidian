@@ -1134,3 +1134,45 @@ annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain d
 >%%TAGS%%
 >
 ^5ic49p12js9
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T20:03:01.295Z","text":"Named for prefecture; local fish had very high levels leading to widespread disease","updated":"2024-11-01T20:03:01.295Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":9279,"end":9287},{"type":"TextQuoteSelector","exact":"Minamata","prefix":"hosis.Heavy MetalsNeurotoxins 39","suffix":" disease: caused by severe methy"}]}]}
+>```
+>%%
+>*%%PREFIX%%hosis.Heavy MetalsNeurotoxins 39%%HIGHLIGHT%% ==Minamata== *
+>%%LINK%%[[#^54iv3thhr6|show annotation]]
+>%%COMMENT%%
+>Named for prefecture; local fish had very high levels leading to widespread disease
+>%%TAGS%%
+>
+^54iv3thhr6
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T20:03:42.641Z","updated":"2024-11-01T20:03:42.641Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":9610,"end":9622},{"type":"TextQuoteSelector","exact":"ethylmercury","prefix":"sNeurotoxins 41Small amounts of ","suffix":" are present in vaccines as a pr"}]}]}
+>```
+>%%
+>*%%PREFIX%%sNeurotoxins 41Small amounts of%%HIGHLIGHT%% ==ethylmercury== *
+>%%LINK%%[[#^bbzer6suq9p|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bbzer6suq9p
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T20:03:48.727Z","text":"Teapots lead lined; when cracked, leeched into tea, causing poisoning","updated":"2024-11-01T20:03:48.727Z","document":{"title":"PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","link":[{"href":"urn:x-pdf:6673720325f0b5d543c90354cc1a43b0"},{"href":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf"}],"documentFingerprint":"6673720325f0b5d543c90354cc1a43b0"},"uri":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","target":[{"source":"vault:/W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf","selector":[{"type":"TextPositionSelector","start":9868,"end":9877},{"type":"TextQuoteSelector","exact":"crackpots","prefix":" to toxic psychosis (origin of “","suffix":"”).Free time: Cosmosepisode 7Hea"}]}]}
+>```
+>%%
+>*%%PREFIX%%to toxic psychosis (origin of “%%HIGHLIGHT%% ==crackpots== *
+>%%LINK%%[[#^yh4p90v1ro|show annotation]]
+>%%COMMENT%%
+>Teapots lead lined; when cracked, leeched into tea, causing poisoning
+>%%TAGS%%
+>
+^yh4p90v1ro
