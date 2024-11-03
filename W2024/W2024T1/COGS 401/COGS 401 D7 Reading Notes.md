@@ -128,5 +128,9 @@ Rules focus on process of different resolutions
 ### **3.6 Methodology: Longitudinal and Cross-Sectional Studies**
 Longitudinal: 
 - ie. (at least) once a month, an hour of data collection of child's *spontaneous* speech (playing w/ toys, storybooks)
-	- OR once every 6 months, larger group OR family member collecting daily ('diary)
-	- 
+	- OR once every 6 months, larger group OR family member collecting daily ('diary study') across range of contexts
+
+Data typically is collected audio
+
+Cross-sectional:
+- Focus on a particular structure or process 
