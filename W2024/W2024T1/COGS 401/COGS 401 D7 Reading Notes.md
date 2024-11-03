@@ -12,7 +12,11 @@ Segmenting separates a word into phoneme-sounds
 ### Optimality Theory 
 > What are the "rules" that we follow when we say words out loud? Looking at a written word, there are things that we change about the literal way that it's written when we say it: these changes can be tracked systematically and described as "constraints" that we follow: What we say should be as close as possible to the way it's written, for instance, but it also shouldn't have sounds that are difficult or unnatural feeling, like too many consonants in a row at the beginning or end of a word. Some of these constraints, or rules on pronouncing words, are more important than others; we can rank them in order to generate a reliable way of ensuring that the pronunciation is as optimal as possible (as in, can be pronounced easily while still being faithful to the written version)
 
-In actuality, the "written" version as I've called it is actually an "underlying representation." The textbook describes this as the way it's represented in our "mental lexicon." Because the spoken version of a word is the "surface represntation," I think of the "underlying" representation as all non-spoken versions of a word, like how we think of it and how it's writtenl
+In actuality, the "written" version as I've called it is actually an "underlying representation." The textbook describes this as the way it's represented in our "mental lexicon." Because the spoken version of a word is the "surface representation," I think of the "underlying" representation as all non-spoken versions of a word, like how we think of it and how it's written.
+
+A key part of optimality theory is that it is not specific to a single language: these constraints are actually innate. Therefore, we have to look across the world at what sorts of patterns we see in how words are said to find what rules are (near)-universal and therefore likely due to rules/constraints that we all know innately. 
+
+Children are helpf
 
 **3.2 Syllable shape inventories**
 *Designing the optimal phonological grammar*
