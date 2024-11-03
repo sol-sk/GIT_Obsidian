@@ -28,5 +28,5 @@ P1: The social contract expects that governments abide by international law.
 
 P2: Acting solely for selfish interests is not a reason to break the social contract, as it exists to curb selfishness.
 
-P3: In a free and fair election the social contract expects votes to be counted equally and 
+P3: This robs people of their right to vote, silencing the people with foreign interests. 
 
