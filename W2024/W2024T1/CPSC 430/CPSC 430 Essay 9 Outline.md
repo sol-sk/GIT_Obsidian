@@ -25,8 +25,9 @@ Social contract theory;
 Like individuals, national governments are bound to each other by a social contract, holding countries to a certain standard. A component of this contract is the right to for a national government to rule only its own nation, and be held accountable to its own people. Interfering in another country's election violates the contract.
 
 P1: The social contract expects that governments abide by international law.
+- 
 
-P2: Acting solely for selfish interests is not a reason to break the social contract, as it exists to curb selfishness.
-
-P3: This robs people of their right to vote, silencing the people with foreign interests. 
+P2: Right to free and fair election
+- Negates democratic right
+- Installs government potentially harmful to the people
 
