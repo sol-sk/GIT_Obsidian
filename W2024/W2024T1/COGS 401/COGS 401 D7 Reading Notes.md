@@ -123,3 +123,10 @@ Constraints take into account (predict) *variability of resolutions* that are ap
 Rules focus on process of different resolutions 
 - Misses the point bc/ not looking at end goal 
 - More importantly: *attestation* ** what ? [[Tessier2015_Chapter3-1.pdf#page=37&selection=79,29,79,74|page 37]]
+
+
+### **3.6 Methodology: Longitudinal and Cross-Sectional Studies**
+Longitudinal: 
+- ie. (at least) once a month, an hour of data collection of child's *spontaneous* speech (playing w/ toys, storybooks)
+	- OR once every 6 months, larger group OR family member collecting daily ('diary)
+	- 
