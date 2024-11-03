@@ -22,5 +22,5 @@
 
 Social contract theory; 
 
-Like individuals, national governments are bound to each other by a social contract. One component of this contract is the right to for a national government to rule only its own nation. Organizations like the UN exist to uphold the social contract. Interfering in another country's election is a violation of this contract, risking international conflict and endangering the people of both countries. 
+Like individuals, national governments are bound to each other by a social contract, holding countries to a certain standard. A component of this contract is the right to for a national government to rule only its own nation, . Interfering in another country's election violates the contract, risking international conflict and endangering the people of both countries. 
 
