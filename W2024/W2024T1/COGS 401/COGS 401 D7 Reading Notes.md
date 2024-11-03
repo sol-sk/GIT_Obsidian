@@ -100,7 +100,7 @@ SyllableContact (BUT, some languages have grammars which violate this ie Italian
 **3.5 Consequences and alternatives**
 
 Individual variability
->One kind of between-child variation suggests that the earliest stages of phonological production may not coincide with the initial state of phono- logical learning.
+>One kind of between-child variation suggests that the earliest stages of phonological production may not coincide with the initial state of phonological learning.
 
 >What if children misperceive more complicated syllable structures as simpler ones?
 
