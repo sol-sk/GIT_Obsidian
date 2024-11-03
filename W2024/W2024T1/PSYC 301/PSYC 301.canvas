@@ -540,16 +540,6 @@
       "color": "4"
     },
     {
-      "id": "a48f0fe7517778a4",
-      "type": "text",
-      "text": "### 10.15.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3571,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "15868317cf9caed3",
       "type": "text",
       "text": "**Corticothalamic loops**: \n> In order to *modify* sensory info\n> \n> There are axons that extend from cortex to the same part of thalamus *that they came from* (hence loop) - some more spiral-y \n> \n> Interconnect cortex via thalamus\n> \n> Important for many aspects of *conscious experience*",
@@ -561,26 +551,6 @@
       "color": "4"
     },
     {
-      "id": "04e67b81c46c6548",
-      "type": "text",
-      "text": "### 10.17.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3663,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f07709665956160c",
-      "type": "text",
-      "text": "## Jay's illness week :(",
-      "styleAttributes": {},
-      "x": -683,
-      "y": 3571,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "5af52c60ebe3ff8a",
       "type": "text",
       "text": "> Many nuclei: inputs from sensory systems, cerebellum, basal ganglia\n> \n> Referred to as sensory \"relay center\"\n> \t(Smell info doesn't go thru here)\n> \n   Also relates to attention/consciousness, motor structure \n> Receives almost as much *from* cortex as it *sends* \n",
@@ -590,16 +560,6 @@
       "width": 493,
       "height": 205,
       "color": "4"
-    },
-    {
-      "id": "2909d0c4cc98e532",
-      "type": "text",
-      "text": "More than 90% of gunshot wounds to the head are lethal",
-      "styleAttributes": {},
-      "x": 289,
-      "y": 3723,
-      "width": 250,
-      "height": 60
     },
     {
       "id": "476361c15c14d686",
@@ -1393,16 +1353,6 @@
       "color": "3"
     },
     {
-      "id": "b095cb47f6146574",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 4331,
-      "width": 512,
-      "height": 420
-    },
-    {
       "id": "84aff4db7ce71657",
       "type": "file",
       "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
@@ -1451,6 +1401,56 @@
       "y": 4011,
       "width": 400,
       "height": 269
+    },
+    {
+      "id": "2909d0c4cc98e532",
+      "type": "text",
+      "text": "More than 90% of gunshot wounds to the head are lethal",
+      "styleAttributes": {},
+      "x": 289,
+      "y": 3723,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "04e67b81c46c6548",
+      "type": "text",
+      "text": "### 10.17.24",
+      "styleAttributes": {},
+      "x": -363,
+      "y": 3663,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a48f0fe7517778a4",
+      "type": "text",
+      "text": "### 10.15.24",
+      "styleAttributes": {},
+      "x": -363,
+      "y": 3571,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f07709665956160c",
+      "type": "text",
+      "text": "## Jay's illness week :(",
+      "styleAttributes": {},
+      "x": -683,
+      "y": 3571,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "b095cb47f6146574",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 4311,
+      "width": 512,
+      "height": 420
     }
   ],
   "edges": [
