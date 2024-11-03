@@ -115,4 +115,3 @@ Optimality Theory has some problems; for one, between-child variability demonstr
 More on constraints: constraint structure/boundaries? Source of constraints? TB doesn’t deal w/ source of structural constraints
 
 *3.5.3 Comparing Frameworks: Constraints vs. Rules Part 1*
-
