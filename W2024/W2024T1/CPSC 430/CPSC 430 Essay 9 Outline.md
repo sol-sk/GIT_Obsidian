@@ -22,4 +22,5 @@
 
 Social contract theory; 
 
-Like individuals, a social contract binds national governments to certain obligations. Nations must honor borders, as well as the right of a country to rule itself with its own government. International organizations like the UN exist to uphold these obligations, and violating them can lead to conflict and incur international punishment. Interfering in another country's election is a violation of this contract, contradicting the
+Like individuals, national governments are bound to each other by a social contract. One component of this contract is the right to for a government to autonomously rule its country International organizations like the UN exist to uphold these obligations, and violating them can lead to conflict and incur international punishment. Interfering in another country's election is a violation of this contract, endangering the people of both countries. 
+
