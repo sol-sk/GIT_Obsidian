@@ -137,5 +137,5 @@ Cross-sectional:
 - Focus on a particular structure or process
 - Single session, large group
 - Semi-structured tasks/games, asking children to name objects, describe pictures
-- **Goal**: establish normative, age-related milestones *
+- **Goal**: establish normative, age-related milestones & infer relative order of acquisition 
 - 
