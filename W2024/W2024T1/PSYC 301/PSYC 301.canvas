@@ -1353,36 +1353,6 @@
       "color": "3"
     },
     {
-      "id": "84aff4db7ce71657",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 3911,
-      "width": 512,
-      "height": 340
-    },
-    {
-      "id": "74099acb954bbab3",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4011,
-      "width": 447,
-      "height": 300
-    },
-    {
-      "id": "ad790de7ba0e1dc1",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4331,
-      "width": 447,
-      "height": 420
-    },
-    {
       "id": "15e127f8411f8039",
       "type": "text",
       "text": "### 10.22.24\n##### Slides 41-43 from Lecture 7; Beginning of Lecture 8",
@@ -1441,6 +1411,36 @@
       "y": 3571,
       "width": 250,
       "height": 60
+    },
+    {
+      "id": "84aff4db7ce71657",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 3911,
+      "width": 512,
+      "height": 340
+    },
+    {
+      "id": "74099acb954bbab3",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4011,
+      "width": 447,
+      "height": 300
+    },
+    {
+      "id": "ad790de7ba0e1dc1",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4331,
+      "width": 447,
+      "height": 420
     },
     {
       "id": "b095cb47f6146574",
