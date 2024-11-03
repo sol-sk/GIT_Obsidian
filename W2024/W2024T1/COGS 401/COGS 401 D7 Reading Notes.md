@@ -23,7 +23,10 @@ If following one constraint makes it impossible to follow other constraints, we 
 
 **3.2 Syllable shape inventories**
 
+Chart notation: 
+* Violation mark = *
 
+> The exclamation points in this tableau are a standard way of highlighting why each suboptimal candidate lost out to the optimal one – that is they show which constraint filtered out that row’s losing candidate, in favour of the winning optimal one. Notice that the ordering of the rows in a tableau is arbitrary: each one simply lists a potential candidate and its violations. [[Tessier2015_Chapter3-1.pdf#page=11&selection=53,0,59,1|Tessier2015_Chapter3-1, page 11]]
 
 
 *Designing the optimal phonological grammar*
