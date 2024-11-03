@@ -81,7 +81,7 @@ Depends on *context:* (relative sonority)
 GlideOnset >> LiquidOnset >> NasalOnset >> FricOnset
 
 ![[Pasted image 20241029102014.jpg]]
-(76)
+[[Tessier2015_Chapter3-1.pdf#page=26&selection=70,0,93,12|Tessier2015_Chapter3-1, page 26]]
 
 Hebrew children example
 - obstruent-obstruent clusters permitted
