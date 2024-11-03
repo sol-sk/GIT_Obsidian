@@ -67,7 +67,7 @@ Ranking constraints: Dep must be lowest because we can conform to both other con
 
 **3.4 More Choice in Optimization**
 Stops/fricatives followed by liquids/glides, aka obstruants followed by sonorants. Sonorants = deleted
-
+		![[Screenshot 2024-11-03 at 11.25.05 AM.png]][[Tessier2015_Chapter1_Refresher.pdf#page=14&selection=15,1,17,2|Tessier2015_Chapter1_Refresher, page 14]]
 *New constraint:*?
 - SonorantOnset: Sonorant segment in onset = violation
 
