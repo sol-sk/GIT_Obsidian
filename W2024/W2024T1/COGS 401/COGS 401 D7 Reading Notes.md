@@ -109,3 +109,8 @@ Individual variability
 >What if children misperceive more complicated syllable structures as simpler ones?
 
 **Issues w OT **
+
+> At the beginning of the chapter, we assumed that inputs come unsyllabi- fied to the learner’s grammar: inputs look like /CVCVC/ and outputs look like [CV.CVC]. It is instructive to note that this is also the usual assumption about adult grammars, but for different reasons. The already-mentioned reason for leaving syllable structure out of adult inputs is that syllabification is never contrastive: once you know the language-specific grammar, syllabification should always be predictable, and therefore needn’t be stored in the lexicon.
+
+> If we think that children’s inputs are taken from the target forms, heard as adult outputs, this puts them in sharp contrast with the usual notion of underlying representations attributed in a phonology textbook to an adult native speaker – in the latter case, we usually posit the input as some abstract mental representation, not a fully-formed output.
+
