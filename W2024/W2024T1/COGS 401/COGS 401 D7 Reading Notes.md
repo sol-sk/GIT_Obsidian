@@ -10,7 +10,9 @@ Segmenting separates a word into phoneme-sounds
 ![[Tessier2015_Chapter3-1.pdf]]
 
 ### Optimality Theory 
-> What are the "rules" that we follow when we say words out loud? Looking at a written word, there are things that we change about the literal way that it's written when we say it: these changes can be tracked systematically and described as "constraints" that we follow: What we say should be as close as possible to the way it's written, for instance, but it also shouldn't have sounds that are difficult or unnatural feeling, like too many consonants in a row at the beginning or end of a word. Some of these constraints, or rules on pronouncing words, are more important than others; we can rank them in order to generate a reliable way of ensuring that the pronunciation is as optimal as possible (as in, can be pronounced easily while still being faithful )
+> What are the "rules" that we follow when we say words out loud? Looking at a written word, there are things that we change about the literal way that it's written when we say it: these changes can be tracked systematically and described as "constraints" that we follow: What we say should be as close as possible to the way it's written, for instance, but it also shouldn't have sounds that are difficult or unnatural feeling, like too many consonants in a row at the beginning or end of a word. Some of these constraints, or rules on pronouncing words, are more important than others; we can rank them in order to generate a reliable way of ensuring that the pronunciation is as optimal as possible (as in, can be pronounced easily while still being faithful to the written version)
+
+In actuality, the "written" version as I've called it is actually an "underlying representation." The textbook describes this as the way it's represented in our "mental lexicon." Because the spoken version of a word is the "surface represntation," I think of the "underlying" representation as all non-spoken versions of a word, like how we think of it and how it's writtenl
 
 **3.2 Syllable shape inventories**
 *Designing the optimal phonological grammar*
