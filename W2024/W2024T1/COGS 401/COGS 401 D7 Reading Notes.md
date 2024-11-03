@@ -81,12 +81,14 @@ Depends on *context:* (relative sonority)
 GlideOnset >> LiquidOnset >> NasalOnset >> FricOnset
 
 ![[Pasted image 20241029102014.jpg]]
-[[Tessier2015_Chapter3-1.pdf#page=26&selection=70,0,93,12|Tessier2015_Chapter3-1, page 26]]
+[[Tessier2015_Chapter3-1.pdf#page=26&selection=70,0,93,12|page 26]]
 
 Hebrew children example
 - obstruent-obstruent clusters permitted
 - Position in cluster: *closest to vowel survives*, not just sonority ranking
-	- Contiguity
+	- Contiguity (faithfulness constraint) 
+
+> The additional tool that we will use to capture this ordering fact is a **faithfulness constraint**, proposed in the OT literature to explain other target language patterns, which prefers output strings to be contiguous in the input. This constraint (simply called CONTIGUITY) always prefers /$C_(1)C_(2)V \larrow C_(2)V$ in every case, simply because the alternative [C1V] involves two segments which are contiguous in the output but not the input. [[Tessier2015_Chapter3-1.pdf#page=29&selection=119,0,143,53|page 29]]
 
 *Word-mediality* (3.4.4)
 SyllableContact 
