@@ -108,4 +108,4 @@ Individual variability
 
 >What if children misperceive more complicated syllable structures as simpler ones?
 
-**Issues w OT**
+**Issues w OT **
