@@ -28,4 +28,4 @@ P1: Right to free and fair election
 - Negates democratic right
 - Installs government potentially harmful to the people
 
-Govt does not have the right to interfere with enti
+P2: Govt does not have the right to interfere with entire nation's right to democracy just to serve itself
