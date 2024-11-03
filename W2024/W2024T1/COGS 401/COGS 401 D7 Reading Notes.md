@@ -106,3 +106,6 @@ Medial codas cannot be saved while final codas are banned
 Individual variability
 >One kind of between-child variation suggests that the earliest stages of phonological production may not coincide with the initial state of phono- logical learning.
 
+>What if children misperceive more complicated syllable structures as simpler ones?
+
+**Issues w OT**
