@@ -110,3 +110,9 @@ Individual variability
 
 > If we think that children’s inputs are taken from the target forms, heard as adult outputs, this puts them in sharp contrast with the usual notion of underlying representations attributed in a phonology textbook to an adult native speaker – in the latter case, we usually posit the input as some abstract mental representation, not a fully-formed output.
 
+Optimality Theory has some problems; for one, between-child variability demonstrates that phonological production and phonological learning are not always in the same order. There is also an assumption about UR vs SR, since adult inputs are “abstract mental representations” whereas childrens’ inputs are taken directly from adult outputs. There are also a variety of points about input syllable structure/lack thereof which are not explored in depth. 
+
+More on constraints: constraint structure/boundaries? Source of constraints? TB doesn’t deal w/ source of structural constraints
+
+*3.5.3 Comparing Frameworks: Constraints vs. Rules Part 1*
+
