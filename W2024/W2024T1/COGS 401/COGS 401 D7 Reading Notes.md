@@ -7,7 +7,7 @@ Segmenting separates a word into phoneme-sounds
 
 
 
-![[Tessier2015_Chapter3.pdf]]
+![[Tessier2015_Chapter3-1.pdf]]
 
 ### Optimality Theory 
 **3.2 Syllable shape inventories**

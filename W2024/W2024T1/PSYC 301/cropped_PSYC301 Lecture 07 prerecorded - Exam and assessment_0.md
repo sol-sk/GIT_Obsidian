@@ -11,9 +11,9 @@ excalidraw-plugin: parsed
 # Excalidraw Data
 ## Text Elements
 ## Element Links
-RWBv07O1: [[W2024 Files/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf#page=9]]
+RWBv07O1: [[PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf#page=9]]
 
-za2Etlyy: [[W2024 Files/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf#page=9]]
+za2Etlyy: [[PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf#page=9]]
 
 ## Embedded Files
 ff74cc6ff6d91ca0be6de7d4ba3b05776d25e43c: [[PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf#page=9]]
