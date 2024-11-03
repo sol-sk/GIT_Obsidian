@@ -14,8 +14,9 @@ Segmenting separates a word into phoneme-sounds
 *Designing the optimal phonological grammar*
 
 Children’s syllables lack r, s, w, final consonants (l, t pronounced but not at end of word) across all languages studied (Eu Portuguese, Qu French, Am English)
-- CV syllable shape 
+- Consonant-Vowel syllable shape 
 Some languages are CV/CVV only; Cayuvava, Hawaiian, Hua: but the inverse, VC, is much less common, and no languages are exclusively VC. 
+	→ indicates that "optimal grammar" 
 
 Child grammar is not exclusively CV, can also be CV(C): “somewhat optimal” example table 5, compare to Yakuts (6) which is also CV(C)
 -> Grammar must “make reference to all the pieces of an optimal syllable” (56)
