@@ -20,3 +20,6 @@
         - https://www.washingtonpost.com/news/worldviews/wp/2016/10/13/the-long-history-of-the-u-s-interfering-with-elections-elsewhere/
 
 
+Social contract theory; 
+
+Like individuals, a social contract binds national governments to certain obligations. 
