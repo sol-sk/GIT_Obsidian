@@ -1353,46 +1353,6 @@
       "color": "3"
     },
     {
-      "id": "2909d0c4cc98e532",
-      "type": "text",
-      "text": "More than 90% of gunshot wounds to the head are lethal",
-      "styleAttributes": {},
-      "x": 289,
-      "y": 3723,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "04e67b81c46c6548",
-      "type": "text",
-      "text": "### 10.17.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3663,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "a48f0fe7517778a4",
-      "type": "text",
-      "text": "### 10.15.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3571,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "f07709665956160c",
-      "type": "text",
-      "text": "## Jay's illness week :(",
-      "styleAttributes": {},
-      "x": -683,
-      "y": 3571,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "4d3944432ead1e6e",
       "type": "file",
       "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf",
@@ -1451,6 +1411,46 @@
       "y": 3896,
       "width": 447,
       "height": 74
+    },
+    {
+      "id": "2909d0c4cc98e532",
+      "type": "text",
+      "text": "More than 90% of gunshot wounds to the head are lethal",
+      "styleAttributes": {},
+      "x": 289,
+      "y": 3723,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "04e67b81c46c6548",
+      "type": "text",
+      "text": "### 10.17.24",
+      "styleAttributes": {},
+      "x": -363,
+      "y": 3663,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "a48f0fe7517778a4",
+      "type": "text",
+      "text": "### 10.15.24",
+      "styleAttributes": {},
+      "x": -363,
+      "y": 3571,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f07709665956160c",
+      "type": "text",
+      "text": "## Jay's illness week :(",
+      "styleAttributes": {},
+      "x": -683,
+      "y": 3571,
+      "width": 250,
+      "height": 60
     }
   ],
   "edges": [
