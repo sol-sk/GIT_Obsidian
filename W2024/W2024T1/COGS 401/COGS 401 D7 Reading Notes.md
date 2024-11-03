@@ -16,7 +16,7 @@ In actuality, the "written" version as I've called it is actually an "underlying
 
 A key part of optimality theory is that it is not specific to a single language: these constraints are actually innate. Therefore, we have to look across the world at what sorts of patterns we see in how words are said to find what rules are (near)-universal and therefore likely due to rules/constraints that we all know innately. 
 
-Children are helpf
+Children are helpful in understanding innate rules because we
 
 **3.2 Syllable shape inventories**
 *Designing the optimal phonological grammar*
