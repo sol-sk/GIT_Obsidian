@@ -22,6 +22,10 @@ Children are helpful in understanding innate rules because we can see across dif
 If following one constraint makes it impossible to follow other constraints, we should change the "ranking" to prioritize it less because it makes it less optimal. 
 
 **3.2 Syllable shape inventories**
+
+
+
+
 *Designing the optimal phonological grammar*
 
 Children’s syllables lack r, s, w, final consonants (l, t pronounced but not at end of word) across all languages studied (Eu Portuguese, Qu French, Am English)
