@@ -122,3 +122,4 @@ Constraints are applied in *parallel*
 Constraints take into account (predict) *variability of resolutions* that are applied across languages and children
 Rules focus on process of different resolutions 
 - Misses the point bc/ not looking at end goal 
+- More importantly: *attestation* ** what ? [[Tessier2015_Chapter3-1.pdf#page=37&selection=79,29,79,74|page 37]]
