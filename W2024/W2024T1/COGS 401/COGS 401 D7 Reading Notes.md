@@ -10,6 +10,8 @@ Segmenting separates a word into phoneme-sounds
 ![[Tessier2015_Chapter3-1.pdf]]
 
 ### Optimality Theory 
+> What are th
+
 **3.2 Syllable shape inventories**
 *Designing the optimal phonological grammar*
 
