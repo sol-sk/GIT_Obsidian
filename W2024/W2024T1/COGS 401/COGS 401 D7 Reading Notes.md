@@ -10,7 +10,7 @@ Segmenting separates a word into phoneme-sounds
 ![[Tessier2015_Chapter3-1.pdf]]
 
 ### Optimality Theory 
-> What are the "rules" that we follow when we say words out loud? Looking at a written word, there are things that we change about the literal way that it's written when we say it: these changes can be tracked systematically and described as "constraints" that we follow: What we say should be as close as possible to the way it's written, for instance, but it also shouldn't have sounds that are difficult or unnatural feeling, like too many consonan
+> What are the "rules" that we follow when we say words out loud? Looking at a written word, there are things that we change about the literal way that it's written when we say it: these changes can be tracked systematically and described as "constraints" that we follow: What we say should be as close as possible to the way it's written, for instance, but it also shouldn't have sounds that are difficult or unnatural feeling, like too many consonants in a row at the beginning or end of a word. Some of these constraints, or rules on pronouncing words, are more important than others; we can rank them in order to generate a reliable way of ensuring that the pronunciation is as optimal as possible (as in, can be pronounced easily while sti)
 
 **3.2 Syllable shape inventories**
 *Designing the optimal phonological grammar*
