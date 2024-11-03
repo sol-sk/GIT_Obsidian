@@ -26,4 +26,4 @@ Like individuals, national governments are bound to each other by a social contr
 
 P1: The social contract expects that governments abide by international law.
 
-P2: 
+P2: Selfish interests 
