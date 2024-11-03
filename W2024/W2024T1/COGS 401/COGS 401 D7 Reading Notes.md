@@ -119,4 +119,6 @@ More on constraints: constraint structure/boundaries? Source of constraints? TB 
 Rules are applied *serially*
 Constraints are applied in *parallel*
 
-Constraints take into account *variability of resolutions* that 
+Constraints take into account (predict) *variability of resolutions* that are applied across languages and children
+Rules focus on process of different resolutions 
+- Misses the point bc/ not looking at end goal 
