@@ -98,6 +98,9 @@ SyllableContact
 Medial codas cannot be saved while final codas are banned 
 ** Conflict (i don’t get this part) p.31 
 ![[Screenshot 2024-11-03 at 11.58.23 AM.png]]
+[[Tessier2015_Chapter3-1.pdf#page=32&selection=117,1,120,4|page 32]]
 → Yet, this is Italian 
 
 **3.5 Consequences and alternatives**
+
+Individual variability
