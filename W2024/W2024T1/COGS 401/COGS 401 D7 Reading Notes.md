@@ -85,7 +85,8 @@ GlideOnset >> LiquidOnset >> NasalOnset >> FricOnset
 
 Hebrew children example
 - obstruent-obstruent clusters permitted
-- Position in cluster: closest to vowel survives
+- Position in cluster: *closest to vowel survives*, not just sonority ranking
+	- Contiguity
 
 *Word-mediality* (3.4.4)
 SyllableContact 
