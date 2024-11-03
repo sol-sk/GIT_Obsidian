@@ -21,7 +21,7 @@ Children are helpful in understanding innate rules because we can see across dif
 
 If following one constraint makes it impossible to follow other constraints, we should change the "ranking" to prioritize it less because it makes it less optimal. 
 
-**3.2 Syllable shape inventories**
+### **3.2 Syllable shape inventories**
 
 Chart notation: 
 * Violation mark = *
@@ -52,7 +52,7 @@ Depending on language, children will acquire more complex syllable structures (C
 
 >  Syllable structure typology is fairly well understood across the world’s languages, so the comparisons between child and adult patterns are plausibly accurate. Thus, children’s stages of syllable structure provide an excellent empirical area in which to build our theory of developing phonological grammars [[Tessier2015_Chapter3.pdf#page=10&selection=4,0,7,65|p.10]]
 
-**3.3 Optimizing syllable shapes**
+### **3.3 Optimizing syllable shapes**
 *Deletion*
 How to follow NoCoda? Delete coda
 
@@ -72,7 +72,7 @@ Following all 4 constraints, how will we have enough forms to make a whole langu
 
 Ranking constraints: Dep must be lowest because we can conform to both other constraints as long as Dep is violated [[Tessier2015_Chapter3.pdf#page=17&selection=128,1,128,3|p17]]
 
-**3.4 More Choice in Optimization**
+### **3.4 More Choice in Optimization**
 ![[Screenshot 2024-11-03 at 11.25.05 AM.png]][[Tessier2015_Chapter1_Refresher.pdf#page=14&selection=15,1,17,2|Tessier2015_Chapter1_Refresher, page 14]]
 *New constraint:*?
 - SonorantOnset: Sonorant segment in onset = violation
@@ -92,12 +92,12 @@ Hebrew children example
 
 *If onset is already low sonority, contiguity matters more* 
 
-*Word-mediality* (3.4.4)
+#### *Word-mediality* (3.4.4)
 SyllableContact (BUT, some languages have grammars which violate this ie Italian)
 ![[Screenshot 2024-11-03 at 11.58.23 AM.png]]
 [[Tessier2015_Chapter3-1.pdf#page=32&selection=117,1,120,4|page 32]]
 
-**3.5 Consequences and alternatives**
+### **3.5 Consequences and alternatives**
 
 Individual variability
 >One kind of between-child variation suggests that the earliest stages of phonological production may not coincide with the initial state of phonological learning.
@@ -114,4 +114,9 @@ Optimality Theory has some problems; for one, between-child variability demonstr
 
 More on constraints: constraint structure/boundaries? Source of constraints? TB doesn’t deal w/ source of structural constraints
 
-*3.5.3 Comparing Frameworks: Constraints vs. Rules Part 1*
+#### *3.5.3 Comparing Frameworks: Constraints vs. Rules Part 1*
+
+Rules are applied *serially*
+Constraints are applied in *parallel*
+
+Constraints take into account *variability of resolutions* that 
