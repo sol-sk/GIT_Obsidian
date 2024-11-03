@@ -97,5 +97,7 @@ SyllableContact
 
 Medial codas cannot be saved while final codas are banned 
 ** Conflict (i don’t get this part) p.31 
+![[Screenshot 2024-11-03 at 11.58.23 AM.png]]
+→ Yet, this is Italian 
 
 **3.5 Consequences and alternatives**
