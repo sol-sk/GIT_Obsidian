@@ -129,8 +129,13 @@ Rules focus on process of different resolutions
 Longitudinal: 
 - ie. (at least) once a month, an hour of data collection of child's *spontaneous* speech (playing w/ toys, storybooks)
 	- OR once every 6 months, larger group OR family member collecting daily ('diary study') across range of contexts
+- **Goal**: accumulate enough data to evaluate overall phonological development w/in small population
 
 Data typically is collected audio
 
 Cross-sectional:
-- Focus on a particular structure or process 
+- Focus on a particular structure or process
+- Single session, large group
+- Semi-structured tasks/games, asking children to name objects, describe pictures
+- **Goal**: establish normative, age-related milestones *
+- 
