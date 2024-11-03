@@ -25,7 +25,7 @@ If following one constraint makes it impossible to follow other constraints, we 
 
 Chart notation: 
 * Violation mark = *
-
+- Filtered out losing candidate = !
 > The exclamation points in this tableau are a standard way of highlighting why each suboptimal candidate lost out to the optimal one – that is they show which constraint filtered out that row’s losing candidate, in favour of the winning optimal one. Notice that the ordering of the rows in a tableau is arbitrary: each one simply lists a potential candidate and its violations. [[Tessier2015_Chapter3-1.pdf#page=11&selection=53,0,59,1|Tessier2015_Chapter3-1, page 11]]
 
 
@@ -73,12 +73,11 @@ Following all 4 constraints, how will we have enough forms to make a whole langu
 Ranking constraints: Dep must be lowest because we can conform to both other constraints as long as Dep is violated [[Tessier2015_Chapter3.pdf#page=17&selection=128,1,128,3|p17]]
 
 **3.4 More Choice in Optimization**
-Stops/fricatives followed by liquids/glides, aka obstruants followed by sonorants. Sonorants = deleted
-		![[Screenshot 2024-11-03 at 11.25.05 AM.png]][[Tessier2015_Chapter1_Refresher.pdf#page=14&selection=15,1,17,2|Tessier2015_Chapter1_Refresher, page 14]]
+![[Screenshot 2024-11-03 at 11.25.05 AM.png]][[Tessier2015_Chapter1_Refresher.pdf#page=14&selection=15,1,17,2|Tessier2015_Chapter1_Refresher, page 14]]
 *New constraint:*?
 - SonorantOnset: Sonorant segment in onset = violation
 
-Depends on *context:*
+Depends on *context:* (relative sonority)
 GlideOnset >> LiquidOnset >> NasalOnset >> FricOnset
 
 ![[Pasted image 20241029102014.jpg]]
