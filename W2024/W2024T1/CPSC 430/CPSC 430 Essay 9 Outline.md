@@ -20,6 +20,10 @@
         - https://www.washingtonpost.com/news/worldviews/wp/2016/10/13/the-long-history-of-the-u-s-interfering-with-elections-elsewhere/
 
 
+Virtue ethics
+Does the good thing: 
+Good time: 
+Right reason: 
 
 
 
