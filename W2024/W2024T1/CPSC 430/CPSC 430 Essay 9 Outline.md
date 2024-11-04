@@ -37,4 +37,4 @@ P1: Right to free and fair election; countries/people have negative right for de
 - Negates democratic right
 - Installs government potentially harmful to the people
 
-P2: Govt does not have the right to interfere with entire nation's right to democracy just to serve itself
+P2: Social contr
