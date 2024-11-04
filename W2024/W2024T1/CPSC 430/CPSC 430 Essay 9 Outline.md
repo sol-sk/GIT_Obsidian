@@ -37,3 +37,5 @@ P1: Right to free and fair election; countries/people have negative right for de
 - Installs government potentially harmful to the people
 
 P2: The social contract, in addition to establishing the set of moral rules, also includes an implicit agreement to a government which enforces those. In this case,  it would be international governing bodies which forbid interference in foreign elections. 
+
+P3: Counter: 
