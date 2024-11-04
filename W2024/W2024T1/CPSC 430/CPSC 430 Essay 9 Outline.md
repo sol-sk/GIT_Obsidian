@@ -20,6 +20,9 @@
         - https://www.washingtonpost.com/news/worldviews/wp/2016/10/13/the-long-history-of-the-u-s-interfering-with-elections-elsewhere/
 
 
+
+
+
 Social contract theory; 
 
 Like individuals, national governments are bound to each other by a social contract, holding countries to a certain standard to enforce the rights of the people. A component of this contract is the right to for a national government to rule only its own nation, and be held accountable to its own people. Interfering in another country's election violates the contract.
