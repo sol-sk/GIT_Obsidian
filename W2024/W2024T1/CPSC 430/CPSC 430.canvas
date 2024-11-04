@@ -121,6 +121,36 @@
       "height": 193
     },
     {
+      "id": "4e3e08900efa83cf",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 1 Outline.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 162,
+      "width": 680,
+      "height": 300
+    },
+    {
+      "id": "d1c96d0adccc28ef",
+      "type": "text",
+      "text": "### Lecture 2 09.10.24",
+      "styleAttributes": {},
+      "x": 1527,
+      "y": 102,
+      "width": 250,
+      "height": 58
+    },
+    {
+      "id": "213e1c0506d3be8a",
+      "type": "file",
+      "file": "W2024/W2024T1/W2024T1 Files/Lect1-1.pdf",
+      "styleAttributes": {},
+      "x": 1191,
+      "y": 280,
+      "width": 400,
+      "height": 320
+    },
+    {
       "id": "e82bd32dce95b53f",
       "type": "text",
       "text": "Argue **against**\n\nSocial networks should be held legally liable for the content of any post promoted to the feeds of over 100k users\n\n- Not liable for user's actions\n- Privacy concerns\n- Countries have varying laws; which defer to \n- **Person posting** should be held liable\n- Not **feasible** to screen that much content; 100k is low bar in grand scheme \n- **Censorship** from over-screening bad for user base & freedom\n- Retroactively becoming illegal either thru post editing or new laws\n- Can just cap your illegal posts at 99k \n\nSection 230",
@@ -161,46 +191,6 @@
       "height": 298
     },
     {
-      "id": "4a13c4c9714fd8b6",
-      "type": "text",
-      "text": "### Due 09-10-24 5:00PM\n- [x] Readings\n- [x] MTA: \n\t- [x] Calibrate peer reviews \n\t- [x] Complete quiz\n\t- [x] Write outline (150char) for essay \n- [x] Write essay in CBTF\n\t- [x] Attempt 1: 09-09-24 12-1PM\n\t- [ ] Attempt 2: 09-10-24 3-4PM\n- [x] Join piazza\n",
-      "styleAttributes": {},
-      "x": -369,
-      "y": 160,
-      "width": 344,
-      "height": 302
-    },
-    {
-      "id": "adec35d50cea2a55",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/Lect0.pdf",
-      "styleAttributes": {},
-      "x": -494,
-      "y": 496,
-      "width": 660,
-      "height": 504
-    },
-    {
-      "id": "2528eb2697d45091",
-      "type": "text",
-      "text": "#### Articles on Writing: [[All_Articles_on_Writing_A0w74ic_2_EYwx96N_WK33B2M_FIRiUnz_mXpyVsH.pdf]]",
-      "styleAttributes": {},
-      "x": -780,
-      "y": 101,
-      "width": 375,
-      "height": 121
-    },
-    {
-      "id": "844b0e21fd20e4ee",
-      "type": "text",
-      "text": "#### Mock debate",
-      "styleAttributes": {},
-      "x": 1591,
-      "y": 192,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "3da553b3f5bc3f6a",
       "type": "file",
       "file": "W2024/W2024T1/W2024T1 Files/Lect1-3.pdf",
@@ -212,34 +202,44 @@
       "height": 416
     },
     {
-      "id": "4e3e08900efa83cf",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 1 Outline.md",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 162,
-      "width": 680,
-      "height": 300
-    },
-    {
-      "id": "d1c96d0adccc28ef",
+      "id": "ce9e2fbe9768b40c",
       "type": "text",
-      "text": "### Lecture 2 09.10.24",
+      "text": "rolling out self driving cars to reduce traffic accidents is a less tenable and more environmentally destructive solution than improving public transportation",
       "styleAttributes": {},
-      "x": 1527,
-      "y": 102,
-      "width": 250,
-      "height": 58
+      "x": -1220,
+      "y": 3040,
+      "width": 443,
+      "height": 76
     },
     {
-      "id": "213e1c0506d3be8a",
-      "type": "file",
-      "file": "W2024/W2024T1/W2024T1 Files/Lect1-1.pdf",
+      "id": "c5d406d914208f3c",
+      "type": "text",
+      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
       "styleAttributes": {},
-      "x": 1191,
-      "y": 280,
-      "width": 400,
-      "height": 320
+      "x": -1220,
+      "y": 3144,
+      "width": 443,
+      "height": 241
+    },
+    {
+      "id": "4a13c4c9714fd8b6",
+      "type": "text",
+      "text": "### Due 09-10-24 5:00PM\n- [x] Readings\n- [x] MTA: \n\t- [x] Calibrate peer reviews \n\t- [x] Complete quiz\n\t- [x] Write outline (150char) for essay \n- [x] Write essay in CBTF\n\t- [x] Attempt 1: 09-09-24 12-1PM\n\t- [ ] Attempt 2: 09-10-24 3-4PM\n- [x] Join piazza\n",
+      "styleAttributes": {},
+      "x": -369,
+      "y": 160,
+      "width": 344,
+      "height": 302
+    },
+    {
+      "id": "844b0e21fd20e4ee",
+      "type": "text",
+      "text": "#### Mock debate",
+      "styleAttributes": {},
+      "x": 1591,
+      "y": 192,
+      "width": 250,
+      "height": 60
     },
     {
       "id": "5b566a3fb6273663",
@@ -282,6 +282,36 @@
       "height": 854
     },
     {
+      "id": "a263db81a669ce09",
+      "type": "text",
+      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=100&annotation=2634R|Social Contract Theory]]\n>  Hobbes argues that everybody living in a civilized society has implicitly agreed to two things: (1) the establishment of such a set of moral rules to govern relations among citi- zens and (2) a government capable of enforcing these rules. He calls this arrangement the social contract.\n\n> Social Contract Theory Morality consists in the set of rules, governing how people are to treat one another, that rational people will agree to accept, for their mutual benefit, on the condition that others follow those rules as well.\n\n**Rights**\n> A negative right is a right that another can guarantee by leaving you alone to exercise your right. \n> \n> A positive right is a right that obligates others to do something on your behalf. \n> \n> An absolute right is a right that is guaranteed without exception. Negative rights, such as the right to life, are usually considered absolute rights. \n> \n> A limited right is a right that may be restricted based on the circumstances.\n\n\n**John Rawls' Principles of Justice**\n> 1. Each person may claim a “fully adequate” number of basic rights and liberties, such as freedom of thought and speech, freedom of association, the right to be safe from harm, and the right to own property, so long as these claims are consistent with everyone else having a claim to the same rights and liberties. \n> 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (*the difference principle*)”\n\nPotential counterarguments: [[Ethics for the Information Age, 9e.pdf#page=106&annotation=2659R|The Case Against Social Contract Theory]]\n",
+      "styleAttributes": {},
+      "x": -1146,
+      "y": 4652,
+      "width": 660,
+      "height": 743
+    },
+    {
+      "id": "adec35d50cea2a55",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/Lect0.pdf",
+      "styleAttributes": {},
+      "x": -494,
+      "y": 496,
+      "width": 660,
+      "height": 504
+    },
+    {
+      "id": "2528eb2697d45091",
+      "type": "text",
+      "text": "#### Articles on Writing: [[All_Articles_on_Writing_A0w74ic_2_EYwx96N_WK33B2M_FIRiUnz_mXpyVsH.pdf]]",
+      "styleAttributes": {},
+      "x": -780,
+      "y": 101,
+      "width": 375,
+      "height": 121
+    },
+    {
       "id": "196c0f18998ee2a2",
       "type": "text",
       "text": "#### [[Ethics for the Information Age, 9e.pdf#page=107&annotation=2663R|Virtue Ethics]]\n\n**Aristotle:**\n>  Intellectual virtues are those virtues associated with reasoning and truth. Moral virtues, often called virtues of character by today’s writers, are habits or dispositions formed through the repetition of the relevant virtuous actions  \n\n> Morally good people consistently do what is right; it becomes second nature to them. Note, then, that a moral virtue is not simply a disposition to act in a particular way, it is also a disposition to feel in a particular way. ",
@@ -312,36 +342,6 @@
       "height": 394
     },
     {
-      "id": "2ee057a9210bbf47",
-      "type": "text",
-      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
-      "styleAttributes": {},
-      "x": 860,
-      "y": 4240,
-      "width": 320,
-      "height": 197
-    },
-    {
-      "id": "b5d401081f98b46b",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 4 Outline.md",
-      "styleAttributes": {},
-      "x": -426,
-      "y": 4529,
-      "width": 600,
-      "height": 81
-    },
-    {
-      "id": "a263db81a669ce09",
-      "type": "text",
-      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=100&annotation=2634R|Social Contract Theory]]\n>  Hobbes argues that everybody living in a civilized society has implicitly agreed to two things: (1) the establishment of such a set of moral rules to govern relations among citi- zens and (2) a government capable of enforcing these rules. He calls this arrangement the social contract.\n\n> Social Contract Theory Morality consists in the set of rules, governing how people are to treat one another, that rational people will agree to accept, for their mutual benefit, on the condition that others follow those rules as well.\n\n**Rights**\n> A negative right is a right that another can guarantee by leaving you alone to exercise your right. \n> \n> A positive right is a right that obligates others to do something on your behalf. \n> \n> An absolute right is a right that is guaranteed without exception. Negative rights, such as the right to life, are usually considered absolute rights. \n> \n> A limited right is a right that may be restricted based on the circumstances.\n\n\n**John Rawls' Principles of Justice**\n> 1. Each person may claim a “fully adequate” number of basic rights and liberties, such as freedom of thought and speech, freedom of association, the right to be safe from harm, and the right to own property, so long as these claims are consistent with everyone else having a claim to the same rights and liberties. \n> 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (*the difference principle*)”\n\nPotential counterarguments: [[Ethics for the Information Age, 9e.pdf#page=106&annotation=2659R|The Case Against Social Contract Theory]]\n",
-      "styleAttributes": {},
-      "x": -1146,
-      "y": 4652,
-      "width": 660,
-      "height": 743
-    },
-    {
       "id": "9eee6e2d167791bc",
       "type": "text",
       "text": "**Falsifying documents**: A nurse’s close friend is in desperate need of medical help but cannot afford treatment. Is it morally justifiable for the nurse to falsify medical documents to help their friend, even though it violates their professional duties? Evaluate this from the perspective of social contract theory and/or virtue ethics.",
@@ -350,26 +350,6 @@
       "y": 4529,
       "width": 660,
       "height": 103
-    },
-    {
-      "id": "88f4803ba99ebc3b",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 5 Outline.md",
-      "styleAttributes": {},
-      "x": 200,
-      "y": 4529,
-      "width": 594,
-      "height": 90
-    },
-    {
-      "id": "8a44a6c3321d3e5e",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 6 Outline.md",
-      "styleAttributes": {},
-      "x": 820,
-      "y": 4529,
-      "width": 590,
-      "height": 757
     },
     {
       "id": "bb6a83402d8dfee8",
@@ -412,24 +392,64 @@
       "height": 380
     },
     {
-      "id": "ce9e2fbe9768b40c",
+      "id": "adc561ea4ee6bdfa",
       "type": "text",
-      "text": "rolling out self driving cars to reduce traffic accidents is a less tenable and more environmentally destructive solution than improving public transportation",
+      "text": "me",
       "styleAttributes": {},
-      "x": -1220,
-      "y": 3040,
-      "width": 443,
-      "height": 76
+      "x": 856,
+      "y": 4127,
+      "width": 260,
+      "height": 60
     },
     {
-      "id": "c5d406d914208f3c",
+      "id": "239d2c25443b0136",
       "type": "text",
-      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
+      "text": "Against act utilitarianism: \n\n- problem of scope: what is in calculation?\n- ignores innate sense of duty\n- s",
       "styleAttributes": {},
-      "x": -1220,
-      "y": 3144,
-      "width": 443,
-      "height": 241
+      "x": 1249,
+      "y": 4038,
+      "width": 260,
+      "height": 182
+    },
+    {
+      "id": "2ee057a9210bbf47",
+      "type": "text",
+      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 4240,
+      "width": 320,
+      "height": 197
+    },
+    {
+      "id": "b5d401081f98b46b",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 4 Outline.md",
+      "styleAttributes": {},
+      "x": -426,
+      "y": 4529,
+      "width": 600,
+      "height": 81
+    },
+    {
+      "id": "88f4803ba99ebc3b",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 5 Outline.md",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 4529,
+      "width": 594,
+      "height": 90
+    },
+    {
+      "id": "8a44a6c3321d3e5e",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 6 Outline.md",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 4529,
+      "width": 590,
+      "height": 757
     },
     {
       "id": "c4b195bdf8dc1012",
@@ -462,16 +482,6 @@
       "height": 50
     },
     {
-      "id": "2ac44bbcc1c552ef",
-      "type": "text",
-      "text": "### 09.24.24: Kant",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 3760,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "4629149cbe263acb",
       "type": "text",
       "text": "1. Quantify utility \n2. Sum harms vs benefits\n3. Whichever way the scale tips",
@@ -492,24 +502,14 @@
       "height": 60
     },
     {
-      "id": "adc561ea4ee6bdfa",
+      "id": "2ac44bbcc1c552ef",
       "type": "text",
-      "text": "me",
+      "text": "### 09.24.24: Kant",
       "styleAttributes": {},
-      "x": 856,
-      "y": 4127,
+      "x": -340,
+      "y": 3760,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "239d2c25443b0136",
-      "type": "text",
-      "text": "Against act utilitarianism: \n\n- problem of scope: what is in calculation?\n- ignores innate sense of duty\n- s",
-      "styleAttributes": {},
-      "x": 1249,
-      "y": 4038,
-      "width": 260,
-      "height": 182
     },
     {
       "id": "e2e30c276f928d07",
@@ -540,6 +540,15 @@
       "y": 3740,
       "width": 460,
       "height": 389
+    },
+    {
+      "id": "889e6d2fd96af1ad",
+      "x": 582,
+      "y": 6109,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 9 Outline.md"
     }
   ],
   "edges": [
