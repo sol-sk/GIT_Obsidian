@@ -163,7 +163,9 @@ What do you know when you know a language?
 #### Pt 1 Syllable shapes (what we know)
 **Example**
 - BL4: Spanish 
-- Whhat
+- What are the sounds that are systematically missing? 
+	- Second consonant in CCV -- (l, r)
+	- 
 
 
 
