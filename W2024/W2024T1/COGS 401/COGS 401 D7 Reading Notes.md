@@ -165,7 +165,10 @@ What do you know when you know a language?
 - BL4: Spanish 
 - What are the sounds that are systematically missing? 
 	- Second consonant in CCV -- (l, r)
+	- l, r survive in other clusters: if consonant is in diff syllable, 2 can be in a row
 	- 
+
+
 
 
 
