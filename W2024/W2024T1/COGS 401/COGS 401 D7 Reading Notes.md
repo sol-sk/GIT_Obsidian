@@ -161,12 +161,16 @@ What do you know when you know a language?
 → Maybe human languages similar bc of human minds
 
 #### Pt 1 Syllable shapes (what we know)
-**Example**
-- BL4: Spanish 
+**BL4 Spanish** 
 - What are the sounds that are systematically missing? 
 	- Second consonant in CCV -- (l, r)
 	- l, r survive in other clusters: if consonant is in diff syllable, 2 can be in a row
-	- 
+
+**Japanese loan words**
+- Vowel insertion between consonant sounds
+	- Strike → sitoraiku, 
+- Diff Japanese speakers do this diff, in part relating to knowledge of english 
+- 
 
 
 
