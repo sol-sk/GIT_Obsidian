@@ -209,6 +209,8 @@ Is it about comfort of pronunciation?
 - Well, sort of, but it's *systematic*, which suggests not entirely
 	- gr, bl, pl: are differently difficult, but there's typically a generalization of CC that kids do where they don't differentiate 
 ### Pt 2 Word shapes/sizes (what we know)
+3 kids learning english: 24, 18, 18 mo respectively
+
 
 
 ### Pt 3 more investigation of word shapes/swearing
