@@ -248,4 +248,10 @@ Kids learn:
 **"Shitgibbons"**
 one-syllable swear + trochee (normal noun)
 - Vowel in swear word and in trochee *match*
+- Vowels "seeing" vowels aka matching is important across languages
+
+**Tessier experiment**
+Do shitgibbons with matching vowels/consonants/no matching make insult *funnier*?
+- Vowels: yes, significantly (+1 point out of 5!)
+- Consonants: no significant effect
 - 
