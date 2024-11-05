@@ -240,4 +240,7 @@ Kids learn:
 ### Pt 3 more investigation of word shapes/swearing
 **Expletive infixation** 
 - Athabasca → Atha-fuckin-basca
-- 
+- Missus sip fucking pee
+- Inserted after first trochee
+- Can't really be done with iamb syllable words
+- Has to be "footable"
