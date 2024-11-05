@@ -189,14 +189,15 @@ Nothing is perfect; we can only be *optimal*
 
 | /bla/   | No syllables starting [.CC | Don't delete | Don't add |
 | ------- | -------------------------- | ------------ | --------- |
-| {bla}   |                            |              |           |
-| {bu.la} |                            |              |           |
-| {ba}    |                            |              |           |
-| {la}    |                            |              |           |
-Ranking: most 
+| {bla}   | *!                         |              |           |
+| {bu.la} |                            |              | *         |
+| {ba}    |                            | *!           |           |
+| {la}    |                            | *!           |           |
+Ranking: most important → least important
+- This ranking reflects Japanese
 
-
-
+Fatal violations: !
+Little pointy hand: winner
 
 ### Pt 2 Word shapes/sizes (what we know)
 
