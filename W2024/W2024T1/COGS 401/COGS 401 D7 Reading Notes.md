@@ -216,7 +216,11 @@ Is it about comfort of pronunciation?
 2 kids learning spanish: 3 syllable words
 - Same banana → nana pattern of deletion (very common)
 
-Manam (austronesian language spoken )
+Manam (austronesian language spoken NE of Papua new guinea)
+→ reduplication (it's not "coffee -coffee," we're not "living together -living together", stress on first word/phrase)
+- Copied: either the last 1 or 2 syllables 
+	- 2 copied; last one ends in consonant
+
 
 ### Pt 3 more investigation of word shapes/swearing
 
