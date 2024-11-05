@@ -176,7 +176,12 @@ What do you know when you know a language?
 - Diff Japanese speakers do this diff, in part relating to knowledge of english 1
 
 **Tibetan numerals**
+- (in drawing bc/ too much IPA)
+- Silent consonants part of UR and appear in some SR given correct contexts
 
+
+##### Optimality theory: 
+***Do not start syllables with two consonants***
 
 
 
