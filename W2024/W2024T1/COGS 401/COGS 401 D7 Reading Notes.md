@@ -160,8 +160,15 @@ What do you know when you know a language?
 
 → Maybe human languages similar bc of human minds
 
-#### Pt 1 Syllable shapes
+#### Pt 1 Syllable shapes (what we know)
+**Example**
+- BL4: Spanish 
+- Whhat
 
-#### Pt 2 Word shapes/sizes
 
-#### Pt 3 more investigation of wor
+
+
+#### Pt 2 Word shapes/sizes (what we know)
+
+#### Pt 3 more investigation of word shapes/swearing
+
