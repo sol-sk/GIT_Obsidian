@@ -144,8 +144,8 @@ Both important <3
 "One of the tricky balancing acts for the linguist studying phonological acquisition is to use these two data sources in tandem. How much stock should we put in any one child’s data? And then again, how should data aver- aged across multiple children be interpreted? These questions will become more crucial as we proceed, and as you consider your own interests in studying phonological development." (p.90)
 
 
-____
-### Guest Lecture - Tessier
+
+## Guest Lecture - Tessier
 
 What do you know when you know a language? 
 - Do you memorize all components (syllables, sounds, words)
@@ -160,7 +160,7 @@ What do you know when you know a language?
 
 → Maybe human languages similar bc of human minds
 
-#### Pt 1 Syllable shapes (what we know)
+### Pt 1 Syllable shapes (what we know)
 **BL4 Spanish** 
 - What are the sounds that are systematically missing? 
 	- Second consonant in CCV -- (l, r)
@@ -181,15 +181,24 @@ What do you know when you know a language?
 
 /insert
 
-##### Optimality theory: 
-***Do not start syllables with two consonants***
+#### Optimality theory: 
+**Do not start syllables with two consonants**
+- Languages have different levels of "comfort" with violating this: Japanese doesn't, english does
 
-Nothing is perfect; we can only be optimal 
+Nothing is perfect; we can only be *optimal* 
+
+| /bla/   | No syllables starting [.CC | Don't delete | Don't add |
+| ------- | -------------------------- | ------------ | --------- |
+| {bla}   |                            |              |           |
+| {bu.la} |                            |              |           |
+| {ba}    |                            |              |           |
+| {la}    |                            |              |           |
+Ranking: most 
 
 
 
 
-#### Pt 2 Word shapes/sizes (what we know)
+### Pt 2 Word shapes/sizes (what we know)
 
-#### Pt 3 more investigation of word shapes/swearing
+### Pt 3 more investigation of word shapes/swearing
 
