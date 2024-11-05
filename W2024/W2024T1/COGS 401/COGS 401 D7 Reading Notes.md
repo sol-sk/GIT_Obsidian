@@ -254,4 +254,6 @@ one-syllable swear + trochee (normal noun)
 Do shitgibbons with matching vowels/consonants/no matching make insult *funnier*?
 - Vowels: yes, significantly (+1 point out of 5!)
 - Consonants: no significant effect
-- 
+- In debrief literally nobody noticed the matching or not; has non-conscious effect/intuition
+We have this knowledge..innately? 
+
