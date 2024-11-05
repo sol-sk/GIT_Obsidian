@@ -193,11 +193,14 @@ Nothing is perfect; we can only be *optimal*
 | {bu.la} |                            |              | *         |
 | {ba}    |                            | *!           |           |
 | {la}    |                            | *!           |           |
-Ranking: most important → least important
-- This ranking reflects Japanese
+- Fatal violations: !
+- Little pointy hand: winner
+- Ranking: most important → least important
+	- This ranking reflects Japanese
 
-Fatal violations: !
-Little pointy hand: winner
+/bla/ → /la/ in Tibetan
+/bla/ → /ba/ in baby Spanish (Don't add, no CC >> )
+/bla/ → /bla/ in English (Max >>)
 
 ### Pt 2 Word shapes/sizes (what we know)
 
