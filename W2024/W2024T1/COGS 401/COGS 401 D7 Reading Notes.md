@@ -247,4 +247,5 @@ Kids learn:
 
 **"Shitgibbons"**
 one-syllable swear + trochee (normal noun)
-
+- Vowel in swear word and in trochee *match*
+- 
