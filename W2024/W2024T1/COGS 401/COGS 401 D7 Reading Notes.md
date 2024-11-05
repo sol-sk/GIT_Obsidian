@@ -179,9 +179,12 @@ What do you know when you know a language?
 - (in drawing bc/ too much IPA)
 - Silent consonants part of UR and appear in some SR given correct contexts
 
+/insert
 
 ##### Optimality theory: 
 ***Do not start syllables with two consonants***
+
+Nothing is perfect; we can only be optimal 
 
 
 
