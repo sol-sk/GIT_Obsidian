@@ -228,5 +228,11 @@ Michael → Mike, Mikey
 Typically one of stressed syllables is kept
 Either made 1 or 2 syllables, first stressed
 
+Feet (?)
+
+Stressed/unstressed syllable pair aka *trochee* 
+Unstressed/stressed = *iamb* 
 ### Pt 3 more investigation of word shapes/swearing
+Inventing words
+Picking out syllable units 
 
