@@ -154,8 +154,14 @@ What do you know when you know a language?
 
 - What do you know about the structure of the sounds, syllables, speech units of your language?
 
-
 - What do you know when you know a language? 
-
 - What do you know abt structure of sounds/syll/speech units ?
-- why are unrelated lang 
+- why are unrelated lang similar?
+
+→ Maybe human languages similar bc of human minds
+
+#### Pt 1 Syllable shapes
+
+#### Pt 2 Word shapes/sizes
+
+#### Pt 3 more investigation of wor
