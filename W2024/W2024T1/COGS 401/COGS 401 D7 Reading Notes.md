@@ -175,7 +175,8 @@ What do you know when you know a language?
 	- 
 - Diff Japanese speakers do this diff, in part relating to knowledge of english 1
 
-**Tib**
+**Tibetan numerals**
+
 
 
 
