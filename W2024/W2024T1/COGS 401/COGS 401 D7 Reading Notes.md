@@ -228,7 +228,7 @@ Michael → Mike, Mikey
 Typically one of stressed syllables is kept
 Either made 1 or 2 syllables, first stressed
 
-Feet (?)
+Feet: contain stressed and unstressed syllable, e.g. troche, iamb, etc.
 
 Stressed/unstressed syllable pair aka *trochee* 
 Unstressed/stressed = *iamb* 
@@ -243,4 +243,8 @@ Kids learn:
 - Missus sip fucking pee
 - Inserted after first trochee
 - Can't really be done with iamb syllable words
-- Has to be "footable"
+- Has to be "footable"; not enough if just before or after
+
+**"Shitgibbons"**
+one-syllable swear + trochee (normal noun)
+
