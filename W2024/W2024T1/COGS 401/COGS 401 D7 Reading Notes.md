@@ -232,7 +232,12 @@ Feet (?)
 
 Stressed/unstressed syllable pair aka *trochee* 
 Unstressed/stressed = *iamb* 
-### Pt 3 more investigation of word shapes/swearing
-Inventing words
-Picking out syllable units 
+Languages tend to prefer one 
+Kids learn: 
+	Inventing words
+	Picking out syllable units 
 
+### Pt 3 more investigation of word shapes/swearing
+**Expletive infixation** 
+- Athabasca → Atha-fuckin-basca
+- 
