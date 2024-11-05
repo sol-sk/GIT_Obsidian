@@ -246,6 +246,7 @@ Kids learn:
 - Has to be "footable"; not enough if just before or after
 
 **"Shitgibbons"**
+Originating from 2017 tweet by PA senator about Donald Trump
 one-syllable swear + trochee (normal noun)
 - Vowel in swear word and in trochee *match*
 - Vowels "seeing" vowels aka matching is important across languages
@@ -256,4 +257,6 @@ Do shitgibbons with matching vowels/consonants/no matching make insult *funnier*
 - Consonants: no significant effect
 - In debrief literally nobody noticed the matching or not; has non-conscious effect/intuition
 We have this knowledge..innately? 
+"Marginal lexicon": you aren't taught, told how to use swear words -- furthest edge of "prescribed" grammar/lexicon
+
 
