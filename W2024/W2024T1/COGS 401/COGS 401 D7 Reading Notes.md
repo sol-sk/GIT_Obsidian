@@ -7,7 +7,7 @@ Segmenting separates a word into phoneme-sounds
 
 
 
-![[Tessier2015_Chapter3-1.pdf]]
+![[Tessier2015_Chapter3.pdf]]
 
 ### Optimality Theory 
 
@@ -26,7 +26,7 @@ If following one constraint makes it impossible to follow other constraints, we 
 Chart notation: 
 * Violation mark = *
 - Filtered out losing candidate = !
-> The exclamation points in this tableau are a standard way of highlighting why each suboptimal candidate lost out to the optimal one – that is they show which constraint filtered out that row’s losing candidate, in favour of the winning optimal one. Notice that the ordering of the rows in a tableau is arbitrary: each one simply lists a potential candidate and its violations. [[Tessier2015_Chapter3-1.pdf#page=11&selection=53,0,59,1|Tessier2015_Chapter3-1, page 11]]
+> The exclamation points in this tableau are a standard way of highlighting why each suboptimal candidate lost out to the optimal one – that is they show which constraint filtered out that row’s losing candidate, in favour of the winning optimal one. Notice that the ordering of the rows in a tableau is arbitrary: each one simply lists a potential candidate and its violations. [[Tessier2015_Chapter3.pdf#page=11&selection=53,0,59,1|Tessier2015_Chapter3-1, page 11]]
 
 
 *Designing the optimal phonological grammar*
@@ -81,21 +81,21 @@ Depends on *context:* (relative sonority)
 GlideOnset >> LiquidOnset >> NasalOnset >> FricOnset
 
 ![[Pasted image 20241029102014.jpg]]
-[[Tessier2015_Chapter3-1.pdf#page=26&selection=70,0,93,12|page 26]]
+[[Tessier2015_Chapter3.pdf#page=26&selection=70,0,93,12|page 26]]
 
 Hebrew children example
 - obstruent-obstruent clusters permitted
 - Position in cluster: *closest to vowel survives*, not just sonority ranking
 	- Contiguity (faithfulness constraint) 
 
-> The additional tool that we will use to capture this ordering fact is a **faithfulness constraint**, proposed in the OT literature to explain other target language patterns, which prefers output strings to be contiguous in the input. This constraint (simply called CONTIGUITY) always prefers $/C_1C_2V/ \rightarrow [C_2V]$ in every case, simply because the alternative $[C_1V]$ involves two segments which are contiguous in the output but not the input. [[Tessier2015_Chapter3-1.pdf#page=29&selection=119,0,143,53|page 29]]
+> The additional tool that we will use to capture this ordering fact is a **faithfulness constraint**, proposed in the OT literature to explain other target language patterns, which prefers output strings to be contiguous in the input. This constraint (simply called CONTIGUITY) always prefers $/C_1C_2V/ \rightarrow [C_2V]$ in every case, simply because the alternative $[C_1V]$ involves two segments which are contiguous in the output but not the input. [[Tessier2015_Chapter3.pdf#page=29&selection=119,0,143,53|page 29]]
 
 *If onset is already low sonority, contiguity matters more* 
 
 #### *Word-mediality* (3.4.4)
 SyllableContact (BUT, some languages have grammars which violate this ie Italian)
 ![[Screenshot 2024-11-03 at 11.58.23 AM.png]]
-[[Tessier2015_Chapter3-1.pdf#page=32&selection=117,1,120,4|page 32]]
+[[Tessier2015_Chapter3.pdf#page=32&selection=117,1,120,4|page 32]]
 
 ### **3.5 Consequences and alternatives**
 
@@ -122,7 +122,7 @@ Constraints are applied in *parallel*
 Constraints take into account (predict) *variability of resolutions* that are applied across languages and children
 Rules focus on process of different resolutions 
 - Misses the point bc/ not looking at end goal 
-- More importantly: *attestation* ** what ? [[Tessier2015_Chapter3-1.pdf#page=37&selection=79,29,79,74|page 37]]
+- More importantly: *attestation* ** what ? [[Tessier2015_Chapter3.pdf#page=37&selection=79,29,79,74|page 37]]
 
 
 ### **3.6 Methodology: Longitudinal and Cross-Sectional Studies**
