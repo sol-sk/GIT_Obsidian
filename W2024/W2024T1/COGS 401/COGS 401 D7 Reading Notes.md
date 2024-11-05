@@ -259,4 +259,6 @@ Do shitgibbons with matching vowels/consonants/no matching make insult *funnier*
 We have this knowledge..innately? 
 "Marginal lexicon": you aren't taught, told how to use swear words -- furthest edge of "prescribed" grammar/lexicon
 
+Ned Flanders
+- 
 
