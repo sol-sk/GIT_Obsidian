@@ -171,6 +171,8 @@ What do you know when you know a language?
 	- Strike → sitoraiku
 	- tch & dj sounds are translated into similar sound
 	- (How do you choose which vowel is inserted? question to be answered another time- but there is an anwer)
+	- One consonant cluster preserved: n- or other nasal consonant, followed by d/k/plosive 
+	- 
 - Diff Japanese speakers do this diff, in part relating to knowledge of english 
 - 
 
