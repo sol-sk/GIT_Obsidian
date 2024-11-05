@@ -262,5 +262,6 @@ We have this knowledge..innately?
 Ned Flanders
 - "Diddly"-infixation
 - Does it where you *can't* do fuckin-infixation: on iambs
-- 
+- 1
 
+![[Screenshot 2024-11-05 at 11.14.09 AM.png]]
