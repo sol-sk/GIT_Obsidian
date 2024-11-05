@@ -148,6 +148,14 @@ ____
 ### Guest Lecture - Tessier
 
 What do you know when you know a language? 
-- DO you memorize all components
+- Do you memorize all components (syllables, sounds, words)
+	- No: bc we can generate
 - Something else/more/entirely different
 
+- What do you know about the structure of the sounds, syllables, speech units of your language?
+
+
+- What do you know when you know a language? 
+
+- What do you know abt structure of sounds/syll/speech units ?
+- why are unrelated lang 
