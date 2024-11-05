@@ -202,7 +202,8 @@ Nothing is perfect; we can only be *optimal*
 /bla/ → /ba/ in baby Spanish (Don't add, no CC >> )
 /bla/ → /bla/ in English (Max >>)
 
-Kids don't tend to 
+Kids don't tend to *add* consonants
+Languages don't tend to *prefer* adding more consonants
 ### Pt 2 Word shapes/sizes (what we know)
 
 ### Pt 3 more investigation of word shapes/swearing
