@@ -146,3 +146,8 @@ Both important <3
 
 ____
 ### Guest Lecture - Tessier
+
+What do you know when you know a language? 
+- DO you memorize all components
+- Something else/more/entirely different
+
