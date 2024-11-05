@@ -167,8 +167,10 @@ What do you know when you know a language?
 	- l, r survive in other clusters: if consonant is in diff syllable, 2 can be in a row
 
 **Japanese loan words**
-- Vowel insertion between consonant sounds
-	- Strike → sitoraiku, 
+- Vowel insertion between consonant sounds & vowels added to end of words ending in consonants
+	- Strike → sitoraiku
+	- tch & dj sounds are translated into similar sound
+	- (How do you choose which vowel is inserted? question to be answered another time- but there is an anwer)
 - Diff Japanese speakers do this diff, in part relating to knowledge of english 
 - 
 
