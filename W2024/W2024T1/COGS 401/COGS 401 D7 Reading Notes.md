@@ -210,8 +210,13 @@ Is it about comfort of pronunciation?
 	- gr, bl, pl: are differently difficult, but there's typically a generalization of CC that kids do where they don't differentiate 
 ### Pt 2 Word shapes/sizes (what we know)
 3 kids learning english: 24, 18, 18 mo respectively
+- Generally make all words 2 syllables
+- Stress first syllable
 
+2 kids learning spanish: 3 syllable words
+- Same banana → nana pattern of deletion (very common)
 
+Manam (austronesian language spoken )
 
 ### Pt 3 more investigation of word shapes/swearing
 
