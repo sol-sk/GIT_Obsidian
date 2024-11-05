@@ -260,5 +260,7 @@ We have this knowledge..innately?
 "Marginal lexicon": you aren't taught, told how to use swear words -- furthest edge of "prescribed" grammar/lexicon
 
 Ned Flanders
+- "Diddly"-infixation
+- Does it where you *can't* do fuckin-infixation: on iambs
 - 
 
