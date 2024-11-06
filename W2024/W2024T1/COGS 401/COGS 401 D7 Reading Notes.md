@@ -143,7 +143,7 @@ Both important <3
 
 "One of the tricky balancing acts for the linguist studying phonological acquisition is to use these two data sources in tandem. How much stock should we put in any one child’s data? And then again, how should data aver- aged across multiple children be interpreted? These questions will become more crucial as we proceed, and as you consider your own interests in studying phonological development." (p.90)
 
-
+P
 
 ## Guest Lecture - Tessier
 
