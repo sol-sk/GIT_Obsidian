@@ -241,7 +241,7 @@ Kids learn:
 **Expletive infixation** 
 - Athabasca → Atha-fuckin-basca
 - Missus sip fucking pee
-- Inserted after first trochee
+- Inserted after first trocheoe
 - Can't really be done with iamb syllable words
 - Has to be "footable"; not enough if just before or after
 
