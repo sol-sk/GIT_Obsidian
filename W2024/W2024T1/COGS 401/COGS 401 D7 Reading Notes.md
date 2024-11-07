@@ -1,4 +1,4 @@
-![[Tessier2015_Chapter1_Refresher.pdf]]
+ ![[Tessier2015_Chapter1_Refresher.pdf]]
 Underlying representations = mental representations (mental lexicon)
 Surface representations = verbalized outputs
 ”Phonological grammar (is) a language-specific filter” (2) ; “phonology is about the legality of speech sound interactions in a language” (4)
