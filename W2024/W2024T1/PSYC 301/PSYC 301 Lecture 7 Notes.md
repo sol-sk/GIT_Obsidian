@@ -1,5 +1,5 @@
 ---
-annotation-target: W2024/ /PSYC301 Lecture 07 - Exam and assessment.pdf
+annotation-target: W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf
 ---
 
 
