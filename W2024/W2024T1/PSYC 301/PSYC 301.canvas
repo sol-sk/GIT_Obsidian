@@ -41,493 +41,6 @@
       "label": "304"
     },
     {
-      "id": "6d6c8fb444f7db8e",
-      "type": "text",
-      "text": "## Telencephalon",
-      "styleAttributes": {},
-      "x": -379,
-      "y": 1220,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "7a305537cfd18a2f",
-      "type": "text",
-      "text": "Telencephalon",
-      "styleAttributes": {},
-      "x": 734,
-      "y": 1140,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "a7b61daa356ec27a",
-      "type": "text",
-      "text": "## Diencephalon",
-      "styleAttributes": {},
-      "x": 559,
-      "y": 1220,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "f2bf3ebe0e1fff12",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 3.md",
-      "styleAttributes": {},
-      "x": 356,
-      "y": 390,
-      "width": 330,
-      "height": 50
-    },
-    {
-      "id": "cb3ab21a37bc764e",
-      "type": "text",
-      "text": "Diencephalon",
-      "styleAttributes": {},
-      "x": 929,
-      "y": 1040,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "b549ba866e4da74d",
-      "type": "text",
-      "text": "### 09.12.24",
-      "styleAttributes": {},
-      "x": 558,
-      "y": 465,
-      "width": 128,
-      "height": 60
-    },
-    {
-      "id": "f9c059a32a020199",
-      "type": "text",
-      "text": "#### Anatomical dimensions & slices\n![[PSYC301 Lecture 03 - Neuroanatomy II.pdf#page=12]]\n",
-      "styleAttributes": {},
-      "x": 800,
-      "y": 500,
-      "width": 460,
-      "height": 371
-    },
-    {
-      "id": "4d0d53dc157bcc00",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 02 - Neuroanatomy I.pdf",
-      "styleAttributes": {},
-      "x": -252,
-      "y": 540,
-      "width": 330,
-      "height": 290
-    },
-    {
-      "id": "f951c9ef01a6ce0b",
-      "type": "text",
-      "text": "### 09.10.24",
-      "styleAttributes": {},
-      "x": -47,
-      "y": 465,
-      "width": 128,
-      "height": 60
-    },
-    {
-      "id": "d8753a02b55e6e6f",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 2.md",
-      "styleAttributes": {},
-      "x": -880,
-      "y": 413,
-      "width": 330,
-      "height": 112
-    },
-    {
-      "id": "4cd2be92383084f7",
-      "type": "text",
-      "text": "Forebrain",
-      "styleAttributes": {},
-      "x": 929,
-      "y": 940,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "e4e2f18f09cf35d1",
-      "type": "text",
-      "text": "##### Tectum (\"roof\")",
-      "styleAttributes": {},
-      "x": 1271,
-      "y": 1716,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "780bf0a5830eff3e",
-      "type": "text",
-      "text": "### 09.17.24\nFinishing up Lecture 3 slides",
-      "styleAttributes": {},
-      "x": 1260,
-      "y": 270,
-      "width": 260,
-      "height": 75
-    },
-    {
-      "id": "7ffc752b41ed4a36",
-      "type": "text",
-      "text": "# 09.05.24",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -150,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "58f19a55ec0a67ab",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301-001 2024 Fall - Syllabus.pdf",
-      "styleAttributes": {},
-      "x": -432,
-      "y": -140,
-      "width": 495,
-      "height": 480
-    },
-    {
-      "id": "afc45706ca33a681",
-      "type": "text",
-      "text": "\n| PSYC_V 301-001 - Brain Dysfunction and Recovery | Lecture | Tue Thu <br>12:30 p.m. - 2:00 p.m. <br>LSK-Room 200 | Jay Hosking | 1   |\n| ----------------------------------------------- | ------- | --------------------------------------------------- | ----------- | --- |\n",
-      "styleAttributes": {},
-      "x": -307,
-      "y": -273,
-      "width": 739,
-      "height": 93
-    },
-    {
-      "id": "addf36ddccf8f470",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 03 - Neuroanatomy II.pdf",
-      "styleAttributes": {},
-      "x": 356,
-      "y": 540,
-      "width": 330,
-      "height": 290
-    },
-    {
-      "id": "8e833d5a0200fec1",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.48.09 AM.png",
-      "styleAttributes": {},
-      "x": 1414,
-      "y": 1335,
-      "width": 355,
-      "height": 351
-    },
-    {
-      "id": "08aee579857bde59",
-      "type": "text",
-      "text": "## Mesencephalon",
-      "styleAttributes": {},
-      "x": 1469,
-      "y": 1220,
-      "width": 245,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "815dbee9a51bcefd",
-      "type": "text",
-      "text": "Mesencephalon",
-      "styleAttributes": {},
-      "x": 1304,
-      "y": 1040,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "5fb2667021bfc396",
-      "type": "text",
-      "text": "Midbrain",
-      "styleAttributes": {},
-      "x": 1304,
-      "y": 940,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "3a00b9e1c03d09ea",
-      "type": "text",
-      "text": "1. Coronal section\n2. Mid-sagittal section\n3. Horizontal section",
-      "styleAttributes": {},
-      "x": 800,
-      "y": 390,
-      "width": 250,
-      "height": 84
-    },
-    {
-      "id": "64d1249c4595ace8",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 01 - Intro and policies.pdf",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -80,
-      "width": 580,
-      "height": 280
-    },
-    {
-      "id": "a490510eaa38f7b4",
-      "type": "text",
-      "text": "### Office hours\nhttps://jayhosking.youcanbook.me",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 220,
-      "width": 360,
-      "height": 100
-    },
-    {
-      "id": "f92b970d83c5e883",
-      "type": "text",
-      "text": "**Damage**:\n- Specific: Can be vision, etc. specific damage\n- General: difficulty maintaining consciousness\n\t- Awake, but not aware",
-      "styleAttributes": {},
-      "x": 192,
-      "y": 2335,
-      "width": 508,
-      "height": 130,
-      "color": "1"
-    },
-    {
-      "id": "6540b4e50b582e40",
-      "type": "text",
-      "text": "#### Substantia nigra:\n> Critical for eliciting movement",
-      "styleAttributes": {},
-      "x": 1597,
-      "y": 2416,
-      "width": 243,
-      "height": 130,
-      "color": "5"
-    },
-    {
-      "id": "35bb88eafb124bbf",
-      "type": "text",
-      "text": "Damage = Parkinson's",
-      "styleAttributes": {},
-      "x": 1556,
-      "y": 2574,
-      "width": 250,
-      "height": 55,
-      "color": "1"
-    },
-    {
-      "id": "70447708ad179e2c",
-      "type": "text",
-      "text": " #### **Red nucleus:** \n> Bigger role in animals with smaller forebrains\n> **Species specific behaviors**\n> Schizophrenia meds can affect red nucleus, manifesting as involuntary arm jerking, mouth movements",
-      "styleAttributes": {},
-      "x": 1719,
-      "y": 2666,
-      "width": 334,
-      "height": 268,
-      "color": "5"
-    },
-    {
-      "id": "2ca46f39ce162a26",
-      "type": "text",
-      "text": "#### Ventral tegmental area (VTA)\n> Motivation, learning, addiction, potentiating motivation-related motor",
-      "styleAttributes": {},
-      "x": 1923,
-      "y": 2447,
-      "width": 350,
-      "height": 155,
-      "color": "5"
-    },
-    {
-      "id": "e80e7d26564463a9",
-      "type": "text",
-      "text": "Electric stimulation of thalamus triggers consciousness",
-      "styleAttributes": {},
-      "x": 192,
-      "y": 2476,
-      "width": 508,
-      "height": 50,
-      "color": "4"
-    },
-    {
-      "id": "c2b44df976fde271",
-      "type": "text",
-      "text": "> Comprised of two pairs of bumps (colliculi)\n> Superior colliculi: vision with respect to eye movement\n> Inferior colliculi: audition with respect to head/body orientation\n",
-      "styleAttributes": {},
-      "x": 1202,
-      "y": 2006,
-      "width": 399,
-      "height": 178,
-      "color": "5"
-    },
-    {
-      "id": "4374746cc0f20648",
-      "type": "text",
-      "text": "### Hypothalamus",
-      "styleAttributes": {},
-      "x": 771,
-      "y": 1716,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "ae4ac24eed8e52b2",
-      "type": "text",
-      "text": "\"foot\" of diencephalon - directly below is pituitary",
-      "styleAttributes": {},
-      "x": 1026,
-      "y": 1591,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d8ebf56ea9df5620",
-      "type": "text",
-      "text": "During sleep: no corticothalamic loops",
-      "styleAttributes": {},
-      "x": -31,
-      "y": 2574,
-      "width": 320,
-      "height": 54
-    },
-    {
-      "id": "d07e5401e1821e9d",
-      "type": "text",
-      "text": "\"reverberant activity\"",
-      "styleAttributes": {},
-      "x": -44,
-      "y": 2420,
-      "width": 191,
-      "height": 60
-    },
-    {
-      "id": "93e942e7eb0aef37",
-      "type": "text",
-      "text": "\"Boston Pizza\" part of the brain: relating to attentiveness\nNot within conscious access ",
-      "styleAttributes": {},
-      "x": 1202,
-      "y": 2206,
-      "width": 354,
-      "height": 104,
-      "color": "5"
-    },
-    {
-      "id": "72f5d93599722d83",
-      "type": "text",
-      "text": "> Diverse functions: social bonding, sex, eating, sleeping, aggression\n> \n> **Key intersection with endocrine system via pituitary**\n> \n> \"Light switch\": keeps you awake when you are supposed to be, asleep when you're supposed to be",
-      "styleAttributes": {},
-      "x": 771,
-      "y": 1935,
-      "width": 371,
-      "height": 223,
-      "color": "4"
-    },
-    {
-      "id": "15868317cf9caed3",
-      "type": "text",
-      "text": "**Corticothalamic loops**: \n> In order to *modify* sensory info\n> \n> There are axons that extend from cortex to the same part of thalamus *that they came from* (hence loop) - some more spiral-y \n> \n> Interconnect cortex via thalamus\n> \n> Important for many aspects of *conscious experience*",
-      "styleAttributes": {},
-      "x": 192,
-      "y": 2066,
-      "width": 508,
-      "height": 235,
-      "color": "4"
-    },
-    {
-      "id": "5af52c60ebe3ff8a",
-      "type": "text",
-      "text": "> Many nuclei: inputs from sensory systems, cerebellum, basal ganglia\n> \n> Referred to as sensory \"relay center\"\n> \t(Smell info doesn't go thru here)\n> \n   Also relates to attention/consciousness, motor structure \n> Receives almost as much *from* cortex as it *sends* \n",
-      "styleAttributes": {},
-      "x": 192,
-      "y": 1841,
-      "width": 493,
-      "height": 205,
-      "color": "4"
-    },
-    {
-      "id": "eb581a64d738726a",
-      "type": "text",
-      "text": "Periacqueductal grey (PAG): small set of nuclei which is the main target of amygdala function (emotion and fear)\n> Involved in *freezing, shrieking, high stress response*\n> ",
-      "styleAttributes": {},
-      "x": 1661,
-      "y": 2070,
-      "width": 357,
-      "height": 188,
-      "color": "5"
-    },
-    {
-      "id": "4dd312fbf655e8d8",
-      "type": "text",
-      "text": "> Contains top of reticular formation\n",
-      "styleAttributes": {},
-      "x": 1661,
-      "y": 1996,
-      "width": 351,
-      "height": 62,
-      "color": "5"
-    },
-    {
-      "id": "fef35c96207b62d3",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-08 at 10.39.29 AM.png",
-      "styleAttributes": {},
-      "x": 1248,
-      "y": 1812,
-      "width": 308,
-      "height": 160,
-      "color": "5"
-    },
-    {
-      "id": "f2788e4e08b59ec4",
-      "type": "text",
-      "text": "Some nuclei can stop-start eating behavior when stimulated",
-      "styleAttributes": {},
-      "x": 849,
-      "y": 1813,
-      "width": 345,
-      "height": 79,
-      "color": "4"
-    },
-    {
-      "id": "f77568b8a35e409b",
-      "type": "text",
-      "text": "##### Tegmentum (\"floor\")",
-      "styleAttributes": {},
-      "x": 1661,
-      "y": 1716,
-      "width": 250,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "a55a6be666f415af",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.50.37 AM.png",
-      "styleAttributes": {},
-      "x": 1661,
-      "y": 1812,
-      "width": 351,
-      "height": 160,
-      "color": "5"
-    },
-    {
-      "id": "476361c15c14d686",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 2024.10.01.m4a",
-      "styleAttributes": {},
-      "x": 4380,
-      "y": 560,
-      "width": 400,
-      "height": 42
-    },
-    {
       "id": "07ec09a96d7cf2cd",
       "type": "text",
       "text": "### Dusty notes",
@@ -566,6 +79,76 @@
       "y": 820,
       "width": 350,
       "height": 80
+    },
+    {
+      "id": "ce411eef0d723b9e",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 06 reading - Owen2014.pdf",
+      "styleAttributes": {},
+      "x": 4847,
+      "y": 775,
+      "width": 633,
+      "height": 400
+    },
+    {
+      "id": "e8025daea5a7779a",
+      "type": "text",
+      "text": "![[PSYC304 L9 End of Neuroanatomy#Meninges]]",
+      "styleAttributes": {},
+      "x": 3016,
+      "y": 302,
+      "width": 640,
+      "height": 365
+    },
+    {
+      "id": "4a8a2a6a6dfcd55f",
+      "type": "text",
+      "text": "![[PSYC304 L9 End of Neuroanatomy#Blood flow]]",
+      "styleAttributes": {},
+      "x": 2356,
+      "y": -220,
+      "width": 640,
+      "height": 505
+    },
+    {
+      "id": "39d64a626aa00c31",
+      "type": "text",
+      "text": "![[PSYC304 L9 End of Neuroanatomy#Cerebrospinal fluid (CSF)]]",
+      "styleAttributes": {},
+      "x": 3016,
+      "y": -220,
+      "width": 640,
+      "height": 510
+    },
+    {
+      "id": "ac869532272ad3a1",
+      "type": "text",
+      "text": "![[PSYC304 L9 End of Neuroanatomy#Blood brain barrier]]",
+      "styleAttributes": {},
+      "x": 2356,
+      "y": 290,
+      "width": 640,
+      "height": 508
+    },
+    {
+      "id": "53ae432279e42a8c",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 06 - Neuroimaging.pdf",
+      "styleAttributes": {},
+      "x": 4100,
+      "y": 1000,
+      "width": 660,
+      "height": 380
+    },
+    {
+      "id": "476361c15c14d686",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 2024.10.01.m4a",
+      "styleAttributes": {},
+      "x": 4380,
+      "y": 560,
+      "width": 400,
+      "height": 42
     },
     {
       "id": "f1a3cdfdfb5602d6",
@@ -648,16 +231,6 @@
       "height": 60
     },
     {
-      "id": "83b1a1e7d37dd717",
-      "type": "text",
-      "text": "![[PSYC301 Lecture 04 - Neural communication.pdf]]",
-      "styleAttributes": {},
-      "x": 4110,
-      "y": -640,
-      "width": 480,
-      "height": 260
-    },
-    {
       "id": "2917b8adc2e2162b",
       "type": "file",
       "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 5 & 6.md",
@@ -668,88 +241,77 @@
       "height": 50
     },
     {
-      "id": "ce411eef0d723b9e",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 06 reading - Owen2014.pdf",
-      "styleAttributes": {},
-      "x": 4847,
-      "y": 775,
-      "width": 633,
-      "height": 400
-    },
-    {
-      "id": "8059ee4d6c1c733b",
+      "id": "7a305537cfd18a2f",
       "type": "text",
-      "text": "### Myelencephalon (medulla)",
+      "text": "Telencephalon",
       "styleAttributes": {},
-      "x": 3032,
-      "y": 1326,
-      "width": 392,
-      "height": 62,
-      "color": "6"
-    },
-    {
-      "id": "ab74f4921c53c973",
-      "type": "text",
-      "text": "![[PSYC304 L8 Neuroanatomy - Major Divisions of the Brain#Anatomy of cortical layers]]",
-      "styleAttributes": {},
-      "x": 1700,
-      "y": -180,
-      "width": 545,
-      "height": 570
-    },
-    {
-      "id": "8cf594b9052f1dc3",
-      "type": "text",
-      "text": "Houses retic. formation, pons, cerebellum",
-      "styleAttributes": {},
-      "x": 2108,
-      "y": 1699,
+      "x": 734,
+      "y": 1140,
       "width": 250,
       "height": 60,
-      "color": "6"
+      "color": "4"
     },
     {
-      "id": "c4017f53b7c86a40",
+      "id": "f2bf3ebe0e1fff12",
       "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.42.41 AM.png",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 3.md",
       "styleAttributes": {},
-      "x": 2588,
-      "y": 1426,
-      "width": 259,
-      "height": 260,
-      "color": "6"
+      "x": 356,
+      "y": 390,
+      "width": 330,
+      "height": 50
     },
     {
-      "id": "99d68c0b2a7f6ff5",
+      "id": "cb3ab21a37bc764e",
       "type": "text",
-      "text": "### Reticular activating system",
+      "text": "Diencephalon",
       "styleAttributes": {},
-      "x": 2558,
-      "y": 1328,
-      "width": 350,
+      "x": 929,
+      "y": 1040,
+      "width": 250,
       "height": 60,
-      "color": "6"
+      "color": "4"
     },
     {
-      "id": "e8025daea5a7779a",
-      "type": "text",
-      "text": "![[PSYC304 L9 End of Neuroanatomy#Meninges]]",
+      "id": "d8753a02b55e6e6f",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 2.md",
       "styleAttributes": {},
-      "x": 3016,
-      "y": 302,
-      "width": 640,
-      "height": 365
+      "x": -880,
+      "y": 413,
+      "width": 330,
+      "height": 112
     },
     {
-      "id": "4a8a2a6a6dfcd55f",
+      "id": "4cd2be92383084f7",
       "type": "text",
-      "text": "![[PSYC304 L9 End of Neuroanatomy#Blood flow]]",
+      "text": "Forebrain",
       "styleAttributes": {},
-      "x": 2356,
-      "y": -220,
-      "width": 640,
-      "height": 505
+      "x": 929,
+      "y": 940,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "addf36ddccf8f470",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 03 - Neuroanatomy II.pdf",
+      "styleAttributes": {},
+      "x": 356,
+      "y": 540,
+      "width": 330,
+      "height": 290
+    },
+    {
+      "id": "83b1a1e7d37dd717",
+      "type": "text",
+      "text": "![[PSYC301 Lecture 04 - Neural communication.pdf]]",
+      "styleAttributes": {},
+      "x": 4110,
+      "y": -640,
+      "width": 480,
+      "height": 260
     },
     {
       "id": "019190429baf9332",
@@ -763,26 +325,243 @@
       "color": "6"
     },
     {
-      "id": "66021f2a1824f74e",
+      "id": "9c4eb7e095bce7a5",
       "type": "text",
-      "text": "## Metencephalon",
+      "text": "Hindbrain",
       "styleAttributes": {},
-      "x": 2108,
-      "y": 1220,
-      "width": 245,
+      "x": 1654,
+      "y": 940,
+      "width": 250,
       "height": 60,
       "color": "6"
     },
     {
-      "id": "4fbf57c7be32c779",
+      "id": "0d8b0e4912e74a4e",
       "type": "text",
-      "text": "#### Dopamine-producing regions: \n",
+      "text": "Metencephalon",
       "styleAttributes": {},
-      "x": 1633,
-      "y": 2294,
-      "width": 413,
-      "height": 63,
+      "x": 1654,
+      "y": 1040,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "b549ba866e4da74d",
+      "type": "text",
+      "text": "### 09.12.24",
+      "styleAttributes": {},
+      "x": 558,
+      "y": 465,
+      "width": 128,
+      "height": 60
+    },
+    {
+      "id": "f9c059a32a020199",
+      "type": "text",
+      "text": "#### Anatomical dimensions & slices\n![[PSYC301 Lecture 03 - Neuroanatomy II.pdf#page=12]]\n",
+      "styleAttributes": {},
+      "x": 800,
+      "y": 500,
+      "width": 460,
+      "height": 371
+    },
+    {
+      "id": "4d0d53dc157bcc00",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 02 - Neuroanatomy I.pdf",
+      "styleAttributes": {},
+      "x": -252,
+      "y": 540,
+      "width": 330,
+      "height": 290
+    },
+    {
+      "id": "f951c9ef01a6ce0b",
+      "type": "text",
+      "text": "### 09.10.24",
+      "styleAttributes": {},
+      "x": -47,
+      "y": 465,
+      "width": 128,
+      "height": 60
+    },
+    {
+      "id": "780bf0a5830eff3e",
+      "type": "text",
+      "text": "### 09.17.24\nFinishing up Lecture 3 slides",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": 270,
+      "width": 260,
+      "height": 75
+    },
+    {
+      "id": "58f19a55ec0a67ab",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301-001 2024 Fall - Syllabus.pdf",
+      "styleAttributes": {},
+      "x": -432,
+      "y": -140,
+      "width": 495,
+      "height": 480
+    },
+    {
+      "id": "3a00b9e1c03d09ea",
+      "type": "text",
+      "text": "1. Coronal section\n2. Mid-sagittal section\n3. Horizontal section",
+      "styleAttributes": {},
+      "x": 800,
+      "y": 390,
+      "width": 250,
+      "height": 84
+    },
+    {
+      "id": "ab74f4921c53c973",
+      "type": "text",
+      "text": "![[PSYC304 L8 Neuroanatomy - Major Divisions of the Brain#Anatomy of cortical layers]]",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": -180,
+      "width": 545,
+      "height": 570
+    },
+    {
+      "id": "4e2549541a06cf76",
+      "type": "text",
+      "text": "![[PSYC304 L9 End of Neuroanatomy#Controlling voluntary movement (example)]]",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": 455,
+      "width": 640,
+      "height": 378
+    },
+    {
+      "id": "e4e2f18f09cf35d1",
+      "type": "text",
+      "text": "##### Tectum (\"roof\")",
+      "styleAttributes": {},
+      "x": 1271,
+      "y": 1716,
+      "width": 250,
+      "height": 60,
       "color": "5"
+    },
+    {
+      "id": "7ffc752b41ed4a36",
+      "type": "text",
+      "text": "# 09.05.24",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -150,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "afc45706ca33a681",
+      "type": "text",
+      "text": "\n| PSYC_V 301-001 - Brain Dysfunction and Recovery | Lecture | Tue Thu <br>12:30 p.m. - 2:00 p.m. <br>LSK-Room 200 | Jay Hosking | 1   |\n| ----------------------------------------------- | ------- | --------------------------------------------------- | ----------- | --- |\n",
+      "styleAttributes": {},
+      "x": -307,
+      "y": -273,
+      "width": 739,
+      "height": 93
+    },
+    {
+      "id": "8e833d5a0200fec1",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.48.09 AM.png",
+      "styleAttributes": {},
+      "x": 1414,
+      "y": 1335,
+      "width": 355,
+      "height": 351
+    },
+    {
+      "id": "815dbee9a51bcefd",
+      "type": "text",
+      "text": "Mesencephalon",
+      "styleAttributes": {},
+      "x": 1304,
+      "y": 1040,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "5fb2667021bfc396",
+      "type": "text",
+      "text": "Midbrain",
+      "styleAttributes": {},
+      "x": 1304,
+      "y": 940,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "64d1249c4595ace8",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 01 - Intro and policies.pdf",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -80,
+      "width": 580,
+      "height": 280
+    },
+    {
+      "id": "a490510eaa38f7b4",
+      "type": "text",
+      "text": "### Office hours\nhttps://jayhosking.youcanbook.me",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 220,
+      "width": 360,
+      "height": 100
+    },
+    {
+      "id": "67c4adbe0ca968bc",
+      "type": "text",
+      "text": "Damage:\n- problem with orientation\n\t- ie Parinaud's syndrome, problems with orienting eyes (specifically upward)\n",
+      "styleAttributes": {},
+      "x": 1202,
+      "y": 2326,
+      "width": 354,
+      "height": 154,
+      "color": "1"
+    },
+    {
+      "id": "c324487665ae7c3f",
+      "type": "text",
+      "text": "Damage:\n- Changes to hormonal release \n- Narcolepsy: cataplexy (full body muscle tone relaxation–all muscles go limp, can be stress response)\n- \"Flickering\" of light switch, in and out of consciousness",
+      "styleAttributes": {},
+      "x": 769,
+      "y": 2215,
+      "width": 375,
+      "height": 240,
+      "color": "1"
+    },
+    {
+      "id": "8cf594b9052f1dc3",
+      "type": "text",
+      "text": "Houses retic. formation, pons, cerebellum",
+      "styleAttributes": {},
+      "x": 2108,
+      "y": 1699,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "99d68c0b2a7f6ff5",
+      "type": "text",
+      "text": "### Reticular activating system",
+      "styleAttributes": {},
+      "x": 2558,
+      "y": 1328,
+      "width": 350,
+      "height": 60,
+      "color": "6"
     },
     {
       "id": "4361e3fb5e557d2e",
@@ -829,79 +608,6 @@
       "color": "6"
     },
     {
-      "id": "4e2549541a06cf76",
-      "type": "text",
-      "text": "![[PSYC304 L9 End of Neuroanatomy#Controlling voluntary movement (example)]]",
-      "styleAttributes": {},
-      "x": 1700,
-      "y": 455,
-      "width": 640,
-      "height": 378
-    },
-    {
-      "id": "39d64a626aa00c31",
-      "type": "text",
-      "text": "![[PSYC304 L9 End of Neuroanatomy#Cerebrospinal fluid (CSF)]]",
-      "styleAttributes": {},
-      "x": 3016,
-      "y": -220,
-      "width": 640,
-      "height": 510
-    },
-    {
-      "id": "ac869532272ad3a1",
-      "type": "text",
-      "text": "![[PSYC304 L9 End of Neuroanatomy#Blood brain barrier]]",
-      "styleAttributes": {},
-      "x": 2356,
-      "y": 290,
-      "width": 640,
-      "height": 508
-    },
-    {
-      "id": "9c4eb7e095bce7a5",
-      "type": "text",
-      "text": "Hindbrain",
-      "styleAttributes": {},
-      "x": 1654,
-      "y": 940,
-      "width": 250,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "0d8b0e4912e74a4e",
-      "type": "text",
-      "text": "Metencephalon",
-      "styleAttributes": {},
-      "x": 1654,
-      "y": 1040,
-      "width": 250,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "4d3944432ead1e6e",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf",
-      "styleAttributes": {},
-      "x": -1200,
-      "y": 4011,
-      "width": 400,
-      "height": 269
-    },
-    {
-      "id": "9ee16fa2ed865eb5",
-      "type": "text",
-      "text": "### Thalamus",
-      "styleAttributes": {},
-      "x": 386,
-      "y": 1716,
-      "width": 250,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "88a52f2d11652d98",
       "type": "text",
       "text": "Damage causes major life disturbances",
@@ -924,17 +630,6 @@
       "color": "6"
     },
     {
-      "id": "2252b57b164bfac2",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.44.51 AM.png",
-      "styleAttributes": {},
-      "x": 2108,
-      "y": 1340,
-      "width": 346,
-      "height": 346,
-      "color": "6"
-    },
-    {
       "id": "9345dfc52a6d2041",
       "type": "text",
       "text": "Damage: \noften fatal ",
@@ -944,6 +639,94 @@
       "width": 250,
       "height": 83,
       "color": "1"
+    },
+    {
+      "id": "ed0997e5edfe050a",
+      "type": "text",
+      "text": "Damage does not prevent movement, but affects posture, gait, coordination",
+      "styleAttributes": {},
+      "x": 2136,
+      "y": 2297,
+      "width": 273,
+      "height": 119,
+      "color": "1"
+    },
+    {
+      "id": "08aee579857bde59",
+      "type": "text",
+      "text": "## Mesencephalon",
+      "styleAttributes": {},
+      "x": 1469,
+      "y": 1220,
+      "width": 245,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f77568b8a35e409b",
+      "type": "text",
+      "text": "##### Tegmentum (\"floor\")",
+      "styleAttributes": {},
+      "x": 1661,
+      "y": 1716,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "8059ee4d6c1c733b",
+      "type": "text",
+      "text": "### Myelencephalon (medulla)",
+      "styleAttributes": {},
+      "x": 3032,
+      "y": 1326,
+      "width": 392,
+      "height": 62,
+      "color": "6"
+    },
+    {
+      "id": "c4017f53b7c86a40",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.42.41 AM.png",
+      "styleAttributes": {},
+      "x": 2588,
+      "y": 1426,
+      "width": 259,
+      "height": 260,
+      "color": "6"
+    },
+    {
+      "id": "66021f2a1824f74e",
+      "type": "text",
+      "text": "## Metencephalon",
+      "styleAttributes": {},
+      "x": 2108,
+      "y": 1220,
+      "width": 245,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "4fbf57c7be32c779",
+      "type": "text",
+      "text": "#### Dopamine-producing regions: \n",
+      "styleAttributes": {},
+      "x": 1633,
+      "y": 2294,
+      "width": 413,
+      "height": 63,
+      "color": "5"
+    },
+    {
+      "id": "2252b57b164bfac2",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.44.51 AM.png",
+      "styleAttributes": {},
+      "x": 2108,
+      "y": 1340,
+      "width": 346,
+      "height": 346,
+      "color": "6"
     },
     {
       "id": "d597aa05ca492dac",
@@ -968,17 +751,6 @@
       "color": "6"
     },
     {
-      "id": "ed0997e5edfe050a",
-      "type": "text",
-      "text": "Damage does not prevent movement, but affects posture, gait, coordination",
-      "styleAttributes": {},
-      "x": 2136,
-      "y": 2297,
-      "width": 273,
-      "height": 119,
-      "color": "1"
-    },
-    {
       "id": "a98de504023a97f0",
       "type": "text",
       "text": "Damage can be difficult to pinpoint",
@@ -990,11 +762,506 @@
       "color": "1"
     },
     {
+      "id": "6d6c8fb444f7db8e",
+      "type": "text",
+      "text": "## Telencephalon",
+      "styleAttributes": {},
+      "x": -379,
+      "y": 1220,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "a7b61daa356ec27a",
+      "type": "text",
+      "text": "## Diencephalon",
+      "styleAttributes": {},
+      "x": 559,
+      "y": 1220,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "f92b970d83c5e883",
+      "type": "text",
+      "text": "**Damage**:\n- Specific: Can be vision, etc. specific damage\n- General: difficulty maintaining consciousness\n\t- Awake, but not aware",
+      "styleAttributes": {},
+      "x": 192,
+      "y": 2335,
+      "width": 508,
+      "height": 130,
+      "color": "1"
+    },
+    {
+      "id": "15868317cf9caed3",
+      "type": "text",
+      "text": "**Corticothalamic loops**: \n> In order to *modify* sensory info\n> \n> There are axons that extend from cortex to the same part of thalamus *that they came from* (hence loop) - some more spiral-y \n> \n> Interconnect cortex via thalamus\n> \n> Important for many aspects of *conscious experience*",
+      "styleAttributes": {},
+      "x": 192,
+      "y": 2066,
+      "width": 508,
+      "height": 235,
+      "color": "4"
+    },
+    {
+      "id": "5af52c60ebe3ff8a",
+      "type": "text",
+      "text": "> Many nuclei: inputs from sensory systems, cerebellum, basal ganglia\n> \n> Referred to as sensory \"relay center\"\n> \t(Smell info doesn't go thru here)\n> \n   Also relates to attention/consciousness, motor structure \n> Receives almost as much *from* cortex as it *sends* \n",
+      "styleAttributes": {},
+      "x": 192,
+      "y": 1841,
+      "width": 493,
+      "height": 205,
+      "color": "4"
+    },
+    {
+      "id": "eb581a64d738726a",
+      "type": "text",
+      "text": "Periacqueductal grey (PAG): small set of nuclei which is the main target of amygdala function (emotion and fear)\n> Involved in *freezing, shrieking, high stress response*\n> ",
+      "styleAttributes": {},
+      "x": 1661,
+      "y": 2070,
+      "width": 357,
+      "height": 188,
+      "color": "5"
+    },
+    {
+      "id": "4dd312fbf655e8d8",
+      "type": "text",
+      "text": "> Contains top of reticular formation\n",
+      "styleAttributes": {},
+      "x": 1661,
+      "y": 1996,
+      "width": 351,
+      "height": 62,
+      "color": "5"
+    },
+    {
+      "id": "a55a6be666f415af",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 9.50.37 AM.png",
+      "styleAttributes": {},
+      "x": 1661,
+      "y": 1812,
+      "width": 351,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "9ee16fa2ed865eb5",
+      "type": "text",
+      "text": "### Thalamus",
+      "styleAttributes": {},
+      "x": 386,
+      "y": 1716,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "d07e5401e1821e9d",
+      "type": "text",
+      "text": "\"reverberant activity\"",
+      "styleAttributes": {},
+      "x": -44,
+      "y": 2420,
+      "width": 191,
+      "height": 60
+    },
+    {
+      "id": "44f622924da8f040",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 10.07.31 AM.png",
+      "styleAttributes": {},
+      "x": 511,
+      "y": 1335,
+      "width": 348,
+      "height": 351,
+      "color": "4"
+    },
+    {
+      "id": "c2f11f94b96bef02",
+      "type": "text",
+      "text": "#### Structural ",
+      "styleAttributes": {},
+      "x": 4683,
+      "y": 2025,
+      "width": 250,
+      "height": 60,
+      "color": "#ff9500"
+    },
+    {
+      "id": "71be66ca018b7639",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 10.17.49 AM.png",
+      "styleAttributes": {},
+      "x": -449,
+      "y": 1335,
+      "width": 397,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "e287713f807f04c6",
+      "type": "text",
+      "text": "#### Folds\nGyrus: outward fold \n> Brain is mapped according to these because they're easy to see\n\nSulcus: inward fold\n> Fissures = landmark/extra deep sulci \n\nLongitudinal fissure divides left and right hemispheres\n> Left half of world -> right half of cortex, vice versa",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 2040,
+      "width": 492,
+      "height": 353,
+      "color": "4"
+    },
+    {
+      "id": "01d5f0c428d5b3be",
+      "type": "text",
+      "text": "> Cortex and underlying structures (hippocampus, basal ganglia, amygdala)\n> \n> Consciousness\n> \n> **Cerebral cortex**\n> \n> Also named cortex, neocortex\n> \n> Largest and most prominent feature of human brain\n",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 1776,
+      "width": 492,
+      "height": 235,
+      "color": "4"
+    },
+    {
+      "id": "84aff4db7ce71657",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 3911,
+      "width": 512,
+      "height": 340
+    },
+    {
+      "id": "15e127f8411f8039",
+      "type": "text",
+      "text": "### 10.22.24\n##### Slides 41-43 from Lecture 7; Beginning of Lecture 8",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 3896,
+      "width": 447,
+      "height": 74
+    },
+    {
+      "id": "2909d0c4cc98e532",
+      "type": "text",
+      "text": "More than 90% of gunshot wounds to the head are lethal",
+      "styleAttributes": {},
+      "x": 289,
+      "y": 3723,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "04e67b81c46c6548",
+      "type": "text",
+      "text": "### 10.17.24",
+      "styleAttributes": {},
+      "x": -363,
+      "y": 3663,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6540b4e50b582e40",
+      "type": "text",
+      "text": "#### Substantia nigra:\n> Critical for eliciting movement",
+      "styleAttributes": {},
+      "x": 1597,
+      "y": 2416,
+      "width": 243,
+      "height": 130,
+      "color": "5"
+    },
+    {
+      "id": "70447708ad179e2c",
+      "type": "text",
+      "text": " #### **Red nucleus:** \n> Bigger role in animals with smaller forebrains\n> **Species specific behaviors**\n> Schizophrenia meds can affect red nucleus, manifesting as involuntary arm jerking, mouth movements",
+      "styleAttributes": {},
+      "x": 1719,
+      "y": 2666,
+      "width": 334,
+      "height": 268,
+      "color": "5"
+    },
+    {
+      "id": "2ca46f39ce162a26",
+      "type": "text",
+      "text": "#### Ventral tegmental area (VTA)\n> Motivation, learning, addiction, potentiating motivation-related motor",
+      "styleAttributes": {},
+      "x": 1923,
+      "y": 2447,
+      "width": 350,
+      "height": 155,
+      "color": "5"
+    },
+    {
+      "id": "aab4fa161afc195b",
+      "type": "text",
+      "text": "11. Why might “a multi-methodological approach” often be the best answer to how to approach a research question in behavioural neuroscience?",
+      "styleAttributes": {},
+      "x": 4207,
+      "y": 3435,
+      "width": 476,
+      "height": 96,
+      "color": "1"
+    },
+    {
+      "id": "efc38f69cc79fd88",
+      "type": "text",
+      "text": "##### PET \nUsing radioactive cocaine: Track where it goes, see where cocaine effects brain (basal ganglia)\n\nUsing radioactive glucose: Track where is using more energy\n\n**Subtraction method** (also called: mean difference images, paired image subtraction):  Subtract control (baseline noise) from experimental, shows *difference* between groups\n\n> Positrons from radioactivity are released, collide w electrons in brain →   photons are produced, exit head, are detected",
+      "styleAttributes": {},
+      "x": 5754,
+      "y": 2697,
+      "width": 963,
+      "height": 274,
+      "color": "#4ee49e"
+    },
+    {
+      "id": "5c9b628974be1a5f",
+      "type": "text",
+      "text": "9. Explain how PET and fMRI work. ",
+      "styleAttributes": {},
+      "x": 6107,
+      "y": 3078,
+      "width": 476,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "f541977c865894fa",
+      "type": "text",
+      "text": "##### Computed tomography (CT)\n- Old: emerged in early 70s (first imaging)\n- Fires x-rays from many angles\n- Computer reconstruction: uses \"slices\" or frames to create 3D model\n- Only as good as its algorithms\n\t- Programs have improved significantly since 70s but the images themselves have not\n- Useful for: diagnostics\n- Drawbacks: can't make any sense of what brain tissue you're looking at: can see tissue vs fluid but not what kind of tissue or fluid: wouldn't be able to see tumor ",
+      "styleAttributes": {},
+      "x": 5693,
+      "y": 1891,
+      "width": 957,
+      "height": 319,
+      "color": "#f46c95"
+    },
+    {
+      "id": "802d61a4e3e62147",
+      "type": "text",
+      "text": "7. Explain how an MRI machine works. ",
+      "styleAttributes": {},
+      "x": 4868,
+      "y": 2368,
+      "width": 476,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3b400afd0b0142f3",
+      "type": "text",
+      "text": "**Static/Structural**\n- Map of structure\n- Computerized axial tomography (CAT/CT)\n- Magnetic resonance imaging (MRI)\n- Diffusion tensor imaging (DTI)",
+      "styleAttributes": {},
+      "x": 5013,
+      "y": 1950,
+      "width": 405,
+      "height": 210,
+      "color": "#ff9500"
+    },
+    {
+      "id": "4fdf5fa0d2a1877d",
+      "type": "text",
+      "text": "Quality of results depends on quality of controls: teapot example",
+      "styleAttributes": {},
+      "x": 8461,
+      "y": 2552,
+      "width": 500,
+      "height": 61,
+      "color": "#f78222"
+    },
+    {
+      "id": "c2b44df976fde271",
+      "type": "text",
+      "text": "> Comprised of two pairs of bumps (colliculi)\n> Superior colliculi: vision with respect to eye movement\n> Inferior colliculi: audition with respect to head/body orientation\n",
+      "styleAttributes": {},
+      "x": 1202,
+      "y": 2006,
+      "width": 399,
+      "height": 178,
+      "color": "5"
+    },
+    {
+      "id": "4374746cc0f20648",
+      "type": "text",
+      "text": "### Hypothalamus",
+      "styleAttributes": {},
+      "x": 771,
+      "y": 1716,
+      "width": 250,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ae4ac24eed8e52b2",
+      "type": "text",
+      "text": "\"foot\" of diencephalon - directly below is pituitary",
+      "styleAttributes": {},
+      "x": 1026,
+      "y": 1591,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "93e942e7eb0aef37",
+      "type": "text",
+      "text": "\"Boston Pizza\" part of the brain: relating to attentiveness\nNot within conscious access ",
+      "styleAttributes": {},
+      "x": 1202,
+      "y": 2206,
+      "width": 354,
+      "height": 104,
+      "color": "5"
+    },
+    {
+      "id": "72f5d93599722d83",
+      "type": "text",
+      "text": "> Diverse functions: social bonding, sex, eating, sleeping, aggression\n> \n> **Key intersection with endocrine system via pituitary**\n> \n> \"Light switch\": keeps you awake when you are supposed to be, asleep when you're supposed to be",
+      "styleAttributes": {},
+      "x": 771,
+      "y": 1935,
+      "width": 371,
+      "height": 223,
+      "color": "4"
+    },
+    {
+      "id": "fef35c96207b62d3",
+      "type": "file",
+      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-08 at 10.39.29 AM.png",
+      "styleAttributes": {},
+      "x": 1248,
+      "y": 1812,
+      "width": 308,
+      "height": 160,
+      "color": "5"
+    },
+    {
+      "id": "538b5d55ed78fd3c",
+      "type": "text",
+      "text": "8. Describe and compare the different methods of functional brain imaging that are listed in this lecture. ",
+      "styleAttributes": {},
+      "x": 4153,
+      "y": 2973,
+      "width": 476,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "e12f88f1a00fb557",
+      "type": "text",
+      "text": "# Learning Objectives",
+      "styleAttributes": {},
+      "x": 4020,
+      "y": 1732,
+      "width": 520,
+      "height": 50,
+      "color": "3"
+    },
+    {
+      "id": "dd2f28fa1284b02e",
+      "type": "text",
+      "text": "6. Describe and compare the different methods of structural brain imaging that are listed in this lecture. ",
+      "styleAttributes": {},
+      "x": 4116,
+      "y": 1950,
+      "width": 476,
+      "height": 96,
+      "color": "3"
+    },
+    {
+      "id": "35bb88eafb124bbf",
+      "type": "text",
+      "text": "Damage = Parkinson's",
+      "styleAttributes": {},
+      "x": 1556,
+      "y": 2574,
+      "width": 250,
+      "height": 55,
+      "color": "1"
+    },
+    {
+      "id": "e80e7d26564463a9",
+      "type": "text",
+      "text": "Electric stimulation of thalamus triggers consciousness",
+      "styleAttributes": {},
+      "x": 192,
+      "y": 2476,
+      "width": 508,
+      "height": 50,
+      "color": "4"
+    },
+    {
+      "id": "d8ebf56ea9df5620",
+      "type": "text",
+      "text": "During sleep: no corticothalamic loops",
+      "styleAttributes": {},
+      "x": -31,
+      "y": 2574,
+      "width": 320,
+      "height": 54
+    },
+    {
+      "id": "f2788e4e08b59ec4",
+      "type": "text",
+      "text": "Some nuclei can stop-start eating behavior when stimulated",
+      "styleAttributes": {},
+      "x": 849,
+      "y": 1813,
+      "width": 345,
+      "height": 79,
+      "color": "4"
+    },
+    {
+      "id": "4d3944432ead1e6e",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf",
+      "styleAttributes": {},
+      "x": -1200,
+      "y": 4011,
+      "width": 400,
+      "height": 269
+    },
+    {
       "id": "f07709665956160c",
       "type": "text",
       "text": "## Jay's illness week :(",
       "styleAttributes": {},
       "x": -683,
+      "y": 3571,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "74099acb954bbab3",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4011,
+      "width": 447,
+      "height": 300
+    },
+    {
+      "id": "b095cb47f6146574",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
+      "styleAttributes": {},
+      "x": -223,
+      "y": 4311,
+      "width": 512,
+      "height": 420
+    },
+    {
+      "id": "a48f0fe7517778a4",
+      "type": "text",
+      "text": "### 10.15.24",
+      "styleAttributes": {},
+      "x": -363,
       "y": 3571,
       "width": 250,
       "height": 60
@@ -1020,17 +1287,6 @@
       "width": 533,
       "height": 213,
       "color": "#4ee49e"
-    },
-    {
-      "id": "c2e2a44bba4593fd",
-      "type": "text",
-      "text": "##### fMRI\nOxygenated vs deoxygenated blood have different magnetic properties\n**BOLD response:** Blood oxygen level dependent\n> Use as *indirect* measure of brain activity\n\n###### Event-related fMRI \nCommon in fMRI these days\nAllows you to avoid paired image subtraction\nHas many of its own challenges (boredom)\n",
-      "styleAttributes": {},
-      "x": 6133,
-      "y": 3222,
-      "width": 784,
-      "height": 349,
-      "color": "#da53e4"
     },
     {
       "id": "6be1f746355a2431",
@@ -1110,6 +1366,27 @@
       "color": "3"
     },
     {
+      "id": "ad790de7ba0e1dc1",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
+      "styleAttributes": {},
+      "x": -750,
+      "y": 4331,
+      "width": 447,
+      "height": 420
+    },
+    {
+      "id": "c2e2a44bba4593fd",
+      "type": "text",
+      "text": "##### fMRI\nOxygenated vs deoxygenated blood have different magnetic properties\n**BOLD response:** Blood oxygen level dependent\n> Use as *indirect* measure of brain activity\n\n###### Event-related fMRI \nCommon in fMRI these days\nAllows you to avoid paired image subtraction\nHas many of its own challenges (boredom)\n",
+      "styleAttributes": {},
+      "x": 6133,
+      "y": 3222,
+      "width": 784,
+      "height": 349,
+      "color": "#da53e4"
+    },
+    {
       "id": "9ce4473d4ada8db3",
       "type": "text",
       "text": "![[Screen Shot 2023-11-16 at 9.54.54 AM.png]]",
@@ -1119,28 +1396,6 @@
       "width": 300,
       "height": 267,
       "color": "#da53e4"
-    },
-    {
-      "id": "aab4fa161afc195b",
-      "type": "text",
-      "text": "11. Why might “a multi-methodological approach” often be the best answer to how to approach a research question in behavioural neuroscience?",
-      "styleAttributes": {},
-      "x": 4207,
-      "y": 3435,
-      "width": 476,
-      "height": 96,
-      "color": "1"
-    },
-    {
-      "id": "538b5d55ed78fd3c",
-      "type": "text",
-      "text": "8. Describe and compare the different methods of functional brain imaging that are listed in this lecture. ",
-      "styleAttributes": {},
-      "x": 4153,
-      "y": 2973,
-      "width": 476,
-      "height": 96,
-      "color": "3"
     },
     {
       "id": "6de905b5f732799c",
@@ -1196,261 +1451,6 @@
       "width": 391,
       "height": 91,
       "color": "#4ee49e"
-    },
-    {
-      "id": "efc38f69cc79fd88",
-      "type": "text",
-      "text": "##### PET \nUsing radioactive cocaine: Track where it goes, see where cocaine effects brain (basal ganglia)\n\nUsing radioactive glucose: Track where is using more energy\n\n**Subtraction method** (also called: mean difference images, paired image subtraction):  Subtract control (baseline noise) from experimental, shows *difference* between groups\n\n> Positrons from radioactivity are released, collide w electrons in brain →   photons are produced, exit head, are detected",
-      "styleAttributes": {},
-      "x": 5754,
-      "y": 2697,
-      "width": 963,
-      "height": 274,
-      "color": "#4ee49e"
-    },
-    {
-      "id": "5c9b628974be1a5f",
-      "type": "text",
-      "text": "9. Explain how PET and fMRI work. ",
-      "styleAttributes": {},
-      "x": 6107,
-      "y": 3078,
-      "width": 476,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "44f622924da8f040",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 10.07.31 AM.png",
-      "styleAttributes": {},
-      "x": 511,
-      "y": 1335,
-      "width": 348,
-      "height": 351,
-      "color": "4"
-    },
-    {
-      "id": "53ae432279e42a8c",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 06 - Neuroimaging.pdf",
-      "styleAttributes": {},
-      "x": 4100,
-      "y": 1000,
-      "width": 660,
-      "height": 380
-    },
-    {
-      "id": "e12f88f1a00fb557",
-      "type": "text",
-      "text": "# Learning Objectives",
-      "styleAttributes": {},
-      "x": 4020,
-      "y": 1732,
-      "width": 520,
-      "height": 50,
-      "color": "3"
-    },
-    {
-      "id": "f541977c865894fa",
-      "type": "text",
-      "text": "##### Computed tomography (CT)\n- Old: emerged in early 70s (first imaging)\n- Fires x-rays from many angles\n- Computer reconstruction: uses \"slices\" or frames to create 3D model\n- Only as good as its algorithms\n\t- Programs have improved significantly since 70s but the images themselves have not\n- Useful for: diagnostics\n- Drawbacks: can't make any sense of what brain tissue you're looking at: can see tissue vs fluid but not what kind of tissue or fluid: wouldn't be able to see tumor ",
-      "styleAttributes": {},
-      "x": 5693,
-      "y": 1891,
-      "width": 957,
-      "height": 319,
-      "color": "#f46c95"
-    },
-    {
-      "id": "802d61a4e3e62147",
-      "type": "text",
-      "text": "7. Explain how an MRI machine works. ",
-      "styleAttributes": {},
-      "x": 4868,
-      "y": 2368,
-      "width": 476,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "c2f11f94b96bef02",
-      "type": "text",
-      "text": "#### Structural ",
-      "styleAttributes": {},
-      "x": 4683,
-      "y": 2025,
-      "width": 250,
-      "height": 60,
-      "color": "#ff9500"
-    },
-    {
-      "id": "3b400afd0b0142f3",
-      "type": "text",
-      "text": "**Static/Structural**\n- Map of structure\n- Computerized axial tomography (CAT/CT)\n- Magnetic resonance imaging (MRI)\n- Diffusion tensor imaging (DTI)",
-      "styleAttributes": {},
-      "x": 5013,
-      "y": 1950,
-      "width": 405,
-      "height": 210,
-      "color": "#ff9500"
-    },
-    {
-      "id": "4fdf5fa0d2a1877d",
-      "type": "text",
-      "text": "Quality of results depends on quality of controls: teapot example",
-      "styleAttributes": {},
-      "x": 8461,
-      "y": 2552,
-      "width": 500,
-      "height": 61,
-      "color": "#f78222"
-    },
-    {
-      "id": "dd2f28fa1284b02e",
-      "type": "text",
-      "text": "6. Describe and compare the different methods of structural brain imaging that are listed in this lecture. ",
-      "styleAttributes": {},
-      "x": 4116,
-      "y": 1950,
-      "width": 476,
-      "height": 96,
-      "color": "3"
-    },
-    {
-      "id": "67c4adbe0ca968bc",
-      "type": "text",
-      "text": "Damage:\n- problem with orientation\n\t- ie Parinaud's syndrome, problems with orienting eyes (specifically upward)\n",
-      "styleAttributes": {},
-      "x": 1202,
-      "y": 2326,
-      "width": 354,
-      "height": 154,
-      "color": "1"
-    },
-    {
-      "id": "c324487665ae7c3f",
-      "type": "text",
-      "text": "Damage:\n- Changes to hormonal release \n- Narcolepsy: cataplexy (full body muscle tone relaxation–all muscles go limp, can be stress response)\n- \"Flickering\" of light switch, in and out of consciousness",
-      "styleAttributes": {},
-      "x": 769,
-      "y": 2215,
-      "width": 375,
-      "height": 240,
-      "color": "1"
-    },
-    {
-      "id": "71be66ca018b7639",
-      "type": "file",
-      "file": "W2023/W2023T1/W2023T1 Files/Screen Shot 2023-10-03 at 10.17.49 AM.png",
-      "styleAttributes": {},
-      "x": -449,
-      "y": 1335,
-      "width": 397,
-      "height": 400,
-      "color": "4"
-    },
-    {
-      "id": "e287713f807f04c6",
-      "type": "text",
-      "text": "#### Folds\nGyrus: outward fold \n> Brain is mapped according to these because they're easy to see\n\nSulcus: inward fold\n> Fissures = landmark/extra deep sulci \n\nLongitudinal fissure divides left and right hemispheres\n> Left half of world -> right half of cortex, vice versa",
-      "styleAttributes": {},
-      "x": -500,
-      "y": 2040,
-      "width": 492,
-      "height": 353,
-      "color": "4"
-    },
-    {
-      "id": "01d5f0c428d5b3be",
-      "type": "text",
-      "text": "> Cortex and underlying structures (hippocampus, basal ganglia, amygdala)\n> \n> Consciousness\n> \n> **Cerebral cortex**\n> \n> Also named cortex, neocortex\n> \n> Largest and most prominent feature of human brain\n",
-      "styleAttributes": {},
-      "x": -500,
-      "y": 1776,
-      "width": 492,
-      "height": 235,
-      "color": "4"
-    },
-    {
-      "id": "84aff4db7ce71657",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 7 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 3911,
-      "width": 512,
-      "height": 340
-    },
-    {
-      "id": "74099acb954bbab3",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 07 - Exam and assessment-1.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4011,
-      "width": 447,
-      "height": 300
-    },
-    {
-      "id": "ad790de7ba0e1dc1",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 08 - Causes of brain dysfunction.pdf",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 4331,
-      "width": 447,
-      "height": 420
-    },
-    {
-      "id": "b095cb47f6146574",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 8 Notes.md",
-      "styleAttributes": {},
-      "x": -223,
-      "y": 4311,
-      "width": 512,
-      "height": 420
-    },
-    {
-      "id": "15e127f8411f8039",
-      "type": "text",
-      "text": "### 10.22.24\n##### Slides 41-43 from Lecture 7; Beginning of Lecture 8",
-      "styleAttributes": {},
-      "x": -750,
-      "y": 3896,
-      "width": 447,
-      "height": 74
-    },
-    {
-      "id": "2909d0c4cc98e532",
-      "type": "text",
-      "text": "More than 90% of gunshot wounds to the head are lethal",
-      "styleAttributes": {},
-      "x": 289,
-      "y": 3723,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "04e67b81c46c6548",
-      "type": "text",
-      "text": "### 10.17.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3663,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "a48f0fe7517778a4",
-      "type": "text",
-      "text": "### 10.15.24",
-      "styleAttributes": {},
-      "x": -363,
-      "y": 3571,
-      "width": 250,
-      "height": 60
     }
   ],
   "edges": [
