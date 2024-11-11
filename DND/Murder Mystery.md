@@ -299,5 +299,7 @@ Talk to Yasha:
 Moolia will be invis till 9:40, as will Jane 
 
 Dustin - unifrom: 
-- Him, will, michael, lucas, sometimes lucas
+- Him, will, michael, sometimes lucas
+- Moolia, alice, max, him, will- in stable
+- lucas mike jane, lily, joyce, kinelli claudia 
 - 
