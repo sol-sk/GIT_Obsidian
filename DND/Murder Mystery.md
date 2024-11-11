@@ -249,7 +249,7 @@ ____
 Dr. Holt is trying to push into the bar area to get back to bodies
 Lord Archibald Frost trying to stop him
 Friars (3) are arguing w/ Claudia McCloud, who is guarding one door - Kinelli is guarding the other 
-D'Artangan + O'Clare (fox bartender) trying to calm down friars 
+D'Artangan + O'Clare (fox bartender) trying to calm down friar
 Beaver in corner comforted by small mouse 
 
 Valencia check - 
@@ -259,4 +259,4 @@ Karen and Leonard enter, Karen goes over to Dylan
 
 Leonard looks for James bc that's bro
 
-
+I go up to James
