@@ -263,3 +263,9 @@ I go up to James
 - He does not care about anything 
 - He calls me gay 
 
+
+**Karen giving instruction**
+- Joyce (rat) and Claudia going to keep an eye on everyone in dining room
+- Dylan is gonna grab folks from stable house
+- Holt (& others w medical training) is going to confer with Oscuro 
+- 
