@@ -183,9 +183,11 @@ no dustin -- Valencia
 yes claudia 
 
 Lady ulale lebeau (beaver) immediately faints
-→*She's the one who ran in from Findebear's room access door when fire happened, and Dustin seems sure someone was hurt 5 minutes before the fire was put out*
 - Dr Holt carries her off
 - (9 perception: seems strange but idc)
+> [!info]
+> *She's the one who ran in from Findebear's room access door when fire happened, and Dustin seems sure someone was hurt 5 minutes before the fire was put out*
+
 
 Yasha growls 
 
