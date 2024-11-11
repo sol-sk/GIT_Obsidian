@@ -298,11 +298,12 @@ Talk to Yasha:
 
 Moolia will be invis till 9:40, as will Jane 
 
-Dustin - unifrom: 
+Dustin - uniform: 
 - Him, will, michael, sometimes lucas
 - Moolia, alice, max, him, will- in stable
 - lucas mike jane, lily, joyce, kinelli claudia 
 
 Medical emergency bell at 7:15:
 - basement kitchens, dining room, or Karen & Dylan's bedroom? Findebear 
-- 
+
+- Insight check on Will (8) who's standing with Dustin
