@@ -288,3 +288,6 @@ Door to basement not being watched, rest of doors guarded
 
 Lord archibald frost the fox
 
+Talk to beaver woman: 
+- Leonard saw that she came from findebear's room. What. 
+
