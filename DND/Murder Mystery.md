@@ -262,4 +262,3 @@ Leonard looks for James bc that's bro
 I go up to James
 - He does not care about anything 
 - He calls me gay 
-- 
