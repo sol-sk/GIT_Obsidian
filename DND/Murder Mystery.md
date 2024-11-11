@@ -135,7 +135,7 @@ Nazari (Russian lynx; sword swallower)
 Beaver woman
 *Insight on her; (1)*
 - Who knows!
-- (other insight check: she came in through a diff entrace, which you would need Findebear's room key for)
+- (other insight check: she came in through a diff entrance, which you would need Findebear's room key for)
 
 *Insight on Molly (19+1)*
 - She takes over for Joanna, who leaves when everyone had stepped out for the fire to be put out
