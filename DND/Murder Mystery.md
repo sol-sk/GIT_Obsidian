@@ -171,4 +171,4 @@ Go to the bathroom, run into Oliver, we introduce ourselves, I see the super wet
 
 
 # Session 2
-
+Led by Ms Dylan Kinelli & Abbott Wolfgang, literally everyone rushes into bathroom, martha 
