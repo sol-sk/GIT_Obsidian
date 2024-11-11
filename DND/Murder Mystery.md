@@ -248,8 +248,13 @@ ____
 #### 8:10 - Dining Room
 Dr. Holt is trying to push into the bar area to get back to bodies
 Lord Archibald Frost trying to stop him
-Friars are arguing w/ Claudia McCloud, who is guarding one door - Kinelli is guarding the other 
+Friars (3) are arguing w/ Claudia McCloud, who is guarding one door - Kinelli is guarding the other 
 D'Artangan 
 Beaver in corner comforted by small mouse 
 
+Valencia check - 
+All circus is here
 
+Karen and Leonard enter, Karen goes over to Dylan 
+
+Leonard looks for James bc that's bro 
