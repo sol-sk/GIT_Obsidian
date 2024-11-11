@@ -197,4 +197,6 @@ Craytag (Abbott) says smth to molly oscuro
 - asks kinelli to escort guests back to dining room, return, with holt
 - Him and molly will investigate
 - Held back by Mr Karen Grantham (squirrel butler)
-- 
+
+
+Dustin McCloud seems pretty certain that Valencia hurt someone with her performance at 7:15 
