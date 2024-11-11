@@ -212,4 +212,5 @@ Crying Cecilia statue
 **Joanna's bedroom (Valencia)**
 - Broken terracotta planter 
 - Vom and bodily waste smell coming from bed
+- *Purple Haze* magazine in Joanna's room
 - 
