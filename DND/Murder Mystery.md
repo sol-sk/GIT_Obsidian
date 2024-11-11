@@ -128,7 +128,8 @@ Nazari (Russian lynx; sword swallower)
 - Visibly wasted
 - Throws up, it lights on fire bc of all the drinking
 
-7:20: fire put out
+> [! info]
+> 7:20: fire put out
 
 Beaver woman
 *Insight on her; (1)*
