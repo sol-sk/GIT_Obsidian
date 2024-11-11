@@ -289,9 +289,9 @@ Door to basement not being watched, rest of doors guarded
 Lord archibald frost the fox angling to listen to conversation 
 
 Talk to beaver woman: 
-- Leonard saw that she came from findebear's room. What. 
+- Leonard saw that she came from Findebear's room. What. 
 - Sitting at end of platform, sitting with mouse 
-- Ask her what she was doing in Findebears room:
+- Ask her what she was doing in Findebear's room:
 	- 
 
 Talk to Yasha: 
