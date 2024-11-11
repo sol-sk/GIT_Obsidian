@@ -171,7 +171,7 @@ Go to the bathroom, run into Oliver, we introduce ourselves, I see the super wet
 
 
 # Session 2
-Led by Ms Dylan Kinelli & Abbott Wolfgang, literally everyone rushes into bathroom, all friars except one ****
+Led by Ms Dylan Kinelli & Abbott Wolfgang Craytag, literally everyone rushes into bathroom, all friars except one ****
 
 **Headcount**
 servants and housestaff both here
@@ -192,7 +192,9 @@ I tell them that something was weird, took wrong turn, got chased by dog, ended 
 Dylan 
 - Leans head out and barks loudly to try and signal dogs
 
-Craytag says smth to molly oscuro
+Craytag (Abbott) says smth to molly oscuro
 - tells everyone to calm down
-- asks kinelli to escort guests back to dining room
+- asks kinelli to escort guests back to dining room, return, with holt
+- Him and molly will investigate
+- Held back by Mr Karen Grantham
 - 
