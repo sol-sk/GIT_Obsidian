@@ -219,10 +219,9 @@ Perception roll on room (27 - Logan)
 - Fancy empty box
 - Dr John Wembly's golden stopwatch (initials: LH.........) stopped at ... 7:20 
 - Peek behind wooden divider... 
-
->
-	- Lady Joanna Findebear's dead body surrounded by 6 burnt out candles in a circle
-	- copious amount of blood underneath her
+> [!info]
+> Lady Joanna Findebear's dead body surrounded by **6 burnt out candles in a circle**
+> copious amount of blood underneath her
 
 **Perception 23 How'd ppl react to Valencia scream?** 
 Grantham looks tired
@@ -245,3 +244,5 @@ Dr. Yasha Vasiliev & Karen in to bedroom to help Valencia
 	- We need to reconvene and shit
 
 Leonard and Molly enter bedroom, Karen explains plan, Molly 
+
+8:10
