@@ -247,4 +247,9 @@ Leonard and Molly enter bedroom, Karen explains plan, Molly
 ____
 #### 8:10 - Dining Room
 Dr. Holt is trying to push into the bar area to get back to bodies
-Lord Archibald Frost 
+Lord Archibald Frost trying to stop him
+Friars are arguing w/ Claudia McCloud, who is guarding one door - Kinelli is guarding the other 
+D'Artangan 
+Beaver in corner comforted by small mouse 
+
+
