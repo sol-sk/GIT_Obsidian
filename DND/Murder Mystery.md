@@ -194,5 +194,5 @@ Dylan
 
 Craytag says smth to molly oscuro
 - tells everyone to calm down
-- asks kinelli to escort guests back 
+- asks kinelli to escort guests back to dining room
 - 
