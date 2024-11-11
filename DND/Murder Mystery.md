@@ -182,3 +182,10 @@ no black vulture friar
 no dustin 
 yes claudia 
 
+Lady ulale lebeau (beaver) immediately faints
+- Dr Holt carries her off
+- (9 perception: seems strange but idc)
+
+Yasha growls 
+Dylan 
+- 
