@@ -290,7 +290,7 @@ Lord archibald frost the fox angling to listen to conversation
 
 Talk to beaver woman: 
 - Leonard saw that she came from findebear's room. What. 
-- Sitti
+- Sitting at end of platform, sitting with mouse 
 
 Talk to Yasha: 
 - It was suggested to me specifically to come. What are you doing why should i come 
