@@ -217,6 +217,6 @@ Crying Cecilia statue
 - *Magic flight* magazine
 - *Bible*
 - Fancy empty box
-- Dr John Wembly's golden stopwatch (initials: LH) stopped at ... 7:20 
+- Dr John Wembly's golden stopwatch (initials: LH.........) stopped at ... 7:20 
 - Peek 
 - 
