@@ -187,6 +187,7 @@ yes claudia
 Lady ulale lebeau (beaver) immediately faints
 - Dr Holt carries her off
 - (9 perception: seems strange but idc)
+
 > [!info]
 > *She's the one who ran in from Findebear's room access door when fire happened, and Dustin seems sure someone was hurt 5 minutes before the fire was put out*
 
@@ -281,3 +282,6 @@ Getting treated by Friar
 Leonard, Moolia, and Valencia are all in dining room 
 
 (bedroom: Oliver - Findebear's ruby necklace is missing)
+
+
+Door to basement not being watched, rest of doors guarded
