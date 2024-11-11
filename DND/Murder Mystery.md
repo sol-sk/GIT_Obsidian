@@ -179,10 +179,11 @@ bell should only be rung by very important people *who know codes* and i
 no james 
 no severil
 no black vulture friar 
-no dustin 
+no dustin -- Valencia
 yes claudia 
 
 Lady ulale lebeau (beaver) immediately faints
+→*She's the one who ran in from Findebear's room access door when fire happened, and Dustin seems sure someone was hurt 5 minutes before the fire was put out*
 - Dr Holt carries her off
 - (9 perception: seems strange but idc)
 
