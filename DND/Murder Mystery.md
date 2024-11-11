@@ -212,5 +212,11 @@ Crying Cecilia statue
 **Joanna's bedroom (Valencia)**
 - Broken terracotta planter 
 - Vom and bodily waste smell coming from bed
+27 perception roll
 - *Purple Haze* magazine in Joanna's room
+- *Magic flight* magazine
+- *Bible*
+- Fancy empty box
+- Dr John Wembly's golden stopwatch (initials: LH) stopped at ... 7:20 
+- Peek 
 - 
