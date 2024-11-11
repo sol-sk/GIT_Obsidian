@@ -187,5 +187,12 @@ Lady ulale lebeau (beaver) immediately faints
 - (9 perception: seems strange but idc)
 
 Yasha growls 
+
+I tell them that something was weird, took wrong turn, got chased by dog, ended up here, now he's dead
 Dylan 
+- Leans head out and barks loudly to try and signal dogs
+
+Craytag says smth to molly oscuro
+- tells everyone to calm down
+- asks kinelli to escort guests back 
 - 
