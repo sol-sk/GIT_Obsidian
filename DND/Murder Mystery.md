@@ -203,3 +203,4 @@ Craytag (Abbott) says smth to molly oscuro
 
 
 Dustin McCloud seems pretty certain that Valencia hurt someone with her performance at 7:15 
+
