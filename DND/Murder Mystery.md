@@ -229,4 +229,16 @@ Molly looks shocked and like she's gonna go investigate
 
 2 of dogs walk through open door from courtyard 
 
+Initiative (i did bad)
+Molly grabs my shoulders
+Karen bolts out door to Valencia
+Abbott focused on body 
+
+
+Dr. Yasha Vasiliev & Karen in to bedroom to help Valencia 
+- Karen calls in everyone then "Dylan stay there"
+	- She starts to address: Yasha; bring Valencia to dining room
+	- Abbott will guard body in bathroom
+	- Molly will guard body in bedroom
+	- 
 
