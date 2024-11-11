@@ -302,4 +302,6 @@ Dustin - unifrom:
 - Him, will, michael, sometimes lucas
 - Moolia, alice, max, him, will- in stable
 - lucas mike jane, lily, joyce, kinelli claudia 
-- 
+
+Medical emergency bell at 7:15:
+- basement kitchens, dining room, or 
