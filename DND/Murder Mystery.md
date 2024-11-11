@@ -273,3 +273,6 @@ I go up to James
 
 #### 8:25
 Karen arrives in stable house
+
+Getting treated by Friar
+- Insight check - 10: get vibe that he's read a lot of books 
