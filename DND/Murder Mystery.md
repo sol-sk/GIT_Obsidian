@@ -304,4 +304,5 @@ Dustin - unifrom:
 - lucas mike jane, lily, joyce, kinelli claudia 
 
 Medical emergency bell at 7:15:
-- basement kitchens, dining room, or 
+- basement kitchens, dining room, or Karen & Dylan's bedroom? Findebear 
+- 
