@@ -171,4 +171,14 @@ Go to the bathroom, run into Oliver, we introduce ourselves, I see the super wet
 
 
 # Session 2
-Led by Ms Dylan Kinelli & Abbott Wolfgang, literally everyone rushes into bathroom, martha 
+Led by Ms Dylan Kinelli & Abbott Wolfgang, literally everyone rushes into bathroom, all friars except one ****
+
+**Headcount**
+servants and housestaff both here
+bell should only be rung by very important people *who know codes* and i 
+no james 
+no severil
+no black vulture friar 
+no dustin 
+yes claudia 
+
