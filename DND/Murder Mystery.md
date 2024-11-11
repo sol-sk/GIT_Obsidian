@@ -221,4 +221,5 @@ Perception roll on room (27 - Logan)
 - Peek behind wooden divider... 
 	- Lady Joanna Findebear's dead body surrounded by 6 burnt out candles in a circle
 	- copious amount of blood underneath her
-- 
+
+23 howd 
