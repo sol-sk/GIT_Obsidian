@@ -268,5 +268,8 @@ I go up to James
 - Joyce (rat) and Claudia going to keep an eye on everyone in dining room
 - Dylan is gonna grab folks from stable house
 - Holt (& others w medical training- Friars) is going to confer with Oscuro 
-- I tell Karen about servant's clothes
-	- I go with friar caraigipus (all black friar in modest robes) to
+- I tell Karen about servant's clothes, she makes me get my leg treated
+	- I go with friar caraigipus (all black friar in modest robes) to get my shit cleaned up
+
+#### 8:25
+Karen arrives in stable house
