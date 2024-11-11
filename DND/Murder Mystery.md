@@ -222,4 +222,7 @@ Perception roll on room (27 - Logan)
 	- Lady Joanna Findebear's dead body surrounded by 6 burnt out candles in a circle
 	- copious amount of blood underneath her
 
-23 howd 
+23 howd ppl react to valenca scream
+grantham tired'
+abbt looking at john with fascinatn very focsdn on that coorpsen attn quicklu returns to john
+molly looks shocked and like shes gonna go investigate
