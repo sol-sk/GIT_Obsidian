@@ -277,3 +277,5 @@ Karen arrives in stable house
 Getting treated by Friar
 - Insight check - 10: get vibe that he's read a lot of books. seems like he's on a goal oriented/set path - he's not very invested in what's happening around him 
 - He's frowning (???? freaky looking)
+- Tell him he's freaking me out and he gets sad (nat 20 perception)
+- 
