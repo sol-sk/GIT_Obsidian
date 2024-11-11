@@ -169,3 +169,6 @@ Go to the bathroom, run into Oliver, we introduce ourselves, I see the super wet
 - Medium sized build (smaller than Yasha, bigger than Marsha)
 - Failed investigation on medicine cabinet
 
+
+# Session 2
+
