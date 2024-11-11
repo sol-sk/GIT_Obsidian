@@ -300,10 +300,12 @@ Moolia will be invis till 9:40, as will Jane
 
 Dustin - uniform: 
 - Him, will, michael, sometimes lucas
-- Moolia, alice, max, him, will- in stable
+- Moolia, Elise, max, him, will- in stable
 - lucas mike jane, lily, joyce, kinelli claudia 
 
 Medical emergency bell at 7:15:
 - basement kitchens, dining room, or Karen & Dylan's bedroom? Findebear 
 
 - Insight check on Will (8) who's standing with Dustin
+- Asking if he saw anything weird in stable
+	- Elise cashed out early
