@@ -286,13 +286,12 @@ Leonard, Moolia, and Valencia are all in dining room
 
 Door to basement not being watched, rest of doors guarded
 
-Lord archibald frost the fox angling to listen to conversation 
+Lord archibald frost the (arctic) fox angling to listen to conversation 
 
 Talk to beaver woman: 
 - Leonard saw that she came from Findebear's room. What. 
 - Sitting at end of platform, sitting with mouse 
-- Ask her what she was doing in Findebear's room:
-	- 
+	- Nothing meaningful
 
 Talk to Yasha: 
 - It was suggested to me specifically to come. What are you doing why should i come 
