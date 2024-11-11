@@ -196,5 +196,5 @@ Craytag (Abbott) says smth to molly oscuro
 - tells everyone to calm down
 - asks kinelli to escort guests back to dining room, return, with holt
 - Him and molly will investigate
-- Held back by Mr Karen Grantham
+- Held back by Mr Karen Grantham (squirrel butler)
 - 
