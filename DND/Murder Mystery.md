@@ -297,3 +297,7 @@ Talk to Yasha:
 - It was suggested to me specifically to come. What are you doing why should i come 
 
 Moolia will be invis till 9:40, as will Jane 
+
+Dustin - unifrom: 
+- Him, will, michael, lucas, sometimes lucas
+- 
