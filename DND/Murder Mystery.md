@@ -222,9 +222,11 @@ Perception roll on room (27 - Logan)
 	- Lady Joanna Findebear's dead body surrounded by 6 burnt out candles in a circle
 	- copious amount of blood underneath her
 
-Perception 23 How'd ppl react to Valencia scream? 
+**Perception 23 How'd ppl react to Valencia scream?** 
 Grantham looks tired
 Abbott looking at John with fascination very focused on that corpse: attn quickly returns to John
 Molly looks shocked and like she's gonna go investigate
+
+2 of dogs walk through open door from courtyard 
 
 
