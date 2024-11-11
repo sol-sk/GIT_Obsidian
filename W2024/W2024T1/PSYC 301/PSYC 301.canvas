@@ -252,16 +252,6 @@
       "color": "4"
     },
     {
-      "id": "f2bf3ebe0e1fff12",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 3.md",
-      "styleAttributes": {},
-      "x": 356,
-      "y": 390,
-      "width": 330,
-      "height": 50
-    },
-    {
       "id": "cb3ab21a37bc764e",
       "type": "text",
       "text": "Diencephalon",
@@ -273,16 +263,6 @@
       "color": "4"
     },
     {
-      "id": "d8753a02b55e6e6f",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 2.md",
-      "styleAttributes": {},
-      "x": -880,
-      "y": 413,
-      "width": 330,
-      "height": 112
-    },
-    {
       "id": "4cd2be92383084f7",
       "type": "text",
       "text": "Forebrain",
@@ -292,16 +272,6 @@
       "width": 250,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "addf36ddccf8f470",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 03 - Neuroanatomy II.pdf",
-      "styleAttributes": {},
-      "x": 356,
-      "y": 540,
-      "width": 330,
-      "height": 290
     },
     {
       "id": "83b1a1e7d37dd717",
@@ -367,26 +337,6 @@
       "height": 371
     },
     {
-      "id": "4d0d53dc157bcc00",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 02 - Neuroanatomy I.pdf",
-      "styleAttributes": {},
-      "x": -252,
-      "y": 540,
-      "width": 330,
-      "height": 290
-    },
-    {
-      "id": "f951c9ef01a6ce0b",
-      "type": "text",
-      "text": "### 09.10.24",
-      "styleAttributes": {},
-      "x": -47,
-      "y": 465,
-      "width": 128,
-      "height": 60
-    },
-    {
       "id": "780bf0a5830eff3e",
       "type": "text",
       "text": "### 09.17.24\nFinishing up Lecture 3 slides",
@@ -395,16 +345,6 @@
       "y": 270,
       "width": 260,
       "height": 75
-    },
-    {
-      "id": "58f19a55ec0a67ab",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301-001 2024 Fall - Syllabus.pdf",
-      "styleAttributes": {},
-      "x": -432,
-      "y": -140,
-      "width": 495,
-      "height": 480
     },
     {
       "id": "3a00b9e1c03d09ea",
@@ -448,16 +388,6 @@
       "color": "5"
     },
     {
-      "id": "7ffc752b41ed4a36",
-      "type": "text",
-      "text": "# 09.05.24",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -150,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "afc45706ca33a681",
       "type": "text",
       "text": "\n| PSYC_V 301-001 - Brain Dysfunction and Recovery | Lecture | Tue Thu <br>12:30 p.m. - 2:00 p.m. <br>LSK-Room 200 | Jay Hosking | 1   |\n| ----------------------------------------------- | ------- | --------------------------------------------------- | ----------- | --- |\n",
@@ -498,26 +428,6 @@
       "width": 250,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "64d1249c4595ace8",
-      "type": "file",
-      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 01 - Intro and policies.pdf",
-      "styleAttributes": {},
-      "x": 120,
-      "y": -80,
-      "width": 580,
-      "height": 280
-    },
-    {
-      "id": "a490510eaa38f7b4",
-      "type": "text",
-      "text": "### Office hours\nhttps://jayhosking.youcanbook.me",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 220,
-      "width": 360,
-      "height": 100
     },
     {
       "id": "67c4adbe0ca968bc",
@@ -1451,6 +1361,96 @@
       "width": 391,
       "height": 91,
       "color": "#4ee49e"
+    },
+    {
+      "id": "f2bf3ebe0e1fff12",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 3.md",
+      "styleAttributes": {},
+      "x": 356,
+      "y": 390,
+      "width": 330,
+      "height": 50
+    },
+    {
+      "id": "d8753a02b55e6e6f",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC 301 Lecture 2.md",
+      "styleAttributes": {},
+      "x": -880,
+      "y": 413,
+      "width": 330,
+      "height": 112
+    },
+    {
+      "id": "addf36ddccf8f470",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 03 - Neuroanatomy II.pdf",
+      "styleAttributes": {},
+      "x": 356,
+      "y": 540,
+      "width": 330,
+      "height": 290
+    },
+    {
+      "id": "4d0d53dc157bcc00",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 02 - Neuroanatomy I.pdf",
+      "styleAttributes": {},
+      "x": -252,
+      "y": 540,
+      "width": 330,
+      "height": 290
+    },
+    {
+      "id": "f951c9ef01a6ce0b",
+      "type": "text",
+      "text": "### 09.10.24",
+      "styleAttributes": {},
+      "x": -47,
+      "y": 465,
+      "width": 128,
+      "height": 60
+    },
+    {
+      "id": "58f19a55ec0a67ab",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301-001 2024 Fall - Syllabus.pdf",
+      "styleAttributes": {},
+      "x": -432,
+      "y": -140,
+      "width": 495,
+      "height": 480
+    },
+    {
+      "id": "7ffc752b41ed4a36",
+      "type": "text",
+      "text": "# 09.05.24",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -150,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "64d1249c4595ace8",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 01 - Intro and policies.pdf",
+      "styleAttributes": {},
+      "x": 120,
+      "y": -80,
+      "width": 580,
+      "height": 280
+    },
+    {
+      "id": "a490510eaa38f7b4",
+      "type": "text",
+      "text": "### Office hours\nhttps://jayhosking.youcanbook.me",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 220,
+      "width": 360,
+      "height": 100
     }
   ],
   "edges": [
