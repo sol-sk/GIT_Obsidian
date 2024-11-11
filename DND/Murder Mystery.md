@@ -207,4 +207,5 @@ Craytag (Abbott) says smth to molly oscuro
 Dustin McCloud seems pretty certain that Valencia hurt someone with her performance at 7:15 
 
 Crying Cecilia statue
-- Oliver stashes list of names in loose brick in crying cecilia statu
+- Oliver stashes list of names in loose brick in crying cecilia statue
+
