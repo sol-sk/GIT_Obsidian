@@ -168,7 +168,7 @@ Go to the bathroom, run into Oliver, we introduce ourselves, I see the super wet
 - Blood puddled around sink and on floor, none in bathtub
 - Window over tub: out window, can see Wembly's body 
 - Bloody clothes and towels all hidden in cabinet under sink
-- Medium sized build (smaller than Yasha, bigger than Marsha)
+	- Medium sized build (smaller than Yasha, bigger than Marsha)
 - Failed investigation on medicine cabinet
 
 
