@@ -212,11 +212,13 @@ Crying Cecilia statue
 **Joanna's bedroom (Valencia)**
 - Broken terracotta planter 
 - Vom and bodily waste smell coming from bed
-27 perception roll
+Perception roll on room (27 - Logan)
 - *Purple Haze* magazine in Joanna's room
 - *Magic flight* magazine
 - *Bible*
 - Fancy empty box
 - Dr John Wembly's golden stopwatch (initials: LH.........) stopped at ... 7:20 
-- Peek 
+- Peek behind wooden divider... 
+	- Lady Joanna Findebear's dead body surrounded by 6 burnt out candles in a circle
+	- copious amount of blood underneath her
 - 
