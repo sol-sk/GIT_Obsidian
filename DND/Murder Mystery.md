@@ -280,3 +280,4 @@ Getting treated by Friar
 - Tell him he's freaking me out and he gets sad (nat 20 perception)
 Leonard, Moolia, and Valencia are all in dining room 
 
+(bedroom: Oliver - Findebear's ruby necklace is missing)
