@@ -228,7 +228,7 @@ Grantham looks tired
 Abbott looking at John with fascination very focused on that corpse: attn quickly returns to John
 Molly looks shocked and like she's gonna go investigate
 
-2 of dogs walk through open door from courtyard 
+*2 of Severil's* dogs walk through open door from courtyard 
 
 Initiative (i did bad)
 Molly grabs my shoulders
@@ -244,5 +244,7 @@ Dr. Yasha Vasiliev & Karen in to bedroom to help Valencia
 	- We need to reconvene and shit
 
 Leonard and Molly enter bedroom, Karen explains plan, Molly 
-
-8:10
+____
+#### 8:10 - Dining Room
+Dr. Holt is trying to push into the bar area to get back to bodies
+Lord Archibald Frost 
