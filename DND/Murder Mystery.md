@@ -33,14 +33,14 @@ Vultures in friar robes; one with colorful beak, fancy hat, golden sash, red rob
 
 Horse at bar, Escuro goes to speak to him
 
-Ostridge, speaking to friars
+Ostrich, speaking to friars
 
 Mouse woman, beaver woman, outside door to bathroom, ('quiet luxury')
 
-Lady Findebear: older ostridge woman, a little hunched over, ruby necklace
+Lady Findebear: older ostrich woman, a little hunched over, ruby necklace
 
 *Rolling perception on room (15)*
-- Ostrich and friars by bar–bartender is ignoring ostridge as he tries to order drink
+- Ostrich and friars by bar–bartender is ignoring ostrich as he tries to order drink
 - Well dressed male arctic fox, w/ rubies and amber woven into his suit
 
 *Perception on Lady Findebear (20)*
@@ -249,7 +249,7 @@ ____
 Dr. Holt is trying to push into the bar area to get back to bodies
 Lord Archibald Frost trying to stop him
 Friars (3) are arguing w/ Claudia McCloud, who is guarding one door - Kinelli is guarding the other 
-D'Artangan 
+D'Artangan + O'Clare (fox bartender) trying to calm down friars 
 Beaver in corner comforted by small mouse 
 
 Valencia check - 
