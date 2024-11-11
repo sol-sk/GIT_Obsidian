@@ -209,3 +209,7 @@ Dustin McCloud seems pretty certain that Valencia hurt someone with her performa
 Crying Cecilia statue
 - Oliver stashes list of names in loose brick in crying cecilia statue
 
+**Joanna's bedroom (Valencia)**
+- Broken terracotta planter 
+- Vom and bodily waste smell coming from bed
+- 
