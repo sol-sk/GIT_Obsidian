@@ -40,7 +40,7 @@ Mouse woman, beaver woman, outside door to bathroom, ('quiet luxury')
 Lady Findebear: older ostridge woman, a little hunched over, ruby necklace
 
 *Rolling perception on room (15)*
-- Ostridge and friars by bar–bartender is ignoring ostridge as he tries to order drink
+- Ostrich and friars by bar–bartender is ignoring ostridge as he tries to order drink
 - Well dressed male arctic fox, w/ rubies and amber woven into his suit
 
 *Perception on Lady Findebear (20)*
@@ -257,4 +257,6 @@ All circus is here
 
 Karen and Leonard enter, Karen goes over to Dylan 
 
-Leonard looks for James bc that's bro 
+Leonard looks for James bc that's bro
+
+
