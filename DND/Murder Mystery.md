@@ -275,4 +275,5 @@ I go up to James
 Karen arrives in stable house
 
 Getting treated by Friar
-- Insight check - 10: get vibe that he's read a lot of books 
+- Insight check - 10: get vibe that he's read a lot of books. seems like he's on a goal oriented/set path - he's not very invested in what's happening around him 
+- He's frowning (???? freaky looking)
