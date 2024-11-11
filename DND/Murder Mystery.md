@@ -267,5 +267,6 @@ I go up to James
 **Karen giving instruction**
 - Joyce (rat) and Claudia going to keep an eye on everyone in dining room
 - Dylan is gonna grab folks from stable house
-- Holt (& others w medical training) is going to confer with Oscuro 
-- 
+- Holt (& others w medical training- Friars) is going to confer with Oscuro 
+- I tell Karen about servant's clothes
+	- I go with friar caraigipus (all black friar in modest robes) to
