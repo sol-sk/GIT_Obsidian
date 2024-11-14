@@ -1464,12 +1464,12 @@
     },
     {
       "id": "8a4968875271b1b5",
+      "type": "file",
+      "file": "Excalidraw/PSYC 301 Lecture 10 Notes.md",
       "x": 1980,
       "y": 3601,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "Excalidraw/PSYC 301 Lecture 10 Notes.md"
+      "height": 400
     }
   ],
   "edges": [
