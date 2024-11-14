@@ -41,26 +41,6 @@
       "label": "Untitled group"
     },
     {
-      "id": "8857c6d116c6f967",
-      "type": "text",
-      "text": "| 09.17.24 | Course Topics Discussion            | Chapter 1       |\n| -------- | ----------------------------------- | --------------- |\n| 09.19.24 | Ethics: Unworkable Ethical Theories | Secs. 2.1 - 2.5 |",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 1580,
-      "width": 491,
-      "height": 66
-    },
-    {
-      "id": "5578b515503c8aca",
-      "type": "text",
-      "text": "### Lecture 4 09.17.24",
-      "styleAttributes": {},
-      "x": -754,
-      "y": 1680,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "5a0f1c1a38dce28f",
       "type": "text",
       "text": "#### Chapter 1\n[[Ethics for the Information Age, 9e.pdf#page=57&annotation=2405R|Ethics for the Information Age, 9e, page 57]]\n> The traditional view of technology, called **instrumentalism**, sees technological devices as instruments created by engineers to achieve ends dictated by society. Instrumentalists focus on the benefits of technology. They see technology as expanding human capabilities, which is desirable. While it is true that a technology may be put to a bad use, that is the fault of the human users of the technology, not the creators of the technology or the technology itself, according to this view. \n\n> The **neutrality** thesis holds that technology is neither good nor bad; it is the users of that technology who determine whether it will be put to good or bad use. A well-known example of this perspective is the statement, “Guns don’t kill people. People kill people.”\n\n> **Pragmatism** is another view of technology that focuses on the role of technological devices in solving practical problems. Unlike instrumentalists, however, pragmatists do not think technology is value neutral. Rather, in their view, the value of a technology is dependent on the social context in which it is deployed. For example, urban coal-fired steam-heating plants would have been viewed favorably in the 1880s because they were a cleaner and more efficient source of heat than the alternatives available at that time. Today, the same technology would be seen as harmful because climate change is an important social concern, and coal-fired plants emit more carbon dioxide than alternative heat sources. \n\n> **Technological determinism** is the view that technological advancements are the most important driver of social, economic, and cultural change. According to this view, technological change is autonomous and inevitable, as expressed in the familiar saying, “You can’t stop progress.” Technological determinists can point to historical events sup- porting their view. For example, the early adoption of gunpowder in Turkey enabled the creation the Ottoman Empire, and the invention of the printing press was a catalyst for the creation of nation-states in Western Europe. Modern commentators who see the rise of AI as unstoppable are reflecting a deterministic view of technology. \n\n\n> Critics of technological determinism argue that the theory is too simplistic and ignores the fact that societies do have some choice regarding whether to adopt new technologies. The **cultural approach to technology** holds that technology is an expression of human culture. Technology is value-laden because once adopted, it can impact society by making it easier for people to achieve some goals and more difficult for them to achieve others [62]. For example, as described earlier in this chapter, the adoption of the telephone facilitated long-distance communication, and the telephone also eroded traditional social hierarchies and generated new concerns about privacy. \n\n> Underlying the European colonization of the lands and people of America, Asia, and Africa was a belief system that presumed the racial inferiority of the colonized people and the inferiority of their knowledge and values. **Coloniality** refers to the situation in which these beliefs have been internalized and have persisted, even though colonialism is largely relegated to the past. Ex-colonized people believing that they are incapable of developing high quality technologies is a symptom of coloniality. Another symptom of coloniality is the view of some North Americans or Europeans that they can solve technical problems in developing nations without any help from the people who live there. Decolonial tech- nical design is the view that a pluralistic technical design process can overcome coloniality by including the knowledge, values, and world views of formerly colonized people ",
@@ -121,14 +101,55 @@
       "height": 193
     },
     {
-      "id": "4e3e08900efa83cf",
+      "id": "3da553b3f5bc3f6a",
       "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 1 Outline.md",
+      "file": "W2024/W2024T1/W2024T1 Files/Lect1-3.pdf",
+      "subpath": "#page=1",
       "styleAttributes": {},
-      "x": 140,
-      "y": 162,
-      "width": 680,
-      "height": 300
+      "x": -1220,
+      "y": 2584,
+      "width": 820,
+      "height": 416
+    },
+    {
+      "id": "ce9e2fbe9768b40c",
+      "type": "text",
+      "text": "rolling out self driving cars to reduce traffic accidents is a less tenable and more environmentally destructive solution than improving public transportation",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": 3040,
+      "width": 443,
+      "height": 76
+    },
+    {
+      "id": "c5d406d914208f3c",
+      "type": "text",
+      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": 3144,
+      "width": 443,
+      "height": 241
+    },
+    {
+      "id": "8857c6d116c6f967",
+      "type": "text",
+      "text": "| 09.17.24 | Course Topics Discussion            | Chapter 1       |\n| -------- | ----------------------------------- | --------------- |\n| 09.19.24 | Ethics: Unworkable Ethical Theories | Secs. 2.1 - 2.5 |",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 1580,
+      "width": 491,
+      "height": 66
+    },
+    {
+      "id": "5578b515503c8aca",
+      "type": "text",
+      "text": "### Lecture 4 09.17.24",
+      "styleAttributes": {},
+      "x": -754,
+      "y": 1680,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "d1c96d0adccc28ef",
@@ -171,27 +192,6 @@
       "height": 58
     },
     {
-      "id": "3da553b3f5bc3f6a",
-      "type": "file",
-      "file": "W2024/W2024T1/W2024T1 Files/Lect1-3.pdf",
-      "subpath": "#page=1",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 2584,
-      "width": 820,
-      "height": 416
-    },
-    {
-      "id": "ce9e2fbe9768b40c",
-      "type": "text",
-      "text": "rolling out self driving cars to reduce traffic accidents is a less tenable and more environmentally destructive solution than improving public transportation",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 3040,
-      "width": 443,
-      "height": 76
-    },
-    {
       "id": "4a13c4c9714fd8b6",
       "type": "text",
       "text": "### Due 09-10-24 5:00PM\n- [x] Readings\n- [x] MTA: \n\t- [x] Calibrate peer reviews \n\t- [x] Complete quiz\n\t- [x] Write outline (150char) for essay \n- [x] Write essay in CBTF\n\t- [x] Attempt 1: 09-09-24 12-1PM\n\t- [ ] Attempt 2: 09-10-24 3-4PM\n- [x] Join piazza\n",
@@ -210,6 +210,16 @@
       "y": 192,
       "width": 250,
       "height": 60
+    },
+    {
+      "id": "4e3e08900efa83cf",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 1 Outline.md",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 162,
+      "width": 680,
+      "height": 300
     },
     {
       "id": "0fac7b7b3bae2ea7",
@@ -392,14 +402,14 @@
       "height": 81
     },
     {
-      "id": "88f4803ba99ebc3b",
+      "id": "889e6d2fd96af1ad",
       "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 5 Outline.md",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 9 Outline.md",
       "styleAttributes": {},
-      "x": 200,
-      "y": 4529,
-      "width": 594,
-      "height": 90
+      "x": 582,
+      "y": 6109,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "8a44a6c3321d3e5e",
@@ -410,16 +420,6 @@
       "y": 4529,
       "width": 590,
       "height": 757
-    },
-    {
-      "id": "c5d406d914208f3c",
-      "type": "text",
-      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 3144,
-      "width": 443,
-      "height": 241
     },
     {
       "id": "adc561ea4ee6bdfa",
@@ -502,14 +502,14 @@
       "height": 60
     },
     {
-      "id": "889e6d2fd96af1ad",
+      "id": "88f4803ba99ebc3b",
       "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 9 Outline.md",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 5 Outline.md",
       "styleAttributes": {},
-      "x": 582,
-      "y": 6109,
-      "width": 400,
-      "height": 400
+      "x": 200,
+      "y": 4529,
+      "width": 594,
+      "height": 90
     },
     {
       "id": "2ac44bbcc1c552ef",
