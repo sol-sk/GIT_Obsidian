@@ -1454,12 +1454,13 @@
     },
     {
       "id": "50029694ca0427e5",
+      "type": "file",
+      "file": "W2024/W2024T1/PSYC 301/PSYC301 Lecture 10 - Epilepsy.pdf",
+      "styleAttributes": {},
       "x": 1519,
       "y": 3601,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "W2024 Files/PSYC301 Lecture 10 - Epilepsy.pdf"
+      "height": 400
     }
   ],
   "edges": [
