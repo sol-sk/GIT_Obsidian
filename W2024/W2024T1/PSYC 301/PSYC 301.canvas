@@ -1471,6 +1471,16 @@
       "y": 3601,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "dbef293169c490e8",
+      "type": "text",
+      "text": "latency of cognition (slow)\nnegative impact on mood\ndifficulty with memory\nloss of touch with reality, delusionspsychosis (mania)",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 3380,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
