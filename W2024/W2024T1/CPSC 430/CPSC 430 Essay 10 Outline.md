@@ -3,6 +3,8 @@
 2. If a company sends a consumer an incorrect bill, should the company be required to compensate the consumer for the time and effort the consumer takes to straighten out the mistake?
 3. You are working on an open-source project in your free time, but your employer claims ownership of your code since it is related to the company’s area of work. Is it ethical for the company to demand this ownership?
 4. At a job, you discover that one of the critical pieces of software you’re using is a bootlegged copy. You bring this up to your boss, who states that the software is too expensive and out of budget, and suggests getting a license in the distant future when the company has more money. How would you respond in this situation?
+
 Act Utilitarianism
 - Bootlegged software is not good, but it doesn't do anyone any direct harm–especially if the software is produced by a large company charging a significant recurring fee (Adobe...)
 - The harms that may befall you or the company are disproportionate to the level of harm caused by the use of bootlegged software. 
+
