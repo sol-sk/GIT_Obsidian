@@ -7,4 +7,5 @@
 Act Utilitarianism
 - Bootlegged software is not good, but it doesn't do anyone any direct harm–especially if the software is produced by a large company charging a significant recurring fee (Adobe...)
 - The harms that may befall you or the company are disproportionate to the level of harm caused by the use of bootlegged software. 
-
+Counter: 
+- Spitzer (in TB) argues that utilitarian principles 
