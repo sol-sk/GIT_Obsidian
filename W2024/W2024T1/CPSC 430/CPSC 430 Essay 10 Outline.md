@@ -9,4 +9,4 @@ Act Utilitarianism
 - The harms that may befall you or the company are disproportionate to the level of harm caused by the use of bootlegged software. 
 Counter: 
 - Spitzer (in TB) argues that utilitarianism replacing principle-based ethics like social contract theory and Kantianism is what creates the need for whistleblowing in the first place. Thus, this is just enabling that environment. 
-- Rebuttal: teams 
+- Rebuttal: teams must be held to higher standards than individuals. Rigidity may be crucial for a company but less so for an individual. 
