@@ -8,4 +8,5 @@ Act Utilitarianism
 - Bootlegged software is not good, but it doesn't do anyone any direct harm–especially if the software is produced by a large company charging a significant recurring fee (Adobe...)
 - The harms that may befall you or the company are disproportionate to the level of harm caused by the use of bootlegged software. 
 Counter: 
-- Spitzer (in TB) argues that utilitarian principles 
+- Spitzer (in TB) argues that utilitarianism replacing principle-based ethics like social contract theory and Kantianism is what creates the need for whistleblowing in the first place. Thus, this is just enabling that environment. 
+- Rebuttal: teams 
