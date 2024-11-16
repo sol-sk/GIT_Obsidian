@@ -955,7 +955,7 @@
     {
       "id": "2e8bfeb0c01c8dea",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
       "styleAttributes": {},
       "x": 1820,
       "y": 8360,
@@ -994,12 +994,13 @@
     },
     {
       "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
       "x": 720,
       "y": 8360,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md"
+      "height": 400
     },
     {
       "id": "38b87687811faa14",
@@ -1013,12 +1014,13 @@
     },
     {
       "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Crimp Douglas Annotated.md",
+      "styleAttributes": {},
       "x": 2040,
       "y": 7840,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "Crimp Douglas Annotated.md"
+      "height": 400
     },
     {
       "id": "559e979027d6f9a1",
@@ -1915,12 +1917,22 @@
     {
       "id": "ba6916ed037019fc",
       "type": "text",
-      "text": "> Why does Turing in- clude gender, and why does Hodges want to read this inclusion as indicat- ing that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf#page=14&selection=182,0,223,8|Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics, page 14]]",
+      "text": "> Why does Turing in- clude gender, and why does Hodges want to read this inclusion as indicat- ing that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,8|Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics, page 14]]",
       "styleAttributes": {},
       "x": 2240,
       "y": 8340,
       "width": 440,
       "height": 200
+    },
+    {
+      "id": "1cca6de671a27c4f",
+      "type": "text",
+      "text": "[[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 9870,
+      "width": 311,
+      "height": 60
     }
   ],
   "edges": [
