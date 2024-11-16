@@ -1815,12 +1815,32 @@
     {
       "id": "932fda95407ebdac",
       "type": "text",
-      "text": "",
+      "text": "# Goals of the artwork",
       "styleAttributes": {},
       "x": 220,
       "y": 9020,
-      "width": 260,
+      "width": 320,
       "height": 60
+    },
+    {
+      "id": "f77f405bb2fdfedc",
+      "type": "text",
+      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9100,
+      "width": 480,
+      "height": 160
+    },
+    {
+      "id": "44d045065100b98d",
+      "type": "text",
+      "text": "Why: experiences involving agents are more emotionally evocative,",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9280,
+      "width": 480,
+      "height": 140
     }
   ],
   "edges": [
