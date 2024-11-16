@@ -1818,8 +1818,18 @@
       "text": "# Goals of the artwork",
       "styleAttributes": {},
       "x": 220,
-      "y": 9020,
+      "y": 8980,
       "width": 320,
+      "height": 60
+    },
+    {
+      "id": "bb1d4d0c2182fce9",
+      "type": "text",
+      "text": "#### What is it doing: ",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 9070,
+      "width": 260,
       "height": 60
     },
     {
@@ -1827,38 +1837,58 @@
       "type": "text",
       "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
       "styleAttributes": {},
-      "x": 140,
-      "y": 9100,
+      "x": -60,
+      "y": 9146,
       "width": 480,
       "height": 160
     },
     {
+      "id": "4ed0bebc395bc362",
+      "type": "text",
+      "text": "#### Why is it doing it:",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 9337,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "44d045065100b98d",
       "type": "text",
-      "text": "Why: experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
+      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
       "styleAttributes": {},
-      "x": 140,
-      "y": 9280,
+      "x": -60,
+      "y": 9457,
       "width": 480,
       "height": 234
     },
     {
+      "id": "ef1b0e60d51a1d65",
+      "type": "text",
+      "text": "#### How does it do this: ",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 9231,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "f284521f14063d6e",
       "type": "text",
-      "text": "Crucial qualities for this to be effective: \n- It must have some kind of striking moment\n- It must be accessible\n",
+      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
       "styleAttributes": {},
-      "x": 640,
+      "x": 500,
       "y": 9100,
       "width": 340,
-      "height": 126
+      "height": 81
     },
     {
       "id": "43b5338cb5945d5b",
       "type": "text",
-      "text": "Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?",
+      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few mine",
       "styleAttributes": {},
-      "x": 660,
-      "y": 9360,
+      "x": 500,
+      "y": 9337,
       "width": 340,
       "height": 120
     }
@@ -2883,6 +2913,22 @@
       "fromSide": "right",
       "toNode": "b18dff2f79d50026",
       "toSide": "left"
+    },
+    {
+      "id": "2a18c47e1e18e14a",
+      "styleAttributes": {},
+      "fromNode": "f77f405bb2fdfedc",
+      "fromSide": "right",
+      "toNode": "f284521f14063d6e",
+      "toSide": "left"
+    },
+    {
+      "id": "42dd05bb0827b6fe",
+      "styleAttributes": {},
+      "fromNode": "f284521f14063d6e",
+      "fromSide": "bottom",
+      "toNode": "ef1b0e60d51a1d65",
+      "toSide": "top"
     }
   ],
   "metadata": {}
