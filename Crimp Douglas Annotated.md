@@ -85,3 +85,17 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^4qm62hsm909
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T20:38:24.791Z","updated":"2024-11-16T20:38:24.791Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":16760,"end":16774},{"type":"TextQuoteSelector","exact":"Cindy Sherman,","prefix":"  photograph of/by  the artist  ","suffix":" one of  a  recent  series  in w"}]}]}
+>```
+>%%
+>*%%PREFIX%%photograph of/by  the artist%%HIGHLIGHT%% ==Cindy Sherman,== *
+>%%LINK%%[[#^xcq01fn071r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xcq01fn071r
