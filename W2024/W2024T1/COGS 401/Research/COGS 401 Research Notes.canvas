@@ -1793,34 +1793,24 @@
       "file": "Crimp Douglas Annotated.md"
     },
     {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a situation and for  a duration  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": 1880,
-      "y": 7513,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "996cae2f1842939c",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": 7480,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "559e979027d6f9a1",
       "type": "text",
-      "text": "Minimalisms theatricality (Fried) comes from its: \n> preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "text": "Minimalisms theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
       "styleAttributes": {},
-      "x": 1420,
-      "y": 7668,
+      "x": 2480,
+      "y": 7840,
       "width": 400,
       "height": 147
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": 2480,
+      "y": 8012,
+      "width": 400,
+      "height": 155
     }
   ],
   "edges": [
