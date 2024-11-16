@@ -141,3 +141,18 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^h5rbi5gcaa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T21:01:16.086Z","text":"Sherrie Levine: \nThe distance between us and what the pictures offer/withhold, and how this sparks desire in us","updated":"2024-11-16T21:01:16.086Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":25183,"end":25310},{"type":"TextQuoteSelector","exact":"separates us  from  what  those  pictures  simultaneously proffer and  withhold and the desire  that  is  thereby set in  motio","prefix":" the  same: the  distance  that ","suffix":"n. Drawn  to pictures  whose  st"}]}]}
+>```
+>%%
+>*%%PREFIX%%the  same: the  distance  that%%HIGHLIGHT%% ==separates us  from  what  those  pictures  simultaneously proffer and  withhold and the desire  that  is  thereby set in  motio== *
+>%%LINK%%[[#^0bga80zqjob6|show annotation]]
+>%%COMMENT%%
+>Sherrie Levine: 
+>The distance between us and what the pictures offer/withhold, and how this sparks desire in us
+>%%TAGS%%
+>
+^0bga80zqjob6
