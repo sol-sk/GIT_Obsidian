@@ -1715,16 +1715,6 @@
       "height": 60
     },
     {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": 920,
-      "y": 7889,
-      "width": 440,
-      "height": 331
-    },
-    {
       "id": "b18dff2f79d50026",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf",
@@ -1735,32 +1725,72 @@
       "height": 400
     },
     {
-      "id": "cad56292e0966686",
+      "id": "2e8bfeb0c01c8dea",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
+      "file": "W2024/W2024T1/COGS 401/Research/Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf",
       "styleAttributes": {},
-      "x": 1380,
+      "x": 1820,
       "y": 8360,
       "width": 400,
       "height": 400
     },
     {
-      "id": "2e8bfeb0c01c8dea",
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 8831,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "cad56292e0966686",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": 8831,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
       "x": 1820,
       "y": 7889,
       "width": 400,
       "height": 400,
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf"
+      "file": "Crimp Douglas Annotated.md"
     },
     {
-      "id": "8668c178df206101",
-      "x": 1820,
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 7889,
+      "width": 440,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "x": 720,
       "y": 8360,
       "width": 400,
       "height": 400,
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf"
+      "file": "Clippings/ARTISTS SPACE.md"
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": 7859,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -2767,6 +2797,22 @@
       "toNode": "af71130e1c329003",
       "toSide": "top",
       "color": "#094855"
+    },
+    {
+      "id": "130d39056df6476a",
+      "styleAttributes": {},
+      "fromNode": "e2eee08c1b88ad31",
+      "fromSide": "right",
+      "toNode": "b18dff2f79d50026",
+      "toSide": "left"
+    },
+    {
+      "id": "d0685342870c8b26",
+      "styleAttributes": {},
+      "fromNode": "38b87687811faa14",
+      "fromSide": "right",
+      "toNode": "b18dff2f79d50026",
+      "toSide": "left"
     }
   ],
   "metadata": {}
