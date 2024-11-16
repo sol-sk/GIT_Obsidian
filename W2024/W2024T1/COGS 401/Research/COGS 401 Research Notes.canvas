@@ -1012,15 +1012,6 @@
       "height": 60
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "Crimp Douglas Annotated.md",
-      "x": 2040,
-      "y": 7840,
-      "width": 400,
-      "height": 1637
-    },
-    {
       "id": "559e979027d6f9a1",
       "type": "text",
       "text": "Minimalisms theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
@@ -1933,14 +1924,23 @@
       "height": 60
     },
     {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Crimp Douglas Annotated.md",
+      "x": 2080,
+      "y": 7860,
+      "width": 400,
+      "height": 1637
+    },
+    {
       "id": "dcf2f334447528f1",
       "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism: ",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism: \n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
       "styleAttributes": {},
-      "x": 2420,
-      "y": 8980,
-      "width": 260,
-      "height": 60
+      "x": 2520,
+      "y": 8920,
+      "width": 380,
+      "height": 380
     }
   ],
   "edges": [
