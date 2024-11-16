@@ -156,3 +156,17 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^0bga80zqjob6
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T21:05:44.286Z","updated":"2024-11-16T21:05:44.286Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":28909,"end":29297},{"type":"TextQuoteSelector","exact":"The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated","prefix":"ical  painting of  surrealism.  ","suffix":". Nevertheless,  it  remains  us"}]}]}
+>```
+>%%
+>*%%PREFIX%%ical  painting of  surrealism.%%HIGHLIGHT%% ==The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated== *
+>%%LINK%%[[#^ra39o7iqgza|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ra39o7iqgza
