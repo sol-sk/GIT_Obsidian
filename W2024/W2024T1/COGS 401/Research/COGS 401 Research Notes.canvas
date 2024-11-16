@@ -1945,14 +1945,13 @@
       "height": 200
     },
     {
-      "id": "cad56292e0966686",
+      "id": "e3738d3f633b5ae7",
+      "x": 1360,
+      "y": 9400,
+      "width": 1320,
+      "height": 720,
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
-      "styleAttributes": {},
-      "x": 1300,
-      "y": 9900,
-      "width": 920,
-      "height": 580
+      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf"
     }
   ],
   "edges": [
