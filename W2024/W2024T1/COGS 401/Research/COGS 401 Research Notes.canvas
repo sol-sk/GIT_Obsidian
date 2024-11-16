@@ -1983,6 +1983,16 @@
       "y": 8400,
       "width": 360,
       "height": 200
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": 3251,
+      "y": 8877,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -3077,6 +3087,14 @@
       "fromSide": "right",
       "toNode": "7281d1bff2eb2aa9",
       "toSide": "left"
+    },
+    {
+      "id": "148522ea823c4009",
+      "styleAttributes": {},
+      "fromNode": "517aac4c23c9104e",
+      "fromSide": "bottom",
+      "toNode": "eb4767d328ff9dcb",
+      "toSide": "top"
     }
   ],
   "metadata": {}
