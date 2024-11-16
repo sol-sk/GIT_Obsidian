@@ -1835,12 +1835,22 @@
     {
       "id": "44d045065100b98d",
       "type": "text",
-      "text": "Why: experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regard",
+      "text": "Why: experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
       "styleAttributes": {},
       "x": 140,
       "y": 9280,
       "width": 480,
-      "height": 140
+      "height": 234
+    },
+    {
+      "id": "f284521f14063d6e",
+      "type": "text",
+      "text": "Crucial qualities for this to be effective: \n- It must have some ki",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 9080,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
