@@ -1946,19 +1946,19 @@
     },
     {
       "id": "e3738d3f633b5ae7",
-      "x": 1360,
-      "y": 9400,
-      "width": 1000,
-      "height": 720,
+      "x": 1820,
+      "y": 9337,
+      "width": 400,
+      "height": 400,
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf"
     },
     {
       "id": "7281d1bff2eb2aa9",
-      "x": 2440,
-      "y": 8920,
-      "width": 367,
-      "height": 400,
+      "x": 2343,
+      "y": 9242,
+      "width": 237,
+      "height": 258,
       "type": "file",
       "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png"
     }
@@ -3049,12 +3049,12 @@
       "toSide": "left"
     },
     {
-      "id": "a5b73d9d34979a1f",
+      "id": "66b707ad6c2f88b0",
       "styleAttributes": {},
       "fromNode": "e3738d3f633b5ae7",
-      "fromSide": "top",
+      "fromSide": "right",
       "toNode": "7281d1bff2eb2aa9",
-      "toSide": "bottom"
+      "toSide": "left"
     }
   ],
   "metadata": {}
