@@ -99,3 +99,31 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^xcq01fn071r
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T20:38:41.414Z","text":"What is happening is unclear, but something is happening; a staged narrative is present","updated":"2024-11-16T20:38:41.414Z","document":{"title":""},"references":["xcq01fn071r"],"target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^36e8irmahfv|show annotation]]
+>%%COMMENT%%
+>What is happening is unclear, but something is happening; a staged narrative is present
+>%%TAGS%%
+>
+^36e8irmahfv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T20:39:52.773Z","text":"\"whose existence never exceeds the fragment\"","updated":"2024-11-16T20:39:52.773Z","document":{"title":""},"references":["xcq01fn071r","36e8irmahfv"],"target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}
+>```
+>%%
+>*%%PREFIX%%%%HIGHLIGHT%% ==== *
+>%%LINK%%[[#^mkwxelribn|show annotation]]
+>%%COMMENT%%
+>"whose existence never exceeds the fragment"
+>%%TAGS%%
+>
+^mkwxelribn
