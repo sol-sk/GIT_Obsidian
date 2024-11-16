@@ -1,5 +1,5 @@
 ---
-annotation-target: W2024 Files/Causes and consequences of mind perception Waytz et al.pdf
+annotation-target: W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf
 ---
 
 >%%
