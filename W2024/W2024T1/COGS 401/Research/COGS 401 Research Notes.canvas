@@ -1845,12 +1845,22 @@
     {
       "id": "f284521f14063d6e",
       "type": "text",
-      "text": "Crucial qualities for this to be effective: \n- It must have some ki",
+      "text": "Crucial qualities for this to be effective: \n- It must have some kind of striking moment\n- It must be accessible\n",
       "styleAttributes": {},
-      "x": 600,
-      "y": 9080,
-      "width": 260,
-      "height": 60
+      "x": 640,
+      "y": 9100,
+      "width": 340,
+      "height": 126
+    },
+    {
+      "id": "43b5338cb5945d5b",
+      "type": "text",
+      "text": "Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?",
+      "styleAttributes": {},
+      "x": 660,
+      "y": 9360,
+      "width": 340,
+      "height": 120
     }
   ],
   "edges": [
