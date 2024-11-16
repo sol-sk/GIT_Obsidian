@@ -945,7 +945,7 @@
     {
       "id": "b18dff2f79d50026",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
       "styleAttributes": {},
       "x": 1380,
       "y": 7889,
@@ -996,6 +996,7 @@
       "id": "e2eee08c1b88ad31",
       "type": "file",
       "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
       "x": 720,
       "y": 8360,
       "width": 400,
@@ -1924,23 +1925,34 @@
       "height": 60
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "Crimp Douglas Annotated.md",
-      "x": 2080,
-      "y": 7860,
-      "width": 400,
-      "height": 1637
-    },
-    {
       "id": "dcf2f334447528f1",
       "type": "text",
       "text": "**Modernism/Postmodernism**\n\nDefining modernism: \n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
       "styleAttributes": {},
-      "x": 2840,
-      "y": 8250,
-      "width": 380,
-      "height": 380
+      "x": 3260,
+      "y": 7840,
+      "width": 640,
+      "height": 286
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "Sherrie Levine: \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": 2900,
+      "y": 7840,
+      "width": 340,
+      "height": 147
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": 1780,
+      "y": 7834,
+      "width": 400,
+      "height": 50
     }
   ],
   "edges": [
