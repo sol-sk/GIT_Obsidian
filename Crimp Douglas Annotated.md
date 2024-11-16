@@ -127,3 +127,17 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^mkwxelribn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T20:49:59.704Z","text":"Seeking meaning (\"signification\") in a picture while knowing there is not ","updated":"2024-11-16T20:49:59.704Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":20740,"end":20841},{"type":"TextQuoteSelector","exact":" The  picture is an object of desire, the desire for the signification  that is known to  be  absent.","prefix":"transform it; it fetishizes it. ","suffix":"  The expression of  that  desir"}]}]}
+>```
+>%%
+>*%%PREFIX%%transform it; it fetishizes it.%%HIGHLIGHT%% ==The  picture is an object of desire, the desire for the signification  that is known to  be  absent.== *
+>%%LINK%%[[#^h5rbi5gcaa|show annotation]]
+>%%COMMENT%%
+>Seeking meaning ("signification") in a picture while knowing there is not 
+>%%TAGS%%
+>
+^h5rbi5gcaa
