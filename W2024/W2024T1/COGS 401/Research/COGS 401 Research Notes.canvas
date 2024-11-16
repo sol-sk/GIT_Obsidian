@@ -1755,15 +1755,6 @@
       "height": 400
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "x": 1820,
-      "y": 7889,
-      "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "Crimp Douglas Annotated.md"
-    },
-    {
       "id": "afc68e318ceb0f33",
       "type": "text",
       "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
@@ -1791,6 +1782,15 @@
       "y": 7859,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "x": 2040,
+      "y": 7840,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "Crimp Douglas Annotated.md"
     }
   ],
   "edges": [
