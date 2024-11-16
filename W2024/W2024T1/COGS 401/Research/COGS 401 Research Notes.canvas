@@ -943,56 +943,6 @@
       "height": 417
     },
     {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": 1380,
-      "y": 7889,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 8831,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": 560,
-      "y": 7889,
-      "width": 440,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": 720,
-      "y": 8360,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": 1040,
-      "y": 7859,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "932fda95407ebdac",
       "type": "text",
       "text": "# Goals of the artwork",
@@ -1875,16 +1825,6 @@
       "height": 60
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 7815,
-      "width": 400,
-      "height": 50
-    },
-    {
       "id": "559e979027d6f9a1",
       "type": "text",
       "text": "Minimalisms theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
@@ -1895,6 +1835,46 @@
       "height": 147
     },
     {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 9337,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 7889,
+      "width": 440,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 8360,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 7815,
+      "width": 400,
+      "height": 50
+    },
+    {
       "id": "5d0ed83ce2d43ca3",
       "type": "text",
       "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
@@ -1903,6 +1883,36 @@
       "y": 7763,
       "width": 400,
       "height": 155
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 2343,
+      "y": 9242,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": 7859,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": 1380,
+      "y": 7889,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "c3cd3233e4222915",
@@ -1925,6 +1935,26 @@
       "height": 286
     },
     {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 8400,
+      "width": 440,
+      "height": 382
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing in- clude gender, and why does Hodges want to read this inclusion as indicat- ing that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": 2270,
+      "y": 8400,
+      "width": 440,
+      "height": 148
+    },
+    {
       "id": "2e8bfeb0c01c8dea",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
@@ -1935,42 +1965,14 @@
       "height": 400
     },
     {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing in- clude gender, and why does Hodges want to read this inclusion as indicat- ing that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,8|Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics, page 14]]",
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf",
       "styleAttributes": {},
-      "x": 2270,
-      "y": 8400,
-      "width": 440,
-      "height": 200
-    },
-    {
-      "id": "e3738d3f633b5ae7",
       "x": 1820,
-      "y": 9337,
+      "y": 8831,
       "width": 400,
-      "height": 400,
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf"
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "x": 2343,
-      "y": 9242,
-      "width": 237,
-      "height": 258,
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png"
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"",
-      "styleAttributes": {},
-      "x": 2740,
-      "y": 8387,
-      "width": 440,
-      "height": 346
+      "height": 400
     }
   ],
   "edges": [
