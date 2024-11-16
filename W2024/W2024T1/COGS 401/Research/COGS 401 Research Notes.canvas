@@ -1895,12 +1895,32 @@
     {
       "id": "bc3497921fa47e25",
       "type": "text",
-      "text": "",
+      "text": "##### Embodiment",
       "styleAttributes": {},
-      "x": -420,
+      "x": -520,
       "y": 9780,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "afd677edbb7c5193",
+      "type": "text",
+      "text": "You are a physical creature whose mind does not exist outside your physical body",
+      "styleAttributes": {},
+      "x": -500,
+      "y": 9860,
+      "width": 340,
+      "height": 80
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing in- clude gender, and why does Hodges want to read this inclusion as indicat- ing that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics.pdf#page=14&selection=182,0,223,8|Hayles_N_Katherine_How_We_Became_Posthuman_Virtual_Bodies_in_Cybernetics_Literature_and_Informatics, page 14]]",
+      "styleAttributes": {},
+      "x": 2240,
+      "y": 8340,
+      "width": 440,
+      "height": 140
     }
   ],
   "edges": [
