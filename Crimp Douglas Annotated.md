@@ -170,3 +170,32 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.p
 >%%TAGS%%
 >
 ^ra39o7iqgza
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T21:07:33.478Z","updated":"2024-11-16T21:07:33.478Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":33009,"end":33113},{"type":"TextQuoteSelector","exact":"it  is  not,  after all,  by chance  that the era of  modernism  coincides  with  the era of the museum.","prefix":"elves  have  institutionalized: ","suffix":"  So if we now  have to look for"}]}]}
+>```
+>%%
+>*%%PREFIX%%elves  have  institutionalized:%%HIGHLIGHT%% ==it  is  not,  after all,  by chance  that the era of  modernism  coincides  with  the era of the museum.== *
+>%%LINK%%[[#^gpnnozlyh95|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^gpnnozlyh95
+
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-16T21:07:56.913Z","updated":"2024-11-16T21:07:56.913Z","document":{"title":"Crimp_Douglas_1979_Pictures.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Crimp_Douglas_1979_Pictures.pdf","selector":[{"type":"TextPositionSelector","start":33115,"end":33324},{"type":"TextQuoteSelector","exact":"So if we now  have to look for  aesthetic  activities  in  so-called  alternative  spaces, outside  the museum,  that is because  those  activities,  those  pictures,  pose  questions  that  are postmodernist.","prefix":"  with  the era of the museum.  ","suffix":" 16. In Richard Marshall, New  I"}]}]}
+>```
+>%%
+>*%%PREFIX%%with  the era of the museum.%%HIGHLIGHT%% ==So if we now  have to look for  aesthetic  activities  in  so-called  alternative  spaces, outside  the museum,  that is because  those  activities,  those  pictures,  pose  questions  that  are postmodernist.== *
+>%%LINK%%[[#^bamweosdvv7|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^bamweosdvv7

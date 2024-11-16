@@ -1018,7 +1018,7 @@
       "x": 2040,
       "y": 7840,
       "width": 400,
-      "height": 400
+      "height": 1637
     },
     {
       "id": "559e979027d6f9a1",
@@ -1930,6 +1930,16 @@
       "x": -140,
       "y": 9870,
       "width": 440,
+      "height": 60
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism: ",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 8980,
+      "width": 260,
       "height": 60
     }
   ],
