@@ -996,7 +996,6 @@
       "id": "e2eee08c1b88ad31",
       "type": "file",
       "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
       "x": 720,
       "y": 8360,
       "width": 400,
@@ -1016,7 +1015,6 @@
       "id": "f0687f5a06ecb9ad",
       "type": "file",
       "file": "Crimp Douglas Annotated.md",
-      "styleAttributes": {},
       "x": 2040,
       "y": 7840,
       "width": 400,
@@ -1931,7 +1929,7 @@
       "styleAttributes": {},
       "x": -140,
       "y": 9870,
-      "width": 311,
+      "width": 440,
       "height": 60
     }
   ],
