@@ -2256,20 +2256,20 @@
       "type": "text",
       "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
       "styleAttributes": {},
-      "x": 4983,
-      "y": 7375,
+      "x": 4986,
+      "y": 7360,
       "width": 394,
-      "height": 93
+      "height": 102
     },
     {
       "id": "22ffa01a0b5d909a",
       "type": "text",
       "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
       "styleAttributes": {},
-      "x": 4983,
-      "y": 7508,
+      "x": 4986,
+      "y": 7493,
       "width": 394,
-      "height": 105
+      "height": 129
     }
   ],
   "edges": [
