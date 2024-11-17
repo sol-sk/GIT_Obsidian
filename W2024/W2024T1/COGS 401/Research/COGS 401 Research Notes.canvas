@@ -1825,26 +1825,6 @@
       "height": 60
     },
     {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalisms theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 7591,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 9337,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "afc68e318ceb0f33",
       "type": "text",
       "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
@@ -1863,36 +1843,6 @@
       "y": 8360,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 7815,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 7763,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 2343,
-      "y": 9242,
-      "width": 237,
-      "height": 258
     },
     {
       "id": "38b87687811faa14",
@@ -1999,10 +1949,70 @@
       "type": "text",
       "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model rec- ognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
       "styleAttributes": {},
-      "x": 3200,
-      "y": 8470,
+      "x": 3580,
+      "y": 8400,
       "width": 360,
-      "height": 60
+      "height": 382
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 2343,
+      "y": 9242,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 7763,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 9337,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 7815,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalisms theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 7591,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": 2740,
+      "y": 8320,
+      "width": 371,
+      "height": 50
     }
   ],
   "edges": [
