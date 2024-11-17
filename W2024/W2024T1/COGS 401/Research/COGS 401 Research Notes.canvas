@@ -2907,12 +2907,22 @@
     {
       "id": "22f9b30e5a9ea20f",
       "type": "text",
-      "text": "Points of attraction must be in a hierarchy because we can only ",
+      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
       "styleAttributes": {},
-      "x": 3112,
-      "y": 10019,
-      "width": 260,
-      "height": 60
+      "x": 3100,
+      "y": 10043,
+      "width": 350,
+      "height": 120
+    },
+    {
+      "id": "948933e2de3cc000",
+      "type": "text",
+      "text": "*Compositions must not be in opposition to natural eye movement*",
+      "styleAttributes": {},
+      "x": 3500,
+      "y": 10078,
+      "width": 310,
+      "height": 50
     }
   ],
   "edges": [
@@ -4222,6 +4232,14 @@
       "fromNode": "f1bb99b2d31b1620",
       "fromSide": "right",
       "toNode": "22f9b30e5a9ea20f",
+      "toSide": "left"
+    },
+    {
+      "id": "0886014cdfa611f1",
+      "styleAttributes": {},
+      "fromNode": "22f9b30e5a9ea20f",
+      "fromSide": "right",
+      "toNode": "948933e2de3cc000",
       "toSide": "left"
     }
   ],
