@@ -50,16 +50,6 @@
       "height": 400
     },
     {
-      "id": "bb8d5c9dc7f68041",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": -2620,
-      "y": 1340,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "f1a5467f45fff747",
       "type": "text",
       "text": "# Syllabus",
@@ -181,16 +171,6 @@
       "height": 60
     },
     {
-      "id": "2a4dea14c6020c34",
-      "type": "text",
-      "text": "### 09.19.24",
-      "styleAttributes": {},
-      "x": -430,
-      "y": 1630,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "063ad0c64532bbf1",
       "type": "text",
       "text": "Article 2: **The structure of acoustic voice variation in bilingual speech**",
@@ -230,6 +210,16 @@
       "y": 1303,
       "width": 679,
       "height": 181
+    },
+    {
+      "id": "2a4dea14c6020c34",
+      "type": "text",
+      "text": "### 09.19.24",
+      "styleAttributes": {},
+      "x": -430,
+      "y": 1630,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "2f40ffd0e2c04800",
@@ -433,6 +423,25 @@
       "y": 269,
       "width": 250,
       "height": 60
+    },
+    {
+      "id": "f8c4d800d7f41778",
+      "type": "text",
+      "text": "### Final Presentation",
+      "styleAttributes": {},
+      "x": -1200,
+      "y": 4140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c9bc417cff7f0657",
+      "x": -1600,
+      "y": 4240,
+      "width": 400,
+      "height": 259,
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 4.09.38 PM.png"
     }
   ],
   "edges": [
