@@ -456,12 +456,12 @@
     {
       "id": "3caa92c524247ff9",
       "type": "text",
-      "text": "Suggestions; ",
+      "text": "I had stated I was considering separating psych & art to narrow scope and people agreed\n",
       "styleAttributes": {},
-      "x": -1700,
-      "y": 4660,
-      "width": 260,
-      "height": 60
+      "x": -1600,
+      "y": 4560,
+      "width": 380,
+      "height": 50
     }
   ],
   "edges": [
