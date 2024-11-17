@@ -2187,12 +2187,12 @@
     },
     {
       "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
       "x": 5000,
       "y": 5178,
       "width": 680,
-      "height": 917,
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md"
+      "height": 917
     }
   ],
   "edges": [
