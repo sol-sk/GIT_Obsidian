@@ -3,9 +3,9 @@
     {
       "id": "de479027d6abeb3e",
       "x": 4090,
-      "y": 7680,
+      "y": 6320,
       "width": 2690,
-      "height": 3418,
+      "height": 4778,
       "type": "group",
       "label": "Bibliography notes"
     },
@@ -38,220 +38,6 @@
       "width": 461,
       "height": 1280,
       "label": "Bibliography"
-    },
-    {
-      "id": "9567558e3f53dae7",
-      "type": "text",
-      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
-      "styleAttributes": {},
-      "x": 5860,
-      "y": 888,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "3665f31e678ec6e6",
-      "type": "text",
-      "text": "Mechanics of mimicry",
-      "styleAttributes": {},
-      "x": 6267,
-      "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "25316e1faf936bdb",
-      "type": "text",
-      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
-      "styleAttributes": {},
-      "x": 6470,
-      "y": -796,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "fbb0639357dc7c35",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 6620,
-      "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "18ea84df6ffbecc9",
-      "type": "text",
-      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
-      "styleAttributes": {},
-      "x": 6700,
-      "y": -598,
-      "width": 340,
-      "height": 129
-    },
-    {
-      "id": "d429b8844b43b949",
-      "type": "text",
-      "text": "#### Self-conception",
-      "styleAttributes": {},
-      "x": 7040,
-      "y": -736,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2457cd5115b4e079",
-      "type": "text",
-      "text": "##### Interpersonal self-conception",
-      "styleAttributes": {},
-      "x": 7200,
-      "y": -598,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "794d53ce188cf230",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 6387,
-      "y": 867,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a28bb8604b98866e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS401_Mindmap.pdf",
-      "styleAttributes": {},
-      "x": -460,
-      "y": -92,
-      "width": 529,
-      "height": 653
-    },
-    {
-      "id": "064097533d4484f5",
-      "type": "text",
-      "text": "**Background literature**\n- Background literature organised into clear themes. \n- Connections drawn between different papers and ideas are present, thoughtful, and provide evidence of synthesis across different areas. \n- At least 6 papers are included with 1- 2 sentences describing the paper and a clear indication of its relevance for your project. \n- Relevance of the literature is clear and specific.",
-      "styleAttributes": {},
-      "x": 460,
-      "y": -140,
-      "width": 260,
-      "height": 454
-    },
-    {
-      "id": "95ab9978e38921d9",
-      "type": "text",
-      "text": "**Bibliography**\n- A complete reference list is given for everything cited in-text (mind map and paragraph). \n- Additional sources for the project are given in a supplementary bibliography with labels identifying which mind map topic or concept they relate to. \n- Sources are good quality and specific.",
-      "styleAttributes": {},
-      "x": 1060,
-      "y": -140,
-      "width": 260,
-      "height": 368
-    },
-    {
-      "id": "e37df8fda7d5bdb0",
-      "type": "text",
-      "text": "**Methodology**\n- A possible methodology is worked out in good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -140,
-      "width": 260,
-      "height": 256
-    },
-    {
-      "id": "64a52676f09b30e7",
-      "type": "text",
-      "text": "**Research question/Hypothesis**\n- Strong and clear research question(s) – connections are apparent. \n- Clear hypothesis (or guiding direction). \n- Defines a clear direction for a project",
-      "styleAttributes": {},
-      "x": 140,
-      "y": -140,
-      "width": 290,
-      "height": 235
-    },
-    {
-      "id": "ff61b3618c93141a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": -1085,
-      "width": 680,
-      "height": 1176
-    },
-    {
-      "id": "c9bb3d54bb517b45",
-      "type": "text",
-      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
-      "styleAttributes": {},
-      "x": 5875,
-      "y": -160,
-      "width": 348,
-      "height": 304
-    },
-    {
-      "id": "9cb2e2cd3aa275e3",
-      "type": "text",
-      "text": "\"Social\" vs \"physical\" objects",
-      "styleAttributes": {},
-      "x": 5880,
-      "y": -499,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2318d07b7800b50b",
-      "type": "text",
-      "text": "Ecological and interpersonal selves intertwine",
-      "styleAttributes": {},
-      "x": 6049,
-      "y": -400,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3b22556d5d20bb78",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": 5073,
-      "y": 397,
-      "width": 389,
-      "height": 102,
-      "color": "#046214"
-    },
-    {
-      "id": "c7cc4e34d9561e78",
-      "type": "text",
-      "text": "**Creativity**\n- Mind map shows visual organisation that is appropriate for the assessment and reflects creativity",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": -140,
-      "width": 260,
-      "height": 177
-    },
-    {
-      "id": "27d0ec5d30fe8a65",
-      "type": "text",
-      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
-      "styleAttributes": {
-        "border": null,
-        "textAlign": null
-      },
-      "x": 4200,
-      "y": -1085,
-      "width": 800,
-      "height": 1767
-    },
-    {
-      "id": "86a6585083fa504a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": -1085,
-      "width": 720,
-      "height": 835
     },
     {
       "id": "58fddf868d1d1d2f",
@@ -2203,6 +1989,247 @@
       "y": 9217,
       "width": 340,
       "height": 80
+    },
+    {
+      "id": "9567558e3f53dae7",
+      "type": "text",
+      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
+      "styleAttributes": {},
+      "x": 5860,
+      "y": 888,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "794d53ce188cf230",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6387,
+      "y": 867,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "27d0ec5d30fe8a65",
+      "type": "text",
+      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": null
+      },
+      "x": 4200,
+      "y": -1085,
+      "width": 800,
+      "height": 1767
+    },
+    {
+      "id": "a28bb8604b98866e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/COGS401_Mindmap.pdf",
+      "styleAttributes": {},
+      "x": -460,
+      "y": -92,
+      "width": 529,
+      "height": 653
+    },
+    {
+      "id": "064097533d4484f5",
+      "type": "text",
+      "text": "**Background literature**\n- Background literature organised into clear themes. \n- Connections drawn between different papers and ideas are present, thoughtful, and provide evidence of synthesis across different areas. \n- At least 6 papers are included with 1- 2 sentences describing the paper and a clear indication of its relevance for your project. \n- Relevance of the literature is clear and specific.",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -140,
+      "width": 260,
+      "height": 454
+    },
+    {
+      "id": "95ab9978e38921d9",
+      "type": "text",
+      "text": "**Bibliography**\n- A complete reference list is given for everything cited in-text (mind map and paragraph). \n- Additional sources for the project are given in a supplementary bibliography with labels identifying which mind map topic or concept they relate to. \n- Sources are good quality and specific.",
+      "styleAttributes": {},
+      "x": 1060,
+      "y": -140,
+      "width": 260,
+      "height": 368
+    },
+    {
+      "id": "3b22556d5d20bb78",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": 5073,
+      "y": 397,
+      "width": 389,
+      "height": 102,
+      "color": "#046214"
+    },
+    {
+      "id": "e37df8fda7d5bdb0",
+      "type": "text",
+      "text": "**Methodology**\n- A possible methodology is worked out in good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -140,
+      "width": 260,
+      "height": 256
+    },
+    {
+      "id": "64a52676f09b30e7",
+      "type": "text",
+      "text": "**Research question/Hypothesis**\n- Strong and clear research question(s) – connections are apparent. \n- Clear hypothesis (or guiding direction). \n- Defines a clear direction for a project",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -140,
+      "width": 290,
+      "height": 235
+    },
+    {
+      "id": "ff61b3618c93141a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": -1085,
+      "width": 680,
+      "height": 1176
+    },
+    {
+      "id": "c9bb3d54bb517b45",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": 5875,
+      "y": -160,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "c7cc4e34d9561e78",
+      "type": "text",
+      "text": "**Creativity**\n- Mind map shows visual organisation that is appropriate for the assessment and reflects creativity",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -140,
+      "width": 260,
+      "height": 177
+    },
+    {
+      "id": "3665f31e678ec6e6",
+      "type": "text",
+      "text": "Mechanics of mimicry",
+      "styleAttributes": {},
+      "x": 6267,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fbb0639357dc7c35",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 6620,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "18ea84df6ffbecc9",
+      "type": "text",
+      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
+      "styleAttributes": {},
+      "x": 6700,
+      "y": -598,
+      "width": 340,
+      "height": 129
+    },
+    {
+      "id": "2457cd5115b4e079",
+      "type": "text",
+      "text": "##### Interpersonal self-conception",
+      "styleAttributes": {},
+      "x": 7200,
+      "y": -598,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9cb2e2cd3aa275e3",
+      "type": "text",
+      "text": "\"Social\" vs \"physical\" objects",
+      "styleAttributes": {},
+      "x": 5880,
+      "y": -499,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2318d07b7800b50b",
+      "type": "text",
+      "text": "Ecological and interpersonal selves intertwine",
+      "styleAttributes": {},
+      "x": 6049,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "86a6585083fa504a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": -1085,
+      "width": 720,
+      "height": 835
+    },
+    {
+      "id": "8e489775f8391ccb",
+      "x": 4500,
+      "y": 7360,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf"
+    },
+    {
+      "id": "d429b8844b43b949",
+      "type": "text",
+      "text": "#### Self-conception",
+      "styleAttributes": {},
+      "x": 7040,
+      "y": -736,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25316e1faf936bdb",
+      "type": "text",
+      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
+      "styleAttributes": {},
+      "x": 6470,
+      "y": -796,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "a5cc3ffa4a81613e",
+      "x": 4500,
+      "y": 6400,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf"
+    },
+    {
+      "id": "0f58d66fd6ddcd3e",
+      "x": 4500,
+      "y": 6880,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf"
     }
   ],
   "edges": [
