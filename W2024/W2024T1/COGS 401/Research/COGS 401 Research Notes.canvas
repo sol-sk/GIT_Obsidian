@@ -2895,16 +2895,6 @@
       "height": 653
     },
     {
-      "id": "58fddf868d1d1d2f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
-      "styleAttributes": {},
-      "x": -378,
-      "y": 9052,
-      "width": 680,
-      "height": 1163
-    },
-    {
       "id": "22f9b30e5a9ea20f",
       "type": "text",
       "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
@@ -2923,6 +2913,16 @@
       "y": 10078,
       "width": 310,
       "height": 50
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
+      "styleAttributes": {},
+      "x": -858,
+      "y": 8983,
+      "width": 680,
+      "height": 1163
     }
   ],
   "edges": [
