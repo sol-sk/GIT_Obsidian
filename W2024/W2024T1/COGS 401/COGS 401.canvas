@@ -425,16 +425,6 @@
       "height": 60
     },
     {
-      "id": "f8c4d800d7f41778",
-      "type": "text",
-      "text": "### Final Presentation",
-      "styleAttributes": {},
-      "x": -1200,
-      "y": 4140,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "c9bc417cff7f0657",
       "x": -1600,
       "y": 4240,
@@ -466,12 +456,12 @@
     {
       "id": "30dcc1a8cf739e86",
       "type": "text",
-      "text": "#### Research Question\n\n",
+      "text": "### Final Presentation\n#### Research Question\n\n#### Methods (<2 min)\n\n#### Peer feedback impact\n\n#### Concrete outcome & big picture",
       "styleAttributes": {},
-      "x": -1260,
-      "y": 4220,
-      "width": 260,
-      "height": 60
+      "x": -1180,
+      "y": 4160,
+      "width": 520,
+      "height": 400
     }
   ],
   "edges": [
