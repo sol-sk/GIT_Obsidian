@@ -2295,116 +2295,6 @@
       "height": 80
     },
     {
-      "id": "4f0ad086a9b96ed7",
-      "type": "text",
-      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
-      "styleAttributes": {},
-      "x": 5880,
-      "y": 8149,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "c5e222d5f81351a1",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": 6275,
-      "y": 8301,
-      "width": 454,
-      "height": 129
-    },
-    {
-      "id": "988f0558c9670808",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {},
-      "x": 6700,
-      "y": 8769,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2461c1cc3ef3e3e6",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 7068,
-      "y": 8709,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e3172d7a4eaf71bc",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 6276,
-      "y": 8202,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "02459a76cd570547",
-      "type": "text",
-      "text": "**Mimicry**",
-      "styleAttributes": {},
-      "x": 6920,
-      "y": 8225,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3633624f63b5721b",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 6276,
-      "y": 8106,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "0a1b0cce9d2c25c4",
-      "type": "text",
-      "text": "Generative model",
-      "styleAttributes": {},
-      "x": 7288,
-      "y": 8089,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e859292c5377bd84",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 6276,
-      "y": 7920,
-      "width": 469,
-      "height": 155
-    },
-    {
-      "id": "8129cad9f2b64eff",
-      "type": "text",
-      "text": "Discrimination model",
-      "styleAttributes": {},
-      "x": 7158,
-      "y": 7959,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "007fd667a03d9ac1",
-      "type": "text",
-      "text": "#### Self and other perception",
-      "styleAttributes": {},
-      "x": 6990,
-      "y": 7829,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "d4739a166856d2b6",
       "type": "text",
       "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
@@ -2417,22 +2307,122 @@
     {
       "id": "9d1c97054f334f60",
       "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
       "styleAttributes": {},
       "x": 5420,
       "y": 8255,
       "width": 400,
-      "height": 346
+      "height": 260
+    },
+    {
+      "id": "3633624f63b5721b",
+      "type": "text",
+      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+      "styleAttributes": {},
+      "x": 4940,
+      "y": 8923,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "e859292c5377bd84",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": 4940,
+      "y": 8737,
+      "width": 469,
+      "height": 155
+    },
+    {
+      "id": "e3172d7a4eaf71bc",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 5461,
+      "y": 8737,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "c5e222d5f81351a1",
+      "type": "text",
+      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+      "styleAttributes": {},
+      "x": 5460,
+      "y": 8836,
+      "width": 454,
+      "height": 129
+    },
+    {
+      "id": "8129cad9f2b64eff",
+      "type": "text",
+      "text": "Discrimination model",
+      "styleAttributes": {},
+      "x": 6310,
+      "y": 8971,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0a1b0cce9d2c25c4",
+      "type": "text",
+      "text": "Generative model",
+      "styleAttributes": {},
+      "x": 6440,
+      "y": 9101,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02459a76cd570547",
+      "type": "text",
+      "text": "**Mimicry**",
+      "styleAttributes": {},
+      "x": 6072,
+      "y": 9237,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "988f0558c9670808",
+      "type": "text",
+      "text": "**Emergence**",
+      "styleAttributes": {},
+      "x": 5490,
+      "y": 8595,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "d219dea82f983c8c",
       "type": "text",
       "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
       "styleAttributes": {},
-      "x": 4970,
-      "y": 8500,
+      "x": 5872,
+      "y": 8256,
       "width": 400,
       "height": 129
+    },
+    {
+      "id": "2461c1cc3ef3e3e6",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 7000,
+      "y": 8359,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "007fd667a03d9ac1",
+      "type": "text",
+      "text": "#### Self and other perception",
+      "styleAttributes": {},
+      "x": 5490,
+      "y": 9210,
+      "width": 260,
+      "height": 54
     }
   ],
   "edges": [
@@ -3532,55 +3522,23 @@
       "id": "f1b331fd3a39c062",
       "styleAttributes": {},
       "fromNode": "9d1c97054f334f60",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "988f0558c9670808",
-      "toSide": "left"
+      "toSide": "top"
     },
     {
       "id": "26bf11ba0d164170",
       "styleAttributes": {},
       "fromNode": "d4739a166856d2b6",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "988f0558c9670808",
-      "toSide": "left"
-    },
-    {
-      "id": "8cb31f9244e8d372",
-      "styleAttributes": {},
-      "fromNode": "4f0ad086a9b96ed7",
-      "fromSide": "right",
-      "toNode": "3633624f63b5721b",
-      "toSide": "left"
-    },
-    {
-      "id": "17d61eca7cef172b",
-      "styleAttributes": {},
-      "fromNode": "4f0ad086a9b96ed7",
-      "fromSide": "right",
-      "toNode": "e3172d7a4eaf71bc",
-      "toSide": "left"
-    },
-    {
-      "id": "1aabce6bff854c16",
-      "styleAttributes": {},
-      "fromNode": "4f0ad086a9b96ed7",
-      "fromSide": "right",
-      "toNode": "c5e222d5f81351a1",
-      "toSide": "left"
-    },
-    {
-      "id": "c6639596b90cfe56",
-      "styleAttributes": {},
-      "fromNode": "4f0ad086a9b96ed7",
-      "fromSide": "right",
-      "toNode": "e859292c5377bd84",
       "toSide": "left"
     },
     {
       "id": "3ceed3dbab76095d",
       "styleAttributes": {},
       "fromNode": "c5e222d5f81351a1",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "toNode": "007fd667a03d9ac1",
       "toSide": "left"
     },
