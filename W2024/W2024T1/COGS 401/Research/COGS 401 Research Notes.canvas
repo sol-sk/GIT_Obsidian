@@ -5,9 +5,9 @@
       "type": "group",
       "styleAttributes": {},
       "x": 4080,
-      "y": 6000,
+      "y": 6720,
       "width": 2690,
-      "height": 6458,
+      "height": 5738,
       "label": "Bibliography notes"
     },
     {
@@ -1219,46 +1219,6 @@
       "height": 100
     },
     {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": 4490,
-      "y": 11569,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": 4490,
-      "y": 12038,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 4992,
-      "y": 12038,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": 11438,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "19d8654ec9916868",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
@@ -2293,6 +2253,46 @@
       "y": 11172,
       "width": 545,
       "height": 326
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": 4490,
+      "y": 11569,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": 6060,
+      "y": 11438,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": 4490,
+      "y": 12038,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 4992,
+      "y": 12038,
+      "width": 237,
+      "height": 258
     }
   ],
   "edges": [
