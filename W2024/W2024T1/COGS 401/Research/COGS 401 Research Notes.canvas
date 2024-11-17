@@ -2,8 +2,8 @@
   "nodes": [
     {
       "id": "de479027d6abeb3e",
-      "x": 1530,
-      "y": 6880,
+      "x": 4090,
+      "y": 7680,
       "width": 2690,
       "height": 3418,
       "type": "group",
@@ -33,345 +33,11 @@
       "id": "af727b3351bfdc38",
       "type": "group",
       "styleAttributes": {},
-      "x": 960,
-      "y": 6880,
+      "x": 3520,
+      "y": 7680,
       "width": 461,
       "height": 1280,
       "label": "Bibliography"
-    },
-    {
-      "id": "e0648d4278a27ead",
-      "type": "text",
-      "text": "### Other perception",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 1220,
-      "y": 1894,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "0b540a5f996680b1",
-      "type": "text",
-      "text": "**Self/non-self distinction**",
-      "styleAttributes": {},
-      "x": 700,
-      "y": 1826,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9fcfe154f41940a8",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
-      "styleAttributes": {},
-      "x": 7320,
-      "y": 1025,
-      "width": 680,
-      "height": 860
-    },
-    {
-      "id": "4819fc4e0fa822c0",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 830,
-      "width": 680,
-      "height": 1055
-    },
-    {
-      "id": "a104f25a2300c21e",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 1910,
-      "y": 1695,
-      "width": 454,
-      "height": 155,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "4098cc6113622111",
-      "type": "text",
-      "text": "### Mimicry/Recursion",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 1350,
-      "y": 1587,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "8776d2ca18beedee",
-      "type": "text",
-      "text": "##### Mirror stage",
-      "styleAttributes": {},
-      "x": 1520,
-      "y": 1712,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "125ba4090d718612",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 1910,
-      "y": 1597,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "79ab40dfac94d6bf",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {},
-      "x": 240,
-      "y": 1587,
-      "width": 421,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "4f3b9fb36638737e",
-      "type": "text",
-      "text": "### Recognition of the self in others",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 910,
-      "y": 1587,
-      "width": 340,
-      "height": 60
-    },
-    {
-      "id": "a491ae7c430f34df",
-      "type": "text",
-      "text": "**The distinction between \"self\" and \"other\" is recognized  early in development; this understanding is the basis for further knowledge acquisition**",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 240,
-      "y": 1665,
-      "width": 421,
-      "height": 88,
-      "color": "#046214"
-    },
-    {
-      "id": "5b42eac1f846d648",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": 6170,
-      "y": 1600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "401b260474ab7b07",
-      "type": "text",
-      "text": "#### Background Literature",
-      "styleAttributes": {},
-      "x": 1220,
-      "y": 1000,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c5f5bed58f11ce3f",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {},
-      "x": 1140,
-      "y": 1124,
-      "width": 380,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "0cd352e830a091f7",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 560,
-      "y": 1100,
-      "width": 400,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "1ac4cdafddd22f72",
-      "type": "text",
-      "text": "[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf]]",
-      "styleAttributes": {},
-      "x": 2480,
-      "y": 1060,
-      "width": 500,
-      "height": 50
-    },
-    {
-      "id": "b87c3ddef3c60865",
-      "type": "text",
-      "text": "Research in the fields of psychology, philosophy, and art history, in particular cybernetics and media art. ",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1278,
-      "width": 320,
-      "height": 227
-    },
-    {
-      "id": "4fc81aeec4649ae5",
-      "type": "text",
-      "text": "##### Humanization/dehumanization",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 966,
-      "y": 1458,
-      "width": 349,
-      "height": 60
-    },
-    {
-      "id": "499372fb915c8f17",
-      "type": "text",
-      "text": "#### Research Question",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1000,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "847af53085f5d502",
-      "type": "text",
-      "text": "Study of mind perception: self- and other- oriented",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1080,
-      "width": 320,
-      "height": 80
-    },
-    {
-      "id": "481daf757cac2ab3",
-      "type": "text",
-      "text": "#### Methodology",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1198,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7ab1b6439ef1dfc3",
-      "type": "text",
-      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
-      "styleAttributes": {},
-      "x": 2054,
-      "y": 1170,
-      "width": 360,
-      "height": 55
-    },
-    {
-      "id": "7eebbd559580f201",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 1910,
-      "y": 1488,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "aee4de815a5039b8",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {},
-      "x": 2104,
-      "y": 1392,
-      "width": 260,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "33ed48efceb94d30",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": 1184,
-      "width": 380,
-      "height": 74,
-      "color": "#1e2180"
-    },
-    {
-      "id": "707c6d7c8fe19400",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": 1057,
-      "width": 380,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "e47b61a8c04e2ade",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": 1258,
-      "width": 380,
-      "height": 84,
-      "color": "#1e2180"
-    },
-    {
-      "id": "5ebbc387260a03c2",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": 1342,
-      "width": 380,
-      "height": 77,
-      "color": "#1e2180"
-    },
-    {
-      "id": "f6df020ce3df7de0",
-      "type": "text",
-      "text": "#### Bibliography",
-      "styleAttributes": {},
-      "x": 2720,
-      "y": 980,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8d63137e4347e77e",
-      "type": "text",
-      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-      "styleAttributes": {},
-      "x": 2054,
-      "y": 1057,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "2ec63e0d4c0ec17e",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 6020,
-      "y": 1126,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "9567558e3f53dae7",
@@ -390,16 +56,6 @@
       "styleAttributes": {},
       "x": 6267,
       "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "84638da88a1acff7",
-      "type": "text",
-      "text": "Attributing less agency",
-      "styleAttributes": {},
-      "x": 6300,
-      "y": 1060,
       "width": 260,
       "height": 60
     },
@@ -454,26 +110,6 @@
       "height": 60
     },
     {
-      "id": "4d2aedff91e8ab29",
-      "type": "text",
-      "text": "Less deserving of rights and protections (less moral standing)",
-      "styleAttributes": {},
-      "x": 6500,
-      "y": 1148,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "a3e04c19472badc3",
-      "type": "text",
-      "text": "Seen as cold, uncivil, animalistic, machine-like",
-      "styleAttributes": {},
-      "x": 6580,
-      "y": 967,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "794d53ce188cf230",
       "type": "text",
       "text": "**Dehumanization**",
@@ -482,40 +118,6 @@
       "y": 867,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "32ec167b3c74a534",
-      "type": "text",
-      "text": "**Denial of personhood and mind perception:** \nThe recognition as a person/as a \"mind\" within political context, dehumanization of subjugated groups. Example: Standing Bear, who in 1879 \"sued the U.S. Government to be recognized as a person.\" ",
-      "styleAttributes": {},
-      "x": 1140,
-      "y": 1202,
-      "width": 380,
-      "height": 129,
-      "color": "#77be50"
-    },
-    {
-      "id": "5fafa1b9d3d61ab1",
-      "type": "text",
-      "text": "##### Moral judgement",
-      "styleAttributes": {},
-      "x": 1010,
-      "y": 1359,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b02f1d01673ea41a",
-      "type": "text",
-      "text": "- Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents.\n- Harmful agents are seen as lacking civility and warmth and are attributed **animalistic or machine-like traits**; **attribution of less agency correlated with lower scores on other humanness traits** such as rationality, refinement, and self-restraint.",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 560,
-      "y": 1208,
-      "width": 400,
-      "height": 239,
-      "color": "#24995a"
     },
     {
       "id": "a28bb8604b98866e",
@@ -566,26 +168,6 @@
       "y": -140,
       "width": 290,
       "height": 235
-    },
-    {
-      "id": "6a0111e421134e03",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 830,
-      "width": 800,
-      "height": 542
-    },
-    {
-      "id": "acd4d40a2024e63b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 815,
-      "width": 720,
-      "height": 580
     },
     {
       "id": "ff61b3618c93141a",
@@ -672,316 +254,6 @@
       "height": 835
     },
     {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 8458,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 8938,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": 2390,
-      "y": 8938,
-      "width": 440,
-      "height": 148
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": 2390,
-      "y": 8560,
-      "width": 340,
-      "height": 147
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 8634,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 8458,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": 2390,
-      "y": 8458,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 3380,
-      "y": 8458,
-      "width": 640,
-      "height": 286
-    },
-    {
-      "id": "bc3497921fa47e25",
-      "type": "text",
-      "text": "##### Embodiment",
-      "styleAttributes": {},
-      "x": 4560,
-      "y": 8337,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "afd677edbb7c5193",
-      "type": "text",
-      "text": "You are a physical creature whose mind does not exist outside your physical body",
-      "styleAttributes": {},
-      "x": 4580,
-      "y": 8417,
-      "width": 340,
-      "height": 80
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 9409,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 9878,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 8938,
-      "width": 371,
-      "height": 50
-    },
-    {
-      "id": "1cca6de671a27c4f",
-      "type": "text",
-      "text": "[[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": 4940,
-      "y": 8427,
-      "width": 440,
-      "height": 60
-    },
-    {
-      "id": "bb1d4d0c2182fce9",
-      "type": "text",
-      "text": "#### What is it doing: ",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 7627,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4ed0bebc395bc362",
-      "type": "text",
-      "text": "#### Why is it doing it:",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 7894,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f77f405bb2fdfedc",
-      "type": "text",
-      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
-      "styleAttributes": {},
-      "x": 5020,
-      "y": 7703,
-      "width": 480,
-      "height": 160
-    },
-    {
-      "id": "44d045065100b98d",
-      "type": "text",
-      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
-      "styleAttributes": {},
-      "x": 5020,
-      "y": 8014,
-      "width": 480,
-      "height": 234
-    },
-    {
-      "id": "f284521f14063d6e",
-      "type": "text",
-      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
-      "styleAttributes": {},
-      "x": 5580,
-      "y": 7657,
-      "width": 340,
-      "height": 81
-    },
-    {
-      "id": "ef1b0e60d51a1d65",
-      "type": "text",
-      "text": "#### How does it do this: ",
-      "styleAttributes": {},
-      "x": 5620,
-      "y": 7788,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "43b5338cb5945d5b",
-      "type": "text",
-      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
-      "styleAttributes": {},
-      "x": 5660,
-      "y": 7894,
-      "width": 440,
-      "height": 163
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 2442,
-      "y": 9878,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "932fda95407ebdac",
-      "type": "text",
-      "text": "# Goals of the artwork",
-      "styleAttributes": {},
-      "x": 5300,
-      "y": 7537,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 9012,
-      "width": 545,
-      "height": 326
-    },
-    {
-      "id": "517aac4c23c9104e",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism dis- cussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": 3460,
-      "y": 8938,
-      "width": 360,
-      "height": 200
-    },
-    {
-      "id": "67a5ba9a9e0c043e",
-      "type": "text",
-      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model rec- ognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 3840,
-      "y": 8938,
-      "width": 360,
-      "height": 382
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": 3510,
-      "y": 9278,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": 1550,
-      "y": 8575,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": 1040,
-      "y": 8458,
-      "width": 440,
-      "height": 275
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": 1550,
-      "y": 8457,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "eb547d58ae7e1399",
-      "type": "text",
-      "text": "**Surveillance habituation**",
-      "styleAttributes": {},
-      "x": 6100,
-      "y": 8188,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "58fddf868d1d1d2f",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
@@ -1030,257 +302,6 @@
       "y": 4080,
       "width": 800,
       "height": 741
-    },
-    {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 7519,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 7992,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "892e8f07eb18c822",
-      "type": "text",
-      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 7519,
-      "width": 400,
-      "height": 324
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 7992,
-      "width": 400,
-      "height": 160
-    },
-    {
-      "id": "66a8e594b9bcfcab",
-      "type": "text",
-      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 7643,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 7723,
-      "width": 400,
-      "height": 120
-    },
-    {
-      "id": "61ec068d1806830a",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
-      "styleAttributes": {},
-      "x": 2880,
-      "y": 7519,
-      "width": 400,
-      "height": 105
-    },
-    {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 7050,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "816a6f30f3df274c",
-      "type": "text",
-      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 7050,
-      "width": 400,
-      "height": 129
-    },
-    {
-      "id": "783cb05753c91821",
-      "type": "text",
-      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 7212,
-      "width": 400,
-      "height": 180
-    },
-    {
-      "id": "1b70e8c4303d0900",
-      "type": "text",
-      "text": "# Bibliography",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 6900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "aef734225c75f111",
-      "type": "text",
-      "text": "###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7009,
-      "width": 380,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "f3d0e7f0a07d23cd",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7100,
-      "width": 343,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "f909bc41ebe376f2",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7220,
-      "width": 235,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "a9628a64bf741ad8",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7329,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "df0bee9f0c27ae22",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7422,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "35174b871f4d8223",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7539,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "b2cfd2cda4850e9d",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 980,
-      "y": 7629,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "31f36e9b8f06c73b",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 7719,
-      "width": 380,
-      "height": 70
-    },
-    {
-      "id": "c95fe32513846b9a",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 7820,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b367106df2162b0c",
-      "type": "text",
-      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 7900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9b55c79615cec593",
-      "type": "text",
-      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 7980,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "401c3450fe595b64",
-      "type": "text",
-      "text": "###### [[Anagram Deren.pdf]]",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 8060,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "63e399d5f7428f8f",
@@ -2203,6 +1224,985 @@
       "y": 6533,
       "width": 460,
       "height": 76
+    },
+    {
+      "id": "e0648d4278a27ead",
+      "type": "text",
+      "text": "### Other perception",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1220,
+      "y": 1894,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0b540a5f996680b1",
+      "type": "text",
+      "text": "**Self/non-self distinction**",
+      "styleAttributes": {},
+      "x": 700,
+      "y": 1826,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9fcfe154f41940a8",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 1025,
+      "width": 680,
+      "height": 860
+    },
+    {
+      "id": "4819fc4e0fa822c0",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 830,
+      "width": 680,
+      "height": 1055
+    },
+    {
+      "id": "8776d2ca18beedee",
+      "type": "text",
+      "text": "##### Mirror stage",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 1712,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a104f25a2300c21e",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": 1910,
+      "y": 1695,
+      "width": 454,
+      "height": 155,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "4098cc6113622111",
+      "type": "text",
+      "text": "### Mimicry/Recursion",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 1350,
+      "y": 1587,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "79ab40dfac94d6bf",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 1587,
+      "width": 421,
+      "height": 60,
+      "color": "#046214"
+    },
+    {
+      "id": "4f3b9fb36638737e",
+      "type": "text",
+      "text": "### Recognition of the self in others",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 910,
+      "y": 1587,
+      "width": 340,
+      "height": 60
+    },
+    {
+      "id": "a491ae7c430f34df",
+      "type": "text",
+      "text": "**The distinction between \"self\" and \"other\" is recognized  early in development; this understanding is the basis for further knowledge acquisition**",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 240,
+      "y": 1665,
+      "width": 421,
+      "height": 88,
+      "color": "#046214"
+    },
+    {
+      "id": "5b42eac1f846d648",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": 6170,
+      "y": 1600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "125ba4090d718612",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 1910,
+      "y": 1597,
+      "width": 454,
+      "height": 76,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "b87c3ddef3c60865",
+      "type": "text",
+      "text": "Research in the fields of psychology, philosophy, and art history, in particular cybernetics and media art. ",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1278,
+      "width": 320,
+      "height": 227
+    },
+    {
+      "id": "4fc81aeec4649ae5",
+      "type": "text",
+      "text": "##### Humanization/dehumanization",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 966,
+      "y": 1458,
+      "width": 349,
+      "height": 60
+    },
+    {
+      "id": "481daf757cac2ab3",
+      "type": "text",
+      "text": "#### Methodology",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1198,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4d2aedff91e8ab29",
+      "type": "text",
+      "text": "Less deserving of rights and protections (less moral standing)",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 1148,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "32ec167b3c74a534",
+      "type": "text",
+      "text": "**Denial of personhood and mind perception:** \nThe recognition as a person/as a \"mind\" within political context, dehumanization of subjugated groups. Example: Standing Bear, who in 1879 \"sued the U.S. Government to be recognized as a person.\" ",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": 1202,
+      "width": 380,
+      "height": 129,
+      "color": "#77be50"
+    },
+    {
+      "id": "5fafa1b9d3d61ab1",
+      "type": "text",
+      "text": "##### Moral judgement",
+      "styleAttributes": {},
+      "x": 1010,
+      "y": 1359,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b02f1d01673ea41a",
+      "type": "text",
+      "text": "- Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents.\n- Harmful agents are seen as lacking civility and warmth and are attributed **animalistic or machine-like traits**; **attribution of less agency correlated with lower scores on other humanness traits** such as rationality, refinement, and self-restraint.",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 560,
+      "y": 1208,
+      "width": 400,
+      "height": 239,
+      "color": "#24995a"
+    },
+    {
+      "id": "6a0111e421134e03",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 830,
+      "width": 800,
+      "height": 542
+    },
+    {
+      "id": "acd4d40a2024e63b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 815,
+      "width": 720,
+      "height": 580
+    },
+    {
+      "id": "7ab1b6439ef1dfc3",
+      "type": "text",
+      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
+      "styleAttributes": {},
+      "x": 2054,
+      "y": 1170,
+      "width": 360,
+      "height": 55
+    },
+    {
+      "id": "7eebbd559580f201",
+      "type": "text",
+      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+      "styleAttributes": {},
+      "x": 1910,
+      "y": 1488,
+      "width": 454,
+      "height": 76,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "aee4de815a5039b8",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {},
+      "x": 2104,
+      "y": 1392,
+      "width": 260,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "33ed48efceb94d30",
+      "type": "text",
+      "text": "> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 1184,
+      "width": 380,
+      "height": 74,
+      "color": "#1e2180"
+    },
+    {
+      "id": "e47b61a8c04e2ade",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 1258,
+      "width": 380,
+      "height": 84,
+      "color": "#1e2180"
+    },
+    {
+      "id": "5ebbc387260a03c2",
+      "type": "text",
+      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 1342,
+      "width": 380,
+      "height": 77,
+      "color": "#1e2180"
+    },
+    {
+      "id": "0cd352e830a091f7",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 560,
+      "y": 1100,
+      "width": 400,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "c5f5bed58f11ce3f",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {},
+      "x": 1140,
+      "y": 1124,
+      "width": 380,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "847af53085f5d502",
+      "type": "text",
+      "text": "Study of mind perception: self- and other- oriented",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1080,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "707c6d7c8fe19400",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": 1057,
+      "width": 380,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "2ec63e0d4c0ec17e",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6020,
+      "y": 1126,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1ac4cdafddd22f72",
+      "type": "text",
+      "text": "[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf]]",
+      "styleAttributes": {},
+      "x": 2480,
+      "y": 1060,
+      "width": 500,
+      "height": 50
+    },
+    {
+      "id": "8d63137e4347e77e",
+      "type": "text",
+      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+      "styleAttributes": {},
+      "x": 2054,
+      "y": 1057,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "84638da88a1acff7",
+      "type": "text",
+      "text": "Attributing less agency",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 1060,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "499372fb915c8f17",
+      "type": "text",
+      "text": "#### Research Question",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1000,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f6df020ce3df7de0",
+      "type": "text",
+      "text": "#### Bibliography",
+      "styleAttributes": {},
+      "x": 2720,
+      "y": 980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401b260474ab7b07",
+      "type": "text",
+      "text": "#### Background Literature",
+      "styleAttributes": {},
+      "x": 1220,
+      "y": 1000,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a3e04c19472badc3",
+      "type": "text",
+      "text": "Seen as cold, uncivil, animalistic, machine-like",
+      "styleAttributes": {},
+      "x": 6580,
+      "y": 967,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c95fe32513846b9a",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 8620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b367106df2162b0c",
+      "type": "text",
+      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 8700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b55c79615cec593",
+      "type": "text",
+      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 8780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401c3450fe595b64",
+      "type": "text",
+      "text": "###### [[Anagram Deren.pdf]]",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 8860,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "df0bee9f0c27ae22",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 8222,
+      "width": 361,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "35174b871f4d8223",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 8339,
+      "width": 380,
+      "height": 60,
+      "color": "#046214"
+    },
+    {
+      "id": "b2cfd2cda4850e9d",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 8429,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "31f36e9b8f06c73b",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 8519,
+      "width": 380,
+      "height": 70
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 5940,
+      "y": 9258,
+      "width": 640,
+      "height": 286
+    },
+    {
+      "id": "517aac4c23c9104e",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism dis- cussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": 6020,
+      "y": 9738,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model rec- ognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 6400,
+      "y": 9738,
+      "width": 360,
+      "height": 382
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": 6070,
+      "y": 10078,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 9812,
+      "width": 545,
+      "height": 326
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 10209,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 10678,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 5002,
+      "y": 10678,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 9738,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "892e8f07eb18c822",
+      "type": "text",
+      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 8319,
+      "width": 400,
+      "height": 324
+    },
+    {
+      "id": "61ec068d1806830a",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 8319,
+      "width": 400,
+      "height": 105
+    },
+    {
+      "id": "66a8e594b9bcfcab",
+      "type": "text",
+      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 8443,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 8523,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 8792,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 8319,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 8792,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 9738,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": 4950,
+      "y": 9738,
+      "width": 440,
+      "height": 148
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 7850,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "816a6f30f3df274c",
+      "type": "text",
+      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 7850,
+      "width": 400,
+      "height": 129
+    },
+    {
+      "id": "783cb05753c91821",
+      "type": "text",
+      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
+      "styleAttributes": {},
+      "x": 4980,
+      "y": 8012,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": 4500,
+      "y": 9258,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": 4950,
+      "y": 9360,
+      "width": 340,
+      "height": 147
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 9434,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": 5440,
+      "y": 9258,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": 4950,
+      "y": 9258,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": 4110,
+      "y": 9375,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": 4110,
+      "y": 9257,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "1b70e8c4303d0900",
+      "type": "text",
+      "text": "# Bibliography",
+      "styleAttributes": {},
+      "x": 3540,
+      "y": 7700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "aef734225c75f111",
+      "type": "text",
+      "text": "###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 7809,
+      "width": 380,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "f3d0e7f0a07d23cd",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 7900,
+      "width": 343,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "f909bc41ebe376f2",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 8020,
+      "width": 235,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "a9628a64bf741ad8",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 3540,
+      "y": 8129,
+      "width": 343,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": 3600,
+      "y": 9258,
+      "width": 440,
+      "height": 275
+    },
+    {
+      "id": "f284521f14063d6e",
+      "type": "text",
+      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
+      "styleAttributes": {},
+      "x": 8140,
+      "y": 8457,
+      "width": 340,
+      "height": 81
+    },
+    {
+      "id": "ef1b0e60d51a1d65",
+      "type": "text",
+      "text": "#### How does it do this: ",
+      "styleAttributes": {},
+      "x": 8180,
+      "y": 8588,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "43b5338cb5945d5b",
+      "type": "text",
+      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
+      "styleAttributes": {},
+      "x": 8220,
+      "y": 8694,
+      "width": 440,
+      "height": 163
+    },
+    {
+      "id": "eb547d58ae7e1399",
+      "type": "text",
+      "text": "**Surveillance habituation**",
+      "styleAttributes": {},
+      "x": 8660,
+      "y": 8988,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1cca6de671a27c4f",
+      "type": "text",
+      "text": "[[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": 7500,
+      "y": 9227,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "bb1d4d0c2182fce9",
+      "type": "text",
+      "text": "#### What is it doing: ",
+      "styleAttributes": {},
+      "x": 7560,
+      "y": 8427,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4ed0bebc395bc362",
+      "type": "text",
+      "text": "#### Why is it doing it:",
+      "styleAttributes": {},
+      "x": 7560,
+      "y": 8694,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f77f405bb2fdfedc",
+      "type": "text",
+      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
+      "styleAttributes": {},
+      "x": 7580,
+      "y": 8503,
+      "width": 480,
+      "height": 160
+    },
+    {
+      "id": "44d045065100b98d",
+      "type": "text",
+      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
+      "styleAttributes": {},
+      "x": 7580,
+      "y": 8814,
+      "width": 480,
+      "height": 234
+    },
+    {
+      "id": "932fda95407ebdac",
+      "type": "text",
+      "text": "# Goals of the artwork",
+      "styleAttributes": {},
+      "x": 7860,
+      "y": 8337,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "bc3497921fa47e25",
+      "type": "text",
+      "text": "##### Embodiment",
+      "styleAttributes": {},
+      "x": 7120,
+      "y": 9137,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "afd677edbb7c5193",
+      "type": "text",
+      "text": "You are a physical creature whose mind does not exist outside your physical body",
+      "styleAttributes": {},
+      "x": 7140,
+      "y": 9217,
+      "width": 340,
+      "height": 80
     }
   ],
   "edges": [
