@@ -155,16 +155,6 @@
       "height": 1874
     },
     {
-      "id": "58fddf868d1d1d2f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 5178,
-      "width": 680,
-      "height": 1142
-    },
-    {
       "id": "172dfcb904b9ffba",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
@@ -991,7 +981,7 @@
     {
       "id": "f1bb99b2d31b1620",
       "type": "text",
-      "text": "To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
       "styleAttributes": {},
       "x": 2630,
       "y": 10043,
@@ -2903,6 +2893,26 @@
       "y": 2352,
       "width": 529,
       "height": 653
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
+      "styleAttributes": {},
+      "x": -378,
+      "y": 9052,
+      "width": 680,
+      "height": 1163
+    },
+    {
+      "id": "22f9b30e5a9ea20f",
+      "type": "text",
+      "text": "Points of attraction must be in a ",
+      "styleAttributes": {},
+      "x": 3112,
+      "y": 10019,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -4205,6 +4215,14 @@
       "fromSide": "bottom",
       "toNode": "255a0550797d729a",
       "toSide": "top"
+    },
+    {
+      "id": "30112a5694ed5087",
+      "styleAttributes": {},
+      "fromNode": "f1bb99b2d31b1620",
+      "fromSide": "right",
+      "toNode": "22f9b30e5a9ea20f",
+      "toSide": "left"
     }
   ],
   "metadata": {}
