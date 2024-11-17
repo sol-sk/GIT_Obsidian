@@ -1207,36 +1207,6 @@
       "height": 80
     },
     {
-      "id": "932fda95407ebdac",
-      "type": "text",
-      "text": "# Goals of the artwork",
-      "styleAttributes": {},
-      "x": 220,
-      "y": 8980,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "44d045065100b98d",
-      "type": "text",
-      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
-      "styleAttributes": {},
-      "x": -60,
-      "y": 9457,
-      "width": 480,
-      "height": 234
-    },
-    {
-      "id": "1cca6de671a27c4f",
-      "type": "text",
-      "text": "[[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": -140,
-      "y": 9870,
-      "width": 440,
-      "height": 60
-    },
-    {
       "id": "bc3497921fa47e25",
       "type": "text",
       "text": "##### Embodiment",
@@ -1245,36 +1215,6 @@
       "y": 9780,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 8831,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 2343,
-      "y": 9242,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 9337,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "bb1d4d0c2182fce9",
@@ -1287,62 +1227,12 @@
       "height": 60
     },
     {
-      "id": "f77f405bb2fdfedc",
-      "type": "text",
-      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
-      "styleAttributes": {},
-      "x": -60,
-      "y": 9146,
-      "width": 480,
-      "height": 160
-    },
-    {
       "id": "4ed0bebc395bc362",
       "type": "text",
       "text": "#### Why is it doing it:",
       "styleAttributes": {},
       "x": -80,
       "y": 9337,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ef1b0e60d51a1d65",
-      "type": "text",
-      "text": "#### How does it do this: ",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 9231,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f284521f14063d6e",
-      "type": "text",
-      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 9100,
-      "width": 340,
-      "height": 81
-    },
-    {
-      "id": "43b5338cb5945d5b",
-      "type": "text",
-      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
-      "styleAttributes": {},
-      "x": 580,
-      "y": 9337,
-      "width": 440,
-      "height": 163
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": 3251,
-      "y": 8877,
       "width": 260,
       "height": 60
     },
@@ -1397,16 +1287,6 @@
       "y": 830,
       "width": 680,
       "height": 1055
-    },
-    {
-      "id": "eb547d58ae7e1399",
-      "type": "text",
-      "text": "**Surveillance habituation**",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 9631,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "6a0111e421134e03",
@@ -2153,6 +2033,126 @@
       "x": 2420,
       "y": 6869,
       "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Frid-Jimenez_Amber_La_Lucha_Sin_Fin_On_Charisma_and_Its_Persuasive_Technologies_2012.pdf",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 8831,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": 3251,
+      "y": 8877,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "932fda95407ebdac",
+      "type": "text",
+      "text": "# Goals of the artwork",
+      "styleAttributes": {},
+      "x": 220,
+      "y": 8980,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "44d045065100b98d",
+      "type": "text",
+      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 9457,
+      "width": 480,
+      "height": 234
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 2343,
+      "y": 9242,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Deren_Maya_An_Anagram_of_Ideas_on_Art_Form_and_Film.pdf",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 9337,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f77f405bb2fdfedc",
+      "type": "text",
+      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 9146,
+      "width": 480,
+      "height": 160
+    },
+    {
+      "id": "ef1b0e60d51a1d65",
+      "type": "text",
+      "text": "#### How does it do this: ",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 9231,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f284521f14063d6e",
+      "type": "text",
+      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 9100,
+      "width": 340,
+      "height": 81
+    },
+    {
+      "id": "43b5338cb5945d5b",
+      "type": "text",
+      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
+      "styleAttributes": {},
+      "x": 580,
+      "y": 9337,
+      "width": 440,
+      "height": 163
+    },
+    {
+      "id": "eb547d58ae7e1399",
+      "type": "text",
+      "text": "**Surveillance habituation**",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 9631,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1cca6de671a27c4f",
+      "type": "text",
+      "text": "[[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": -140,
+      "y": 9870,
+      "width": 440,
       "height": 60
     }
   ],
