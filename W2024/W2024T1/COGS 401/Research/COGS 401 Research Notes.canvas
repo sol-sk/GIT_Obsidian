@@ -7,7 +7,7 @@
       "x": 1280,
       "y": 6880,
       "width": 3520,
-      "height": 5738,
+      "height": 6720,
       "label": "Bibliography notes"
     },
     {
@@ -32,11 +32,12 @@
     },
     {
       "id": "80aaf8e63d41d098",
+      "type": "group",
+      "styleAttributes": {},
       "x": -3040,
       "y": 6360,
       "width": 1374,
       "height": 1407,
-      "type": "group",
       "label": "Mind Map Final Version"
     },
     {
@@ -779,16 +780,6 @@
       "height": 148
     },
     {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": 1690,
-      "y": 11729,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "05dd887824078e8a",
       "type": "text",
       "text": "### Chapter 3: The Macy Conferences ",
@@ -817,26 +808,6 @@
       "y": 11258,
       "width": 360,
       "height": 200
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": 1690,
-      "y": 12198,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 2192,
-      "y": 12198,
-      "width": 237,
-      "height": 258
     },
     {
       "id": "559e979027d6f9a1",
@@ -1032,6 +1003,7 @@
       "id": "c02a0423281cf766",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
+      "styleAttributes": {},
       "x": 1690,
       "y": 8897,
       "width": 400,
@@ -2923,6 +2895,55 @@
       "y": 8983,
       "width": 680,
       "height": 1163
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": 11729,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": 12198,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 2192,
+      "y": 12198,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "x": 1690,
+      "y": 12680,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf"
+    },
+    {
+      "id": "fce307c3589546b5",
+      "type": "text",
+      "text": "Rokeby notes the critique that interactive art is impossible without surveillance.",
+      "styleAttributes": {},
+      "x": 2181,
+      "y": 12680,
+      "width": 299,
+      "height": 80
     }
   ],
   "edges": [
