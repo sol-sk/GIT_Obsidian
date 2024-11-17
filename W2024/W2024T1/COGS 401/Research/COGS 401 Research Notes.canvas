@@ -41,16 +41,6 @@
       "label": "Mind Map"
     },
     {
-      "id": "263c158a3f0567f0",
-      "type": "text",
-      "text": "Categories of mind perception",
-      "styleAttributes": {},
-      "x": 6072,
-      "y": 2203,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "01cd3d77641f3c67",
       "type": "text",
       "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
@@ -615,26 +605,6 @@
       "height": 60
     },
     {
-      "id": "9fcfe154f41940a8",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
-      "styleAttributes": {},
-      "x": 7320,
-      "y": 1025,
-      "width": 680,
-      "height": 860
-    },
-    {
-      "id": "4819fc4e0fa822c0",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 830,
-      "width": 680,
-      "height": 1055
-    },
-    {
       "id": "79ab40dfac94d6bf",
       "type": "text",
       "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
@@ -657,16 +627,6 @@
       "width": 421,
       "height": 88,
       "color": "#046214"
-    },
-    {
-      "id": "5b42eac1f846d648",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": 6170,
-      "y": 1600,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "b87c3ddef3c60865",
@@ -710,26 +670,6 @@
       "width": 400,
       "height": 239,
       "color": "#24995a"
-    },
-    {
-      "id": "6a0111e421134e03",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 830,
-      "width": 800,
-      "height": 542
-    },
-    {
-      "id": "acd4d40a2024e63b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 815,
-      "width": 720,
-      "height": 580
     },
     {
       "id": "0cd352e830a091f7",
@@ -2403,6 +2343,156 @@
       "y": 8565,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "263c158a3f0567f0",
+      "type": "text",
+      "text": "Categories of mind perception",
+      "styleAttributes": {},
+      "x": 6072,
+      "y": 2203,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9fcfe154f41940a8",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 1025,
+      "width": 680,
+      "height": 860
+    },
+    {
+      "id": "4819fc4e0fa822c0",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 830,
+      "width": 680,
+      "height": 1055
+    },
+    {
+      "id": "5b42eac1f846d648",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": 6170,
+      "y": 1600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6a0111e421134e03",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 830,
+      "width": 800,
+      "height": 542
+    },
+    {
+      "id": "acd4d40a2024e63b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 815,
+      "width": 720,
+      "height": 580
+    },
+    {
+      "id": "516b1a2e46eca87e",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 5420,
+      "y": 7767,
+      "width": 400,
+      "height": 153
+    },
+    {
+      "id": "976609628d49dc7f",
+      "type": "text",
+      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
+      "styleAttributes": {},
+      "x": 5420,
+      "y": 7962,
+      "width": 400,
+      "height": 205
+    },
+    {
+      "id": "b931fc52732da8ef",
+      "type": "text",
+      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
+      "styleAttributes": {},
+      "x": 5872,
+      "y": 7761,
+      "width": 410,
+      "height": 136
+    },
+    {
+      "id": "c2ee9f6df6f8ecca",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 5872,
+      "y": 7927,
+      "width": 454,
+      "height": 93
+    },
+    {
+      "id": "831f30188067b8b4",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 5872,
+      "y": 8058,
+      "width": 454,
+      "height": 109
+    },
+    {
+      "id": "5d5bdea9ebfb14ff",
+      "type": "text",
+      "text": "**Effect of other-mind on perceiver**",
+      "styleAttributes": {},
+      "x": 6460,
+      "y": 7944,
+      "width": 307,
+      "height": 60
+    },
+    {
+      "id": "bfd9e143fed7e143",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6460,
+      "y": 8081,
+      "width": 107,
+      "height": 60
+    },
+    {
+      "id": "72d5381d9134437a",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6460,
+      "y": 7799,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d1db8d7e967717ae",
+      "type": "text",
+      "text": "**Categories of mind perception**\nTwo dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
+      "styleAttributes": {},
+      "x": 6840,
+      "y": 7767,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
@@ -3569,6 +3659,30 @@
       "fromSide": "top",
       "toNode": "2461c1cc3ef3e3e6",
       "toSide": "bottom"
+    },
+    {
+      "id": "8b78be897329a0c4",
+      "styleAttributes": {},
+      "fromNode": "831f30188067b8b4",
+      "fromSide": "right",
+      "toNode": "bfd9e143fed7e143",
+      "toSide": "left"
+    },
+    {
+      "id": "96f76c4492912a67",
+      "styleAttributes": {},
+      "fromNode": "c2ee9f6df6f8ecca",
+      "fromSide": "right",
+      "toNode": "5d5bdea9ebfb14ff",
+      "toSide": "left"
+    },
+    {
+      "id": "1f6c8389550d4b06",
+      "styleAttributes": {},
+      "fromNode": "b931fc52732da8ef",
+      "fromSide": "right",
+      "toNode": "72d5381d9134437a",
+      "toSide": "left"
     }
   ],
   "metadata": {}
