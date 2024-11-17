@@ -31,16 +31,6 @@
       "label": "Bibliography"
     },
     {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": 3320,
-      "y": 5215,
-      "width": 720,
-      "height": 545
-    },
-    {
       "id": "fb8cc8af3d4ff242",
       "type": "text",
       "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
@@ -49,16 +39,6 @@
       "y": 5140,
       "width": 460,
       "height": 76
-    },
-    {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": 3320,
-      "y": 5920,
-      "width": 720,
-      "height": 480
     },
     {
       "id": "73cf9087e878334e",
@@ -101,26 +81,6 @@
       "height": 102
     },
     {
-      "id": "507a3a4a171c463e",
-      "type": "text",
-      "text": "Gestalt. ‘The same idea has been expressed and examined independently of James by the theory of\n\nform (Gestalt). ‘his theory considers form as a whole, indivisible. We cannot study a tree, it is said,\n\nby beginning with its roots, then its trunk, its leaves, etc., but rather it 1s the tree as a unity that must\n\nbe the center of our attention. The forest is quite another thing, something more than the sum of the\n\ntrees, as popular wisdom has long known. We therefore have to substitute for the idea of sensation\n\nthe idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the\n\nlatest researches in physiology. The physiologists have increasingly come to substitute for the differ-\n\nences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of\n\nthe cortex where perception takes definite form, but rather for the circuit of the cortex that makes a\n\nparticular perception possible. [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]\n",
-      "styleAttributes": {},
-      "x": 4120,
-      "y": 5920,
-      "width": 800,
-      "height": 406
-    },
-    {
-      "id": "783cb05753c91821",
-      "type": "text",
-      "text": "Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]\n\nThe imprint of the infrastructures of communication extended beyond the ‘neural telegraph’ analogy of the nineteenth century: it can be found also in the twentieth century’s cybernetic projects of self-organisation that remained crucial in the evolution of artificial neural networks. Indeed, the idea of self-organising computation capable of adapting to the environment and ‘learning’ in enduring fashion is a key part of the ‘epistemic ensemble’ of cybernetics that paved the way to machine learning.11 Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. The link between the self-organising computation of twentieth-century and twenty-first-century AI has been concealed by a complex stratum of technological advancements, in which we lost sight of its origin and development. This chapter undertakes a ‘dig’ into this stratum – into a prehistory of machine learning in which social, communication, and computational networks were all part of continuous (and contiguous) movements of self-organisation. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
-      "styleAttributes": {},
-      "x": 4120,
-      "y": 5215,
-      "width": 800,
-      "height": 383
-    },
-    {
       "id": "53fb11076478f995",
       "type": "text",
       "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
@@ -129,56 +89,6 @@
       "y": 4080,
       "width": 800,
       "height": 741
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": 4120,
-      "y": 6600,
-      "width": 800,
-      "height": 76
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
-      "styleAttributes": {},
-      "x": 3320,
-      "y": 6600,
-      "width": 720,
-      "height": 960
-    },
-    {
-      "id": "61ec068d1806830a",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 5919,
-      "width": 400,
-      "height": 105
-    },
-    {
-      "id": "66a8e594b9bcfcab",
-      "type": "text",
-      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 6043,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "Io establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 6123,
-      "width": 400,
-      "height": 120
     },
     {
       "id": "222b1e880c80dc09",
@@ -2184,6 +2094,105 @@
       "y": -1085,
       "width": 720,
       "height": 835
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 5313,
+      "width": 720,
+      "height": 545
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 6018,
+      "width": 720,
+      "height": 480
+    },
+    {
+      "id": "783cb05753c91821",
+      "type": "text",
+      "text": "Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]\n\nThe imprint of the infrastructures of communication extended beyond the ‘neural telegraph’ analogy of the nineteenth century: it can be found also in the twentieth century’s cybernetic projects of self-organisation that remained crucial in the evolution of artificial neural networks. Indeed, the idea of self-organising computation capable of adapting to the environment and ‘learning’ in enduring fashion is a key part of the ‘epistemic ensemble’ of cybernetics that paved the way to machine learning.11 Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. The link between the self-organising computation of twentieth-century and twenty-first-century AI has been concealed by a complex stratum of technological advancements, in which we lost sight of its origin and development. This chapter undertakes a ‘dig’ into this stratum – into a prehistory of machine learning in which social, communication, and computational networks were all part of continuous (and contiguous) movements of self-organisation. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
+      "styleAttributes": {},
+      "x": 3600,
+      "y": 5313,
+      "width": 800,
+      "height": 383
+    },
+    {
+      "id": "507a3a4a171c463e",
+      "type": "text",
+      "text": "Gestalt. ‘The same idea has been expressed and examined independently of James by the theory of\n\nform (Gestalt). ‘his theory considers form as a whole, indivisible. We cannot study a tree, it is said,\n\nby beginning with its roots, then its trunk, its leaves, etc., but rather it 1s the tree as a unity that must\n\nbe the center of our attention. The forest is quite another thing, something more than the sum of the\n\ntrees, as popular wisdom has long known. We therefore have to substitute for the idea of sensation\n\nthe idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the\n\nlatest researches in physiology. The physiologists have increasingly come to substitute for the differ-\n\nences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of\n\nthe cortex where perception takes definite form, but rather for the circuit of the cortex that makes a\n\nparticular perception possible. [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]\n",
+      "styleAttributes": {},
+      "x": 3600,
+      "y": 6018,
+      "width": 800,
+      "height": 406
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": 3600,
+      "y": 6698,
+      "width": 800,
+      "height": 76
+    },
+    {
+      "id": "66a8e594b9bcfcab",
+      "type": "text",
+      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 6141,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "Io establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 6221,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "61ec068d1806830a",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
+      "styleAttributes": {},
+      "x": 4480,
+      "y": 6017,
+      "width": 400,
+      "height": 105
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
+      "styleAttributes": {},
+      "x": 2800,
+      "y": 6698,
+      "width": 720,
+      "height": 960
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "x": 5000,
+      "y": 5178,
+      "width": 680,
+      "height": 917,
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md"
     }
   ],
   "edges": [
