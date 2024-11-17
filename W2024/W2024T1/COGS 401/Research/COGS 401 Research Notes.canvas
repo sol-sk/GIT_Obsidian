@@ -2230,6 +2230,46 @@
       "height": 400,
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf"
+    },
+    {
+      "id": "e71f01d6ff0d8aa5",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": 4951,
+      "y": 6400,
+      "width": 389,
+      "height": 102
+    },
+    {
+      "id": "b2c56e1457460eed",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": 5380,
+      "y": 6400,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "39ee391fdd3d547c",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 4983,
+      "y": 7375,
+      "width": 394,
+      "height": 93
+    },
+    {
+      "id": "22ffa01a0b5d909a",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 4983,
+      "y": 7508,
+      "width": 394,
+      "height": 105
     }
   ],
   "edges": [
