@@ -1993,6 +1993,16 @@
       "y": 8877,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model rec- ognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 3200,
+      "y": 8470,
+      "width": 360,
+      "height": 60
     }
   ],
   "edges": [
