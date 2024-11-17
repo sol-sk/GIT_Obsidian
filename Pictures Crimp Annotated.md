@@ -199,3 +199,17 @@ annotation-target: W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf
 >%%TAGS%%
 >
 ^bamweosdvv7
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-17T22:53:46.103Z","updated":"2024-11-17T22:53:46.103Z","document":{"title":"Pictures Crimp.pdf","link":[{"href":"urn:x-pdf:6814763085426f0e0dc35821a206727c"},{"href":"vault:/W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf"}],"documentFingerprint":"6814763085426f0e0dc35821a206727c"},"uri":"vault:/W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf","selector":[{"type":"TextPositionSelector","start":25011,"end":25312},{"type":"TextQuoteSelector","exact":"Although the  manipulations to  which  Sherrie Levine  subjects  her pictures are far less  obsessive  than  Brauntuch's,  her  subject  is  the  same: the  distance  that separates us  from  what  those  pictures  simultaneously proffer and  withhold and the desire  that  is  thereby set in  motion.","prefix":"that  these  pictures  signify. ","suffix":" Drawn  to pictures  whose  stat"}]}]}
+>```
+>%%
+>*%%PREFIX%%that  these  pictures  signify.%%HIGHLIGHT%% ==Although the  manipulations to  which  Sherrie Levine  subjects  her pictures are far less  obsessive  than  Brauntuch's,  her  subject  is  the  same: the  distance  that separates us  from  what  those  pictures  simultaneously proffer and  withhold and the desire  that  is  thereby set in  motion.== *
+>%%LINK%%[[#^htym36en0ua|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^htym36en0ua
