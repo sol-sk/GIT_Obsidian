@@ -2656,36 +2656,6 @@
       "height": 120
     },
     {
-      "id": "35173d32e20a9ebf",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
-      "styleAttributes": {},
-      "x": 4160,
-      "y": 6574,
-      "width": 640,
-      "height": 377
-    },
-    {
-      "id": "73cf9087e878334e",
-      "type": "text",
-      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 7514,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "fb8cc8af3d4ff242",
-      "type": "text",
-      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 7594,
-      "width": 460,
-      "height": 76
-    },
-    {
       "id": "932fda95407ebdac",
       "type": "text",
       "text": "# Goals of the artwork",
@@ -2702,46 +2672,6 @@
       "styleAttributes": {},
       "x": 2520,
       "y": 8170,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 6941,
-      "width": 460,
-      "height": 234
-    },
-    {
-      "id": "465ab03efff76484",
-      "type": "text",
-      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 7194,
-      "width": 460,
-      "height": 102
-    },
-    {
-      "id": "105584a9914dc91a",
-      "type": "text",
-      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 7314,
-      "width": 460,
-      "height": 100
-    },
-    {
-      "id": "2f2221f4dc604816",
-      "type": "text",
-      "text": "**Anti-embodiment**",
-      "styleAttributes": {},
-      "x": 3760,
-      "y": 7434,
       "width": 260,
       "height": 60
     },
@@ -2794,46 +2724,6 @@
       "y": 8731,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "eea35fedda198923",
-      "type": "text",
-      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-      "styleAttributes": {},
-      "x": 3168,
-      "y": 6583,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": 3371,
-      "y": 6824,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": 3371,
-      "y": 6911,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d8c98b499d78aa80",
-      "type": "text",
-      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
-      "styleAttributes": {},
-      "x": 3543,
-      "y": 6583,
-      "width": 360,
-      "height": 84
     },
     {
       "id": "bc3497921fa47e25",
@@ -2893,6 +2783,116 @@
       "x": 2540,
       "y": 8557,
       "width": 480,
+      "height": 234
+    },
+    {
+      "id": "35173d32e20a9ebf",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
+      "styleAttributes": {},
+      "x": 2860,
+      "y": 6709,
+      "width": 640,
+      "height": 377
+    },
+    {
+      "id": "eea35fedda198923",
+      "type": "text",
+      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+      "styleAttributes": {},
+      "x": 1868,
+      "y": 6718,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "d8c98b499d78aa80",
+      "type": "text",
+      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
+      "styleAttributes": {},
+      "x": 2243,
+      "y": 6718,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "2f2221f4dc604816",
+      "type": "text",
+      "text": "**Anti-embodiment**",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 10422,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "73cf9087e878334e",
+      "type": "text",
+      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 10502,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "fb8cc8af3d4ff242",
+      "type": "text",
+      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 10582,
+      "width": 460,
+      "height": 76
+    },
+    {
+      "id": "465ab03efff76484",
+      "type": "text",
+      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 10182,
+      "width": 460,
+      "height": 102
+    },
+    {
+      "id": "105584a9914dc91a",
+      "type": "text",
+      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+      "styleAttributes": {},
+      "x": 1239,
+      "y": 10302,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
       "height": 234
     }
   ],
