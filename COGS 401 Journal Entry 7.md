@@ -20,3 +20,8 @@
 > (57)
 
 
+“Strategies of Interactive Art” (Kluszczynski 2010)
+>  an area of activity for the receivers, whose actions bring to life an artwork-event
+
+Strategy of System
+>  characterized by eventfulness which does not find many ways out where the viewers are, but takes place rather in their inner, technological, digital world
