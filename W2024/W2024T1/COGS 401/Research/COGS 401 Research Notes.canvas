@@ -21,6 +21,16 @@
       "label": "Artists"
     },
     {
+      "id": "af727b3351bfdc38",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 7580,
+      "width": 461,
+      "height": 1280,
+      "label": "Bibliography"
+    },
+    {
       "id": "5555230744ad4956",
       "type": "group",
       "styleAttributes": {},
@@ -1190,16 +1200,6 @@
       "height": 129
     },
     {
-      "id": "af727b3351bfdc38",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 7580,
-      "width": 461,
-      "height": 1280,
-      "label": "Bibliography"
-    },
-    {
       "id": "18ea84df6ffbecc9",
       "type": "text",
       "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
@@ -1534,36 +1534,6 @@
       "height": 1176
     },
     {
-      "id": "c02a0423281cf766",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8637,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "401c3450fe595b64",
-      "type": "text",
-      "text": "###### [[Anagram Deren.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8760,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9b55c79615cec593",
-      "type": "text",
-      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8680,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "e859292c5377bd84",
       "type": "text",
       "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
@@ -1582,56 +1552,6 @@
       "y": 9110,
       "width": 400,
       "height": 129
-    },
-    {
-      "id": "b367106df2162b0c",
-      "type": "text",
-      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c95fe32513846b9a",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9e5b1e0dcff1ab2d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8155,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
-    },
-    {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 154,
-      "y": 10050,
-      "width": 460,
-      "height": 234
     },
     {
       "id": "c5e222d5f81351a1",
@@ -1684,16 +1604,6 @@
       "height": 60
     },
     {
-      "id": "22f9b30e5a9ea20f",
-      "type": "text",
-      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 9783,
-      "width": 350,
-      "height": 120
-    },
-    {
       "id": "9d1c97054f334f60",
       "type": "text",
       "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
@@ -1732,54 +1642,6 @@
       "y": 8155,
       "width": 400,
       "height": 208
-    },
-    {
-      "id": "31f36e9b8f06c73b",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8419,
-      "width": 380,
-      "height": 70
-    },
-    {
-      "id": "35174b871f4d8223",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8239,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "b2cfd2cda4850e9d",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8329,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "df0bee9f0c27ae22",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8122,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
     },
     {
       "id": "73cf9087e878334e",
@@ -1982,19 +1844,6 @@
       "height": 400
     },
     {
-      "id": "f3d0e7f0a07d23cd",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7800,
-      "width": 343,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
       "id": "fb8cc8af3d4ff242",
       "type": "text",
       "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
@@ -2003,16 +1852,6 @@
       "y": 10050,
       "width": 460,
       "height": 76
-    },
-    {
-      "id": "8e489775f8391ccb",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7667,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "22ffa01a0b5d909a",
@@ -2025,46 +1864,6 @@
       "height": 129
     },
     {
-      "id": "a9628a64bf741ad8",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8029,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "f909bc41ebe376f2",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7920,
-      "width": 235,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "aef734225c75f111",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7709,
-      "width": 380,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
       "id": "1cca6de671a27c4f",
       "type": "text",
       "text": "[[How We Became Posthuman Hayles.pdf]]",
@@ -2073,16 +1872,6 @@
       "y": 8970,
       "width": 440,
       "height": 60
-    },
-    {
-      "id": "67a5ba9a9e0c043e",
-      "type": "text",
-      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 150,
-      "y": 11272,
-      "width": 360,
-      "height": 382
     },
     {
       "id": "68947a3c33b501cb",
@@ -2113,56 +1902,6 @@
       "y": 7600,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 11920,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12389,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12389,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "39fedd8c9d541225",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12871,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f2a6cc2a57dcdf1b",
-      "type": "text",
-      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12871,
-      "width": 440,
-      "height": 174
     },
     {
       "id": "a29b749e962b11e6",
@@ -2947,6 +2686,286 @@
       "y": 11140,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401c3450fe595b64",
+      "type": "text",
+      "text": "###### [[Anagram Deren.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8760,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b55c79615cec593",
+      "type": "text",
+      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b367106df2162b0c",
+      "type": "text",
+      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c95fe32513846b9a",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "31f36e9b8f06c73b",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8419,
+      "width": 380,
+      "height": 70
+    },
+    {
+      "id": "b2cfd2cda4850e9d",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8329,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "35174b871f4d8223",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8239,
+      "width": 380,
+      "height": 60,
+      "color": "#046214"
+    },
+    {
+      "id": "df0bee9f0c27ae22",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8122,
+      "width": 361,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "c02a0423281cf766",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8637,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9e5b1e0dcff1ab2d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e489775f8391ccb",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7667,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a9628a64bf741ad8",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8029,
+      "width": 343,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "f909bc41ebe376f2",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7920,
+      "width": 235,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "f3d0e7f0a07d23cd",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7800,
+      "width": 343,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "aef734225c75f111",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7709,
+      "width": 380,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 11920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12389,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12389,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12871,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f2a6cc2a57dcdf1b",
+      "type": "text",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12871,
+      "width": 440,
+      "height": 174
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
+      "height": 234
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 150,
+      "y": 11272,
+      "width": 360,
+      "height": 382
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "22f9b30e5a9ea20f",
+      "type": "text",
+      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9783,
+      "width": 350,
+      "height": 120
     }
   ],
   "edges": [
