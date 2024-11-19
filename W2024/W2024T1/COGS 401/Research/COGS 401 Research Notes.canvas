@@ -11,6 +11,16 @@
       "label": "Bibliography notes"
     },
     {
+      "id": "a1066e269eddfaf0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3940,
+      "y": 10360,
+      "width": 2220,
+      "height": 1400,
+      "label": "Artists"
+    },
+    {
       "id": "5555230744ad4956",
       "type": "group",
       "styleAttributes": {},
@@ -1524,36 +1534,6 @@
       "height": 1176
     },
     {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": -2160,
-      "y": 9158,
-      "width": 440,
-      "height": 275
-    },
-    {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9110,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "c02a0423281cf766",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
@@ -1604,26 +1584,6 @@
       "height": 129
     },
     {
-      "id": "783cb05753c91821",
-      "type": "text",
-      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9272,
-      "width": 400,
-      "height": 180
-    },
-    {
-      "id": "892e8f07eb18c822",
-      "type": "text",
-      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9579,
-      "width": 400,
-      "height": 324
-    },
-    {
       "id": "b367106df2162b0c",
       "type": "text",
       "text": "###### [[How We Became Posthuman Hayles.pdf]]",
@@ -1632,26 +1592,6 @@
       "y": 8600,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 10052,
-      "width": 400,
-      "height": 160
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "c95fe32513846b9a",
@@ -1684,26 +1624,6 @@
       "height": 370
     },
     {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "2fb9ba4ebd672f47",
       "type": "text",
       "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
@@ -1712,16 +1632,6 @@
       "y": 10050,
       "width": 460,
       "height": 234
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "c5e222d5f81351a1",
@@ -1784,36 +1694,6 @@
       "height": 120
     },
     {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9783,
-      "width": 400,
-      "height": 120
-    },
-    {
-      "id": "61ec068d1806830a",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9579,
-      "width": 400,
-      "height": 105
-    },
-    {
-      "id": "66a8e594b9bcfcab",
-      "type": "text",
-      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9703,
-      "width": 400,
-      "height": 50
-    },
-    {
       "id": "9d1c97054f334f60",
       "type": "text",
       "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
@@ -1842,26 +1722,6 @@
       "y": 8465,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
     },
     {
       "id": "d4739a166856d2b6",
@@ -1922,26 +1782,6 @@
       "color": "#24995a"
     },
     {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
       "id": "73cf9087e878334e",
       "type": "text",
       "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
@@ -2000,26 +1840,6 @@
       "y": 8771,
       "width": 106,
       "height": 60
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155
     },
     {
       "id": "eb547d58ae7e1399",
@@ -2175,16 +1995,6 @@
       "color": "#1e2180"
     },
     {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10998,
-      "width": 440,
-      "height": 148
-    },
-    {
       "id": "fb8cc8af3d4ff242",
       "type": "text",
       "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
@@ -2201,16 +2011,6 @@
       "styleAttributes": {},
       "x": -1270,
       "y": 7667,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10998,
       "width": 400,
       "height": 400
     },
@@ -2275,26 +2075,6 @@
       "height": 60
     },
     {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11346,
-      "width": 545,
-      "height": 326
-    },
-    {
-      "id": "517aac4c23c9104e",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": -230,
-      "y": 11272,
-      "width": 360,
-      "height": 200
-    },
-    {
       "id": "67a5ba9a9e0c043e",
       "type": "text",
       "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
@@ -2323,26 +2103,6 @@
       "y": 11218,
       "width": 420,
       "height": 361
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11272,
-      "width": 371,
-      "height": 50
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": -180,
-      "y": 11612,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "1b70e8c4303d0900",
@@ -2840,19 +2600,30 @@
       "height": 653
     },
     {
-      "id": "b54d83fbbe35daf8",
-      "type": "text",
-      "text": "# Artists",
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
       "styleAttributes": {},
-      "x": -3820,
-      "y": 10400,
-      "width": 260,
-      "height": 60
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
     },
     {
       "id": "531b643a7021403a",
       "type": "file",
       "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
       "x": -3880,
       "y": 10580,
       "width": 400,
@@ -2889,16 +2660,6 @@
       "height": 103
     },
     {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
-    },
-    {
       "id": "642c727676ae6e5a",
       "type": "text",
       "text": "#### Pierre Huyghe",
@@ -2914,9 +2675,269 @@
       "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
       "styleAttributes": {},
       "x": -3440,
-      "y": 10490,
+      "y": 10500,
       "width": 360,
-      "height": 80
+      "height": 60
+    },
+    {
+      "id": "b54d83fbbe35daf8",
+      "type": "text",
+      "text": "# Artists",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": -2160,
+      "y": 9158,
+      "width": 440,
+      "height": 275
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10998,
+      "width": 440,
+      "height": 148
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10998,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "517aac4c23c9104e",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 11272,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11272,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 10052,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9783,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "61ec068d1806830a",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9579,
+      "width": 400,
+      "height": 105
+    },
+    {
+      "id": "66a8e594b9bcfcab",
+      "type": "text",
+      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9703,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particu- larly important because they acted as a crossroads for the traffic in cyber- netic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11346,
+      "width": 545,
+      "height": 326
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": -180,
+      "y": 11612,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9110,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9579,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "783cb05753c91821",
+      "type": "text",
+      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9272,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "892e8f07eb18c822",
+      "type": "text",
+      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9579,
+      "width": 400,
+      "height": 324
+    },
+    {
+      "id": "d73b00984d778fb2",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -4180,
+      "y": 11060,
+      "width": 260,
+      "height": 40
     }
   ],
   "edges": [
