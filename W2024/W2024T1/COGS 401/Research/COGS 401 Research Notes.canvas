@@ -2897,6 +2897,26 @@
       "y": 10580,
       "width": 400,
       "height": 325
+    },
+    {
+      "id": "642c727676ae6e5a",
+      "type": "text",
+      "text": "#### Pierre Huyghe",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5da8e5b8ccd3d511",
+      "type": "text",
+      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
+      "styleAttributes": {},
+      "x": -3440,
+      "y": 10490,
+      "width": 360,
+      "height": 80
     }
   ],
   "edges": [
@@ -3572,6 +3592,14 @@
       "fromNode": "ab32ae7ba13fc89a",
       "fromSide": "right",
       "toNode": "7ce87a31e28cd281",
+      "toSide": "left"
+    },
+    {
+      "id": "35785826fc24586b",
+      "styleAttributes": {},
+      "fromNode": "642c727676ae6e5a",
+      "fromSide": "right",
+      "toNode": "5da8e5b8ccd3d511",
       "toSide": "left"
     },
     {
