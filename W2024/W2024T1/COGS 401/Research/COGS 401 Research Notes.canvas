@@ -2797,86 +2797,6 @@
       "height": 60
     },
     {
-      "id": "44d045065100b98d",
-      "type": "text",
-      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": 8557,
-      "width": 480,
-      "height": 234
-    },
-    {
-      "id": "f77f405bb2fdfedc",
-      "type": "text",
-      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": 8246,
-      "width": 480,
-      "height": 160
-    },
-    {
-      "id": "932fda95407ebdac",
-      "type": "text",
-      "text": "# Goals of the artwork",
-      "styleAttributes": {},
-      "x": 2690,
-      "y": 8057,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "4ed0bebc395bc362",
-      "type": "text",
-      "text": "#### Why is it doing it:",
-      "styleAttributes": {},
-      "x": 2520,
-      "y": 8437,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bb1d4d0c2182fce9",
-      "type": "text",
-      "text": "#### What is it doing: ",
-      "styleAttributes": {},
-      "x": 2520,
-      "y": 8170,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "43b5338cb5945d5b",
-      "type": "text",
-      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
-      "styleAttributes": {},
-      "x": 3180,
-      "y": 8437,
-      "width": 440,
-      "height": 163
-    },
-    {
-      "id": "f284521f14063d6e",
-      "type": "text",
-      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 8200,
-      "width": 340,
-      "height": 81
-    },
-    {
-      "id": "ef1b0e60d51a1d65",
-      "type": "text",
-      "text": "#### How does it do this: ",
-      "styleAttributes": {},
-      "x": 3140,
-      "y": 8331,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "35173d32e20a9ebf",
       "type": "file",
       "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
@@ -2885,16 +2805,6 @@
       "y": 6709,
       "width": 640,
       "height": 377
-    },
-    {
-      "id": "eb547d58ae7e1399",
-      "type": "text",
-      "text": "**Surveillance habituation**",
-      "styleAttributes": {},
-      "x": 3620,
-      "y": 8731,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "d8c98b499d78aa80",
@@ -2915,6 +2825,16 @@
       "y": 6718,
       "width": 360,
       "height": 84
+    },
+    {
+      "id": "eb547d58ae7e1399",
+      "type": "text",
+      "text": "**Surveillance habituation**",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 8080,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -3921,22 +3841,6 @@
       "toNode": "af71130e1c329003",
       "toSide": "top",
       "color": "#094855"
-    },
-    {
-      "id": "2a18c47e1e18e14a",
-      "styleAttributes": {},
-      "fromNode": "f77f405bb2fdfedc",
-      "fromSide": "right",
-      "toNode": "f284521f14063d6e",
-      "toSide": "left"
-    },
-    {
-      "id": "42dd05bb0827b6fe",
-      "styleAttributes": {},
-      "fromNode": "f284521f14063d6e",
-      "fromSide": "bottom",
-      "toNode": "ef1b0e60d51a1d65",
-      "toSide": "top"
     },
     {
       "id": "aa8dabeecc119fde",
