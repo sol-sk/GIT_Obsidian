@@ -2873,20 +2873,30 @@
       "type": "text",
       "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
       "styleAttributes": {},
-      "x": -2980,
-      "y": 10580,
-      "width": 340,
-      "height": 240
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
     },
     {
       "id": "ab32ae7ba13fc89a",
       "type": "text",
       "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
       "styleAttributes": {},
-      "x": -3460,
-      "y": 10800,
+      "x": -3040,
+      "y": 10580,
       "width": 400,
       "height": 103
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
     }
   ],
   "edges": [
@@ -3557,11 +3567,11 @@
       "toSide": "left"
     },
     {
-      "id": "562660275b6f1203",
+      "id": "24c43f95c3974e53",
       "styleAttributes": {},
-      "fromNode": "6c987bfd8709d556",
+      "fromNode": "ab32ae7ba13fc89a",
       "fromSide": "right",
-      "toNode": "25306e3d47f118b7",
+      "toNode": "7ce87a31e28cd281",
       "toSide": "left"
     },
     {
