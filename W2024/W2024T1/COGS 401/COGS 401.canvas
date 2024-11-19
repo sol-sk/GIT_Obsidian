@@ -543,6 +543,16 @@
       "y": 3710,
       "width": 620,
       "height": 1530
+    },
+    {
+      "id": "104fc658b58b704c",
+      "type": "text",
+      "text": "### Laura feedback\nMost importantly, I'd encourage you to further **narrow down** your research question. As you have mentioned in your reflection, your mind map involves many moving parts. *I'd recommend focusing on either self-perception or perception of other minds.* In addition, your mind map would benefit from a more detailed account of your methodology. **What exact steps will your project involve? Why did you choose this method to approach your research question?**",
+      "styleAttributes": {},
+      "x": -2320,
+      "y": 3768,
+      "width": 620,
+      "height": 202
     }
   ],
   "edges": [
