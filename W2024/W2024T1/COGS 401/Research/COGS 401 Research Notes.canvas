@@ -1712,16 +1712,6 @@
       "height": 160
     },
     {
-      "id": "58fddf868d1d1d2f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
-      "styleAttributes": {},
-      "x": 3070,
-      "y": 8880,
-      "width": 680,
-      "height": 1163
-    },
-    {
       "id": "43b5338cb5945d5b",
       "type": "text",
       "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
@@ -2895,6 +2885,16 @@
       "y": 3900,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 9120,
+      "width": 680,
+      "height": 1163
     }
   ],
   "edges": [
