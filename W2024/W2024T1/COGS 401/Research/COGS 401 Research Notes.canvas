@@ -2934,10 +2934,19 @@
       "type": "text",
       "text": "#### Nam June Paik",
       "styleAttributes": {},
-      "x": -4180,
-      "y": 11060,
+      "x": -3880,
+      "y": 11042,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
