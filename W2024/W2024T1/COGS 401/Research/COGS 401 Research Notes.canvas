@@ -2861,12 +2861,32 @@
     {
       "id": "6c987bfd8709d556",
       "type": "text",
-      "text": "> Sound is an essential consideration on this journey into the abyss. I could hear the light babble of running water playing in the two rooms containing the tanks, a clever detail without an obvious source. It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024), a new film in which robotic camera apparatus surveys the bones of a human skeleton in a desert landscape, its lens driven by machine-learning.",
+      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
       "styleAttributes": {},
-      "x": -3520,
+      "x": -3460,
       "y": 10580,
-      "width": 380,
-      "height": 420
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -2980,
+      "y": 10580,
+      "width": 340,
+      "height": 240
+    },
+    {
+      "id": "ab32ae7ba13fc89a",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10800,
+      "width": 400,
+      "height": 103
     }
   ],
   "edges": [
@@ -3534,6 +3554,14 @@
       "fromNode": "68947a3c33b501cb",
       "fromSide": "right",
       "toNode": "2feb09f016ea44b4",
+      "toSide": "left"
+    },
+    {
+      "id": "562660275b6f1203",
+      "styleAttributes": {},
+      "fromNode": "6c987bfd8709d556",
+      "fromSide": "right",
+      "toNode": "25306e3d47f118b7",
       "toSide": "left"
     },
     {
