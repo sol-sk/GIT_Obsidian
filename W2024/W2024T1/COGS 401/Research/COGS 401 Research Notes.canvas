@@ -121,16 +121,6 @@
       "height": 100
     },
     {
-      "id": "e71f01d6ff0d8aa5",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": -825,
-      "y": 6707,
-      "width": 389,
-      "height": 102
-    },
-    {
       "id": "2c85631f2421e328",
       "type": "text",
       "text": "Seen as cold, uncivil, animalistic, machine-like",
@@ -273,7 +263,7 @@
     {
       "id": "c002b4f3eea58ee8",
       "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
       "styleAttributes": {},
       "x": -790,
       "y": 10052,
@@ -1775,7 +1765,7 @@
     {
       "id": "2ad33a5685f74426",
       "type": "text",
-      "text": "###### [[Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf|Education of Vision: \"The Metaphorical Way of Knowing\"]] (Gordon, ed. Kepes, )",
+      "text": "###### [[Education of vision Kepes.pdf|Education of Vision: \"The Metaphorical Way of Knowing\"]] (Gordon, ed. Kepes, )",
       "styleAttributes": {
         "shape": "predefined-process"
       },
@@ -2473,7 +2463,7 @@
     {
       "id": "19d8654ec9916868",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision -- Gyorgy Kepes -- 1965 -- a0fe4e80383657df7a158a1ac5f19473 -- Anna’s Archive.pdf",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
       "styleAttributes": {},
       "x": -1270,
       "y": 10052,
@@ -2664,7 +2654,7 @@
     {
       "id": "aef734225c75f111",
       "type": "text",
-      "text": "###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
+      "text": "###### [[Education of vision Kepes.pdf]]",
       "styleAttributes": {
         "shape": "predefined-process",
         "textAlign": null
@@ -2895,6 +2885,16 @@
       "y": 7187,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "e71f01d6ff0d8aa5",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": -825,
+      "y": 6707,
+      "width": 389,
+      "height": 102
     }
   ],
   "edges": [
