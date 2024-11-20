@@ -1902,16 +1902,6 @@
       "height": 60
     },
     {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 11920,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "e3738d3f633b5ae7",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
@@ -2996,6 +2986,36 @@
       "styleAttributes": {},
       "x": -3880,
       "y": 11042,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 11920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3860,
+      "y": 11900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11980,
       "width": 260,
       "height": 60
     }
