@@ -2870,16 +2870,6 @@
       "height": 103
     },
     {
-      "id": "d0913af6b42081d5",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
-      "styleAttributes": {},
-      "x": -3100,
-      "y": 11140,
-      "width": 340,
-      "height": 110
-    },
-    {
       "id": "6c987bfd8709d556",
       "type": "text",
       "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
@@ -2900,52 +2890,12 @@
       "height": 60
     },
     {
-      "id": "25306e3d47f118b7",
-      "type": "text",
-      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10780,
-      "width": 300,
-      "height": 200
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "531b643a7021403a",
-      "type": "file",
-      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10580,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "642c727676ae6e5a",
       "type": "text",
       "text": "#### Pierre Huyghe",
       "styleAttributes": {},
       "x": -3880,
       "y": 10500,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d73b00984d778fb2",
-      "type": "text",
-      "text": "#### Nam June Paik",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11042,
       "width": 260,
       "height": 60
     },
@@ -2980,26 +2930,6 @@
       "height": 400
     },
     {
-      "id": "9d6d3baf60e72eb2",
-      "type": "text",
-      "text": "#### BarabasiLAB",
-      "styleAttributes": {},
-      "x": -3860,
-      "y": 11900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "44741e52d666ef91",
-      "type": "text",
-      "text": "#### Trevor Paglen",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11980,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "e3738d3f633b5ae7",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
@@ -3020,6 +2950,16 @@
       "height": 400
     },
     {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3860,
+      "y": 11900,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "dd6244c895c66528",
       "type": "text",
       "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
@@ -3033,10 +2973,80 @@
       "id": "ceb11b1ee2f84f9a",
       "type": "file",
       "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
       "x": -2740,
       "y": 11934,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3860,
+      "y": 12200,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "335f5cae3fdb2769",
+      "type": "file",
+      "file": "Clippings/e-flux.md",
+      "x": -3460,
+      "y": 12200,
+      "width": 570,
+      "height": 400
+    },
+    {
+      "id": "d0913af6b42081d5",
+      "type": "text",
+      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 11140,
+      "width": 340,
+      "height": 110
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "531b643a7021403a",
+      "type": "file",
+      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10580,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d73b00984d778fb2",
+      "type": "text",
+      "text": "#### Nam June Paik",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11042,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -3744,6 +3754,14 @@
       "fromNode": "9d6d3baf60e72eb2",
       "fromSide": "right",
       "toNode": "dd6244c895c66528",
+      "toSide": "left"
+    },
+    {
+      "id": "7a914b95a5cb5817",
+      "styleAttributes": {},
+      "fromNode": "44741e52d666ef91",
+      "fromSide": "right",
+      "toNode": "335f5cae3fdb2769",
       "toSide": "left"
     },
     {
