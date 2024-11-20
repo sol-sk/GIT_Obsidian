@@ -21,16 +21,6 @@
       "label": "Artists"
     },
     {
-      "id": "af727b3351bfdc38",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 7580,
-      "width": 461,
-      "height": 1280,
-      "label": "Bibliography"
-    },
-    {
       "id": "5555230744ad4956",
       "type": "group",
       "styleAttributes": {},
@@ -40,359 +30,6 @@
       "width": 2320,
       "height": 1220,
       "label": "Mind Map"
-    },
-    {
-      "id": "01cd3d77641f3c67",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": -500,
-      "y": 2656,
-      "width": 421,
-      "height": 102,
-      "color": "#046214"
-    },
-    {
-      "id": "0b540a5f996680b1",
-      "type": "text",
-      "text": "**Self/non-self distinction**",
-      "styleAttributes": {},
-      "x": -150,
-      "y": 2466,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a491ae7c430f34df",
-      "type": "text",
-      "text": "**The distinction between \"self\" and \"other\" is recognized  early in development; this understanding is the basis for further knowledge acquisition**",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -610,
-      "y": 2305,
-      "width": 421,
-      "height": 88,
-      "color": "#046214"
-    },
-    {
-      "id": "79ab40dfac94d6bf",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {},
-      "x": -610,
-      "y": 2227,
-      "width": 421,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "0b0ee0bb5f656acc",
-      "type": "text",
-      "text": "- Infant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development: as young as 2 months, infants compensate for perceived loss of balance when room appears to move and turn to look for what made the room move–demonstrates recognition that events occur **outside of own agency** \n- Reviewing evidence of self-awareness prior to mirror self-recognition\n",
-      "styleAttributes": {},
-      "x": -610,
-      "y": 2412,
-      "width": 421,
-      "height": 244,
-      "color": "#046214"
-    },
-    {
-      "id": "4098cc6113622111",
-      "type": "text",
-      "text": "### Mimicry/Recursion",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 500,
-      "y": 2227,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "e0648d4278a27ead",
-      "type": "text",
-      "text": "### Other perception",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 370,
-      "y": 2534,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4f3b9fb36638737e",
-      "type": "text",
-      "text": "### Recognition of the self in others",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 60,
-      "y": 2227,
-      "width": 340,
-      "height": 60
-    },
-    {
-      "id": "847af53085f5d502",
-      "type": "text",
-      "text": "Study of mind perception: self- and other- oriented",
-      "styleAttributes": {},
-      "x": -690,
-      "y": 1720,
-      "width": 320,
-      "height": 80
-    },
-    {
-      "id": "499372fb915c8f17",
-      "type": "text",
-      "text": "#### Research Question",
-      "styleAttributes": {},
-      "x": -690,
-      "y": 1640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b87c3ddef3c60865",
-      "type": "text",
-      "text": "Research in the fields of psychology, philosophy, and art history, in particular cybernetics and media art. ",
-      "styleAttributes": {},
-      "x": -690,
-      "y": 1918,
-      "width": 320,
-      "height": 227
-    },
-    {
-      "id": "481daf757cac2ab3",
-      "type": "text",
-      "text": "#### Methodology",
-      "styleAttributes": {},
-      "x": -690,
-      "y": 1838,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8ce58b7dbc5d7c95",
-      "type": "text",
-      "text": "### Self perception",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 390,
-      "y": 2621,
-      "width": 220,
-      "height": 60
-    },
-    {
-      "id": "125ba4090d718612",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 1060,
-      "y": 2237,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "8776d2ca18beedee",
-      "type": "text",
-      "text": "##### Mirror stage",
-      "styleAttributes": {},
-      "x": 670,
-      "y": 2352,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7eebbd559580f201",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 1060,
-      "y": 2128,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "7ab1b6439ef1dfc3",
-      "type": "text",
-      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
-      "styleAttributes": {},
-      "x": 1204,
-      "y": 1810,
-      "width": 360,
-      "height": 55
-    },
-    {
-      "id": "33ed48efceb94d30",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": 730,
-      "y": 1824,
-      "width": 380,
-      "height": 74,
-      "color": "#1e2180"
-    },
-    {
-      "id": "8d63137e4347e77e",
-      "type": "text",
-      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-      "styleAttributes": {},
-      "x": 1204,
-      "y": 1697,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "5ebbc387260a03c2",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 730,
-      "y": 1982,
-      "width": 380,
-      "height": 77,
-      "color": "#1e2180"
-    },
-    {
-      "id": "e47b61a8c04e2ade",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 730,
-      "y": 1898,
-      "width": 380,
-      "height": 84,
-      "color": "#1e2180"
-    },
-    {
-      "id": "aee4de815a5039b8",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {},
-      "x": 1254,
-      "y": 2032,
-      "width": 260,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "7013b0b6a04c6176",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": 1060,
-      "y": 2526,
-      "width": 454,
-      "height": 129,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "a104f25a2300c21e",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 1060,
-      "y": 2335,
-      "width": 454,
-      "height": 155,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "c5f5bed58f11ce3f",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {},
-      "x": 290,
-      "y": 1764,
-      "width": 380,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "4fc81aeec4649ae5",
-      "type": "text",
-      "text": "##### Humanization/dehumanization",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 116,
-      "y": 2098,
-      "width": 349,
-      "height": 60
-    },
-    {
-      "id": "401b260474ab7b07",
-      "type": "text",
-      "text": "#### Background Literature",
-      "styleAttributes": {},
-      "x": 370,
-      "y": 1640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "32ec167b3c74a534",
-      "type": "text",
-      "text": "**Denial of personhood and mind perception:** \nThe recognition as a person/as a \"mind\" within political context, dehumanization of subjugated groups. Example: Standing Bear, who in 1879 \"sued the U.S. Government to be recognized as a person.\" ",
-      "styleAttributes": {},
-      "x": 290,
-      "y": 1842,
-      "width": 380,
-      "height": 129,
-      "color": "#77be50"
-    },
-    {
-      "id": "707c6d7c8fe19400",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {},
-      "x": 730,
-      "y": 1697,
-      "width": 380,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "b02f1d01673ea41a",
-      "type": "text",
-      "text": "- Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents.\n- Harmful agents are seen as lacking civility and warmth and are attributed **animalistic or machine-like traits**; **attribution of less agency correlated with lower scores on other humanness traits** such as rationality, refinement, and self-restraint.",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -290,
-      "y": 1848,
-      "width": 400,
-      "height": 239,
-      "color": "#24995a"
-    },
-    {
-      "id": "5fafa1b9d3d61ab1",
-      "type": "text",
-      "text": "##### Moral judgement",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1999,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "0cd352e830a091f7",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -290,
-      "y": 1740,
-      "width": 400,
-      "height": 98,
-      "color": "#24995a"
     },
     {
       "id": "f068dea71cd497e6",
@@ -406,438 +43,6 @@
       "label": "Mind Map"
     },
     {
-      "id": "ec475b5660e989f7",
-      "type": "text",
-      "text": "Tracing the overlaps between cybernetics and art, from 40s to present; digital art and third-wave cybernetics both focus on **emergent behavior**, which can emerge from either a collective or from the evolution of a series of recursions. [[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=128,12,128,21|p.7]] Art can, in turn, be a form of emergence from the technological systems which shape our lives. ",
-      "styleAttributes": {},
-      "x": 471,
-      "y": 4389,
-      "width": 389,
-      "height": 181,
-      "color": "#4726c0"
-    },
-    {
-      "id": "2be4d3d6940dc299",
-      "type": "text",
-      "text": "Using metaphor and imagining **visual representations** of difficult concepts can help (students) understand academic material and reframe their studies in their own terms.",
-      "styleAttributes": {},
-      "x": 471,
-      "y": 3935,
-      "width": 389,
-      "height": 103,
-      "color": "#1035a2"
-    },
-    {
-      "id": "ed0a3955a93dee85",
-      "type": "text",
-      "text": "###### *Education of Vision*: \"The Metaphorical Way of Knowing\"",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 439,
-      "y": 3859,
-      "width": 421,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "af71130e1c329003",
-      "type": "text",
-      "text": "AI systems are built on biological structure and metaphorical explanations for cognition",
-      "styleAttributes": {},
-      "x": 472,
-      "y": 3774,
-      "width": 355,
-      "height": 58
-    },
-    {
-      "id": "dd1f27ee5669ee75",
-      "type": "text",
-      "text": "We are constantly contending with the gap between our self-perception and the way that we are perceived; **the difference between self-concept and the mirror**, the photograph, or others' concept of ourselves. We look to AI to produce an idealized mirror of reality which more closely matches our perception/self-perception than reality does.",
-      "styleAttributes": {},
-      "x": 471,
-      "y": 3559,
-      "width": 389,
-      "height": 181,
-      "color": "#0b4755"
-    },
-    {
-      "id": "d92dc4a56c3df173",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 439,
-      "y": 4274,
-      "width": 421,
-      "height": 98,
-      "color": "#4726c0"
-    },
-    {
-      "id": "888b2f9a62db25ce",
-      "type": "text",
-      "text": "##### **Why art?**",
-      "styleAttributes": {
-        "shape": "pill",
-        "border": "dashed",
-        "textAlign": "center"
-      },
-      "x": 559,
-      "y": 4101,
-      "width": 179,
-      "height": 60
-    },
-    {
-      "id": "ec45ee7e40495c02",
-      "type": "text",
-      "text": "###### [Modeling Charisma: AI's Fashion Mirror Stage](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5) (Smith 2024)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 439,
-      "y": 3474,
-      "width": 421,
-      "height": 74,
-      "color": "#0b4755"
-    },
-    {
-      "id": "ed5ad7ff96b1865d",
-      "type": "text",
-      "text": "### Art Theory",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": 666,
-      "y": 3398,
-      "width": 195,
-      "height": 58
-    },
-    {
-      "id": "8220363b7c1a174b",
-      "type": "text",
-      "text": "## Understanding Perception of Minds: Contemporary Cybernetics in Psychology and Art",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 440,
-      "y": 3062,
-      "width": 421,
-      "height": 155
-    },
-    {
-      "id": "8e1880a7ba3b7333",
-      "type": "text",
-      "text": "**Art is constant iteration on other's & own work**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": 358,
-      "y": 4161,
-      "width": 207,
-      "height": 60
-    },
-    {
-      "id": "7d5e940d9111cff1",
-      "type": "text",
-      "text": "### Mimicry/Recursion",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": 170,
-      "y": 4008,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "02f70e9dd267837c",
-      "type": "text",
-      "text": "My research can be generally divided into two overlapping categories: psychology of mind perception and cybernetic artwork. Within psychology, I am going to research the relationship between visual information, perception of mind, and understanding of mind in an experimental context. Using theories in cybernetics (across disciplines) and art made within the cybernetics movement, I am going to bring in metaphorical and artificial representations of the mind. Integrating these methodologies can give a richer and more dynamic understanding of how we perceive ourselves and others",
-      "styleAttributes": {},
-      "x": -240,
-      "y": 3170,
-      "width": 660,
-      "height": 170
-    },
-    {
-      "id": "09aa9103650c16f5",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": 219,
-      "y": 4346,
-      "width": 153,
-      "height": 60
-    },
-    {
-      "id": "5ed756aff253ad3d",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -699,
-      "y": 4241,
-      "width": 421,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "e14136e65934e642",
-      "type": "text",
-      "text": "Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents. \n\nHarmful agents are seen as lacking civility and warmth, and are attributed **animalistic or machine-like traits**; attribution of less agency correlated with lower scores on humanness traits such as rationality, refinement, and self-restraint. (34)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -699,
-      "y": 3977,
-      "width": 389,
-      "height": 239,
-      "color": "#24995a"
-    },
-    {
-      "id": "a98ae86084754b3c",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -699,
-      "y": 3869,
-      "width": 421,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "5dbb96a8a52c36b5",
-      "type": "text",
-      "text": "**Visual perception allows infants to understand the distinction between \"self\" and \"other\"; this understanding is the basis for further knowledge acquisition**\n\nInfant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development, far before the mirror stage: 2 month olds can recognize from visual information that something has occured **outside of their own agency**. (135)\n",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -699,
-      "y": 3559,
-      "width": 389,
-      "height": 278,
-      "color": "#046214"
-    },
-    {
-      "id": "dc18b23da8dc610e",
-      "type": "text",
-      "text": "Mind perception can be triggered in the *perceiver* by unpredictable or negative occurances; perceiving a mind leads to an intensified emotional experience, triggers self-consciousness/self-awareness, and moral judgement. \n\nIf the *perceived* entity appears humanlike or similar to the viewer, it will be perceived as having more capacity for cognition; entities perceived as having more agency are attributed moral rights and responsibilities. ",
-      "styleAttributes": {},
-      "x": -699,
-      "y": 4319,
-      "width": 389,
-      "height": 278,
-      "color": "#77be50"
-    },
-    {
-      "id": "fbfb2aed8108f670",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]] (Butterworth 1992)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -699,
-      "y": 3474,
-      "width": 421,
-      "height": 74,
-      "color": "#046214"
-    },
-    {
-      "id": "c21493ea5de185c8",
-      "type": "text",
-      "text": "##### **Recognition of the self in others**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": 12,
-      "y": 4428,
-      "width": 310,
-      "height": 60
-    },
-    {
-      "id": "f6c3de92255a6f8a",
-      "type": "text",
-      "text": "**Moral judgement**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": -178,
-      "y": 4319,
-      "width": 226,
-      "height": 53
-    },
-    {
-      "id": "942ec0dafd12116a",
-      "type": "text",
-      "text": "### ***Vision***",
-      "styleAttributes": {
-        "shape": "parallelogram",
-        "textAlign": "center"
-      },
-      "x": -224,
-      "y": 3798,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "e710505557172988",
-      "type": "text",
-      "text": "**Generative**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": 219,
-      "y": 3806,
-      "width": 152,
-      "height": 52
-    },
-    {
-      "id": "b5daa2728fa26098",
-      "type": "text",
-      "text": "### Self perception",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram",
-        "border": null
-      },
-      "x": -175,
-      "y": 3967,
-      "width": 220,
-      "height": 60
-    },
-    {
-      "id": "9b8ffe8e4b6dea4d",
-      "type": "text",
-      "text": "**De/humanization**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": -179,
-      "y": 4191,
-      "width": 227,
-      "height": 57
-    },
-    {
-      "id": "27c810e816422287",
-      "type": "text",
-      "text": "### Other perception",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "parallelogram"
-      },
-      "x": -176,
-      "y": 4067,
-      "width": 221,
-      "height": 60
-    },
-    {
-      "id": "1673a9562b654fec",
-      "type": "text",
-      "text": "##### **Mirror stage**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": -159,
-      "y": 3668,
-      "width": 188,
-      "height": 60
-    },
-    {
-      "id": "b5a1a0851614f4f0",
-      "type": "text",
-      "text": "### Psychology",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -699,
-      "y": 3398,
-      "width": 185,
-      "height": 58
-    },
-    {
-      "id": "e3e88a7bf327db55",
-      "type": "text",
-      "text": "**Visual information as basis for understanding**",
-      "styleAttributes": {
-        "shape": "pill",
-        "border": "dashed"
-      },
-      "x": -210,
-      "y": 3555,
-      "width": 222,
-      "height": 60
-    },
-    {
-      "id": "97193fd0907fdb6f",
-      "type": "text",
-      "text": "#### Background Literature",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -54,
-      "y": 3396,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4ea269daafeb983e",
-      "type": "text",
-      "text": "How does visual perception relate to our understanding of our minds and of other (human and artificial) minds? I am going to explore this question through both psychology research and artworks, particularly those influenced by cybernetics.",
-      "styleAttributes": {},
-      "x": -699,
-      "y": 3170,
-      "width": 421,
-      "height": 129
-    },
-    {
-      "id": "788ca9810720d69f",
-      "type": "text",
-      "text": "#### Research Question",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -699,
-      "y": 3090,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "83143ceec0d42458",
-      "type": "text",
-      "text": "#### Methodology",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -240,
-      "y": 3090,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "80aaf8e63d41d098",
       "type": "group",
       "styleAttributes": {},
@@ -849,1435 +54,14 @@
       "label": "Mind Map Final Version"
     },
     {
-      "id": "f6f14b12290fa419",
-      "type": "text",
-      "text": "### Vision as basis for knowledge ",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -243,
-      "y": 5254,
-      "width": 339,
-      "height": 60
-    },
-    {
-      "id": "0fbe74f44b924a69",
-      "type": "text",
-      "text": "**Understanding through visualization**",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -34,
-      "y": 5573,
-      "width": 228,
-      "height": 60
-    },
-    {
-      "id": "255a0550797d729a",
-      "type": "text",
-      "text": "**Self/non-self distinction**",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -290,
-      "y": 5537,
-      "width": 232,
-      "height": 50
-    },
-    {
-      "id": "8e001edd1ddc6994",
-      "type": "text",
-      "text": "**\"Mirror stage\"** ",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -80,
-      "y": 5393,
-      "width": 165,
-      "height": 59
-    },
-    {
-      "id": "c87f22d6e1339b00",
-      "type": "text",
-      "text": "Tracing the overlaps between cybernetics and art, from 40s to present; digital art and third-wave cybernetics both focus on **emergent behavior**, which can emerge from either a collective or from the evolution of a series of recursions. [[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=128,12,128,21|p.7]] Art can, in turn, be a form of emergence from the technological systems which shape our lives. ",
-      "styleAttributes": {},
-      "x": 235,
-      "y": 5822,
-      "width": 389,
-      "height": 181,
-      "color": "#4726c0"
-    },
-    {
-      "id": "2585220d9d4a23a7",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]] (Ilfeld 2012)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 203,
-      "y": 5706,
-      "width": 421,
-      "height": 98,
-      "color": "#4726c0"
-    },
-    {
-      "id": "a9781689b0862064",
-      "type": "text",
-      "text": "Using metaphor and imagining **visual representations** of difficult concepts can help (students) understand academic material and reframe their studies in their own terms.",
-      "styleAttributes": {},
-      "x": 234,
-      "y": 5573,
-      "width": 389,
-      "height": 103,
-      "color": "#1035a2"
-    },
-    {
-      "id": "2ad33a5685f74426",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf|Education of Vision: \"The Metaphorical Way of Knowing\"]] (Gordon, ed. Kepes, )",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 202,
-      "y": 5497,
-      "width": 421,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "54353a52c237009a",
-      "type": "text",
-      "text": "We are constantly contending with the gap between our self-perception and the way that we are perceived; **the difference between self-concept and the mirror**, the photograph, or others' concept of ourselves. We look to AI to produce an idealized mirror of reality which more closely matches our perception/self-perception than reality does.",
-      "styleAttributes": {},
-      "x": 234,
-      "y": 5284,
-      "width": 389,
-      "height": 181,
-      "color": "#0b4755"
-    },
-    {
-      "id": "b7698f1fc3c5f206",
-      "type": "text",
-      "text": "###### [Modeling Charisma: AI's Fashion Mirror Stage](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5) (Smith 2024)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": 202,
-      "y": 5199,
-      "width": 421,
-      "height": 74,
-      "color": "#0b4755"
-    },
-    {
-      "id": "5573fc7e7f80a776",
-      "type": "text",
-      "text": "### Art Theory",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": 429,
-      "y": 5123,
-      "width": 195,
-      "height": 58
-    },
-    {
-      "id": "e119cb6f6791db73",
-      "type": "text",
-      "text": "### Understanding Perception of Minds: Contemporary Cybernetics in Psychology and Art",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 188,
-      "y": 4780,
-      "width": 435,
-      "height": 95
-    },
-    {
-      "id": "025a0caa45d09981",
-      "type": "text",
-      "text": "My research can be generally divided into two overlapping categories: psychology of mind perception and cybernetic artwork. Within psychology, I am going to research the relationship between visual information, perception of mind, and understanding of mind in an experimental context. Using theories in cybernetics (across disciplines) and art made within the cybernetics movement, I am going to bring in metaphorical and artificial representations of the mind. Integrating these methodologies can give a richer and more dynamic understanding of how we perceive ourselves and others",
-      "styleAttributes": {},
-      "x": -251,
-      "y": 4895,
-      "width": 601,
-      "height": 179
-    },
-    {
-      "id": "ef4a6087c1b6ca1c",
-      "type": "text",
-      "text": "**Moral rights and responsibilities**",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -283,
-      "y": 5829,
-      "width": 281,
-      "height": 60
-    },
-    {
-      "id": "53e56666a9881f47",
-      "type": "text",
-      "text": "**Learning through art**",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -4,
-      "y": 5744,
-      "width": 200,
-      "height": 60
-    },
-    {
-      "id": "49290ed0707377f8",
-      "type": "text",
-      "text": "Mind perception can be triggered in the *perceiver* by unpredictable or negative occurances; perceiving a mind leads to an intensified emotional experience, triggers self-consciousness/self-awareness, and moral judgement. \n\n",
-      "styleAttributes": {},
-      "x": -76,
-      "y": 5992,
-      "width": 311,
-      "height": 155,
-      "color": "#77be50"
-    },
-    {
-      "id": "6397d0ec903ebc7f",
-      "type": "text",
-      "text": "If the *perceived* entity appears humanlike or similar to the viewer, it will be perceived as having more capacity for cognition; entities perceived as having more agency are attributed moral rights and responsibilities. ",
-      "styleAttributes": {},
-      "x": -450,
-      "y": 5992,
-      "width": 354,
-      "height": 129,
-      "color": "#77be50"
-    },
-    {
-      "id": "ff61a66847cc74dd",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]] (Waytz et al. 2010)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -287,
-      "y": 5911,
-      "width": 421,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "92a4e746bebd8553",
-      "type": "text",
-      "text": "##### Perception of other agents",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -305,
-      "y": 5702,
-      "width": 262,
-      "height": 60
-    },
-    {
-      "id": "c233049990761730",
-      "type": "text",
-      "text": "Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents. \n\nHarmful agents are seen as lacking civility and warmth, and are attributed **animalistic or machine-like traits**; attribution of less agency correlated with lower scores on humanness traits such as rationality, refinement, and self-restraint. (34)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -710,
-      "y": 5702,
-      "width": 389,
-      "height": 239,
-      "color": "#24995a"
-    },
-    {
-      "id": "ab3bb30ad9e4eaf1",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]] (Khamitov et al. 2015)",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -710,
-      "y": 5594,
-      "width": 421,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "c5775eee0551c885",
-      "type": "text",
-      "text": "**Visual perception allows infants to understand the distinction between \"self\" and \"other\"; this understanding is the basis for further knowledge acquisition**\n\nInfant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development, far before the mirror stage: 2 month olds can recognize from visual information that something has occured **outside of their own agency**. (135)\n",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -710,
-      "y": 5284,
-      "width": 389,
-      "height": 278,
-      "color": "#046214"
-    },
-    {
-      "id": "c3f3d2d10ad48af7",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]] (Butterworth 1992)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -710,
-      "y": 5199,
-      "width": 421,
-      "height": 74,
-      "color": "#046214"
-    },
-    {
-      "id": "e71039a65a97555b",
-      "type": "text",
-      "text": "##### Self-awareness",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": -295,
-      "y": 5393,
-      "width": 173,
-      "height": 60
-    },
-    {
-      "id": "4b261ae814a264e0",
-      "type": "text",
-      "text": "### Psychology",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -710,
-      "y": 5123,
-      "width": 185,
-      "height": 58
-    },
-    {
-      "id": "2cdd65a06943fd0f",
-      "type": "text",
-      "text": "#### Research Question",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -710,
-      "y": 4815,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f6dd278edc8bda6b",
-      "type": "text",
-      "text": "#### Background Literature",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "predefined-process"
-      },
-      "x": -210,
-      "y": 5121,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "773ea91239da3bde",
-      "type": "text",
-      "text": "#### Methodology",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -251,
-      "y": 4815,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "15f9ffc1a48c3a61",
-      "type": "text",
-      "text": "How does visual perception relate to our understanding of our minds and of other (human and artificial) minds? I am going to explore this question through both psychology research and artworks, particularly those influenced by cybernetics.",
-      "styleAttributes": {},
-      "x": -710,
-      "y": 4895,
-      "width": 421,
-      "height": 129
-    },
-    {
-      "id": "18ea84df6ffbecc9",
-      "type": "text",
-      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
-      "styleAttributes": {},
-      "x": 6700,
-      "y": -598,
-      "width": 340,
-      "height": 129
-    },
-    {
-      "id": "9cb2e2cd3aa275e3",
-      "type": "text",
-      "text": "\"Social\" vs \"physical\" objects",
-      "styleAttributes": {},
-      "x": 5880,
-      "y": -499,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2318d07b7800b50b",
-      "type": "text",
-      "text": "Ecological and interpersonal selves intertwine",
-      "styleAttributes": {},
-      "x": 6049,
-      "y": -400,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "86a6585083fa504a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": -1085,
-      "width": 720,
-      "height": 835
-    },
-    {
-      "id": "2457cd5115b4e079",
-      "type": "text",
-      "text": "##### Interpersonal self-conception",
-      "styleAttributes": {},
-      "x": 7200,
-      "y": -598,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d429b8844b43b949",
-      "type": "text",
-      "text": "#### Self-conception",
-      "styleAttributes": {},
-      "x": 7040,
-      "y": -736,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "25316e1faf936bdb",
-      "type": "text",
-      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
-      "styleAttributes": {},
-      "x": 6470,
-      "y": -796,
-      "width": 340,
-      "height": 100
-    },
-    {
-      "id": "35173d32e20a9ebf",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
-      "styleAttributes": {},
-      "x": 2860,
-      "y": 6709,
-      "width": 640,
-      "height": 377
-    },
-    {
-      "id": "d8c98b499d78aa80",
-      "type": "text",
-      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
-      "styleAttributes": {},
-      "x": 2243,
-      "y": 6718,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "172dfcb904b9ffba",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
-      "styleAttributes": {},
-      "x": 5000,
-      "y": 4080,
-      "width": 680,
-      "height": 949
-    },
-    {
-      "id": "53fb11076478f995",
-      "type": "text",
-      "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 4120,
-      "y": 4080,
-      "width": 800,
-      "height": 741
-    },
-    {
-      "id": "63e399d5f7428f8f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": 3320,
-      "y": 4080,
-      "width": 720,
-      "height": 624
-    },
-    {
-      "id": "bfcac655d3fa14ac",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 2000,
-      "width": 680,
-      "height": 1960
-    },
-    {
-      "id": "dc87fb4e640fe28c",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 2000,
-      "width": 800,
-      "height": 1874
-    },
-    {
-      "id": "bba277bb5047a94b",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-      "styleAttributes": {},
-      "x": 6000,
-      "y": 3120,
-      "width": 454,
-      "height": 93
-    },
-    {
-      "id": "65421ed7aa074bb4",
-      "type": "text",
-      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
-      "styleAttributes": {},
-      "x": 5840,
-      "y": 2892,
-      "width": 320,
-      "height": 232
-    },
-    {
-      "id": "eea35fedda198923",
-      "type": "text",
-      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-      "styleAttributes": {},
-      "x": 1868,
-      "y": 6718,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "796edfd7dea47577",
-      "type": "text",
-      "text": ">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
-      "styleAttributes": {},
-      "x": 3460,
-      "y": 3538,
-      "width": 580,
-      "height": 283
-    },
-    {
-      "id": "7ef86ed1d0e62f81",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 3420,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "54be7cb7cda53628",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 3294,
-      "width": 454,
-      "height": 129,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "361fbfa0fec0fbe7",
-      "type": "text",
-      "text": "##### Emergence",
-      "styleAttributes": {},
-      "x": 3780,
-      "y": 3458,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "efa048eed49afd34",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 3144,
-      "width": 454,
-      "height": 155,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "fbf6ad7ed854772d",
-      "type": "text",
-      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-      "styleAttributes": {},
-      "x": 5840,
-      "y": 2700,
-      "width": 320,
-      "height": 180
-    },
-    {
-      "id": "2fc8270908d406c4",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-      "styleAttributes": {},
-      "x": 6000,
-      "y": 3253,
-      "width": 454,
-      "height": 105
-    },
-    {
-      "id": "eedb917b24c7e83f",
-      "type": "text",
-      "text": "Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
-      "styleAttributes": {},
-      "x": 6120,
-      "y": 2315,
-      "width": 364,
-      "height": 417
-    },
-    {
-      "id": "74c201cf1ba79bc8",
-      "type": "text",
-      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
-      "styleAttributes": {},
-      "x": 6074,
-      "y": 2952,
-      "width": 410,
-      "height": 136
-    },
-    {
-      "id": "263c158a3f0567f0",
-      "type": "text",
-      "text": "Categories of mind perception",
-      "styleAttributes": {},
-      "x": 6072,
-      "y": 2203,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8d071a44c8304a51",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {},
-      "x": 6880,
-      "y": 4580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4eb594233eb426c6",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 3068,
-      "width": 454,
-      "height": 76,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "7b94ad0ae9fff40e",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {},
-      "x": 2980,
-      "y": 2990,
-      "width": 260,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "73ca841cfbd00b3a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 2000,
-      "width": 720,
-      "height": 800
-    },
-    {
-      "id": "a28bb8604b98866e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS401_Mindmap.pdf",
-      "styleAttributes": {},
-      "x": -1530,
-      "y": 1598,
-      "width": 529,
-      "height": 653
-    },
-    {
-      "id": "b2c56e1457460eed",
-      "type": "text",
-      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
-      "styleAttributes": {},
-      "x": -396,
-      "y": 6707,
-      "width": 348,
-      "height": 304
-    },
-    {
-      "id": "e71f01d6ff0d8aa5",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": -825,
-      "y": 6707,
-      "width": 389,
-      "height": 102
-    },
-    {
-      "id": "d157fe110a00c9ea",
-      "type": "text",
-      "text": "**Mimicry**",
-      "styleAttributes": {},
-      "x": 7100,
-      "y": 4036,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e9b041fb09c7d7fa",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 7248,
-      "y": 4520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7e4f9fb3296caf8e",
-      "type": "text",
-      "text": "Discrimination model",
-      "styleAttributes": {},
-      "x": 7338,
-      "y": 3770,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "916bf02255ef6bc2",
-      "type": "text",
-      "text": "#### Self and other perception",
-      "styleAttributes": {},
-      "x": 7170,
-      "y": 3640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e94f4d6999eba9ec",
-      "type": "text",
-      "text": "Generative model",
-      "styleAttributes": {},
-      "x": 7468,
-      "y": 3900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "1459ab9df9becf2c",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 6680,
-      "y": 2672,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c9ef2ac3811d28e0",
-      "type": "text",
-      "text": "**Effect of other-mind on perceiver**",
-      "styleAttributes": {},
-      "x": 6673,
-      "y": 3040,
-      "width": 307,
-      "height": 60
-    },
-    {
-      "id": "87ad87ba863ecc62",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 6640,
-      "y": 3253,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9fcfe154f41940a8",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
-      "styleAttributes": {},
-      "x": 7320,
-      "y": 1025,
-      "width": 680,
-      "height": 860
-    },
-    {
-      "id": "db5b8e6eadd5bb01",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": 6455,
-      "y": 4112,
-      "width": 454,
-      "height": 129
-    },
-    {
-      "id": "222b1e880c80dc09",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 5920,
-      "y": 5060,
-      "width": 350,
-      "height": 155
-    },
-    {
-      "id": "7891b177ac1e3fd9",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 5920,
-      "y": 4641,
-      "width": 350,
-      "height": 388
-    },
-    {
-      "id": "e0f988c03dee0fa8",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": 5920,
-      "y": 4241,
-      "width": 350,
-      "height": 367
-    },
-    {
-      "id": "1b7474c6f9d70add",
-      "type": "text",
-      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": 3960,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "1dcf371763f08e1c",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 3917,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "822432290291d2a7",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 3731,
-      "width": 469,
-      "height": 155
-    },
-    {
-      "id": "7a762afbb68426ca",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 4013,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "b931fc52732da8ef",
-      "type": "text",
-      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
-      "styleAttributes": {},
-      "x": 566,
-      "y": 7673,
-      "width": 410,
-      "height": 136
-    },
-    {
-      "id": "c2ee9f6df6f8ecca",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-      "styleAttributes": {},
-      "x": 566,
-      "y": 7834,
-      "width": 454,
-      "height": 93
-    },
-    {
-      "id": "516b1a2e46eca87e",
-      "type": "text",
-      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-      "styleAttributes": {},
-      "x": 114,
-      "y": 7667,
-      "width": 400,
-      "height": 153
-    },
-    {
-      "id": "39ee391fdd3d547c",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7667,
-      "width": 394,
-      "height": 102
-    },
-    {
-      "id": "1b70e8c4303d0900",
-      "type": "text",
-      "text": "# Bibliography",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 7600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f3d0e7f0a07d23cd",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7800,
-      "width": 343,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "aef734225c75f111",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7709,
-      "width": 380,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "eb547d58ae7e1399",
-      "type": "text",
-      "text": "**Surveillance habituation**",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 8080,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bfd9e143fed7e143",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7989,
-      "width": 107,
-      "height": 60
-    },
-    {
-      "id": "5d5bdea9ebfb14ff",
-      "type": "text",
-      "text": "**Effect of other-mind on perceiver**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7850,
-      "width": 307,
-      "height": 60
-    },
-    {
-      "id": "72d5381d9134437a",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7711,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a29b749e962b11e6",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": -338,
-      "y": 7527,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8bde710afcbf54a9",
-      "type": "text",
-      "text": "Less deserving of rights and protections (less moral standing)",
-      "styleAttributes": {},
-      "x": 69,
-      "y": 7312,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "b855b9b56fff5236",
-      "type": "text",
-      "text": "Attributing less agency",
-      "styleAttributes": {},
-      "x": -278,
-      "y": 7320,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2c85631f2421e328",
-      "type": "text",
-      "text": "Seen as cold, uncivil, animalistic, machine-like",
-      "styleAttributes": {},
-      "x": 69,
-      "y": 7187,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "acd4d40a2024e63b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 815,
-      "width": 720,
-      "height": 580
-    },
-    {
-      "id": "6a0111e421134e03",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 830,
-      "width": 800,
-      "height": 542
-    },
-    {
-      "id": "0f58d66fd6ddcd3e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7187,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "3724c201a0b6bd19",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": -470,
-      "y": 7408,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "269af91c7a21c958",
-      "type": "text",
-      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7187,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "954a8eefab8424c1",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": -278,
-      "y": 7187,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a5cc3ffa4a81613e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 6707,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "5b42eac1f846d648",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": 6170,
-      "y": 1600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4d2aedff91e8ab29",
-      "type": "text",
-      "text": "Less deserving of rights and protections (less moral standing)",
-      "styleAttributes": {},
-      "x": 6500,
-      "y": 1148,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "84638da88a1acff7",
-      "type": "text",
-      "text": "Attributing less agency",
-      "styleAttributes": {},
-      "x": 6300,
-      "y": 1060,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2ec63e0d4c0ec17e",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 6020,
-      "y": 1126,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a3e04c19472badc3",
-      "type": "text",
-      "text": "Seen as cold, uncivil, animalistic, machine-like",
-      "styleAttributes": {},
-      "x": 6580,
-      "y": 967,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "794d53ce188cf230",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 6387,
-      "y": 867,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4819fc4e0fa822c0",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 830,
-      "width": 680,
-      "height": 1055
-    },
-    {
-      "id": "9567558e3f53dae7",
-      "type": "text",
-      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
-      "styleAttributes": {},
-      "x": 5860,
-      "y": 888,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "27d0ec5d30fe8a65",
-      "type": "text",
-      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
-      "styleAttributes": {
-        "border": null,
-        "textAlign": null
-      },
-      "x": 4200,
-      "y": -1085,
-      "width": 800,
-      "height": 1767
-    },
-    {
-      "id": "ff61b3618c93141a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": -1085,
-      "width": 680,
-      "height": 1176
-    },
-    {
-      "id": "3665f31e678ec6e6",
-      "type": "text",
-      "text": "Mechanics of mimicry",
-      "styleAttributes": {},
-      "x": 6267,
-      "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fbb0639357dc7c35",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 6620,
-      "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c9bb3d54bb517b45",
-      "type": "text",
-      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
-      "styleAttributes": {},
-      "x": 5875,
-      "y": -160,
-      "width": 348,
-      "height": 304
-    },
-    {
-      "id": "3b22556d5d20bb78",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": 5073,
-      "y": 397,
-      "width": 389,
-      "height": 102,
-      "color": "#046214"
-    },
-    {
-      "id": "976609628d49dc7f",
-      "type": "text",
-      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
-      "styleAttributes": {},
-      "x": 114,
-      "y": 7868,
-      "width": 400,
-      "height": 205
-    },
-    {
-      "id": "9d1c97054f334f60",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 8155,
-      "width": 400,
-      "height": 260
-    },
-    {
-      "id": "988f0558c9670808",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {},
-      "x": -270,
-      "y": 8465,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d4739a166856d2b6",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 8155,
-      "width": 400,
-      "height": 208
-    },
-    {
-      "id": "d1db8d7e967717ae",
-      "type": "text",
-      "text": "**Categories of mind perception**\nTwo dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 7667,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "22ffa01a0b5d909a",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7800,
-      "width": 394,
-      "height": 129
-    },
-    {
-      "id": "9e5b1e0dcff1ab2d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8155,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8e489775f8391ccb",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7667,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "d219dea82f983c8c",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 112,
-      "y": 8156,
-      "width": 400,
-      "height": 129
-    },
-    {
-      "id": "2461c1cc3ef3e3e6",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 182,
-      "y": 8465,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c95fe32513846b9a",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b2cfd2cda4850e9d",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8329,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "35174b871f4d8223",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8239,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "df0bee9f0c27ae22",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8122,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "f909bc41ebe376f2",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7920,
-      "width": 235,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "31f36e9b8f06c73b",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8419,
-      "width": 380,
-      "height": 70
-    },
-    {
-      "id": "a9628a64bf741ad8",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8029,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "831f30188067b8b4",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-      "styleAttributes": {},
-      "x": 566,
-      "y": 7964,
-      "width": 454,
-      "height": 109
+      "id": "af727b3351bfdc38",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 7580,
+      "width": 461,
+      "height": 1280,
+      "label": "Bibliography"
     },
     {
       "id": "8668c178df206101",
@@ -3074,10 +858,1119 @@
       "type": "text",
       "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
       "styleAttributes": {},
-      "x": -3350,
-      "y": 11476,
+      "x": -2740,
+      "y": 11360,
       "width": 420,
       "height": 408
+    },
+    {
+      "id": "4db6d54886bc0e52",
+      "type": "text",
+      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
+      "styleAttributes": {},
+      "x": -3310,
+      "y": 11695,
+      "width": 310,
+      "height": 80
+    },
+    {
+      "id": "9d1c97054f334f60",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 8155,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "988f0558c9670808",
+      "type": "text",
+      "text": "**Emergence**",
+      "styleAttributes": {},
+      "x": -270,
+      "y": 8465,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d4739a166856d2b6",
+      "type": "text",
+      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 8155,
+      "width": 400,
+      "height": 208
+    },
+    {
+      "id": "22ffa01a0b5d909a",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7800,
+      "width": 394,
+      "height": 129
+    },
+    {
+      "id": "d219dea82f983c8c",
+      "type": "text",
+      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+      "styleAttributes": {},
+      "x": 112,
+      "y": 8156,
+      "width": 400,
+      "height": 129
+    },
+    {
+      "id": "2461c1cc3ef3e3e6",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 182,
+      "y": 8465,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b931fc52732da8ef",
+      "type": "text",
+      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
+      "styleAttributes": {},
+      "x": 566,
+      "y": 7673,
+      "width": 410,
+      "height": 136
+    },
+    {
+      "id": "c2ee9f6df6f8ecca",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 566,
+      "y": 7834,
+      "width": 454,
+      "height": 93
+    },
+    {
+      "id": "516b1a2e46eca87e",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 114,
+      "y": 7667,
+      "width": 400,
+      "height": 153
+    },
+    {
+      "id": "eb547d58ae7e1399",
+      "type": "text",
+      "text": "**Surveillance habituation**",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 8080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bfd9e143fed7e143",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7989,
+      "width": 107,
+      "height": 60
+    },
+    {
+      "id": "5d5bdea9ebfb14ff",
+      "type": "text",
+      "text": "**Effect of other-mind on perceiver**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7850,
+      "width": 307,
+      "height": 60
+    },
+    {
+      "id": "72d5381d9134437a",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7711,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d1db8d7e967717ae",
+      "type": "text",
+      "text": "**Categories of mind perception**\nTwo dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 7667,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9e5b1e0dcff1ab2d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e489775f8391ccb",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7667,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c95fe32513846b9a",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b2cfd2cda4850e9d",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8329,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "35174b871f4d8223",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8239,
+      "width": 380,
+      "height": 60,
+      "color": "#046214"
+    },
+    {
+      "id": "31f36e9b8f06c73b",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8419,
+      "width": 380,
+      "height": 70
+    },
+    {
+      "id": "1b70e8c4303d0900",
+      "type": "text",
+      "text": "# Bibliography",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 7600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f3d0e7f0a07d23cd",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7800,
+      "width": 343,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "aef734225c75f111",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7709,
+      "width": 380,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "976609628d49dc7f",
+      "type": "text",
+      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
+      "styleAttributes": {},
+      "x": 114,
+      "y": 7868,
+      "width": 400,
+      "height": 205
+    },
+    {
+      "id": "df0bee9f0c27ae22",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8122,
+      "width": 361,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "f909bc41ebe376f2",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7920,
+      "width": 235,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "a9628a64bf741ad8",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8029,
+      "width": 343,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "831f30188067b8b4",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 566,
+      "y": 7964,
+      "width": 454,
+      "height": 109
+    },
+    {
+      "id": "d8c98b499d78aa80",
+      "type": "text",
+      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
+      "styleAttributes": {},
+      "x": 2243,
+      "y": 6718,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "eea35fedda198923",
+      "type": "text",
+      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+      "styleAttributes": {},
+      "x": 1868,
+      "y": 6718,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "a29b749e962b11e6",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": -338,
+      "y": 7527,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8bde710afcbf54a9",
+      "type": "text",
+      "text": "Less deserving of rights and protections (less moral standing)",
+      "styleAttributes": {},
+      "x": 69,
+      "y": 7312,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "b855b9b56fff5236",
+      "type": "text",
+      "text": "Attributing less agency",
+      "styleAttributes": {},
+      "x": -278,
+      "y": 7320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2c85631f2421e328",
+      "type": "text",
+      "text": "Seen as cold, uncivil, animalistic, machine-like",
+      "styleAttributes": {},
+      "x": 69,
+      "y": 7187,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "269af91c7a21c958",
+      "type": "text",
+      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7187,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "954a8eefab8424c1",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": -278,
+      "y": 7187,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "35173d32e20a9ebf",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
+      "styleAttributes": {},
+      "x": 2860,
+      "y": 6709,
+      "width": 640,
+      "height": 377
+    },
+    {
+      "id": "b2c56e1457460eed",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": -396,
+      "y": 6707,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "e71f01d6ff0d8aa5",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": -825,
+      "y": 6707,
+      "width": 389,
+      "height": 102
+    },
+    {
+      "id": "39ee391fdd3d547c",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7667,
+      "width": 394,
+      "height": 102
+    },
+    {
+      "id": "0f58d66fd6ddcd3e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7187,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3724c201a0b6bd19",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": -470,
+      "y": 7408,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a5cc3ffa4a81613e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 6707,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "222b1e880c80dc09",
+      "type": "text",
+      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 5060,
+      "width": 350,
+      "height": 155
+    },
+    {
+      "id": "172dfcb904b9ffba",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
+      "styleAttributes": {},
+      "x": 5000,
+      "y": 4080,
+      "width": 680,
+      "height": 949
+    },
+    {
+      "id": "7891b177ac1e3fd9",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 4641,
+      "width": 350,
+      "height": 388
+    },
+    {
+      "id": "53fb11076478f995",
+      "type": "text",
+      "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": 4120,
+      "y": 4080,
+      "width": 800,
+      "height": 741
+    },
+    {
+      "id": "63e399d5f7428f8f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": 3320,
+      "y": 4080,
+      "width": 720,
+      "height": 624
+    },
+    {
+      "id": "8d071a44c8304a51",
+      "type": "text",
+      "text": "**Emergence**",
+      "styleAttributes": {},
+      "x": 6880,
+      "y": 4580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e9b041fb09c7d7fa",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 7248,
+      "y": 4520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e0f988c03dee0fa8",
+      "type": "text",
+      "text": "> \"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+      "styleAttributes": {},
+      "x": 5920,
+      "y": 4241,
+      "width": 350,
+      "height": 367
+    },
+    {
+      "id": "bfcac655d3fa14ac",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 2000,
+      "width": 680,
+      "height": 1960
+    },
+    {
+      "id": "dc87fb4e640fe28c",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 2000,
+      "width": 800,
+      "height": 1874
+    },
+    {
+      "id": "d157fe110a00c9ea",
+      "type": "text",
+      "text": "**Mimicry**",
+      "styleAttributes": {},
+      "x": 7100,
+      "y": 4036,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7e4f9fb3296caf8e",
+      "type": "text",
+      "text": "Discrimination model",
+      "styleAttributes": {},
+      "x": 7338,
+      "y": 3770,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e94f4d6999eba9ec",
+      "type": "text",
+      "text": "Generative model",
+      "styleAttributes": {},
+      "x": 7468,
+      "y": 3900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "db5b8e6eadd5bb01",
+      "type": "text",
+      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+      "styleAttributes": {},
+      "x": 6455,
+      "y": 4112,
+      "width": 454,
+      "height": 129
+    },
+    {
+      "id": "1b7474c6f9d70add",
+      "type": "text",
+      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
+      "styleAttributes": {},
+      "x": 6060,
+      "y": 3960,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "1dcf371763f08e1c",
+      "type": "text",
+      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 3917,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "822432290291d2a7",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 3731,
+      "width": 469,
+      "height": 155
+    },
+    {
+      "id": "7a762afbb68426ca",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 4013,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "bba277bb5047a94b",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 3120,
+      "width": 454,
+      "height": 93
+    },
+    {
+      "id": "65421ed7aa074bb4",
+      "type": "text",
+      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 2892,
+      "width": 320,
+      "height": 232
+    },
+    {
+      "id": "796edfd7dea47577",
+      "type": "text",
+      "text": ">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
+      "styleAttributes": {},
+      "x": 3460,
+      "y": 3538,
+      "width": 580,
+      "height": 283
+    },
+    {
+      "id": "7ef86ed1d0e62f81",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 3420,
+      "width": 454,
+      "height": 76,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "54be7cb7cda53628",
+      "type": "text",
+      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 3294,
+      "width": 454,
+      "height": 129,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "efa048eed49afd34",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 3144,
+      "width": 454,
+      "height": 155,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "2fc8270908d406c4",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 3253,
+      "width": 454,
+      "height": 105
+    },
+    {
+      "id": "4eb594233eb426c6",
+      "type": "text",
+      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 3068,
+      "width": 454,
+      "height": 76,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "916bf02255ef6bc2",
+      "type": "text",
+      "text": "#### Self and other perception",
+      "styleAttributes": {},
+      "x": 7170,
+      "y": 3640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "87ad87ba863ecc62",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6640,
+      "y": 3253,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "361fbfa0fec0fbe7",
+      "type": "text",
+      "text": "##### Emergence",
+      "styleAttributes": {},
+      "x": 3780,
+      "y": 3458,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fbf6ad7ed854772d",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 2700,
+      "width": 320,
+      "height": 180
+    },
+    {
+      "id": "eedb917b24c7e83f",
+      "type": "text",
+      "text": "Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
+      "styleAttributes": {},
+      "x": 6120,
+      "y": 2315,
+      "width": 364,
+      "height": 417
+    },
+    {
+      "id": "74c201cf1ba79bc8",
+      "type": "text",
+      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
+      "styleAttributes": {},
+      "x": 6074,
+      "y": 2952,
+      "width": 410,
+      "height": 136
+    },
+    {
+      "id": "7b94ad0ae9fff40e",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {},
+      "x": 2980,
+      "y": 2990,
+      "width": 260,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "73ca841cfbd00b3a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 2000,
+      "width": 720,
+      "height": 800
+    },
+    {
+      "id": "1459ab9df9becf2c",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6680,
+      "y": 2672,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c9ef2ac3811d28e0",
+      "type": "text",
+      "text": "**Effect of other-mind on perceiver**",
+      "styleAttributes": {},
+      "x": 6673,
+      "y": 3040,
+      "width": 307,
+      "height": 60
+    },
+    {
+      "id": "263c158a3f0567f0",
+      "type": "text",
+      "text": "Categories of mind perception",
+      "styleAttributes": {},
+      "x": 6072,
+      "y": 2203,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a28bb8604b98866e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/COGS401_Mindmap.pdf",
+      "styleAttributes": {},
+      "x": -1530,
+      "y": 1598,
+      "width": 529,
+      "height": 653
+    },
+    {
+      "id": "9fcfe154f41940a8",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 1025,
+      "width": 680,
+      "height": 860
+    },
+    {
+      "id": "5b42eac1f846d648",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": 6170,
+      "y": 1600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4819fc4e0fa822c0",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 830,
+      "width": 680,
+      "height": 1055
+    },
+    {
+      "id": "6a0111e421134e03",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 830,
+      "width": 800,
+      "height": 542
+    },
+    {
+      "id": "4d2aedff91e8ab29",
+      "type": "text",
+      "text": "Less deserving of rights and protections (less moral standing)",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 1148,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "84638da88a1acff7",
+      "type": "text",
+      "text": "Attributing less agency",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 1060,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2ec63e0d4c0ec17e",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6020,
+      "y": 1126,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a3e04c19472badc3",
+      "type": "text",
+      "text": "Seen as cold, uncivil, animalistic, machine-like",
+      "styleAttributes": {},
+      "x": 6580,
+      "y": 967,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "794d53ce188cf230",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6387,
+      "y": 867,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9567558e3f53dae7",
+      "type": "text",
+      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
+      "styleAttributes": {},
+      "x": 5860,
+      "y": 888,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "27d0ec5d30fe8a65",
+      "type": "text",
+      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": null
+      },
+      "x": 4200,
+      "y": -1085,
+      "width": 800,
+      "height": 1767
+    },
+    {
+      "id": "3b22556d5d20bb78",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": 5073,
+      "y": 397,
+      "width": 389,
+      "height": 102,
+      "color": "#046214"
+    },
+    {
+      "id": "18ea84df6ffbecc9",
+      "type": "text",
+      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
+      "styleAttributes": {},
+      "x": 6700,
+      "y": -598,
+      "width": 340,
+      "height": 129
+    },
+    {
+      "id": "9cb2e2cd3aa275e3",
+      "type": "text",
+      "text": "\"Social\" vs \"physical\" objects",
+      "styleAttributes": {},
+      "x": 5880,
+      "y": -499,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2318d07b7800b50b",
+      "type": "text",
+      "text": "Ecological and interpersonal selves intertwine",
+      "styleAttributes": {},
+      "x": 6049,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2457cd5115b4e079",
+      "type": "text",
+      "text": "##### Interpersonal self-conception",
+      "styleAttributes": {},
+      "x": 7200,
+      "y": -598,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d429b8844b43b949",
+      "type": "text",
+      "text": "#### Self-conception",
+      "styleAttributes": {},
+      "x": 7040,
+      "y": -736,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25316e1faf936bdb",
+      "type": "text",
+      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
+      "styleAttributes": {},
+      "x": 6470,
+      "y": -796,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "ff61b3618c93141a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": -1085,
+      "width": 680,
+      "height": 1176
+    },
+    {
+      "id": "3665f31e678ec6e6",
+      "type": "text",
+      "text": "Mechanics of mimicry",
+      "styleAttributes": {},
+      "x": 6267,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fbb0639357dc7c35",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 6620,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c9bb3d54bb517b45",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": 5875,
+      "y": -160,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "86a6585083fa504a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": -1085,
+      "width": 720,
+      "height": 835
+    },
+    {
+      "id": "acd4d40a2024e63b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 815,
+      "width": 720,
+      "height": 580
+    },
+    {
+      "id": "17df8e08f4019537",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 7.md",
+      "x": 2080,
+      "y": 10380,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "9666e22619b61c1a",
+      "type": "text",
+      "text": "Really long, largely nonsense",
+      "styleAttributes": {},
+      "x": 2840,
+      "y": 10440,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -3812,654 +2705,20 @@
       "toSide": "left"
     },
     {
-      "id": "c5eb19bfab4d20fe",
+      "id": "9ef11458f244f38c",
       "styleAttributes": {},
-      "fromNode": "79ab40dfac94d6bf",
-      "fromSide": "left",
-      "toNode": "a491ae7c430f34df",
+      "fromNode": "c8a5ce2c4deb92d6",
+      "fromSide": "right",
+      "toNode": "4db6d54886bc0e52",
       "toSide": "left"
     },
     {
-      "id": "7ad8b9d8718f5206",
+      "id": "a13379bdf86d5216",
       "styleAttributes": {},
-      "fromNode": "c5f5bed58f11ce3f",
+      "fromNode": "9666e22619b61c1a",
       "fromSide": "left",
-      "toNode": "32ec167b3c74a534",
-      "toSide": "left",
-      "color": "#77be50"
-    },
-    {
-      "id": "042a2bd0b07ece56",
-      "styleAttributes": {},
-      "fromNode": "4f3b9fb36638737e",
-      "fromSide": "top",
-      "toNode": "4fc81aeec4649ae5",
-      "toSide": "bottom"
-    },
-    {
-      "id": "13b1e201ef633b6b",
-      "styleAttributes": {},
-      "fromNode": "0b0ee0bb5f656acc",
-      "fromSide": "right",
-      "toNode": "8ce58b7dbc5d7c95",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "3cdf38aa43fc8cf7",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
-      "fromNode": "32ec167b3c74a534",
-      "fromSide": "bottom",
-      "toNode": "4fc81aeec4649ae5",
-      "toSide": "right",
-      "color": "#77be50"
-    },
-    {
-      "id": "98de277b009a6e8a",
-      "styleAttributes": {},
-      "fromNode": "a104f25a2300c21e",
-      "fromSide": "left",
-      "toNode": "8ce58b7dbc5d7c95",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "a0eb47cce77f090c",
-      "styleAttributes": {},
-      "fromNode": "7013b0b6a04c6176",
-      "fromSide": "left",
-      "toNode": "8ce58b7dbc5d7c95",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "6562796ac1f63c2e",
-      "styleAttributes": {},
-      "fromNode": "7eebbd559580f201",
-      "fromSide": "left",
-      "toNode": "4098cc6113622111",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "12e0a19892d0ee45",
-      "styleAttributes": {},
-      "fromNode": "125ba4090d718612",
-      "fromSide": "left",
-      "toNode": "8ce58b7dbc5d7c95",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "2ae5704a37bf67e1",
-      "styleAttributes": {},
-      "fromNode": "8ce58b7dbc5d7c95",
-      "fromSide": "top",
-      "toNode": "e0648d4278a27ead",
-      "toSide": "bottom"
-    },
-    {
-      "id": "e973a42f94d39693",
-      "styleAttributes": {},
-      "fromNode": "e0648d4278a27ead",
-      "fromSide": "top",
-      "toNode": "4f3b9fb36638737e",
-      "toSide": "bottom"
-    },
-    {
-      "id": "cf63c83a98725562",
-      "styleAttributes": {},
-      "fromNode": "4098cc6113622111",
-      "fromSide": "left",
-      "toNode": "4f3b9fb36638737e",
+      "toNode": "17df8e08f4019537",
       "toSide": "right"
-    },
-    {
-      "id": "7d5bc18fcb7cb3b3",
-      "styleAttributes": {},
-      "fromNode": "e0648d4278a27ead",
-      "fromSide": "top",
-      "toNode": "4098cc6113622111",
-      "toSide": "bottom"
-    },
-    {
-      "id": "b2362ddff1c6647d",
-      "styleAttributes": {},
-      "fromNode": "707c6d7c8fe19400",
-      "fromSide": "right",
-      "toNode": "33ed48efceb94d30",
-      "toSide": "right"
-    },
-    {
-      "id": "a6e8748f3c76edbb",
-      "styleAttributes": {},
-      "fromNode": "5fafa1b9d3d61ab1",
-      "fromSide": "bottom",
-      "toNode": "4fc81aeec4649ae5",
-      "toSide": "top"
-    },
-    {
-      "id": "17ed6b5b28fc63f6",
-      "styleAttributes": {},
-      "fromNode": "32ec167b3c74a534",
-      "fromSide": "bottom",
-      "toNode": "5fafa1b9d3d61ab1",
-      "toSide": "right",
-      "color": "#77be50"
-    },
-    {
-      "id": "8d0c64a3462aaf3b",
-      "styleAttributes": {},
-      "fromNode": "125ba4090d718612",
-      "fromSide": "left",
-      "toNode": "4098cc6113622111",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "2e17f0d4878aa1fa",
-      "styleAttributes": {},
-      "fromNode": "8ce58b7dbc5d7c95",
-      "fromSide": "right",
-      "toNode": "8776d2ca18beedee",
-      "toSide": "bottom"
-    },
-    {
-      "id": "fe267644dc232ef3",
-      "styleAttributes": {},
-      "fromNode": "8776d2ca18beedee",
-      "fromSide": "top",
-      "toNode": "4098cc6113622111",
-      "toSide": "right"
-    },
-    {
-      "id": "2fe8962046fc0d28",
-      "styleAttributes": {},
-      "fromNode": "aee4de815a5039b8",
-      "fromSide": "right",
-      "toNode": "7eebbd559580f201",
-      "toSide": "right",
-      "color": "#4a2790"
-    },
-    {
-      "id": "47a8b05fef657c34",
-      "styleAttributes": {},
-      "fromNode": "01cd3d77641f3c67",
-      "fromSide": "right",
-      "toNode": "8776d2ca18beedee",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "095b20cd9d859c31",
-      "styleAttributes": {},
-      "fromNode": "0cd352e830a091f7",
-      "fromSide": "left",
-      "toNode": "b02f1d01673ea41a",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "1be96ddf85d6b3ea",
-      "styleAttributes": {},
-      "fromNode": "b02f1d01673ea41a",
-      "fromSide": "bottom",
-      "toNode": "4fc81aeec4649ae5",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "deef60154fd5c5b1",
-      "styleAttributes": {},
-      "fromNode": "b02f1d01673ea41a",
-      "fromSide": "bottom",
-      "toNode": "e0648d4278a27ead",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "9b660a164814a76c",
-      "styleAttributes": {},
-      "fromNode": "b02f1d01673ea41a",
-      "fromSide": "right",
-      "toNode": "5fafa1b9d3d61ab1",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "4491f653043bde41",
-      "styleAttributes": {},
-      "fromNode": "0b540a5f996680b1",
-      "fromSide": "right",
-      "toNode": "e0648d4278a27ead",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "daccb9b473216cec",
-      "styleAttributes": {},
-      "fromNode": "0b540a5f996680b1",
-      "fromSide": "right",
-      "toNode": "8ce58b7dbc5d7c95",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "cb63b385892b9616",
-      "styleAttributes": {},
-      "fromNode": "a491ae7c430f34df",
-      "fromSide": "right",
-      "toNode": "0b540a5f996680b1",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "03ea84bf628066f2",
-      "styleAttributes": {},
-      "fromNode": "32ec167b3c74a534",
-      "fromSide": "bottom",
-      "toNode": "4f3b9fb36638737e",
-      "toSide": "right",
-      "color": "#76be50"
-    },
-    {
-      "id": "0f5309d2deddc6e0",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "c21493ea5de185c8",
-      "fromSide": "top",
-      "toNode": "9b8ffe8e4b6dea4d",
-      "toSide": "right"
-    },
-    {
-      "id": "65e003038250119f",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "7d5e940d9111cff1",
-      "fromSide": "bottom",
-      "toNode": "c21493ea5de185c8",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "b1ddd4c3e709622a",
-      "styleAttributes": {},
-      "fromNode": "e14136e65934e642",
-      "fromSide": "right",
-      "toNode": "f6c3de92255a6f8a",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "0e579bf402e3d7cc",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "b5daa2728fa26098",
-      "fromSide": "right",
-      "toNode": "7d5e940d9111cff1",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "c7d33967bd8b0196",
-      "styleAttributes": {},
-      "fromNode": "5dbb96a8a52c36b5",
-      "fromSide": "right",
-      "toNode": "27c810e816422287",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "f043bfd0211ae121",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "b5daa2728fa26098",
-      "fromSide": "top",
-      "toNode": "1673a9562b654fec",
-      "toSide": "bottom",
-      "toEnd": "none"
-    },
-    {
-      "id": "297dd2380b7d18e5",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "7d5e940d9111cff1",
-      "fromSide": "bottom",
-      "toNode": "09aa9103650c16f5",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "d13d4eed6df85b35",
-      "styleAttributes": {},
-      "fromNode": "ec475b5660e989f7",
-      "fromSide": "left",
-      "toNode": "09aa9103650c16f5",
-      "toSide": "right",
-      "color": "#4726c0"
-    },
-    {
-      "id": "e0b0b735d20f8a2a",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "27c810e816422287",
-      "fromSide": "right",
-      "toNode": "7d5e940d9111cff1",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "01a607bff33462e9",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "27c810e816422287",
-      "fromSide": "bottom",
-      "toNode": "9b8ffe8e4b6dea4d",
-      "toSide": "top"
-    },
-    {
-      "id": "f0dedeb82fa4b91e",
-      "styleAttributes": {},
-      "fromNode": "dd1f27ee5669ee75",
-      "fromSide": "left",
-      "toNode": "1673a9562b654fec",
-      "toSide": "right",
-      "color": "#0c4655"
-    },
-    {
-      "id": "a1f7b7661959663b",
-      "styleAttributes": {},
-      "fromNode": "dc18b23da8dc610e",
-      "fromSide": "right",
-      "toNode": "c21493ea5de185c8",
-      "toSide": "left",
-      "color": "#76be50"
-    },
-    {
-      "id": "0b7a969aa71fa127",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
-      "fromNode": "dc18b23da8dc610e",
-      "fromSide": "right",
-      "toNode": "9b8ffe8e4b6dea4d",
-      "toSide": "left",
-      "color": "#77be50"
-    },
-    {
-      "id": "a9a8aad7c4da54e2",
-      "styleAttributes": {},
-      "fromNode": "5dbb96a8a52c36b5",
-      "fromSide": "right",
-      "toNode": "1673a9562b654fec",
-      "toSide": "left",
-      "color": "#134f1b"
-    },
-    {
-      "id": "fb716bc019a8cb00",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "f6c3de92255a6f8a",
-      "fromSide": "top",
-      "toNode": "9b8ffe8e4b6dea4d",
-      "toSide": "bottom",
-      "fromEnd": "arrow"
-    },
-    {
-      "id": "298c893c694985eb",
-      "styleAttributes": {},
-      "fromNode": "5dbb96a8a52c36b5",
-      "fromSide": "right",
-      "toNode": "e3e88a7bf327db55",
-      "toSide": "left",
-      "color": "#13501b"
-    },
-    {
-      "id": "81bc7fe2ffdde7c2",
-      "styleAttributes": {},
-      "fromNode": "ed0a3955a93dee85",
-      "fromSide": "left",
-      "toNode": "e3e88a7bf327db55",
-      "toSide": "right",
-      "color": "#1035a2"
-    },
-    {
-      "id": "6e9c1fc5202848b4",
-      "styleAttributes": {},
-      "fromNode": "2be4d3d6940dc299",
-      "fromSide": "bottom",
-      "toNode": "888b2f9a62db25ce",
-      "toSide": "top",
-      "color": "#1035a2"
-    },
-    {
-      "id": "a5c47bb75125eacb",
-      "styleAttributes": {},
-      "fromNode": "d92dc4a56c3df173",
-      "fromSide": "top",
-      "toNode": "888b2f9a62db25ce",
-      "toSide": "bottom",
-      "color": "#4726c0"
-    },
-    {
-      "id": "4c784816fd69b5e2",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "7d5e940d9111cff1",
-      "fromSide": "top",
-      "toNode": "e710505557172988",
-      "toSide": "bottom",
-      "toEnd": "none"
-    },
-    {
-      "id": "dcf22d658cb26cc9",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "dd1f27ee5669ee75",
-      "fromSide": "left",
-      "toNode": "e710505557172988",
-      "toSide": "top",
-      "color": "#0b4755"
-    },
-    {
-      "id": "53f39c3af4939fda",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "e3e88a7bf327db55",
-      "fromSide": "right",
-      "toNode": "e710505557172988",
-      "toSide": "left"
-    },
-    {
-      "id": "d6e97831ec3ef87f",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "7d5e940d9111cff1",
-      "fromSide": "bottom",
-      "toNode": "8e1880a7ba3b7333",
-      "toSide": "left"
-    },
-    {
-      "id": "056673fc0ef00357",
-      "styleAttributes": {},
-      "fromNode": "e14136e65934e642",
-      "fromSide": "right",
-      "toNode": "27c810e816422287",
-      "toSide": "left",
-      "color": "#24995a"
-    },
-    {
-      "id": "4049e6f04980aff9",
-      "styleAttributes": {
-        "path": null
-      },
-      "fromNode": "ed0a3955a93dee85",
-      "fromSide": "left",
-      "toNode": "e710505557172988",
-      "toSide": "right",
-      "color": "#0e35a2"
-    },
-    {
-      "id": "2447c09b5594d4ab",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "b5daa2728fa26098",
-      "fromSide": "bottom",
-      "toNode": "27c810e816422287",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "b50e1e718bc2ed81",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "1673a9562b654fec",
-      "fromSide": "bottom",
-      "toNode": "7d5e940d9111cff1",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "10ee5d17656b031d",
-      "styleAttributes": {},
-      "fromNode": "dd1f27ee5669ee75",
-      "fromSide": "left",
-      "toNode": "e3e88a7bf327db55",
-      "toSide": "right",
-      "color": "#0b4755"
-    },
-    {
-      "id": "cdeb8b8f9dc72823",
-      "styleAttributes": {},
-      "fromNode": "888b2f9a62db25ce",
-      "fromSide": "left",
-      "toNode": "8e1880a7ba3b7333",
-      "toSide": "top"
-    },
-    {
-      "id": "cc4b00934a5b0bcd",
-      "styleAttributes": {},
-      "fromNode": "ed0a3955a93dee85",
-      "fromSide": "top",
-      "toNode": "af71130e1c329003",
-      "toSide": "bottom",
-      "color": "#0d35a2"
-    },
-    {
-      "id": "afea1d3f96f81080",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "942ec0dafd12116a",
-      "fromSide": "bottom",
-      "toNode": "b5daa2728fa26098",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "5a65ffb659834c62",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "e3e88a7bf327db55",
-      "fromSide": "left",
-      "toNode": "942ec0dafd12116a",
-      "toSide": "top",
-      "toEnd": "none"
-    },
-    {
-      "id": "ce7aaaf88697a651",
-      "styleAttributes": {
-        "path": "dotted"
-      },
-      "fromNode": "942ec0dafd12116a",
-      "fromSide": "bottom",
-      "toNode": "27c810e816422287",
-      "toSide": "left",
-      "toEnd": "none"
-    },
-    {
-      "id": "7783d64e99995464",
-      "styleAttributes": {
-        "pathfindingMethod": null
-      },
-      "fromNode": "dd1f27ee5669ee75",
-      "fromSide": "bottom",
-      "toNode": "af71130e1c329003",
-      "toSide": "top",
-      "color": "#094855"
-    },
-    {
-      "id": "033fbfce73437779",
-      "styleAttributes": {},
-      "fromNode": "f6f14b12290fa419",
-      "fromSide": "bottom",
-      "toNode": "8e001edd1ddc6994",
-      "toSide": "top"
-    },
-    {
-      "id": "63b219fce8f4b1ad",
-      "styleAttributes": {},
-      "fromNode": "f6f14b12290fa419",
-      "fromSide": "right",
-      "toNode": "0fbe74f44b924a69",
-      "toSide": "top"
-    },
-    {
-      "id": "1b8cae5a0e9c0988",
-      "styleAttributes": {},
-      "fromNode": "92a4e746bebd8553",
-      "fromSide": "bottom",
-      "toNode": "ef4a6087c1b6ca1c",
-      "toSide": "top"
-    },
-    {
-      "id": "5edea0db52019647",
-      "styleAttributes": {},
-      "fromNode": "53e56666a9881f47",
-      "fromSide": "top",
-      "toNode": "0fbe74f44b924a69",
-      "toSide": "bottom"
-    },
-    {
-      "id": "107cd41c208a6c46",
-      "styleAttributes": {},
-      "fromNode": "255a0550797d729a",
-      "fromSide": "bottom",
-      "toNode": "92a4e746bebd8553",
-      "toSide": "top"
-    },
-    {
-      "id": "986d8896f491738c",
-      "styleAttributes": {},
-      "fromNode": "8e001edd1ddc6994",
-      "fromSide": "left",
-      "toNode": "e71039a65a97555b",
-      "toSide": "right"
-    },
-    {
-      "id": "ddd70d4f4bfa2d82",
-      "styleAttributes": {},
-      "fromNode": "e71039a65a97555b",
-      "fromSide": "bottom",
-      "toNode": "255a0550797d729a",
-      "toSide": "top"
     }
   ],
   "metadata": {}
