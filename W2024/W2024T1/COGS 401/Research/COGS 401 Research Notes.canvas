@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "af727b3351bfdc38",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 7580,
-      "width": 461,
-      "height": 1280,
-      "label": "Bibliography"
-    },
-    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 2220,
       "height": 1400,
       "label": "Artists"
+    },
+    {
+      "id": "af727b3351bfdc38",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 7580,
+      "width": 461,
+      "height": 1280,
+      "label": "Bibliography"
     },
     {
       "id": "5555230744ad4956",
@@ -1715,96 +1715,6 @@
       "height": 76
     },
     {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10998,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11272,
-      "width": 371,
-      "height": 50
-    },
-    {
-      "id": "531b643a7021403a",
-      "type": "file",
-      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "6c987bfd8709d556",
-      "type": "text",
-      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10580,
-      "width": 400,
-      "height": 180
-    },
-    {
-      "id": "25306e3d47f118b7",
-      "type": "text",
-      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10780,
-      "width": 300,
-      "height": 200
-    },
-    {
-      "id": "ab32ae7ba13fc89a",
-      "type": "text",
-      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
-      "styleAttributes": {},
-      "x": -3040,
-      "y": 10580,
-      "width": 400,
-      "height": 103
-    },
-    {
-      "id": "642c727676ae6e5a",
-      "type": "text",
-      "text": "#### Pierre Huyghe",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10500,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5da8e5b8ccd3d511",
-      "type": "text",
-      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
-      "styleAttributes": {},
-      "x": -3440,
-      "y": 10500,
-      "width": 360,
-      "height": 60
-    },
-    {
       "id": "b54d83fbbe35daf8",
       "type": "text",
       "text": "# Artists",
@@ -1823,186 +1733,6 @@
       "y": 11272,
       "width": 360,
       "height": 200
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 10998,
-      "width": 545,
-      "height": 121
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
-    },
-    {
-      "id": "d73b00984d778fb2",
-      "type": "text",
-      "text": "#### Nam June Paik",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11042,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c708b57f3b06953c",
-      "type": "file",
-      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d0913af6b42081d5",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
-      "styleAttributes": {},
-      "x": -3100,
-      "y": 11140,
-      "width": 340,
-      "height": 110
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "73cf9087e878334e",
-      "type": "text",
-      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10392,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "2f2221f4dc604816",
-      "type": "text",
-      "text": "**Anti-embodiment**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10300,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "465ab03efff76484",
-      "type": "text",
-      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10050,
-      "width": 460,
-      "height": 102
-    },
-    {
-      "id": "105584a9914dc91a",
-      "type": "text",
-      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10170,
-      "width": 460,
-      "height": 100
     },
     {
       "id": "2feb09f016ea44b4",
@@ -2025,16 +1755,6 @@
       "height": 148
     },
     {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 154,
-      "y": 10050,
-      "width": 460,
-      "height": 234
-    },
-    {
       "id": "67a5ba9a9e0c043e",
       "type": "text",
       "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
@@ -2043,46 +1763,6 @@
       "y": 11272,
       "width": 360,
       "height": 382
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
-    },
-    {
-      "id": "58fddf868d1d1d2f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 9120,
-      "width": 680,
-      "height": 1163
-    },
-    {
-      "id": "bc3497921fa47e25",
-      "type": "text",
-      "text": "##### Embodiment",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 8880,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "afd677edbb7c5193",
-      "type": "text",
-      "text": "You are a physical creature whose mind does not exist outside your physical body",
-      "styleAttributes": {},
-      "x": 2100,
-      "y": 8960,
-      "width": 340,
-      "height": 80
     },
     {
       "id": "68947a3c33b501cb",
@@ -2095,36 +1775,6 @@
       "height": 252
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 10052,
-      "width": 400,
-      "height": 160
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11346,
-      "width": 545,
-      "height": 320
-    },
-    {
       "id": "eb4767d328ff9dcb",
       "type": "text",
       "text": "**Importance of metaphor**",
@@ -2133,16 +1783,6 @@
       "y": 11612,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "948933e2de3cc000",
-      "type": "text",
-      "text": "*Compositions must not be in opposition to natural eye movement*",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 9818,
-      "width": 310,
-      "height": 50
     },
     {
       "id": "b931fc52732da8ef",
@@ -2163,16 +1803,6 @@
       "y": 7834,
       "width": 454,
       "height": 93
-    },
-    {
-      "id": "1cca6de671a27c4f",
-      "type": "text",
-      "text": "[[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": 2460,
-      "y": 8970,
-      "width": 440,
-      "height": 60
     },
     {
       "id": "516b1a2e46eca87e",
@@ -2230,16 +1860,6 @@
       "width": 380,
       "height": 67,
       "color": "#1035a2"
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "eb547d58ae7e1399",
@@ -2320,16 +1940,6 @@
       "y": 7527,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "fb8cc8af3d4ff242",
-      "type": "text",
-      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
-      "styleAttributes": {},
-      "x": 1240,
-      "y": 10050,
-      "width": 460,
-      "height": 76
     },
     {
       "id": "8bde710afcbf54a9",
@@ -2996,6 +2606,396 @@
       "styleAttributes": {},
       "x": 1240,
       "y": 9681,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "465ab03efff76484",
+      "type": "text",
+      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10050,
+      "width": 460,
+      "height": 102
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
+      "height": 234
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 9120,
+      "width": 680,
+      "height": 1163
+    },
+    {
+      "id": "bc3497921fa47e25",
+      "type": "text",
+      "text": "##### Embodiment",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 8880,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "afd677edbb7c5193",
+      "type": "text",
+      "text": "You are a physical creature whose mind does not exist outside your physical body",
+      "styleAttributes": {},
+      "x": 2100,
+      "y": 8960,
+      "width": 340,
+      "height": 80
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 10052,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "948933e2de3cc000",
+      "type": "text",
+      "text": "*Compositions must not be in opposition to natural eye movement*",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 9818,
+      "width": 310,
+      "height": 50
+    },
+    {
+      "id": "1cca6de671a27c4f",
+      "type": "text",
+      "text": "[[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": 2460,
+      "y": 8970,
+      "width": 440,
+      "height": 60
+    },
+    {
+      "id": "fb8cc8af3d4ff242",
+      "type": "text",
+      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 10050,
+      "width": 460,
+      "height": 76
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "105584a9914dc91a",
+      "type": "text",
+      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10170,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "73cf9087e878334e",
+      "type": "text",
+      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10392,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "2f2221f4dc604816",
+      "type": "text",
+      "text": "**Anti-embodiment**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10998,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 10998,
+      "width": 545,
+      "height": 121
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11272,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11346,
+      "width": 545,
+      "height": 320
+    },
+    {
+      "id": "ab32ae7ba13fc89a",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
+      "styleAttributes": {},
+      "x": -3040,
+      "y": 10580,
+      "width": 400,
+      "height": 103
+    },
+    {
+      "id": "d0913af6b42081d5",
+      "type": "text",
+      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 11140,
+      "width": 340,
+      "height": 110
+    },
+    {
+      "id": "6c987bfd8709d556",
+      "type": "text",
+      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10580,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "5da8e5b8ccd3d511",
+      "type": "text",
+      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
+      "styleAttributes": {},
+      "x": -3440,
+      "y": 10500,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "531b643a7021403a",
+      "type": "file",
+      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10580,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "642c727676ae6e5a",
+      "type": "text",
+      "text": "#### Pierre Huyghe",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d73b00984d778fb2",
+      "type": "text",
+      "text": "#### Nam June Paik",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11042,
       "width": 260,
       "height": 60
     }
