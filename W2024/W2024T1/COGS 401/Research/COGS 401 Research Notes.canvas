@@ -2015,16 +2015,6 @@
       "height": 100
     },
     {
-      "id": "2feb09f016ea44b4",
-      "type": "text",
-      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 11293,
-      "width": 420,
-      "height": 361
-    },
-    {
       "id": "434387f956274fba",
       "type": "text",
       "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
@@ -2998,6 +2988,16 @@
       "y": 12871,
       "width": 440,
       "height": 174
+    },
+    {
+      "id": "2feb09f016ea44b4",
+      "type": "text",
+      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 11320,
+      "width": 420,
+      "height": 361
     }
   ],
   "edges": [
