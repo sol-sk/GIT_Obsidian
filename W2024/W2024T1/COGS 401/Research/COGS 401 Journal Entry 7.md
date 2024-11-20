@@ -1,3 +1,6 @@
+Miscellaneous notes on relevant 
+The Macy Conferences and Abstraction 
+
 *How We Became Posthuman* N. Katherine Hayles
 
 Hayles' book includes a chapter on the Macy Conferences, a cornerstone in the development of ANNs and cognitive science as a whole. Hayles point of interest in this book is the embodiment, or lack thereof, of information and cognitive systems–in this chapter, she provides an overview of the arguments that led to the triumph of information over materiality in research. The three arguments, she states, were regarding "the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows 'real.'" (p. 50)
@@ -10,7 +13,17 @@ There is much value in understanding the abstractions necessary to conceptualize
 
 "The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent ... the tendency was to use the model metaphorically to forge connections between relatively simple neural circuits and the complexities of embodied experience. In the process, the disembodied logical form of the circuit was rhetorically transformed from being an effect of the model to a cause of the model's efficacy. This move, familiar to us as the Platonic backhand, made embodied reality into a blurred and messy instantiation of the clean abstractions of logical forms."
 
+Creating Interactive Art
 
+“Strategies of Interactive Art” (Kluszczynski 2010) proposes eight ways that an artwork can produce “an area of activity for the receivers, whose actions bring to life an artwork-event”–the strategies being how those “fields of activity” are organized. “Instrument” describes the current state of my project, something which can be used to create audiovisuals. “Rhizome” resonated with my goals for this installation: an interactivity which is unpredictable and multidirectional. I think that Rhizome encourages continuous movement, as there is a level of predictability–that it will always respond in some way–as well as unpredictability–the way that it will respond exactly. 
+
+Rhizome is exploratory and transforms continuously. I want the activity-space to be experimental: how can the participant interact with the instrument to generate new visuals? How do those interactions evolve?
+
+Early Digital Art
+
+One of the most influential members of Fluxus and “Father of Video Art,” Nam June Paik seemed like the ideal subject for my research. From “The Essential Works of Nam June Paik” in Art Asia Pacific, I found that Paik also took on the question of machine consciousness and how one can “humanize technology.” Many of his TV works have sculptural components, either in the composition of the TV sets (like Electronic Superhighway) or as a separate form adjacent to the TV (like TV Buddha). In Paik’s era, digital still had physicality; TVs, representing the digital world and containing it, asserted their weighty presence in space. Now, the digital is far less physical: harddrives shrink and the cloud grows. 
+
+Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)
 
 
 > Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows "real."
