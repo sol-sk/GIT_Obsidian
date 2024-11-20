@@ -132,36 +132,6 @@
       "height": 559
     },
     {
-      "id": "80244124661411d9",
-      "type": "text",
-      "text": "![[COGS 401 G1D1 Laura Bickel]]",
-      "styleAttributes": {},
-      "x": -620,
-      "y": 858,
-      "width": 720,
-      "height": 219
-    },
-    {
-      "id": "d41a62fdb0297458",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
-      "styleAttributes": {},
-      "x": 843,
-      "y": 858,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "652f93cf2e345f13",
-      "type": "text",
-      "text": "Sensorimotor timing;\nDopamine role in motor function (as seen in Parkinsons)",
-      "styleAttributes": {},
-      "x": -620,
-      "y": 1098,
-      "width": 320,
-      "height": 50
-    },
-    {
       "id": "0b18e559449e804a",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/G2 Annotated Reading - Lloy et al.md",
@@ -192,16 +162,6 @@
       "height": 50
     },
     {
-      "id": "d8d9497987ff5aeb",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 620,
-      "y": 1265,
-      "width": 400,
-      "height": 74
-    },
-    {
       "id": "51c7b4ae738617cf",
       "type": "text",
       "text": "**Question:** \nGiven that it's documented that tonal language speakers have greater prevalence of absolute/perfect pitch, I'm curious if there's been any research exploring the association between non-linguistic auditory processing and the kinds of tasks participants were asked to do in this paper. Do you think that generalized auditory processing plays as much of a role as language-specific processing in either learning novel words or within-speaker identification, and if so would you think it would apply more to one of those than the other?",
@@ -222,22 +182,92 @@
       "height": 60
     },
     {
-      "id": "2f40ffd0e2c04800",
-      "type": "text",
-      "text": "### Reading: Aguirre 2003",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 2900,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "17c5afe34618981e",
       "type": "text",
       "text": "#### Guest lecture",
       "styleAttributes": {},
       "x": -720,
       "y": 1680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a94f04c50366cf52",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": 172,
+      "y": 2063,
+      "width": 400,
+      "height": 570
+    },
+    {
+      "id": "4904220537c33269",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+      "styleAttributes": {},
+      "x": 696,
+      "y": 1460,
+      "width": 570,
+      "height": 400
+    },
+    {
+      "id": "c717ba3f68b089d3",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
+      "styleAttributes": {},
+      "x": 701,
+      "y": 2348,
+      "width": 570,
+      "height": 315
+    },
+    {
+      "id": "80244124661411d9",
+      "type": "text",
+      "text": "![[COGS 401 G1D1 Laura Bickel]]",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 858,
+      "width": 720,
+      "height": 219
+    },
+    {
+      "id": "d41a62fdb0297458",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
+      "styleAttributes": {},
+      "x": 843,
+      "y": 858,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "652f93cf2e345f13",
+      "type": "text",
+      "text": "Sensorimotor timing;\nDopamine role in motor function (as seen in Parkinsons)",
+      "styleAttributes": {},
+      "x": -620,
+      "y": 1098,
+      "width": 320,
+      "height": 50
+    },
+    {
+      "id": "d8d9497987ff5aeb",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 1265,
+      "width": 400,
+      "height": 74
+    },
+    {
+      "id": "2f40ffd0e2c04800",
+      "type": "text",
+      "text": "### Reading: Aguirre 2003",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 2900,
       "width": 260,
       "height": 60
     },
@@ -262,16 +292,6 @@
       "height": 60
     },
     {
-      "id": "a94f04c50366cf52",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": 172,
-      "y": 2063,
-      "width": 400,
-      "height": 570
-    },
-    {
       "id": "53f1660ae026f56d",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
@@ -282,16 +302,6 @@
       "height": 50
     },
     {
-      "id": "4904220537c33269",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 696,
-      "y": 1460,
-      "width": 570,
-      "height": 400
-    },
-    {
       "id": "00fb645e2de2ee83",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
@@ -300,16 +310,6 @@
       "y": 2963,
       "width": 387,
       "height": 77
-    },
-    {
-      "id": "c717ba3f68b089d3",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
-      "styleAttributes": {},
-      "x": 701,
-      "y": 2348,
-      "width": 570,
-      "height": 315
     },
     {
       "id": "34e0d02305004226",
@@ -445,46 +445,6 @@
       "height": 60
     },
     {
-      "id": "25eb8737a92e6537",
-      "type": "text",
-      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 4886,
-      "width": 480,
-      "height": 160
-    },
-    {
-      "id": "312e4292dbabc6f9",
-      "type": "text",
-      "text": "#### Why is it doing it:",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 5077,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fa72df748806a5e8",
-      "type": "text",
-      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 5197,
-      "width": 480,
-      "height": 234
-    },
-    {
-      "id": "c87aa1b2d0df5d9b",
-      "type": "text",
-      "text": "#### How does it do this: ",
-      "styleAttributes": {},
-      "x": -1620,
-      "y": 4971,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "d844a2c5fe7ff9b0",
       "type": "text",
       "text": "- It must have some kind of striking moment\n- It must be accessible\n",
@@ -493,16 +453,6 @@
       "y": 4840,
       "width": 340,
       "height": 81
-    },
-    {
-      "id": "41ab19e3b44ec44e",
-      "type": "text",
-      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": 5077,
-      "width": 440,
-      "height": 163
     },
     {
       "id": "30dcc1a8cf739e86",
@@ -573,6 +523,56 @@
       "y": 3710,
       "width": 560,
       "height": 58
+    },
+    {
+      "id": "25eb8737a92e6537",
+      "type": "text",
+      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 4886,
+      "width": 480,
+      "height": 160
+    },
+    {
+      "id": "312e4292dbabc6f9",
+      "type": "text",
+      "text": "#### Why is it doing it:",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 5077,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fa72df748806a5e8",
+      "type": "text",
+      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 5197,
+      "width": 480,
+      "height": 234
+    },
+    {
+      "id": "c87aa1b2d0df5d9b",
+      "type": "text",
+      "text": "#### How does it do this: ",
+      "styleAttributes": {},
+      "x": -1620,
+      "y": 4971,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "41ab19e3b44ec44e",
+      "type": "text",
+      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
+      "styleAttributes": {},
+      "x": -1580,
+      "y": 5077,
+      "width": 440,
+      "height": 163
     }
   ],
   "edges": [
