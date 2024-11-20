@@ -1,4 +1,3 @@
-Miscellaneous notes on relevant 
 The Macy Conferences and Abstraction 
 
 *How We Became Posthuman* N. Katherine Hayles
@@ -21,7 +20,7 @@ Rhizome is exploratory and transforms continuously. I want the activity-space to
 
 Early Digital Art
 
-One of the most influential members of Fluxus and “Father of Video Art,” Nam June Paik seemed like the ideal subject for my research. From “The Essential Works of Nam June Paik” in Art Asia Pacific, I found that Paik also took on the question of machine consciousness and how one can “humanize technology.” Many of his TV works have sculptural components, either in the composition of the TV sets (like Electronic Superhighway) or as a separate form adjacent to the TV (like TV Buddha). In Paik’s era, digital still had physicality; TVs, representing the digital world and containing it, asserted their weighty presence in space. Now, the digital is far less physical: harddrives shrink and the cloud grows. 
+Nam June Paik one of the most influential members of the Fluxus movement and has been crowned “Father of Video Art.” From “The Essential Works of Nam June Paik” in Art Asia Pacific, I found that Paik also took on the question of machine consciousness and how one can “humanize technology.” Many of his TV works have sculptural components, either in the composition of the TV sets (like Electronic Superhighway) or as a separate form adjacent to the TV (like TV Buddha). In Paik’s era, digital still had physicality; TVs, representing the digital world and containing it, asserted their weighty presence in space. Now, the digital is far less physical: harddrives shrink and the cloud grows. 
 
 Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)
 
