@@ -1902,16 +1902,6 @@
       "height": 60
     },
     {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12389,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "7281d1bff2eb2aa9",
       "type": "file",
       "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
@@ -2174,16 +2164,6 @@
       "width": 389,
       "height": 102,
       "color": "#046214"
-    },
-    {
-      "id": "39fedd8c9d541225",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12871,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "f2a6cc2a57dcdf1b",
@@ -2950,26 +2930,6 @@
       "height": 400
     },
     {
-      "id": "c708b57f3b06953c",
-      "type": "file",
-      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "642c727676ae6e5a",
       "type": "text",
       "text": "#### Pierre Huyghe",
@@ -2986,6 +2946,26 @@
       "styleAttributes": {},
       "x": -3880,
       "y": 11042,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
       "width": 260,
       "height": 60
     },
@@ -3018,6 +2998,45 @@
       "y": 11980,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12389,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12871,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11900,
+      "width": 570,
+      "height": 240
+    },
+    {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "x": -2740,
+      "y": 11934,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
@@ -3717,6 +3736,14 @@
       "fromNode": "892e8f07eb18c822",
       "fromSide": "top",
       "toNode": "12453a54f25d9336",
+      "toSide": "left"
+    },
+    {
+      "id": "3014b28831aff78a",
+      "styleAttributes": {},
+      "fromNode": "9d6d3baf60e72eb2",
+      "fromSide": "right",
+      "toNode": "dd6244c895c66528",
       "toSide": "left"
     },
     {
