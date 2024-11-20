@@ -6,6 +6,8 @@ One crucial component of this chapter is Hayles' description of how information 
 
 Particularly in the context of performance, the description of MacKay's ultimately-beaten quantification of information as a representational action jumped out at me. 
 
+There is much value in understanding the abstractions necessary to conceptualize and realize ANNs, as we consider abstracting them further to create productive, generative experiences 
+
 
 > Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows "real."
 > (50)
