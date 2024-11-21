@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "af727b3351bfdc38",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 7580,
-      "width": 461,
-      "height": 1280,
-      "label": "Bibliography"
-    },
-    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 2220,
       "height": 2598,
       "label": "Artists"
+    },
+    {
+      "id": "af727b3351bfdc38",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 7580,
+      "width": 461,
+      "height": 1280,
+      "label": "Bibliography"
     },
     {
       "id": "5555230744ad4956",
@@ -62,16 +62,6 @@
       "width": 1374,
       "height": 1407,
       "label": "Mind Map Final Version"
-    },
-    {
-      "id": "12453a54f25d9336",
-      "type": "text",
-      "text": "**Gestalt**",
-      "styleAttributes": {},
-      "x": 1240,
-      "y": 9681,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "afd677edbb7c5193",
@@ -114,36 +104,6 @@
       "height": 60
     },
     {
-      "id": "bfd9e143fed7e143",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7989,
-      "width": 107,
-      "height": 60
-    },
-    {
-      "id": "5d5bdea9ebfb14ff",
-      "type": "text",
-      "text": "**Effect of other-mind on perceiver**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7850,
-      "width": 307,
-      "height": 60
-    },
-    {
-      "id": "72d5381d9134437a",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 1154,
-      "y": 7711,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "d8c98b499d78aa80",
       "type": "text",
       "text": "- **I see in you the ways that I want to be**\n- **You are human**",
@@ -164,66 +124,6 @@
       "height": 84
     },
     {
-      "id": "a29b749e962b11e6",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": -338,
-      "y": 7527,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8bde710afcbf54a9",
-      "type": "text",
-      "text": "Less deserving of rights and protections (less moral standing)",
-      "styleAttributes": {},
-      "x": 69,
-      "y": 7312,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "b855b9b56fff5236",
-      "type": "text",
-      "text": "Attributing less agency",
-      "styleAttributes": {},
-      "x": -278,
-      "y": 7320,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2c85631f2421e328",
-      "type": "text",
-      "text": "Seen as cold, uncivil, animalistic, machine-like",
-      "styleAttributes": {},
-      "x": 69,
-      "y": 7187,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "269af91c7a21c958",
-      "type": "text",
-      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7187,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "954a8eefab8424c1",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": -278,
-      "y": 7187,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "35173d32e20a9ebf",
       "type": "file",
       "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
@@ -232,46 +132,6 @@
       "y": 6709,
       "width": 640,
       "height": 377
-    },
-    {
-      "id": "b2c56e1457460eed",
-      "type": "text",
-      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
-      "styleAttributes": {},
-      "x": -396,
-      "y": 6707,
-      "width": 348,
-      "height": 304
-    },
-    {
-      "id": "e71f01d6ff0d8aa5",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": -825,
-      "y": 6707,
-      "width": 389,
-      "height": 102
-    },
-    {
-      "id": "3724c201a0b6bd19",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": -470,
-      "y": 7408,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a5cc3ffa4a81613e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 6707,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "222b1e880c80dc09",
@@ -1061,16 +921,6 @@
       "height": 60
     },
     {
-      "id": "ceb11b1ee2f84f9a",
-      "type": "file",
-      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11850,
-      "width": 500,
-      "height": 400
-    },
-    {
       "id": "c8a5ce2c4deb92d6",
       "type": "text",
       "text": "#### Refik Anadol",
@@ -1099,16 +949,6 @@
       "y": 11890,
       "width": 570,
       "height": 240
-    },
-    {
-      "id": "dca9020443ef373b",
-      "type": "text",
-      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11360,
-      "width": 420,
-      "height": 408
     },
     {
       "id": "4db6d54886bc0e52",
@@ -1213,16 +1053,6 @@
       "height": 400
     },
     {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
-    },
-    {
       "id": "6c987bfd8709d556",
       "type": "text",
       "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
@@ -1273,276 +1103,6 @@
       "height": 103
     },
     {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 11920,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12389,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10998,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "67a5ba9a9e0c043e",
-      "type": "text",
-      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 150,
-      "y": 11272,
-      "width": 360,
-      "height": 382
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 10998,
-      "width": 545,
-      "height": 121
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11272,
-      "width": 371,
-      "height": 50
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11346,
-      "width": 545,
-      "height": 320
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12389,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "517aac4c23c9104e",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": -230,
-      "y": 11272,
-      "width": 360,
-      "height": 200
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": -180,
-      "y": 11612,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "68947a3c33b501cb",
-      "type": "text",
-      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 11272,
-      "width": 360,
-      "height": 252
-    },
-    {
-      "id": "465ab03efff76484",
-      "type": "text",
-      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10050,
-      "width": 460,
-      "height": 102
-    },
-    {
-      "id": "105584a9914dc91a",
-      "type": "text",
-      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10170,
-      "width": 460,
-      "height": 100
-    },
-    {
-      "id": "73cf9087e878334e",
-      "type": "text",
-      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10392,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "2f2221f4dc604816",
-      "type": "text",
-      "text": "**Anti-embodiment**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10300,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2feb09f016ea44b4",
-      "type": "text",
-      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 11293,
-      "width": 420,
-      "height": 361
-    },
-    {
-      "id": "434387f956274fba",
-      "type": "text",
-      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 1400,
-      "y": 11272,
-      "width": 420,
-      "height": 148
-    },
-    {
-      "id": "fb8cc8af3d4ff242",
-      "type": "text",
-      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
-      "styleAttributes": {},
-      "x": 1240,
-      "y": 10050,
-      "width": 460,
-      "height": 76
-    },
-    {
       "id": "58fddf868d1d1d2f",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 6.md",
@@ -1571,46 +1131,6 @@
       "y": 10440,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "f2a6cc2a57dcdf1b",
-      "type": "text",
-      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12871,
-      "width": 440,
-      "height": 174
-    },
-    {
-      "id": "39fedd8c9d541225",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12871,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "1b70e8c4303d0900",
-      "type": "text",
-      "text": "# Bibliography",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 7600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "0f58d66fd6ddcd3e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7187,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "c5e222d5f81351a1",
@@ -2122,6 +1642,486 @@
       "y": 7964,
       "width": 454,
       "height": 109
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "465ab03efff76484",
+      "type": "text",
+      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10050,
+      "width": 460,
+      "height": 102
+    },
+    {
+      "id": "105584a9914dc91a",
+      "type": "text",
+      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10170,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "1b70e8c4303d0900",
+      "type": "text",
+      "text": "# Bibliography",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 7600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a29b749e962b11e6",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": -338,
+      "y": 7527,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0f58d66fd6ddcd3e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7187,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "2f2221f4dc604816",
+      "type": "text",
+      "text": "**Anti-embodiment**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8bde710afcbf54a9",
+      "type": "text",
+      "text": "Less deserving of rights and protections (less moral standing)",
+      "styleAttributes": {},
+      "x": 69,
+      "y": 7312,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "b855b9b56fff5236",
+      "type": "text",
+      "text": "Attributing less agency",
+      "styleAttributes": {},
+      "x": -278,
+      "y": 7320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3724c201a0b6bd19",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": -470,
+      "y": 7408,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "73cf9087e878334e",
+      "type": "text",
+      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10392,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "269af91c7a21c958",
+      "type": "text",
+      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7187,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "bfd9e143fed7e143",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7989,
+      "width": 107,
+      "height": 60
+    },
+    {
+      "id": "5d5bdea9ebfb14ff",
+      "type": "text",
+      "text": "**Effect of other-mind on perceiver**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7850,
+      "width": 307,
+      "height": 60
+    },
+    {
+      "id": "72d5381d9134437a",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 1154,
+      "y": 7711,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2c85631f2421e328",
+      "type": "text",
+      "text": "Seen as cold, uncivil, animalistic, machine-like",
+      "styleAttributes": {},
+      "x": 69,
+      "y": 7187,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "954a8eefab8424c1",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": -278,
+      "y": 7187,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b2c56e1457460eed",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": -396,
+      "y": 6707,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "e71f01d6ff0d8aa5",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": -825,
+      "y": 6707,
+      "width": 389,
+      "height": 102
+    },
+    {
+      "id": "a5cc3ffa4a81613e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 6707,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11850,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "dca9020443ef373b",
+      "type": "text",
+      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11360,
+      "width": 420,
+      "height": 408
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11346,
+      "width": 545,
+      "height": 320
+    },
+    {
+      "id": "517aac4c23c9104e",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 11272,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "68947a3c33b501cb",
+      "type": "text",
+      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 11272,
+      "width": 360,
+      "height": 252
+    },
+    {
+      "id": "12453a54f25d9336",
+      "type": "text",
+      "text": "**Gestalt**",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 9681,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "434387f956274fba",
+      "type": "text",
+      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 11272,
+      "width": 420,
+      "height": 148
+    },
+    {
+      "id": "fb8cc8af3d4ff242",
+      "type": "text",
+      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 10050,
+      "width": 460,
+      "height": 76
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 11920,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12389,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 150,
+      "y": 11272,
+      "width": 360,
+      "height": 382
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 10998,
+      "width": 545,
+      "height": 121
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11272,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": -180,
+      "y": 11612,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2feb09f016ea44b4",
+      "type": "text",
+      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 11293,
+      "width": 420,
+      "height": 361
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10998,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12389,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "f2a6cc2a57dcdf1b",
+      "type": "text",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12871,
+      "width": 440,
+      "height": 174
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12871,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
