@@ -2115,10 +2115,10 @@
     {
       "id": "2cad693b8a9567f4",
       "type": "text",
-      "text": "More memorable? \nMore personal experience?",
+      "text": "- More memorable? \n- More personal experience?",
       "styleAttributes": {},
-      "x": -5100,
-      "y": 11000,
+      "x": -5010,
+      "y": 11072,
       "width": 260,
       "height": 60
     }
