@@ -2026,7 +2026,9 @@
       "id": "8fd5523b2c14cf00",
       "type": "text",
       "text": "### Research Question",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "textAlign": "center"
+      },
       "x": -5100,
       "y": 10940,
       "width": 260,
@@ -2051,6 +2053,28 @@
       "y": 11000,
       "width": 480,
       "height": 136
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11365,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "*Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n*Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n  \n\n\n\n  \n\n  \n\n\n\n  \n\nEffects of visual metaphor \n\nQualitative experience\n\nGenerative\n\n  \n\n  \n  \n\nContribution to cognitive science\n\n  \n\nJustification",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11480,
+      "width": 440,
+      "height": 980
     }
   ],
   "edges": [
