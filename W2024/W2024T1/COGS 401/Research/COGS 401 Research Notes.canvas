@@ -1957,6 +1957,7 @@
       "id": "17df8e08f4019537",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 7.md",
+      "styleAttributes": {},
       "x": 2080,
       "y": 10380,
       "width": 680,
@@ -1973,6 +1974,28 @@
       "height": 60
     },
     {
+      "id": "e9062ff41e17d378",
+      "type": "text",
+      "text": "### Installation",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 12180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "77eb273e3c850bce",
+      "type": "text",
+      "text": "clarify \"beta-testing\"",
+      "styleAttributes": {},
+      "x": -5100,
+      "y": 12280,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "6f79bccfb22b2286",
       "type": "text",
       "text": "### Paper",
@@ -1983,26 +2006,6 @@
       "y": 11360,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "68221bd9306bdeab",
-      "type": "text",
-      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11440,
-      "width": 440,
-      "height": 673
-    },
-    {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 11660,
-      "width": 360,
-      "height": 215
     },
     {
       "id": "5f1ec2e06a9b0249",
@@ -2061,18 +2064,6 @@
       "height": 215
     },
     {
-      "id": "e9062ff41e17d378",
-      "type": "text",
-      "text": "### Installation",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 12180,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "96031e5e20ab5e53",
       "type": "text",
       "text": "More emphasis on explaining the methods for the ANN",
@@ -2103,16 +2094,6 @@
       "height": 120
     },
     {
-      "id": "77eb273e3c850bce",
-      "type": "text",
-      "text": "clarify \"beta-testing\"",
-      "styleAttributes": {},
-      "x": -5100,
-      "y": 12280,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "2cad693b8a9567f4",
       "type": "text",
       "text": "- More memorable? \n- More personal experience?",
@@ -2121,6 +2102,26 @@
       "y": 11072,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11440,
+      "width": 440,
+      "height": 673
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 11660,
+      "width": 360,
+      "height": 215
     }
   ],
   "edges": [
