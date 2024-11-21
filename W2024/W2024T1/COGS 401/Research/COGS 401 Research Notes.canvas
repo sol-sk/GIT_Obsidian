@@ -1978,7 +1978,7 @@
       "text": "For paper: \n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n8:34 PM Yesterday\n\nMethodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:50 PM Today\n\nfor 402, paper is quite focused on methods and \"how to\"\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:43 PM Today\n\nacknowledge where things are both methods and outcome",
       "styleAttributes": {},
       "x": -4640,
-      "y": 11520,
+      "y": 11395,
       "width": 480,
       "height": 511
     },
@@ -1998,7 +1998,7 @@
       "text": "![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nSpecify: does x lead to y (expected or anticipated) feedback\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nWhat comments would I anticipate/want to hear\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n1:00 PM Today\n\n(& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
       "styleAttributes": {},
       "x": -4640,
-      "y": 11005,
+      "y": 10880,
       "width": 480,
       "height": 490
     },
@@ -2007,10 +2007,10 @@
       "type": "text",
       "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
       "styleAttributes": {},
-      "x": -4420,
+      "x": -4640,
       "y": 12060,
-      "width": 260,
-      "height": 100
+      "width": 480,
+      "height": 80
     },
     {
       "id": "657b8e3fe46cecee",
@@ -2018,9 +2018,19 @@
       "text": "emphasizing that i'm not testing but creating something\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\nfocus on outcome\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\n(for presentation)",
       "styleAttributes": {},
       "x": -4640,
-      "y": 12190,
+      "y": 12180,
       "width": 480,
       "height": 361
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "more emphasis on explaining the methods specifically for the ANN",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 11950,
+      "width": 480,
+      "height": 70
     }
   ],
   "edges": [
