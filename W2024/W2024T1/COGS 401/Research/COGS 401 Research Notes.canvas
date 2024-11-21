@@ -2111,6 +2111,16 @@
       "y": 12280,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "More memorable? \nMore personal experience?",
+      "styleAttributes": {},
+      "x": -5100,
+      "y": 11000,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
