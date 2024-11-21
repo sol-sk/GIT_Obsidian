@@ -1973,16 +1973,6 @@
       "height": 60
     },
     {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 11395,
-      "width": 480,
-      "height": 160
-    },
-    {
       "id": "77eb273e3c850bce",
       "type": "text",
       "text": "clarify \"beta-testing\"",
@@ -2062,19 +2052,41 @@
         "textAlign": "center"
       },
       "x": -5100,
-      "y": 11365,
+      "y": 11360,
       "width": 260,
       "height": 60
     },
     {
       "id": "68221bd9306bdeab",
       "type": "text",
-      "text": "*Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n*Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n  \n\n\n\n  \n\n  \n\n\n\n  \n\nEffects of visual metaphor \n\nQualitative experience\n\nGenerative\n\n  \n\n  \n  \n\nContribution to cognitive science\n\n  \n\nJustification",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
       "styleAttributes": {},
       "x": -5190,
-      "y": 11480,
+      "y": 11440,
       "width": 440,
-      "height": 980
+      "height": 673
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 11660,
+      "width": 480,
+      "height": 160
+    },
+    {
+      "id": "5f1ec2e06a9b0249",
+      "type": "text",
+      "text": "### Outcome",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11280,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -2830,6 +2842,14 @@
       "fromNode": "fc76e0c145880469",
       "fromSide": "left",
       "toNode": "498244fd7ecd9db5",
+      "toSide": "right"
+    },
+    {
+      "id": "e1a23e4a131def63",
+      "styleAttributes": {},
+      "fromNode": "eb8295357343624f",
+      "fromSide": "left",
+      "toNode": "68221bd9306bdeab",
       "toSide": "right"
     }
   ],
