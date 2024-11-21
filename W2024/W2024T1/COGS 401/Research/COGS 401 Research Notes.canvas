@@ -1975,12 +1975,12 @@
     {
       "id": "eb8295357343624f",
       "type": "text",
-      "text": "For paper: \n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n8:34 PM Yesterday\n\nMethodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:50 PM Today\n\nfor 402, paper is quite focused on methods and \"how to\"\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:43 PM Today\n\nacknowledge where things are both methods and outcome",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
       "styleAttributes": {},
       "x": -4640,
       "y": 11395,
       "width": 480,
-      "height": 511
+      "height": 160
     },
     {
       "id": "77eb273e3c850bce",
@@ -1991,16 +1991,6 @@
       "y": 10840,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "fc76e0c145880469",
-      "type": "text",
-      "text": "![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nSpecify: does x lead to y (expected or anticipated) feedback\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nWhat comments would I anticipate/want to hear\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n1:00 PM Today\n\n(& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 10880,
-      "width": 480,
-      "height": 490
     },
     {
       "id": "e8fec6ae8b532cb9",
@@ -2031,6 +2021,36 @@
       "y": 11950,
       "width": 480,
       "height": 70
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {},
+      "x": -5100,
+      "y": 10940,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11020,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "fc76e0c145880469",
+      "type": "text",
+      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 11000,
+      "width": 480,
+      "height": 136
     }
   ],
   "edges": [
@@ -2778,6 +2798,14 @@
       "fromNode": "9666e22619b61c1a",
       "fromSide": "left",
       "toNode": "17df8e08f4019537",
+      "toSide": "right"
+    },
+    {
+      "id": "550fbdc949b74e4f",
+      "styleAttributes": {},
+      "fromNode": "fc76e0c145880469",
+      "fromSide": "left",
+      "toNode": "498244fd7ecd9db5",
       "toSide": "right"
     }
   ],
