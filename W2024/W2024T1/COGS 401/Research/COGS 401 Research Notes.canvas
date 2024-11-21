@@ -1973,78 +1973,6 @@
       "height": 60
     },
     {
-      "id": "77eb273e3c850bce",
-      "type": "text",
-      "text": "clarify \"beta-testing\"",
-      "styleAttributes": {},
-      "x": -4400,
-      "y": 10840,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 12060,
-      "width": 480,
-      "height": 80
-    },
-    {
-      "id": "657b8e3fe46cecee",
-      "type": "text",
-      "text": "emphasizing that i'm not testing but creating something\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\nfocus on outcome\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\n(for presentation)",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 12180,
-      "width": 480,
-      "height": 361
-    },
-    {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "more emphasis on explaining the methods specifically for the ANN",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 11950,
-      "width": 480,
-      "height": 70
-    },
-    {
-      "id": "8fd5523b2c14cf00",
-      "type": "text",
-      "text": "### Research Question",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 10940,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "498244fd7ecd9db5",
-      "type": "text",
-      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11020,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "fc76e0c145880469",
-      "type": "text",
-      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 11000,
-      "width": 480,
-      "height": 136
-    },
-    {
       "id": "6f79bccfb22b2286",
       "type": "text",
       "text": "### Paper",
@@ -2087,6 +2015,102 @@
       "y": 11280,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5650,
+      "y": 11400,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "5355ff9092c2820d",
+      "type": "text",
+      "text": "### Methodology",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5650,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 10830,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 10750,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fc76e0c145880469",
+      "type": "text",
+      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10810,
+      "width": 480,
+      "height": 136
+    },
+    {
+      "id": "77eb273e3c850bce",
+      "type": "text",
+      "text": "clarify \"beta-testing\"",
+      "styleAttributes": {},
+      "x": -4400,
+      "y": 10650,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e9062ff41e17d378",
+      "type": "text",
+      "text": "### Installation",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 12180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "657b8e3fe46cecee",
+      "type": "text",
+      "text": "emphasizing that i'm not testing but creating something\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\nfocus on outcome\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\n(for presentation)",
+      "styleAttributes": {},
+      "x": -5650,
+      "y": 11520,
+      "width": 330,
+      "height": 361
     }
   ],
   "edges": [
