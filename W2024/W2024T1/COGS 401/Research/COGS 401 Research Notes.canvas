@@ -1971,6 +1971,16 @@
       "y": 10440,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "fc76e0c145880469",
+      "type": "text",
+      "text": "![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nSpecify: does x lead to y (expected or anticipated) feedback\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:59 PM Today\n\nWhat comments would I anticipate/want to hear\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n1:00 PM Today\n\n(& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10920,
+      "width": 480,
+      "height": 540
     }
   ],
   "edges": [
