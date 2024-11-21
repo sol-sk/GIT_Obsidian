@@ -2017,16 +2017,6 @@
       "height": 60
     },
     {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5650,
-      "y": 11400,
-      "width": 330,
-      "height": 80
-    },
-    {
       "id": "5355ff9092c2820d",
       "type": "text",
       "text": "### Methodology",
@@ -2037,16 +2027,6 @@
       "y": 11072,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "More emphasis on explaining the methods for the ANN",
-      "styleAttributes": {},
-      "x": -5650,
-      "y": 11160,
-      "width": 330,
-      "height": 80
     },
     {
       "id": "498244fd7ecd9db5",
@@ -2081,16 +2061,6 @@
       "height": 136
     },
     {
-      "id": "77eb273e3c850bce",
-      "type": "text",
-      "text": "clarify \"beta-testing\"",
-      "styleAttributes": {},
-      "x": -4400,
-      "y": 10650,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "e9062ff41e17d378",
       "type": "text",
       "text": "### Installation",
@@ -2103,14 +2073,44 @@
       "height": 60
     },
     {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
       "id": "657b8e3fe46cecee",
       "type": "text",
-      "text": "emphasizing that i'm not testing but creating something\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\nfocus on outcome\n\n![Sol Skelton](https://lh3.googleusercontent.com/a/ACg8ocLhauF4b_k2rUJ0f78LOUu-v3RLj2rTHNnTyJG-7T9cvhxU4AQ=s50-c-k-no)\n\nSol Skelton\n\n12:56 PM Today\n\n(for presentation)",
+      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
       "styleAttributes": {},
-      "x": -5650,
-      "y": 11520,
+      "x": -5700,
+      "y": 11480,
       "width": 330,
-      "height": 361
+      "height": 120
+    },
+    {
+      "id": "77eb273e3c850bce",
+      "type": "text",
+      "text": "clarify \"beta-testing\"",
+      "styleAttributes": {},
+      "x": -5100,
+      "y": 12280,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -2875,6 +2875,38 @@
       "fromSide": "left",
       "toNode": "68221bd9306bdeab",
       "toSide": "right"
+    },
+    {
+      "id": "5f7304a1761de070",
+      "styleAttributes": {},
+      "fromNode": "5355ff9092c2820d",
+      "fromSide": "bottom",
+      "toNode": "96031e5e20ab5e53",
+      "toSide": "right"
+    },
+    {
+      "id": "389154c1ef3f2e4a",
+      "styleAttributes": {},
+      "fromNode": "5f1ec2e06a9b0249",
+      "fromSide": "bottom",
+      "toNode": "e8fec6ae8b532cb9",
+      "toSide": "right"
+    },
+    {
+      "id": "c01f1c9706c58f04",
+      "styleAttributes": {},
+      "fromNode": "5f1ec2e06a9b0249",
+      "fromSide": "bottom",
+      "toNode": "657b8e3fe46cecee",
+      "toSide": "right"
+    },
+    {
+      "id": "7206926abeb352c7",
+      "styleAttributes": {},
+      "fromNode": "e9062ff41e17d378",
+      "fromSide": "bottom",
+      "toNode": "77eb273e3c850bce",
+      "toSide": "top"
     }
   ],
   "metadata": {}
