@@ -6,4 +6,4 @@ The difference principle: inequality must be: “to be to the greatest benefit o
 
 Vacancy taxes disincentivize property owners from holding onto property that they aren't currently using or renting. While this could be interpreted as an unequal model of taxation, as they pay more than others, it is to the benefit of less advantaged people. Many people in Vancouver struggle to find and afford housing; having hundreds of unused units takes away from the already low supply. The right to shelter may not be absolute under current law, but it is nonetheless worth prioritizing over corporate right to property, especially because of the impact on disadvantaged people. 
 
-The social contract relies on compromise in order to ensure the greatest protection of each individual's rights. Businesses do not have a negative right to use their property in any way they want, as people'
+The social contract relies on compromise in order to ensure the greatest protection of each individual's rights. Businesses do not have a negative right to use their property in any way they want, as people
