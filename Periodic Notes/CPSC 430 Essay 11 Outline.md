@@ -4,4 +4,4 @@ The right to property is a limited one: property ownership is not guaranteed, an
 
 The difference principle: inequality must be: “to be to the greatest benefit of the least-advantaged members of society"
 
-Why should a 
+Vacancy taxes disincentivize property owners from holding onto property that they aren't currently using or renting. While this could be interpreted as an unequal model of taxation, a
