@@ -9,4 +9,4 @@ Vacancy taxes disincentivize property owners from holding onto property that the
 The social contract relies on compromise in order to ensure the greatest protection of each individual's rights. Businesses do not have a negative right to use their property in any way they want; there are regulations in place that ensure public wellbeing, for instance, on building maintenance and commercial versus residential zoning. 
 
 Rawl's example of the difference principle: income tax system
-- Taxing corporate office for empty offices benefits the less advantaged by pushing the real
+- Taxing corporate office for empty offices benefits the less advantaged by pushing the real estate mark
