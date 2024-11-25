@@ -12,3 +12,7 @@ Rawl's example of the difference principle: income tax system
 - Taxing corporations for empty offices benefits the less advantaged by benefiting the local community and businesses. 
 - Rights in question are limited, not absolute. The company does not have an absolute right to property: they both are not guaranteed property ownership and are not permitted to do anything they want with buildings they own. 
 - SCT = Cooperative system: businesses must compromise with tax because it is in the interests of the community that buildings are not half-empty
+
+
+Rights: 
+right to property
