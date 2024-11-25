@@ -20,7 +20,7 @@ right to property
 
 Under social contract theory, a proportional vacancy tax on corporations is ethical because it offers a compromise between the company's right to their property and the government's duty to ensure residents' wellbeing, ultimately upholding the difference principle. 
 
-P1: company right to property is largely a negative right to use property in ways they see fit, 
+P1: company right to property is a negative right to use property in ways they see fit, 
 
 
 
