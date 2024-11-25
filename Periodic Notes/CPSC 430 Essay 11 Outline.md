@@ -16,3 +16,6 @@ Rawl's example of the difference principle: income tax system
 
 Rights: 
 right to property
+
+
+Under social contract theory, a proportional vacancy tax on corporations is ethical because it 
