@@ -197,3 +197,31 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^ckw987dlk9f
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:58:22.655Z","updated":"2024-11-27T06:58:22.655Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":11797,"end":11923},{"type":"TextQuoteSelector","exact":"25 h of narrative datato yield a deep understanding of the inter-section of traditional knowledge, brain,and the environment. ","prefix":"nd then col-lected and analyzed ","suffix":"Results embracedthe notion of tw"}]}]}
+>```
+>%%
+>*%%PREFIX%%nd then col-lected and analyzed%%HIGHLIGHT%% ==25 h of narrative datato yield a deep understanding of the inter-section of traditional knowledge, brain,and the environment.== *
+>%%LINK%%[[#^lu2rmj1cg2h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^lu2rmj1cg2h
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:58:27.000Z","updated":"2024-11-27T06:58:27.000Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":11953,"end":11968},{"type":"TextQuoteSelector","exact":"two-eyed seeing","prefix":". Results embracedthe notion of ","suffix":" (Marshallet al., 2015), where b"}]}]}
+>```
+>%%
+>*%%PREFIX%%. Results embracedthe notion of%%HIGHLIGHT%% ==two-eyed seeing== *
+>%%LINK%%[[#^867lf2s4of3|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^867lf2s4of3
