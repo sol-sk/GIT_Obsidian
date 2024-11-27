@@ -109,7 +109,7 @@
 		{
 			"id":"dc92a34ab8b9f10a",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS401_syllabus.pdf",
+			"file":"W2024/W2024T1/COGS 401/COGS401_syllabus.pdf",
 			"subpath":"#page=1",
 			"styleAttributes":{},
 			"x":-760,
@@ -130,7 +130,7 @@
 		{
 			"id":"d8d9497987ff5aeb",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+			"file":"W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 2.md",
 			"styleAttributes":{},
 			"x":620,
 			"y":1265,
@@ -240,7 +240,7 @@
 		{
 			"id":"53f1660ae026f56d",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
+			"file":"W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 3.md",
 			"styleAttributes":{},
 			"x":-217,
 			"y":2960,
@@ -250,7 +250,7 @@
 		{
 			"id":"00fb645e2de2ee83",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
+			"file":"W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 4.md",
 			"styleAttributes":{},
 			"x":185,
 			"y":2963,
@@ -260,7 +260,7 @@
 		{
 			"id":"34e0d02305004226",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
+			"file":"W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 5.md",
 			"styleAttributes":{},
 			"x":620,
 			"y":2930,
@@ -300,7 +300,7 @@
 		{
 			"id":"38bb0211ac37f674",
 			"type":"text",
-			"text":"[[COGS 401 Research Notes.canvas|COGS 401 Mind Map]]",
+			"text":"[[Research Notes.canvas|COGS 401 Mind Map]]",
 			"styleAttributes":{},
 			"x":1740,
 			"y":2800,
@@ -540,7 +540,7 @@
 		{
 			"id":"d41a62fdb0297458",
 			"type":"file",
-			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
+			"file":"W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 1.md",
 			"styleAttributes":{},
 			"x":843,
 			"y":858,
