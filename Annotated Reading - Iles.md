@@ -267,3 +267,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^dh1zc9d6cz5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T07:07:15.795Z","text":"How can we use environmental neuroethics to inform our understanding of the broader philosophical framework of \"embodied cognition\"–and more specifically, in two-eyed seeing, integrate or involve Indigenous ways of understanding the individual/communal/environmental relationship with the idea of cognitive or even spiritual embodiment?","updated":"2024-11-27T07:07:15.795Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":10,"end":59},{"type":"TextQuoteSelector","exact":"Environmental Neuroethics for Global Neuroscience","prefix":"0%125%150%200%300%400%Commentary","suffix":" Judy IllesDivision of Neurology"}]}]}
+>```
+>%%
+>*%%PREFIX%%0%125%150%200%300%400%Commentary%%HIGHLIGHT%% ==Environmental Neuroethics for Global Neuroscience== *
+>%%LINK%%[[#^hmnnx082cwd|show annotation]]
+>%%COMMENT%%
+>How can we use environmental neuroethics to inform our understanding of the broader philosophical framework of "embodied cognition"–and more specifically, in two-eyed seeing, integrate or involve Indigenous ways of understanding the individual/communal/environmental relationship with the idea of cognitive or even spiritual embodiment?
+>%%TAGS%%
+>
+^hmnnx082cwd
