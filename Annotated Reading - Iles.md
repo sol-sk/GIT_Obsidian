@@ -239,3 +239,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^7f4tj8lr4gt
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T07:02:04.123Z","updated":"2024-11-27T07:02:04.123Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":12607,"end":12674},{"type":"TextQuoteSelector","exact":"There is no neuroethics without action; itis philosophy otherwise. ","prefix":"and health.Activism and advocacy","suffix":"We used findingsfrom a range of "}]}]}
+>```
+>%%
+>*%%PREFIX%%and health.Activism and advocacy%%HIGHLIGHT%% ==There is no neuroethics without action; itis philosophy otherwise.== *
+>%%LINK%%[[#^6znpub58dyc|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6znpub58dyc
