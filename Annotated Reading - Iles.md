@@ -29,3 +29,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^axeq0xo0pe
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:38:32.720Z","updated":"2024-11-27T06:38:32.720Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":2249,"end":2376},{"type":"TextQuoteSelector","exact":"brain-baseddesign embraces the needs of individu-als who think differently or who livewith neurologic and cognitive chal-lenges","prefix":"ping(e.g., Bower et al., 2019), ","suffix":" (Albright, 2022; Huang and Ille"}]}]}
+>```
+>%%
+>*%%PREFIX%%ping(e.g., Bower et al., 2019),%%HIGHLIGHT%% ==brain-baseddesign embraces the needs of individu-als who think differently or who livewith neurologic and cognitive chal-lenges== *
+>%%LINK%%[[#^b4h0jtdukcr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^b4h0jtdukcr
