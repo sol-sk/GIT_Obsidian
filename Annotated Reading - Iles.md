@@ -43,3 +43,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^b4h0jtdukcr
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:41:04.895Z","updated":"2024-11-27T06:41:04.895Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":3592,"end":3697},{"type":"TextQuoteSelector","exact":"potential negative effects from exposures toenvironmental chemicals, such as the or-ganic form of mercury","prefix":"nada among others) have revealed","suffix":" (methyl mercury) inwater and fo"}]}]}
+>```
+>%%
+>*%%PREFIX%%nada among others) have revealed%%HIGHLIGHT%% ==potential negative effects from exposures toenvironmental chemicals, such as the or-ganic form of mercury== *
+>%%LINK%%[[#^nc6nowfyhiq|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^nc6nowfyhiq
