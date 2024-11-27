@@ -1,0 +1,414 @@
+{
+  "nodes": [
+    {
+      "id": "4cf14f92f3b75081",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]] (Khamitov et al. 2015)",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "predefined-process"
+      },
+      "x": -780,
+      "y": 40,
+      "width": 421,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "37a4d1908687fcfb",
+      "type": "text",
+      "text": "Across six studies, participants perceived **harmful agents as having less agency** than neutral or positive agents. \n\nHarmful agents are seen as lacking civility and warmth, and are attributed **animalistic or machine-like traits**; attribution of less agency correlated with lower scores on humanness traits such as rationality, refinement, and self-restraint. (34)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -780,
+      "y": 148,
+      "width": 389,
+      "height": 239,
+      "color": "#24995a"
+    },
+    {
+      "id": "d457a9f0fcaaf612",
+      "type": "text",
+      "text": "**Visual perception allows infants to understand the distinction between \"self\" and \"other\"; this understanding is the basis for further knowledge acquisition**\n\nInfant \"**moving room**\" studies offer evidence for the self/world distinction appearing at the beginning of development, far before the mirror stage: 2 month olds can recognize from visual information that something has occured **outside of their own agency**. (135)\n",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -780,
+      "y": -270,
+      "width": 389,
+      "height": 278,
+      "color": "#046214"
+    },
+    {
+      "id": "122dadb3c57a5982",
+      "type": "text",
+      "text": "How does visual perception relate to our understanding of our minds and of other (human and artificial) minds? I am going to explore this question through both psychology research and artworks, particularly those influenced by cybernetics.",
+      "styleAttributes": {},
+      "x": -780,
+      "y": -659,
+      "width": 421,
+      "height": 129
+    },
+    {
+      "id": "6ea1184b07f72007",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]] (Butterworth 1992)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -780,
+      "y": -355,
+      "width": 421,
+      "height": 74,
+      "color": "#046214"
+    },
+    {
+      "id": "5f95710e13734167",
+      "type": "text",
+      "text": "### Psychology",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "predefined-process"
+      },
+      "x": -780,
+      "y": -431,
+      "width": 185,
+      "height": 58
+    },
+    {
+      "id": "3997ba3933685ac5",
+      "type": "text",
+      "text": "My research can be generally divided into two overlapping categories: psychology of mind perception and cybernetic artwork. Within psychology, I am going to research the relationship between visual information, perception of mind, and understanding of mind in an experimental context. Using theories in cybernetics (across disciplines) and art made within the cybernetics movement, I am going to bring in metaphorical and artificial representations of the mind. Integrating these methodologies can give a richer and more dynamic understanding of how we perceive ourselves and others",
+      "styleAttributes": {},
+      "x": -321,
+      "y": -659,
+      "width": 601,
+      "height": 179
+    },
+    {
+      "id": "87fd50f5bd8d2ed8",
+      "type": "text",
+      "text": "#### Research Question",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -780,
+      "y": -739,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0e8712eb9912fe71",
+      "type": "text",
+      "text": "#### Methodology",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -321,
+      "y": -739,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "79e10c94d2a982b6",
+      "type": "text",
+      "text": "#### Background Literature",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "predefined-process"
+      },
+      "x": -280,
+      "y": -433,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401cf4af37ece6a9",
+      "type": "text",
+      "text": "### Art Theory",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "predefined-process"
+      },
+      "x": 359,
+      "y": -431,
+      "width": 195,
+      "height": 58
+    },
+    {
+      "id": "292dc0762879fccc",
+      "type": "text",
+      "text": "###### [Modeling Charisma: AI's Fashion Mirror Stage](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5) (Smith 2024)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 132,
+      "y": -355,
+      "width": 421,
+      "height": 74,
+      "color": "#0b4755"
+    },
+    {
+      "id": "5c7d49843789463d",
+      "type": "text",
+      "text": "We are constantly contending with the gap between our self-perception and the way that we are perceived; **the difference between self-concept and the mirror**, the photograph, or others' concept of ourselves. We look to AI to produce an idealized mirror of reality which more closely matches our perception/self-perception than reality does.",
+      "styleAttributes": {},
+      "x": 164,
+      "y": -270,
+      "width": 389,
+      "height": 181,
+      "color": "#0b4755"
+    },
+    {
+      "id": "cf0ad110a034a0cd",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf|Education of Vision: \"The Metaphorical Way of Knowing\"]] (Gordon, ed. Kepes, )",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 132,
+      "y": -57,
+      "width": 421,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "b5bcdb30ab7bb89a",
+      "type": "text",
+      "text": "Using metaphor and imagining **visual representations** of difficult concepts can help (students) understand academic material and reframe their studies in their own terms.",
+      "styleAttributes": {},
+      "x": 164,
+      "y": 19,
+      "width": 389,
+      "height": 103,
+      "color": "#1035a2"
+    },
+    {
+      "id": "cf700018e9c09ce9",
+      "type": "text",
+      "text": "Tracing the overlaps between cybernetics and art, from 40s to present; digital art and third-wave cybernetics both focus on **emergent behavior**, which can emerge from either a collective or from the evolution of a series of recursions. [[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=128,12,128,21|p.7]] Art can, in turn, be a form of emergence from the technological systems which shape our lives. ",
+      "styleAttributes": {},
+      "x": 165,
+      "y": 268,
+      "width": 389,
+      "height": 181,
+      "color": "#4726c0"
+    },
+    {
+      "id": "436ea94204669eac",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]] (Ilfeld 2012)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 133,
+      "y": 152,
+      "width": 421,
+      "height": 98,
+      "color": "#4726c0"
+    },
+    {
+      "id": "802d95b0a1d5421c",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]] (Waytz et al. 2010)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -357,
+      "y": 357,
+      "width": 421,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "9da53dcceeee888a",
+      "type": "text",
+      "text": "If the *perceived* entity appears humanlike or similar to the viewer, it will be perceived as having more capacity for cognition; entities perceived as having more agency are attributed moral rights and responsibilities. ",
+      "styleAttributes": {},
+      "x": -520,
+      "y": 438,
+      "width": 354,
+      "height": 129,
+      "color": "#77be50"
+    },
+    {
+      "id": "86dd76bd2a9598a0",
+      "type": "text",
+      "text": "Mind perception can be triggered in the *perceiver* by unpredictable or negative occurances; perceiving a mind leads to an intensified emotional experience, triggers self-consciousness/self-awareness, and moral judgement. \n\n",
+      "styleAttributes": {},
+      "x": -146,
+      "y": 438,
+      "width": 311,
+      "height": 155,
+      "color": "#77be50"
+    },
+    {
+      "id": "467d8fc79eb82e94",
+      "type": "text",
+      "text": "### Understanding Perception of Minds: Contemporary Cybernetics in Psychology and Art",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 118,
+      "y": -774,
+      "width": 435,
+      "height": 95
+    },
+    {
+      "id": "a0ab0856e31b994b",
+      "type": "text",
+      "text": "### Vision as basis for knowledge ",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -313,
+      "y": -300,
+      "width": 339,
+      "height": 60
+    },
+    {
+      "id": "93d4eaccf8a10a67",
+      "type": "text",
+      "text": "**Moral rights and responsibilities**",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -353,
+      "y": 275,
+      "width": 281,
+      "height": 60
+    },
+    {
+      "id": "5bdbc94e0f70ea82",
+      "type": "text",
+      "text": "**Learning through art**",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -74,
+      "y": 190,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "7aa219a313ccc6a4",
+      "type": "text",
+      "text": "##### Perception of other agents",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -375,
+      "y": 148,
+      "width": 262,
+      "height": 60
+    },
+    {
+      "id": "2a1b185e16a5c267",
+      "type": "text",
+      "text": "**Understanding through visualization**",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -104,
+      "y": 19,
+      "width": 228,
+      "height": 60
+    },
+    {
+      "id": "267eabde6814190d",
+      "type": "text",
+      "text": "**\"Mirror stage\"** ",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -150,
+      "y": -161,
+      "width": 165,
+      "height": 59
+    },
+    {
+      "id": "133c3d04efe9f743",
+      "type": "text",
+      "text": "##### Self-awareness",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -365,
+      "y": -161,
+      "width": 173,
+      "height": 60
+    },
+    {
+      "id": "328f6cea7353d048",
+      "type": "text",
+      "text": "**Self/non-self distinction**",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": -360,
+      "y": -17,
+      "width": 232,
+      "height": 50
+    }
+  ],
+  "edges": [
+    {
+      "id": "f4a28b3f7e3891e0",
+      "styleAttributes": {},
+      "fromNode": "328f6cea7353d048",
+      "fromSide": "bottom",
+      "toNode": "7aa219a313ccc6a4",
+      "toSide": "top"
+    },
+    {
+      "id": "e340bbeaf31faa74",
+      "styleAttributes": {},
+      "fromNode": "a0ab0856e31b994b",
+      "fromSide": "bottom",
+      "toNode": "267eabde6814190d",
+      "toSide": "top"
+    },
+    {
+      "id": "176142e304531bbe",
+      "styleAttributes": {},
+      "fromNode": "267eabde6814190d",
+      "fromSide": "left",
+      "toNode": "133c3d04efe9f743",
+      "toSide": "right"
+    },
+    {
+      "id": "ec225af7ba280eb4",
+      "styleAttributes": {},
+      "fromNode": "133c3d04efe9f743",
+      "fromSide": "bottom",
+      "toNode": "328f6cea7353d048",
+      "toSide": "top"
+    },
+    {
+      "id": "152f097a7fae3772",
+      "styleAttributes": {},
+      "fromNode": "a0ab0856e31b994b",
+      "fromSide": "right",
+      "toNode": "2a1b185e16a5c267",
+      "toSide": "top"
+    },
+    {
+      "id": "155e7f909fd1b193",
+      "styleAttributes": {},
+      "fromNode": "5bdbc94e0f70ea82",
+      "fromSide": "top",
+      "toNode": "2a1b185e16a5c267",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e9983d3dda258caa",
+      "styleAttributes": {},
+      "fromNode": "7aa219a313ccc6a4",
+      "fromSide": "bottom",
+      "toNode": "93d4eaccf8a10a67",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
