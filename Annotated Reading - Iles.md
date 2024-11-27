@@ -225,3 +225,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^867lf2s4of3
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T07:01:21.442Z","updated":"2024-11-27T07:01:21.442Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":12169,"end":12445},{"type":"TextQuoteSelector","exact":"resultsalso unexpectedly revealed perceptionsabout the adverse impact of mining: “[...]they’ve been doing a lot of mining... [...]and I heard that’s affecting them, likemaking them rotten inside.”We heard: “Iam part of my environment and if my envi-ronment suffers, I suffer,”","prefix":"owth of industry in the region, ","suffix":"a reflection that captures tradi"}]}]}
+>```
+>%%
+>*%%PREFIX%%owth of industry in the region,%%HIGHLIGHT%% ==resultsalso unexpectedly revealed perceptionsabout the adverse impact of mining: “[...]they’ve been doing a lot of mining... [...]and I heard that’s affecting them, likemaking them rotten inside.”We heard: “Iam part of my environment and if my envi-ronment suffers, I suffer,”== *
+>%%LINK%%[[#^7f4tj8lr4gt|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^7f4tj8lr4gt
