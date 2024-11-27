@@ -1,698 +1,664 @@
 {
-  "nodes": [
-    {
-      "id": "e2bf6bc59fe65ccf",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -760,
-      "y": 1220,
-      "width": 2110,
-      "height": 1520,
-      "label": "Week 3"
-    },
-    {
-      "id": "5f69e3463e5ff580",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -760,
-      "y": 160,
-      "width": 2065,
-      "height": 988,
-      "label": "Week 2"
-    },
-    {
-      "id": "4982542e947c0c1a",
-      "type": "group",
-      "isCollapsed": true,
-      "styleAttributes": {},
-      "x": -2200,
-      "y": 80,
-      "width": 440,
-      "height": 900,
-      "label": "D7 Readings"
-    },
-    {
-      "id": "a1e44f04dfaac744",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/Tessier2015_Chapter3.pdf",
-      "x": -2180,
-      "y": 560,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "9816c6ace22d1514",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/Tessier2015_Chapter1_Refresher.pdf",
-      "x": -2180,
-      "y": 100,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f1a5467f45fff747",
-      "type": "text",
-      "text": "# Syllabus",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -680,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "d29d0d168ad6b5e9",
-      "type": "text",
-      "text": "| COGS_V 401-102 - Seminar in Cognitive Systems | Seminar%%  %% | 2024-09-03 - 2024-12-05 \\| Tue Thu \\| 9:30 a.m. - 11:00 a.m. \\| BUCH-Floor 3-Room D317 | 9/3/2024 | 12/5/2024 |\n| --------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- | -------- | --------- |\n",
-      "styleAttributes": {},
-      "x": -720,
-      "y": -800,
-      "width": 739,
-      "height": 92
-    },
-    {
-      "id": "ce8d9e775ffb026e",
-      "type": "text",
-      "text": "#### OGS 401: Journal Entries (10%)  \nYou will submit seven journal entries during the term. The journal entries are open-  \nended. They should be at least 500 words and pertain to research relevant to at least  \none of the core fields (Philosophy, Psychology, Computer Science, and Linguistics).  \n\nThere is no maximum length. Your journal entries should focus on  \nbrainstorming/developing a topic for your proposal and/or COGS 402.  \nEach journal entry is worth 1% for on-time completion (including meeting the minimum  \nrequirements for length and relevance). You will receive 7% for completion.  \n\nYou will submit a full journal at the end of term which will include all your submitted  \nentries, in addition to other notes and thoughts you had over term. The full submission  \nis worth 3%. To receive full points, your collection of journal entries must showcase  \ndifferent kinds of thinking/planning:  \n• At least two entries must focus on background/literature (e.g., summarising  \nrelevant articles)  \n• At least two entries must focus on brainstorming/developing ideas.  \n• The other three may fall into one of the above categories, but may also be  \nsomething different (but relevant).",
-      "styleAttributes": {},
-      "x": -1540,
-      "y": 540,
-      "width": 700,
-      "height": 461
-    },
-    {
-      "id": "8799c4c678c75190",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS401_ResearchJournal.pdf",
-      "styleAttributes": {},
-      "x": -1540,
-      "y": 1065,
-      "width": 700,
-      "height": 565
-    },
-    {
-      "id": "dc92a34ab8b9f10a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS401_syllabus.pdf",
-      "subpath": "#page=1",
-      "styleAttributes": {},
-      "x": -760,
-      "y": -520,
-      "width": 720,
-      "height": 610
-    },
-    {
-      "id": "ab497850072c2000",
-      "type": "text",
-      "text": "## Schedule\n\n| Week | Date     | Topic                                                                    | Readings                                                                       |     |\n| ---- | -------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | --- |\n| 1    | 09.05.24 | Introduction                                                             |                                                                                |     |\n| 2    | 09.10.24 | G1: Laura Bickel (Philosophy)                                            | Read: Wittmann et. al. (2007) <br>*DUE: QS FOR G1/D1 <br>DUE: SCHEDULING QUIZ* |     |\n| 2    | 09.12.24 | D1                                                                       | *DUE: JOURNAL ENTRY #1*                                                        |     |\n| 3    | 09.17.24 | G2: Dr. Molly Babel (Linguistics)                                        | Read: Lloy et. al. (2024) *DUE: QS FOR G2/D2*                                  |     |\n| 3    | 09.19.24 | D2                                                                       | *DUE: JOURNAL ENTRY #2*                                                        |     |\n| 4    | 09.24.24 | G3: Dr. Todd Woodward (Psychiatry)                                       | Read: Aguirre (2003) <br>*DUE: QS FOR G3/D3*                                   |     |\n| 4    | 09.26.24 | D3                                                                       | *DUE: JOURNAL ENTRY #3*                                                        |     |\n| 5    | 10.01.24 | G4: Dr. Catharine Rankin (Psychology) ** reading still to be confirmed * | Read: TBD<br>*DUE: QS FOR G4/D4*                                               |     |\n| 5    | 10.03.24 | D4                                                                       | *DUE: JOURNAL ENTRY #4*                                                        |     |\n| 6    | 10.08.24 | G5: Dr. Darko Odic (Psychology)                                          | Read: Odic & Starr (2018)<br>*DUE: QS*                                         |     |\n| 6    | 10.10.24 | D5                                                                       | *DUE: JOURNAL ENTRY #5*                                                        |     |\n| 7    | 10.15.24 | P1: Flash Talks, Day 1                                                   | *DUE: MIND MAP*                                                                |     |\n| 7    | 10.17.24 | P2: Flash Talks, Day 2                                                   |                                                                                |     |\n| 8    | 10.22.24 | G6: Dr. Ève Poudrier (Music)                                             | Read: TBD<br>*DUE: QS*                                                         |     |\n| 8    | 10.24.24 | D6                                                                       |                                                                                |     |\n| 9    | 10.29.24 | P3: Flash Talks, Day 3                                                   |                                                                                |     |\n| 9    | 10.31.24 | Mid-Semester Check in                                                    | *DUE: PEER FEEDBACK*                                                           |     |\n| 10   | 11.05.24 | G7: Dr. Anne-Michelle Tessier (Linguistics)                              | Read: Tessier (2017)<br>*DUE: QS*                                              |     |\n| 10   | 11.07.24 | D7: **Group Presentation**                                               | *DUE: JOURNAL ENTRY #6*                                                        |     |\n| 11   | 11.12.24 | Midterm break                                                            |                                                                                |     |\n| 11   | 11.14.24 | D8                                                                       | Read: Hammerly et al. (2022)<br>*DUE: QS*                                      |     |\n| 12   | 11.19.24 | G8: Dr. Christopher Hammerly (Linguistics)                               | *DUE: JOURNAL ENTRY #7*                                                        |     |\n| 12   | 11.21.24 | P4: Final Presentations                                                  |                                                                                |     |\n| 13   | 11.26.24 | P5: Final Presentations                                                  |                                                                                |     |\n| 13   | 11.28.24 | G9: Dr. Judy Illes (Neurology)                                           | Read: Illes (2023)<br>*DUE: QS*                                                |     |\n| 14   | 12.03.24 | D9:                                                                      |                                                                                |     |\n| 14   | 12.05.24 | P6: Final Presentations                                                  | *DUE: CONFIRMATION OF RESEARCH PARTICIPATION*                                  |     |\n|      | 12.12.24 |                                                                          | *DUE: PROPOSAL*                                                                |     |\n",
-      "styleAttributes": {},
-      "x": -1720,
-      "y": -620,
-      "width": 903,
-      "height": 1091
-    },
-    {
-      "id": "8c326c5601a6b87a",
-      "type": "text",
-      "text": "### 09.10.24",
-      "styleAttributes": {},
-      "x": -694,
-      "y": 184,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "8f77feefe54fa76d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/Wittmann_2007-1.pdf",
-      "subpath": "#page=7",
-      "styleAttributes": {},
-      "x": -620,
-      "y": 299,
-      "width": 720,
-      "height": 559
-    },
-    {
-      "id": "0b18e559449e804a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/G2 Annotated Reading - Lloy et al.md",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 1240,
-      "width": 540,
-      "height": 50
-    },
-    {
-      "id": "51c7b4ae738617cf",
-      "type": "text",
-      "text": "**Question:** \nGiven that it's documented that tonal language speakers have greater prevalence of absolute/perfect pitch, I'm curious if there's been any research exploring the association between non-linguistic auditory processing and the kinds of tasks participants were asked to do in this paper. Do you think that generalized auditory processing plays as much of a role as language-specific processing in either learning novel words or within-speaker identification, and if so would you think it would apply more to one of those than the other?",
-      "styleAttributes": {},
-      "x": -739,
-      "y": 1303,
-      "width": 679,
-      "height": 181
-    },
-    {
-      "id": "2a4dea14c6020c34",
-      "type": "text",
-      "text": "### 09.19.24",
-      "styleAttributes": {},
-      "x": -430,
-      "y": 1630,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4904220537c33269",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 696,
-      "y": 1460,
-      "width": 570,
-      "height": 400
-    },
-    {
-      "id": "d8d9497987ff5aeb",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 620,
-      "y": 1265,
-      "width": 400,
-      "height": 74
-    },
-    {
-      "id": "637c1b73befb4e5c",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": 187,
-      "y": 1394,
-      "width": 400,
-      "height": 580
-    },
-    {
-      "id": "2daefd5a80b49d3b",
-      "type": "text",
-      "text": "### 09.12.24",
-      "styleAttributes": {},
-      "x": 212,
-      "y": 184,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "96426193de443a3a",
-      "type": "text",
-      "text": "can join grad student project for 402",
-      "styleAttributes": {},
-      "x": -185,
-      "y": 184,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "21ec0ed4c614066d",
-      "type": "text",
-      "text": "#### Group Presentation",
-      "styleAttributes": {},
-      "x": 212,
-      "y": 269,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "34914cb71fb25d4b",
-      "type": "text",
-      "text": "### 09.17.24",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 1600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "063ad0c64532bbf1",
-      "type": "text",
-      "text": "Article 2: **The structure of acoustic voice variation in bilingual speech**",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 1520,
-      "width": 523,
-      "height": 50
-    },
-    {
-      "id": "17c5afe34618981e",
-      "type": "text",
-      "text": "#### Guest lecture",
-      "styleAttributes": {},
-      "x": -720,
-      "y": 1680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a94f04c50366cf52",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": 172,
-      "y": 2063,
-      "width": 400,
-      "height": 570
-    },
-    {
-      "id": "c717ba3f68b089d3",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
-      "styleAttributes": {},
-      "x": 701,
-      "y": 2348,
-      "width": 570,
-      "height": 315
-    },
-    {
-      "id": "2f40ffd0e2c04800",
-      "type": "text",
-      "text": "### Reading: Aguirre 2003",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 2900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fffc8389830c89ab",
-      "type": "text",
-      "text": "#### Group discussion",
-      "styleAttributes": {},
-      "x": -390,
-      "y": 1715,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "53f1660ae026f56d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
-      "styleAttributes": {},
-      "x": -217,
-      "y": 2960,
-      "width": 389,
-      "height": 50
-    },
-    {
-      "id": "f3f2ce550b80007d",
-      "type": "text",
-      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
-      "styleAttributes": {
-        "border": null,
-        "textAlign": null
-      },
-      "x": 780,
-      "y": 467,
-      "width": 525,
-      "height": 283
-    },
-    {
-      "id": "e89a430c11c375e2",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/COGS 401 Readings/Aguirre 2003 - Chpt Functional imaging in beha.pdf",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 3040,
-      "width": 400,
-      "height": 560
-    },
-    {
-      "id": "80244124661411d9",
-      "type": "text",
-      "text": "![[COGS 401 G1D1 Laura Bickel]]",
-      "styleAttributes": {},
-      "x": -620,
-      "y": 858,
-      "width": 720,
-      "height": 219
-    },
-    {
-      "id": "d41a62fdb0297458",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
-      "styleAttributes": {},
-      "x": 843,
-      "y": 858,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "652f93cf2e345f13",
-      "type": "text",
-      "text": "Sensorimotor timing;\nDopamine role in motor function (as seen in Parkinsons)",
-      "styleAttributes": {},
-      "x": -620,
-      "y": 1098,
-      "width": 320,
-      "height": 50
-    },
-    {
-      "id": "00fb645e2de2ee83",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
-      "styleAttributes": {},
-      "x": 185,
-      "y": 2963,
-      "width": 387,
-      "height": 77
-    },
-    {
-      "id": "34e0d02305004226",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
-      "styleAttributes": {},
-      "x": 620,
-      "y": 2930,
-      "width": 387,
-      "height": 220
-    },
-    {
-      "id": "693326fba1c463f1",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": 222,
-      "y": 467,
-      "width": 479,
-      "height": 619
-    },
-    {
-      "id": "b16d3c742aadfd03",
-      "type": "text",
-      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
-      "styleAttributes": {},
-      "x": 1164,
-      "y": 3002,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "98eb416e9b9debb9",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": 404,
-      "y": 3305,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "1adedc8563addd23",
-      "type": "text",
-      "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 404,
-      "y": 3760,
-      "width": 400,
-      "height": 80
-    },
-    {
-      "id": "38bb0211ac37f674",
-      "type": "text",
-      "text": "[[COGS 401 Research Notes.canvas|COGS 401 Mind Map]]",
-      "styleAttributes": {},
-      "x": 1740,
-      "y": 2800,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fc20bd8554a7221f",
-      "type": "text",
-      "text": "#### What is it doing: ",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 4810,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "a6533aa342998a4f",
-      "type": "text",
-      "text": "# Goals of the artwork",
-      "styleAttributes": {},
-      "x": -1940,
-      "y": 4720,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "696825c6bad6bb42",
-      "type": "text",
-      "text": "**Peer reviews**\n- Narrow scope\n- Specific examples of artworks\n- Separate psych and art\n- narrow down research\n- functional relevance\n- defining cybernetics as relates to perception",
-      "styleAttributes": {},
-      "x": -2490,
-      "y": 4139,
-      "width": 480,
-      "height": 216
-    },
-    {
-      "id": "3caa92c524247ff9",
-      "type": "text",
-      "text": "I had stated I was considering separating psych & art to **narrow scope** and people agreed\n",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 4217,
-      "width": 400,
-      "height": 60
-    },
-    {
-      "id": "179d31359b418dae",
-      "type": "text",
-      "text": "Focus on *other minds*\nPrecise methodology",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 3964,
-      "width": 303,
-      "height": 62
-    },
-    {
-      "id": "104fc658b58b704c",
-      "type": "text",
-      "text": "### Laura feedback\nMost importantly, I'd encourage you to further **narrow down** your research question. As you have mentioned in your reflection, your mind map involves many moving parts. *I'd recommend focusing on either self-perception or perception of other minds.* In addition, your mind map would benefit from a more detailed account of your methodology. **What exact steps will your project involve? Why did you choose this method to approach your research question?**",
-      "styleAttributes": {},
-      "x": -2490,
-      "y": 3869,
-      "width": 480,
-      "height": 251
-    },
-    {
-      "id": "92c6abf8d67048ad",
-      "type": "text",
-      "text": "#### Peer feedback on mind map\n1. Question:  \n**Have you thought about which specific visual elements or kinds of artwork might influence how people see agency and humanity?** I’m curious about what types you’d pick and why you think they’d work well for this.  \n2. Strengths:  \n- I really like how your mind map lays out key psychology theories, like agency and humanity perception, and directly connects them to art. It makes the project’s framework feel organized and easy to follow, and it shows how these ideas could cross over between psychology and art.  \n- In your reflection, I think your idea to **separate the psychology and art methods** to keep the focus tighter is smart. It seems like a good way to manage the workload, and it shows you’re already thinking about keeping the project doable.  \n  \n3. Suggestions:  \n- I suggest to **narrow the scope** of the project to a few core concepts, especially in the psychology section, to make the study manageable and to meet deadlines without compromising depth.  \n- It could be interesting to pick **specific examples** of contemporary artwork that really fit your themes around agency and humanity. Showing how these artworks connect to your ideas might make your argument clearer and give more real-world grounding to the theory.  \n- Since you’re interested in how visualization impacts understanding, maybe look into recent studies in **visual pedagogy**. There might be frameworks there that would help you analyze how people interpret visuals of self and others—adding this structure could make that part of your study even stronger.\n\nAnonymous User, Oct 28 at 4:15p.m.\n\n1. Question: Do you expect culture or individual differences to play a role in how visual perception forms mind perception? Is this topic addressed in the contemporary research, that you will be exploring, on perception of minds? \n2. Strengths: \n\t1. a) Good summarization of existing background literature in art theory and psychology b) Unique, creative topic that addresses a gap in knowledge \n3. Suggestions: \n\t1. a) As you say in your reflection, you seem to have a lot of ideas floating around right now in relation to your topic. I think it is best if you try to **narrow down your research**, it was a bit overwhelming/hard for me to understand holistically the background research you mentioned in the context of your research question. Considering the scope of your research will be psychology AND cybernetics, it might be better to focus your research slightly. \n\t2. b) I think it would help to expand more on why this research is important. I understand that it could give us a better understanding of how we perceive ourselves and others, but **why is this knowledge functionally important** or why should we be concerned about this topic? \n\t3. c) Given the complexity and variety of theories within cybernetics, **I think starting with a definition/explanation of cybernetics and how it relates with perception** could make your research clearer.\n\nAnonymous User, Oct 30 at 6:30p.m.\n\n1. I wonder if the participants will be mostly infants since that was the study mentioned. If so, how would the recruiting of participants be done, say, on campus?  \n2. i) One of the strengths of this project idea is that the research topic, at least for the psychological question, has enough background literature to refer to and base further ideas on. \n\t1. ii) The project idea also has rarity of topic in the sense that not many people would be familiar with cybernetics, and it has much to contribute in that regard.  \n3. i) It would be great if the experimental method for the psychology part of the study is more developed in a way that has not been used in previous studies. \n\t1. ii) As the student suggested in their reflection, I concur that separating those two distinct questions (i.e., psychology and arts) would make the study more tenable. \n\t2. iii) I would like to see what exactly the researcher wants to know or study in terms of the research question.",
-      "styleAttributes": {},
-      "x": -3000,
-      "y": 3710,
-      "width": 560,
-      "height": 58
-    },
-    {
-      "id": "25eb8737a92e6537",
-      "type": "text",
-      "text": "Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 4886,
-      "width": 480,
-      "height": 160
-    },
-    {
-      "id": "312e4292dbabc6f9",
-      "type": "text",
-      "text": "#### Why is it doing it:",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 5077,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fa72df748806a5e8",
-      "type": "text",
-      "text": "Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 5197,
-      "width": 480,
-      "height": 234
-    },
-    {
-      "id": "d844a2c5fe7ff9b0",
-      "type": "text",
-      "text": "- It must have some kind of striking moment\n- It must be accessible\n",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 4840,
-      "width": 340,
-      "height": 81
-    },
-    {
-      "id": "30dcc1a8cf739e86",
-      "type": "text",
-      "text": "### Final Presentation\n#### Research Question (30-60 sec)\n\n#### Methods (<2 min)\n- Cybernetics background\n\n#### Peer feedback impact (30-60 sec)\n\n#### Concrete outcome & big picture (1-1.5 min)",
-      "styleAttributes": {},
-      "x": -1180,
-      "y": 4160,
-      "width": 520,
-      "height": 400
-    },
-    {
-      "id": "c9bc417cff7f0657",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 4.09.38 PM.png",
-      "styleAttributes": {},
-      "x": -1180,
-      "y": 3800,
-      "width": 523,
-      "height": 339
-    },
-    {
-      "id": "c87aa1b2d0df5d9b",
-      "type": "text",
-      "text": "#### How does it do this: ",
-      "styleAttributes": {},
-      "x": -1620,
-      "y": 4971,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "41ab19e3b44ec44e",
-      "type": "text",
-      "text": "- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
-      "styleAttributes": {},
-      "x": -1580,
-      "y": 5077,
-      "width": 440,
-      "height": 163
-    }
-  ],
-  "edges": [
-    {
-      "id": "bf3f4960c98b574d",
-      "fromNode": "8f77feefe54fa76d",
-      "fromSide": "left",
-      "toNode": "80244124661411d9",
-      "toSide": "left"
-    },
-    {
-      "id": "952b4d76765062f8",
-      "fromNode": "80244124661411d9",
-      "fromSide": "bottom",
-      "toNode": "652f93cf2e345f13",
-      "toSide": "top"
-    },
-    {
-      "id": "732e95cf3be48d3b",
-      "fromNode": "693326fba1c463f1",
-      "fromSide": "right",
-      "toNode": "f3f2ce550b80007d",
-      "toSide": "left"
-    },
-    {
-      "id": "372a40bc47b72675",
-      "styleAttributes": {},
-      "fromNode": "c717ba3f68b089d3",
-      "fromSide": "left",
-      "toNode": "00fb645e2de2ee83",
-      "toSide": "top"
-    },
-    {
-      "id": "b1d5646b6baa1757",
-      "styleAttributes": {},
-      "fromNode": "34e0d02305004226",
-      "fromSide": "right",
-      "toNode": "98eb416e9b9debb9",
-      "toSide": "right"
-    },
-    {
-      "id": "0e272e9330a43775",
-      "styleAttributes": {},
-      "fromNode": "34e0d02305004226",
-      "fromSide": "right",
-      "toNode": "b16d3c742aadfd03",
-      "toSide": "left"
-    },
-    {
-      "id": "7a0bd440117125e0",
-      "styleAttributes": {},
-      "fromNode": "f3f2ce550b80007d",
-      "fromSide": "bottom",
-      "toNode": "d41a62fdb0297458",
-      "toSide": "top"
-    },
-    {
-      "id": "8353745b61889174",
-      "styleAttributes": {},
-      "fromNode": "4904220537c33269",
-      "fromSide": "top",
-      "toNode": "d8d9497987ff5aeb",
-      "toSide": "bottom"
-    },
-    {
-      "id": "22dceb39ea989da2",
-      "styleAttributes": {},
-      "fromNode": "696825c6bad6bb42",
-      "fromSide": "right",
-      "toNode": "3caa92c524247ff9",
-      "toSide": "left"
-    },
-    {
-      "id": "38b6a98ecca618f6",
-      "styleAttributes": {},
-      "fromNode": "25eb8737a92e6537",
-      "fromSide": "right",
-      "toNode": "d844a2c5fe7ff9b0",
-      "toSide": "left"
-    },
-    {
-      "id": "8e2b71c50f05e4df",
-      "styleAttributes": {},
-      "fromNode": "d844a2c5fe7ff9b0",
-      "fromSide": "bottom",
-      "toNode": "c87aa1b2d0df5d9b",
-      "toSide": "top"
-    },
-    {
-      "id": "99b8b24def089cb7",
-      "styleAttributes": {},
-      "fromNode": "30dcc1a8cf739e86",
-      "fromSide": "left",
-      "toNode": "a6533aa342998a4f",
-      "toSide": "top"
-    },
-    {
-      "id": "59a9cc0f94b4fc29",
-      "styleAttributes": {},
-      "fromNode": "92c6abf8d67048ad",
-      "fromSide": "bottom",
-      "toNode": "696825c6bad6bb42",
-      "toSide": "left"
-    },
-    {
-      "id": "a3682a493c4a1240",
-      "styleAttributes": {},
-      "fromNode": "104fc658b58b704c",
-      "fromSide": "right",
-      "toNode": "3caa92c524247ff9",
-      "toSide": "left"
-    },
-    {
-      "id": "84e1d75a542d937f",
-      "styleAttributes": {},
-      "fromNode": "104fc658b58b704c",
-      "fromSide": "right",
-      "toNode": "179d31359b418dae",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"e2bf6bc59fe65ccf",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-760,
+			"y":1220,
+			"width":2110,
+			"height":1520,
+			"label":"Week 3"
+		},
+		{
+			"id":"5f69e3463e5ff580",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-760,
+			"y":160,
+			"width":2065,
+			"height":988,
+			"label":"Week 2"
+		},
+		{
+			"id":"4982542e947c0c1a",
+			"type":"group",
+			"isCollapsed":true,
+			"styleAttributes":{},
+			"x":-2200,
+			"y":80,
+			"width":440,
+			"height":900,
+			"label":"D7 Readings"
+		},
+		{"id":"a1e44f04dfaac744","type":"file","file":"W2024/W2024T1/COGS 401/Readings/Tessier2015_Chapter3.pdf","x":-2180,"y":560,"width":400,"height":400},
+		{"id":"9816c6ace22d1514","type":"file","file":"W2024/W2024T1/COGS 401/Readings/Tessier2015_Chapter1_Refresher.pdf","x":-2180,"y":100,"width":400,"height":400},
+		{
+			"id":"2a4dea14c6020c34",
+			"type":"text",
+			"text":"### 09.19.24",
+			"styleAttributes":{},
+			"x":-430,
+			"y":1630,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"ab497850072c2000",
+			"type":"text",
+			"text":"## Schedule\n\n| Week | Date     | Topic                                                                    | Readings                                                                       |     |\n| ---- | -------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | --- |\n| 1    | 09.05.24 | Introduction                                                             |                                                                                |     |\n| 2    | 09.10.24 | G1: Laura Bickel (Philosophy)                                            | Read: Wittmann et. al. (2007) <br>*DUE: QS FOR G1/D1 <br>DUE: SCHEDULING QUIZ* |     |\n| 2    | 09.12.24 | D1                                                                       | *DUE: JOURNAL ENTRY #1*                                                        |     |\n| 3    | 09.17.24 | G2: Dr. Molly Babel (Linguistics)                                        | Read: Lloy et. al. (2024) *DUE: QS FOR G2/D2*                                  |     |\n| 3    | 09.19.24 | D2                                                                       | *DUE: JOURNAL ENTRY #2*                                                        |     |\n| 4    | 09.24.24 | G3: Dr. Todd Woodward (Psychiatry)                                       | Read: Aguirre (2003) <br>*DUE: QS FOR G3/D3*                                   |     |\n| 4    | 09.26.24 | D3                                                                       | *DUE: JOURNAL ENTRY #3*                                                        |     |\n| 5    | 10.01.24 | G4: Dr. Catharine Rankin (Psychology) ** reading still to be confirmed * | Read: TBD<br>*DUE: QS FOR G4/D4*                                               |     |\n| 5    | 10.03.24 | D4                                                                       | *DUE: JOURNAL ENTRY #4*                                                        |     |\n| 6    | 10.08.24 | G5: Dr. Darko Odic (Psychology)                                          | Read: Odic & Starr (2018)<br>*DUE: QS*                                         |     |\n| 6    | 10.10.24 | D5                                                                       | *DUE: JOURNAL ENTRY #5*                                                        |     |\n| 7    | 10.15.24 | P1: Flash Talks, Day 1                                                   | *DUE: MIND MAP*                                                                |     |\n| 7    | 10.17.24 | P2: Flash Talks, Day 2                                                   |                                                                                |     |\n| 8    | 10.22.24 | G6: Dr. Ève Poudrier (Music)                                             | Read: TBD<br>*DUE: QS*                                                         |     |\n| 8    | 10.24.24 | D6                                                                       |                                                                                |     |\n| 9    | 10.29.24 | P3: Flash Talks, Day 3                                                   |                                                                                |     |\n| 9    | 10.31.24 | Mid-Semester Check in                                                    | *DUE: PEER FEEDBACK*                                                           |     |\n| 10   | 11.05.24 | G7: Dr. Anne-Michelle Tessier (Linguistics)                              | Read: Tessier (2017)<br>*DUE: QS*                                              |     |\n| 10   | 11.07.24 | D7: **Group Presentation**                                               | *DUE: JOURNAL ENTRY #6*                                                        |     |\n| 11   | 11.12.24 | Midterm break                                                            |                                                                                |     |\n| 11   | 11.14.24 | D8                                                                       | Read: Hammerly et al. (2022)<br>*DUE: QS*                                      |     |\n| 12   | 11.19.24 | G8: Dr. Christopher Hammerly (Linguistics)                               | *DUE: JOURNAL ENTRY #7*                                                        |     |\n| 12   | 11.21.24 | P4: Final Presentations                                                  |                                                                                |     |\n| 13   | 11.26.24 | P5: Final Presentations                                                  |                                                                                |     |\n| 13   | 11.28.24 | G9: Dr. Judy Illes (Neurology)                                           | Read: Illes (2023)<br>*DUE: QS*                                                |     |\n| 14   | 12.03.24 | D9:                                                                      |                                                                                |     |\n| 14   | 12.05.24 | P6: Final Presentations                                                  | *DUE: CONFIRMATION OF RESEARCH PARTICIPATION*                                  |     |\n|      | 12.12.24 |                                                                          | *DUE: PROPOSAL*                                                                |     |\n",
+			"styleAttributes":{},
+			"x":-1720,
+			"y":-620,
+			"width":903,
+			"height":1091
+		},
+		{
+			"id":"f3f2ce550b80007d",
+			"type":"text",
+			"text":"![[COGS 401 Journal Entry 1 Article Annotated]]",
+			"styleAttributes":{
+				"border":null,
+				"textAlign":null
+			},
+			"x":780,
+			"y":467,
+			"width":525,
+			"height":283
+		},
+		{
+			"id":"693326fba1c463f1",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+			"styleAttributes":{},
+			"x":222,
+			"y":467,
+			"width":479,
+			"height":619
+		},
+		{
+			"id":"f1a5467f45fff747",
+			"type":"text",
+			"text":"# Syllabus",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-680,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"d29d0d168ad6b5e9",
+			"type":"text",
+			"text":"| COGS_V 401-102 - Seminar in Cognitive Systems | Seminar%%  %% | 2024-09-03 - 2024-12-05 \\| Tue Thu \\| 9:30 a.m. - 11:00 a.m. \\| BUCH-Floor 3-Room D317 | 9/3/2024 | 12/5/2024 |\n| --------------------------------------------- | ------------- | -------------------------------------------------------------------------------------- | -------- | --------- |\n",
+			"styleAttributes":{},
+			"x":-720,
+			"y":-800,
+			"width":739,
+			"height":92
+		},
+		{
+			"id":"ce8d9e775ffb026e",
+			"type":"text",
+			"text":"#### OGS 401: Journal Entries (10%)  \nYou will submit seven journal entries during the term. The journal entries are open-  \nended. They should be at least 500 words and pertain to research relevant to at least  \none of the core fields (Philosophy, Psychology, Computer Science, and Linguistics).  \n\nThere is no maximum length. Your journal entries should focus on  \nbrainstorming/developing a topic for your proposal and/or COGS 402.  \nEach journal entry is worth 1% for on-time completion (including meeting the minimum  \nrequirements for length and relevance). You will receive 7% for completion.  \n\nYou will submit a full journal at the end of term which will include all your submitted  \nentries, in addition to other notes and thoughts you had over term. The full submission  \nis worth 3%. To receive full points, your collection of journal entries must showcase  \ndifferent kinds of thinking/planning:  \n• At least two entries must focus on background/literature (e.g., summarising  \nrelevant articles)  \n• At least two entries must focus on brainstorming/developing ideas.  \n• The other three may fall into one of the above categories, but may also be  \nsomething different (but relevant).",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":540,
+			"width":700,
+			"height":461
+		},
+		{
+			"id":"dc92a34ab8b9f10a",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS401_syllabus.pdf",
+			"subpath":"#page=1",
+			"styleAttributes":{},
+			"x":-760,
+			"y":-520,
+			"width":720,
+			"height":610
+		},
+		{
+			"id":"4904220537c33269",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+			"styleAttributes":{},
+			"x":696,
+			"y":1460,
+			"width":570,
+			"height":400
+		},
+		{
+			"id":"d8d9497987ff5aeb",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 2.md",
+			"styleAttributes":{},
+			"x":620,
+			"y":1265,
+			"width":400,
+			"height":74
+		},
+		{
+			"id":"637c1b73befb4e5c",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+			"styleAttributes":{},
+			"x":187,
+			"y":1394,
+			"width":400,
+			"height":580
+		},
+		{
+			"id":"fffc8389830c89ab",
+			"type":"text",
+			"text":"#### Group discussion",
+			"styleAttributes":{},
+			"x":-390,
+			"y":1715,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"696825c6bad6bb42",
+			"type":"text",
+			"text":"**Peer reviews**\n- Narrow scope\n- Specific examples of artworks\n- Separate psych and art\n- narrow down research\n- functional relevance\n- defining cybernetics as relates to perception",
+			"styleAttributes":{},
+			"x":-2490,
+			"y":4139,
+			"width":480,
+			"height":216
+		},
+		{
+			"id":"3caa92c524247ff9",
+			"type":"text",
+			"text":"I had stated I was considering separating psych & art to **narrow scope** and people agreed\n",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":4217,
+			"width":400,
+			"height":60
+		},
+		{
+			"id":"179d31359b418dae",
+			"type":"text",
+			"text":"Focus on *other minds*\nPrecise methodology",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":3964,
+			"width":303,
+			"height":62
+		},
+		{
+			"id":"104fc658b58b704c",
+			"type":"text",
+			"text":"### Laura feedback\nMost importantly, I'd encourage you to further **narrow down** your research question. As you have mentioned in your reflection, your mind map involves many moving parts. *I'd recommend focusing on either self-perception or perception of other minds.* In addition, your mind map would benefit from a more detailed account of your methodology. **What exact steps will your project involve? Why did you choose this method to approach your research question?**",
+			"styleAttributes":{},
+			"x":-2490,
+			"y":3869,
+			"width":480,
+			"height":251
+		},
+		{
+			"id":"92c6abf8d67048ad",
+			"type":"text",
+			"text":"#### Peer feedback on mind map\n1. Question:  \n**Have you thought about which specific visual elements or kinds of artwork might influence how people see agency and humanity?** I’m curious about what types you’d pick and why you think they’d work well for this.  \n2. Strengths:  \n- I really like how your mind map lays out key psychology theories, like agency and humanity perception, and directly connects them to art. It makes the project’s framework feel organized and easy to follow, and it shows how these ideas could cross over between psychology and art.  \n- In your reflection, I think your idea to **separate the psychology and art methods** to keep the focus tighter is smart. It seems like a good way to manage the workload, and it shows you’re already thinking about keeping the project doable.  \n  \n3. Suggestions:  \n- I suggest to **narrow the scope** of the project to a few core concepts, especially in the psychology section, to make the study manageable and to meet deadlines without compromising depth.  \n- It could be interesting to pick **specific examples** of contemporary artwork that really fit your themes around agency and humanity. Showing how these artworks connect to your ideas might make your argument clearer and give more real-world grounding to the theory.  \n- Since you’re interested in how visualization impacts understanding, maybe look into recent studies in **visual pedagogy**. There might be frameworks there that would help you analyze how people interpret visuals of self and others—adding this structure could make that part of your study even stronger.\n\nAnonymous User, Oct 28 at 4:15p.m.\n\n1. Question: Do you expect culture or individual differences to play a role in how visual perception forms mind perception? Is this topic addressed in the contemporary research, that you will be exploring, on perception of minds? \n2. Strengths: \n\t1. a) Good summarization of existing background literature in art theory and psychology b) Unique, creative topic that addresses a gap in knowledge \n3. Suggestions: \n\t1. a) As you say in your reflection, you seem to have a lot of ideas floating around right now in relation to your topic. I think it is best if you try to **narrow down your research**, it was a bit overwhelming/hard for me to understand holistically the background research you mentioned in the context of your research question. Considering the scope of your research will be psychology AND cybernetics, it might be better to focus your research slightly. \n\t2. b) I think it would help to expand more on why this research is important. I understand that it could give us a better understanding of how we perceive ourselves and others, but **why is this knowledge functionally important** or why should we be concerned about this topic? \n\t3. c) Given the complexity and variety of theories within cybernetics, **I think starting with a definition/explanation of cybernetics and how it relates with perception** could make your research clearer.\n\nAnonymous User, Oct 30 at 6:30p.m.\n\n1. I wonder if the participants will be mostly infants since that was the study mentioned. If so, how would the recruiting of participants be done, say, on campus?  \n2. i) One of the strengths of this project idea is that the research topic, at least for the psychological question, has enough background literature to refer to and base further ideas on. \n\t1. ii) The project idea also has rarity of topic in the sense that not many people would be familiar with cybernetics, and it has much to contribute in that regard.  \n3. i) It would be great if the experimental method for the psychology part of the study is more developed in a way that has not been used in previous studies. \n\t1. ii) As the student suggested in their reflection, I concur that separating those two distinct questions (i.e., psychology and arts) would make the study more tenable. \n\t2. iii) I would like to see what exactly the researcher wants to know or study in terms of the research question.",
+			"styleAttributes":{},
+			"x":-3000,
+			"y":3710,
+			"width":560,
+			"height":58
+		},
+		{
+			"id":"30dcc1a8cf739e86",
+			"type":"text",
+			"text":"### Final Presentation\n#### Research Question (30-60 sec)\n\n#### Methods (<2 min)\n- Cybernetics background\n\n#### Peer feedback impact (30-60 sec)\n\n#### Concrete outcome & big picture (1-1.5 min)",
+			"styleAttributes":{},
+			"x":-1180,
+			"y":4160,
+			"width":520,
+			"height":400
+		},
+		{
+			"id":"a94f04c50366cf52",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+			"styleAttributes":{},
+			"x":172,
+			"y":2063,
+			"width":400,
+			"height":570
+		},
+		{
+			"id":"c717ba3f68b089d3",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
+			"styleAttributes":{},
+			"x":701,
+			"y":2348,
+			"width":570,
+			"height":315
+		},
+		{
+			"id":"53f1660ae026f56d",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 3.md",
+			"styleAttributes":{},
+			"x":-217,
+			"y":2960,
+			"width":389,
+			"height":50
+		},
+		{
+			"id":"00fb645e2de2ee83",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 4.md",
+			"styleAttributes":{},
+			"x":185,
+			"y":2963,
+			"width":387,
+			"height":77
+		},
+		{
+			"id":"34e0d02305004226",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 5.md",
+			"styleAttributes":{},
+			"x":620,
+			"y":2930,
+			"width":387,
+			"height":220
+		},
+		{
+			"id":"b16d3c742aadfd03",
+			"type":"text",
+			"text":"https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
+			"styleAttributes":{},
+			"x":1164,
+			"y":3002,
+			"width":260,
+			"height":76
+		},
+		{
+			"id":"98eb416e9b9debb9",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+			"styleAttributes":{},
+			"x":404,
+			"y":3305,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"1adedc8563addd23",
+			"type":"text",
+			"text":"Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+			"styleAttributes":{},
+			"x":404,
+			"y":3760,
+			"width":400,
+			"height":80
+		},
+		{
+			"id":"38bb0211ac37f674",
+			"type":"text",
+			"text":"[[COGS 401 Research Notes.canvas|COGS 401 Mind Map]]",
+			"styleAttributes":{},
+			"x":1740,
+			"y":2800,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"c9bc417cff7f0657",
+			"type":"file",
+			"file":"W2024 Files/Screenshot 2024-11-16 at 4.09.38 PM.png",
+			"styleAttributes":{},
+			"x":-1180,
+			"y":3800,
+			"width":523,
+			"height":339
+		},
+		{
+			"id":"34914cb71fb25d4b",
+			"type":"text",
+			"text":"### 09.17.24",
+			"styleAttributes":{},
+			"x":-740,
+			"y":1600,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"17c5afe34618981e",
+			"type":"text",
+			"text":"#### Guest lecture",
+			"styleAttributes":{},
+			"x":-720,
+			"y":1680,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2f40ffd0e2c04800",
+			"type":"text",
+			"text":"### Reading: Aguirre 2003",
+			"styleAttributes":{},
+			"x":-660,
+			"y":2900,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e89a430c11c375e2",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Readings/Aguirre 2003 - Chpt Functional imaging in beha.pdf",
+			"styleAttributes":{},
+			"x":-660,
+			"y":3040,
+			"width":400,
+			"height":560
+		},
+		{
+			"id":"fc20bd8554a7221f",
+			"type":"text",
+			"text":"#### What is it doing: ",
+			"styleAttributes":{},
+			"x":-2240,
+			"y":4810,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"a6533aa342998a4f",
+			"type":"text",
+			"text":"# Goals of the artwork",
+			"styleAttributes":{},
+			"x":-1940,
+			"y":4720,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"25eb8737a92e6537",
+			"type":"text",
+			"text":"Evoking a physicalized relationship between human-agent and computer-agent: where the computer is brought to the visualized level that we can understand (visually) partially embodied as an image, which we in turn further realize as an agent through our actions that create its motion and \"bring it to life\": we also serve as the surface of the projection ",
+			"styleAttributes":{},
+			"x":-2220,
+			"y":4886,
+			"width":480,
+			"height":160
+		},
+		{
+			"id":"312e4292dbabc6f9",
+			"type":"text",
+			"text":"#### Why is it doing it:",
+			"styleAttributes":{},
+			"x":-2240,
+			"y":5077,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"fa72df748806a5e8",
+			"type":"text",
+			"text":"Experiences involving agents are more emotionally evocative, and thus more memorable–they also have more moral quality. Creating an agent out of computer surveillance, something which is so ubiquitous to be asinine, re-institutes it in psychology as something which is continuously happening and yet does not affect us because a camera does not feel alive, even if the feed is watched by a security guard and the data is analyzed by a person and fed to a company run by people who make decisions regarding its use. ",
+			"styleAttributes":{},
+			"x":-2220,
+			"y":5197,
+			"width":480,
+			"height":234
+		},
+		{
+			"id":"d844a2c5fe7ff9b0",
+			"type":"text",
+			"text":"- It must have some kind of striking moment\n- It must be accessible\n",
+			"styleAttributes":{},
+			"x":-1660,
+			"y":4840,
+			"width":340,
+			"height":81
+		},
+		{
+			"id":"51c7b4ae738617cf",
+			"type":"text",
+			"text":"**Question:** \nGiven that it's documented that tonal language speakers have greater prevalence of absolute/perfect pitch, I'm curious if there's been any research exploring the association between non-linguistic auditory processing and the kinds of tasks participants were asked to do in this paper. Do you think that generalized auditory processing plays as much of a role as language-specific processing in either learning novel words or within-speaker identification, and if so would you think it would apply more to one of those than the other?",
+			"styleAttributes":{},
+			"x":-739,
+			"y":1303,
+			"width":679,
+			"height":181
+		},
+		{
+			"id":"c87aa1b2d0df5d9b",
+			"type":"text",
+			"text":"#### How does it do this: ",
+			"styleAttributes":{},
+			"x":-1620,
+			"y":4971,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"41ab19e3b44ec44e",
+			"type":"text",
+			"text":"- Have viewer facing webcam placed in front of projection, appear to be \"eyes\"; have camera feed actually be coming from behind?\n- Every few minutes, have the installation be completely replaced with the mediapipe video stream \n\t- *showing overlays like pose & image classification*",
+			"styleAttributes":{},
+			"x":-1580,
+			"y":5077,
+			"width":440,
+			"height":163
+		},
+		{
+			"id":"2daefd5a80b49d3b",
+			"type":"text",
+			"text":"### 09.12.24",
+			"styleAttributes":{},
+			"x":212,
+			"y":184,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"96426193de443a3a",
+			"type":"text",
+			"text":"can join grad student project for 402",
+			"styleAttributes":{},
+			"x":-185,
+			"y":184,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"21ec0ed4c614066d",
+			"type":"text",
+			"text":"#### Group Presentation",
+			"styleAttributes":{},
+			"x":212,
+			"y":269,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"80244124661411d9",
+			"type":"text",
+			"text":"![[COGS 401 G1D1 Laura Bickel]]",
+			"styleAttributes":{},
+			"x":-620,
+			"y":858,
+			"width":720,
+			"height":219
+		},
+		{
+			"id":"652f93cf2e345f13",
+			"type":"text",
+			"text":"Sensorimotor timing;\nDopamine role in motor function (as seen in Parkinsons)",
+			"styleAttributes":{},
+			"x":-620,
+			"y":1098,
+			"width":320,
+			"height":50
+		},
+		{
+			"id":"8799c4c678c75190",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Rubrics/COGS401_ResearchJournal.pdf",
+			"styleAttributes":{},
+			"x":-1540,
+			"y":1065,
+			"width":700,
+			"height":565
+		},
+		{
+			"id":"8c326c5601a6b87a",
+			"type":"text",
+			"text":"### 09.10.24",
+			"styleAttributes":{},
+			"x":-694,
+			"y":184,
+			"width":250,
+			"height":60
+		},
+		{
+			"id":"0b18e559449e804a",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Readings/G2 Annotated Reading - Lloy et al.md",
+			"styleAttributes":{},
+			"x":-740,
+			"y":1240,
+			"width":540,
+			"height":50
+		},
+		{
+			"id":"063ad0c64532bbf1",
+			"type":"text",
+			"text":"Article 2: **The structure of acoustic voice variation in bilingual speech**",
+			"styleAttributes":{},
+			"x":-740,
+			"y":1520,
+			"width":523,
+			"height":50
+		},
+		{
+			"id":"d41a62fdb0297458",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/COGS 401 Journal Entry 1.md",
+			"styleAttributes":{},
+			"x":843,
+			"y":858,
+			"width":400,
+			"height":50
+		},
+		{
+			"id":"8f77feefe54fa76d",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Readings/Wittmann_2007-1.pdf",
+			"subpath":"#page=7",
+			"styleAttributes":{},
+			"x":-620,
+			"y":299,
+			"width":720,
+			"height":559
+		}
+	],
+	"edges":[
+		{"id":"bf3f4960c98b574d","fromNode":"8f77feefe54fa76d","fromSide":"left","toNode":"80244124661411d9","toSide":"left"},
+		{"id":"952b4d76765062f8","fromNode":"80244124661411d9","fromSide":"bottom","toNode":"652f93cf2e345f13","toSide":"top"},
+		{"id":"732e95cf3be48d3b","fromNode":"693326fba1c463f1","fromSide":"right","toNode":"f3f2ce550b80007d","toSide":"left"},
+		{
+			"id":"372a40bc47b72675",
+			"styleAttributes":{},
+			"fromNode":"c717ba3f68b089d3",
+			"fromSide":"left",
+			"toNode":"00fb645e2de2ee83",
+			"toSide":"top"
+		},
+		{
+			"id":"b1d5646b6baa1757",
+			"styleAttributes":{},
+			"fromNode":"34e0d02305004226",
+			"fromSide":"right",
+			"toNode":"98eb416e9b9debb9",
+			"toSide":"right"
+		},
+		{
+			"id":"0e272e9330a43775",
+			"styleAttributes":{},
+			"fromNode":"34e0d02305004226",
+			"fromSide":"right",
+			"toNode":"b16d3c742aadfd03",
+			"toSide":"left"
+		},
+		{
+			"id":"7a0bd440117125e0",
+			"styleAttributes":{},
+			"fromNode":"f3f2ce550b80007d",
+			"fromSide":"bottom",
+			"toNode":"d41a62fdb0297458",
+			"toSide":"top"
+		},
+		{
+			"id":"8353745b61889174",
+			"styleAttributes":{},
+			"fromNode":"4904220537c33269",
+			"fromSide":"top",
+			"toNode":"d8d9497987ff5aeb",
+			"toSide":"bottom"
+		},
+		{
+			"id":"22dceb39ea989da2",
+			"styleAttributes":{},
+			"fromNode":"696825c6bad6bb42",
+			"fromSide":"right",
+			"toNode":"3caa92c524247ff9",
+			"toSide":"left"
+		},
+		{
+			"id":"38b6a98ecca618f6",
+			"styleAttributes":{},
+			"fromNode":"25eb8737a92e6537",
+			"fromSide":"right",
+			"toNode":"d844a2c5fe7ff9b0",
+			"toSide":"left"
+		},
+		{
+			"id":"8e2b71c50f05e4df",
+			"styleAttributes":{},
+			"fromNode":"d844a2c5fe7ff9b0",
+			"fromSide":"bottom",
+			"toNode":"c87aa1b2d0df5d9b",
+			"toSide":"top"
+		},
+		{
+			"id":"99b8b24def089cb7",
+			"styleAttributes":{},
+			"fromNode":"30dcc1a8cf739e86",
+			"fromSide":"left",
+			"toNode":"a6533aa342998a4f",
+			"toSide":"top"
+		},
+		{
+			"id":"59a9cc0f94b4fc29",
+			"styleAttributes":{},
+			"fromNode":"92c6abf8d67048ad",
+			"fromSide":"bottom",
+			"toNode":"696825c6bad6bb42",
+			"toSide":"left"
+		},
+		{
+			"id":"a3682a493c4a1240",
+			"styleAttributes":{},
+			"fromNode":"104fc658b58b704c",
+			"fromSide":"right",
+			"toNode":"3caa92c524247ff9",
+			"toSide":"left"
+		},
+		{
+			"id":"84e1d75a542d937f",
+			"styleAttributes":{},
+			"fromNode":"104fc658b58b704c",
+			"fromSide":"right",
+			"toNode":"179d31359b418dae",
+			"toSide":"left"
+		}
+	],
+	"metadata":{}
 }
