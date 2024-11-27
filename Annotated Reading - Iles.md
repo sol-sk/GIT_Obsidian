@@ -253,3 +253,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^6znpub58dyc
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T07:06:30.855Z","updated":"2024-11-27T07:06:30.855Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":13744,"end":14009},{"type":"TextQuoteSelector","exact":"environmen-tal neuroethics covers both the benefitsof human changes to the built environ-ment as in the case of neuroarchitecture,and to changes of the natural environmentin terms of both economic benefit andbrain health risks from climate and indus-trial impacts. ","prefix":"ture,and advocacy and activism, ","suffix":"Ethically guided, geopoliti-call"}]}]}
+>```
+>%%
+>*%%PREFIX%%ture,and advocacy and activism,%%HIGHLIGHT%% ==environmen-tal neuroethics covers both the benefitsof human changes to the built environ-ment as in the case of neuroarchitecture,and to changes of the natural environmentin terms of both economic benefit andbrain health risks from climate and indus-trial impacts.== *
+>%%LINK%%[[#^dh1zc9d6cz5|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^dh1zc9d6cz5
