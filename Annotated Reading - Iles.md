@@ -71,3 +71,31 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^grxxctkjk
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:44:53.470Z","updated":"2024-11-27T06:44:53.470Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":6401,"end":6729},{"type":"TextQuoteSelector","exact":"United States in 2011 and Canada in 2014declared fracking a threat to human rights,and the lack of monitoring of changes tohealth and traditional ways of life a criticalissue. As I will explore next, these issueswere picked up in both public and academicdiscourse, the third component of the envi-ronmental neuroethics framework","prefix":"tes, advisory panels in both the","suffix":".Public and academic discourseNe"}]}]}
+>```
+>%%
+>*%%PREFIX%%tes, advisory panels in both the%%HIGHLIGHT%% ==United States in 2011 and Canada in 2014declared fracking a threat to human rights,and the lack of monitoring of changes tohealth and traditional ways of life a criticalissue. As I will explore next, these issueswere picked up in both public and academicdiscourse, the third component of the envi-ronmental neuroethics framework== *
+>%%LINK%%[[#^2s8d66ivrzv|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^2s8d66ivrzv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:45:06.918Z","updated":"2024-11-27T06:45:06.918Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":4244,"end":4343},{"type":"TextQuoteSelector","exact":"Glyphosatesfound in everyday garden weed killershave been shown to increase anxiety inanimal models","prefix":"con-troversial (Cabrera, 2017). ","suffix":". Other studies have docu-mented"}]}]}
+>```
+>%%
+>*%%PREFIX%%con-troversial (Cabrera, 2017).%%HIGHLIGHT%% ==Glyphosatesfound in everyday garden weed killershave been shown to increase anxiety inanimal models== *
+>%%LINK%%[[#^0mc3fahtbdv8|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^0mc3fahtbdv8
