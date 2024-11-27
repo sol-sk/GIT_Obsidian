@@ -1117,70 +1117,6 @@
       "height": 60
     },
     {
-      "id": "68221bd9306bdeab",
-      "type": "text",
-      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11440,
-      "width": 440,
-      "height": 673
-    },
-    {
-      "id": "498244fd7ecd9db5",
-      "type": "text",
-      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 10830,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "fc76e0c145880469",
-      "type": "text",
-      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 10810,
-      "width": 360,
-      "height": 215
-    },
-    {
-      "id": "8fd5523b2c14cf00",
-      "type": "text",
-      "text": "### Research Question",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 10750,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 11660,
-      "width": 360,
-      "height": 215
-    },
-    {
-      "id": "6f79bccfb22b2286",
-      "type": "text",
-      "text": "### Paper",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 11360,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "e9062ff41e17d378",
       "type": "text",
       "text": "### Installation",
@@ -1199,16 +1135,6 @@
       "styleAttributes": {},
       "x": -5100,
       "y": 12280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2cad693b8a9567f4",
-      "type": "text",
-      "text": "- More memorable? \n- More personal experience?",
-      "styleAttributes": {},
-      "x": -5010,
-      "y": 11072,
       "width": 260,
       "height": 60
     },
@@ -1341,56 +1267,6 @@
       "height": 110
     },
     {
-      "id": "c708b57f3b06953c",
-      "type": "file",
-      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11140,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "9d6d3baf60e72eb2",
-      "type": "text",
-      "text": "#### BarabasiLAB",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11890,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "dd6244c895c66528",
-      "type": "text",
-      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 11890,
-      "width": 570,
-      "height": 240
-    },
-    {
-      "id": "c8a5ce2c4deb92d6",
-      "type": "text",
-      "text": "#### Refik Anadol",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "4db6d54886bc0e52",
       "type": "text",
       "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
@@ -1399,26 +1275,6 @@
       "y": 11695,
       "width": 310,
       "height": 80
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "6c987bfd8709d556",
-      "type": "text",
-      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10580,
-      "width": 400,
-      "height": 180
     },
     {
       "id": "b18dff2f79d50026",
@@ -1501,26 +1357,6 @@
       "height": 103
     },
     {
-      "id": "5da8e5b8ccd3d511",
-      "type": "text",
-      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
-      "styleAttributes": {},
-      "x": -3440,
-      "y": 10500,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "25306e3d47f118b7",
-      "type": "text",
-      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10780,
-      "width": 300,
-      "height": 200
-    },
-    {
       "id": "f3d0e7f0a07d23cd",
       "type": "text",
       "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
@@ -1546,46 +1382,6 @@
       "width": 380,
       "height": 67,
       "color": "#1035a2"
-    },
-    {
-      "id": "b54d83fbbe35daf8",
-      "type": "text",
-      "text": "# Artists",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10400,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "642c727676ae6e5a",
-      "type": "text",
-      "text": "#### Pierre Huyghe",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10500,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "531b643a7021403a",
-      "type": "file",
-      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10580,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "d73b00984d778fb2",
-      "type": "text",
-      "text": "#### Nam June Paik",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11042,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "335f5cae3fdb2769",
@@ -2122,6 +1918,210 @@
       "y": 11346,
       "width": 545,
       "height": 320
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11440,
+      "width": 440,
+      "height": 673
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 10830,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 10750,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11890,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 11890,
+      "width": 570,
+      "height": 240
+    },
+    {
+      "id": "c8a5ce2c4deb92d6",
+      "type": "text",
+      "text": "#### Refik Anadol",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5da8e5b8ccd3d511",
+      "type": "text",
+      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
+      "styleAttributes": {},
+      "x": -3440,
+      "y": 10500,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "fc76e0c145880469",
+      "type": "text",
+      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10810,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 11660,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11360,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "- More memorable? \n- More personal experience?",
+      "styleAttributes": {},
+      "x": -5010,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6c987bfd8709d556",
+      "type": "text",
+      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10580,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "b54d83fbbe35daf8",
+      "type": "text",
+      "text": "# Artists",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "642c727676ae6e5a",
+      "type": "text",
+      "text": "#### Pierre Huyghe",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "531b643a7021403a",
+      "type": "file",
+      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10580,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "d73b00984d778fb2",
+      "type": "text",
+      "text": "#### Nam June Paik",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11042,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
