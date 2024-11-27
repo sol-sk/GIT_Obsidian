@@ -99,3 +99,73 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^0mc3fahtbdv8
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:47:13.251Z","updated":"2024-11-27T06:47:13.251Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":7153,"end":7343},{"type":"TextQuoteSelector","exact":"We systematically searchedmajor databases for peer-reviewed andgray literature articles using terms frommining, brain, and mental health, as wellas variations on the terms culture andethics.","prefix":"roring in the aca-demic sector. ","suffix":" We examined the frequency ofmaj"}]}]}
+>```
+>%%
+>*%%PREFIX%%roring in the aca-demic sector.%%HIGHLIGHT%% ==We systematically searchedmajor databases for peer-reviewed andgray literature articles using terms frommining, brain, and mental health, as wellas variations on the terms culture andethics.== *
+>%%LINK%%[[#^57j73vqs72h|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^57j73vqs72h
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:47:27.089Z","updated":"2024-11-27T06:47:27.089Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":7920,"end":8082},{"type":"TextQuoteSelector","exact":"Nearlynone discussed impacts on the brain andmental health in any depth, opening thedoor to a significant opportunity for theneuroscience community to contribute.","prefix":"or briefly in a few words only. ","suffix":"A majority of papers in the seco"}]}]}
+>```
+>%%
+>*%%PREFIX%%or briefly in a few words only.%%HIGHLIGHT%% ==Nearlynone discussed impacts on the brain andmental health in any depth, opening thedoor to a significant opportunity for theneuroscience community to contribute.== *
+>%%LINK%%[[#^wzszeer797b|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wzszeer797b
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:48:21.571Z","updated":"2024-11-27T06:48:21.571Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":8972,"end":9103},{"type":"TextQuoteSelector","exact":"Even 30 years ago, one couldeasily consider that environmental rac-ism was a factor in the 1984 Bhopalindustrial disaster in India ","prefix":"as noted well beforethis study. ","suffix":"—consid-ered to be one of the wo"}]}]}
+>```
+>%%
+>*%%PREFIX%%as noted well beforethis study.%%HIGHLIGHT%% ==Even 30 years ago, one couldeasily consider that environmental rac-ism was a factor in the 1984 Bhopalindustrial disaster in India== *
+>%%LINK%%[[#^ozayfjhiqg|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ozayfjhiqg
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:48:26.460Z","updated":"2024-11-27T06:48:26.460Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":9719,"end":9863},{"type":"TextQuoteSelector","exact":"Historicaland contemporary examples of injusticesto marginalized populations related tothe neuroscience-environment-ethicslandscape are unending","prefix":"eadexposure had been mitigated. ","suffix":".Traditional ecological knowledg"}]}]}
+>```
+>%%
+>*%%PREFIX%%eadexposure had been mitigated.%%HIGHLIGHT%% ==Historicaland contemporary examples of injusticesto marginalized populations related tothe neuroscience-environment-ethicslandscape are unending== *
+>%%LINK%%[[#^24donzyy01j|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^24donzyy01j
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:48:33.259Z","updated":"2024-11-27T06:48:33.259Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":9896,"end":10088},{"type":"TextQuoteSelector","exact":"The next component of the environmentalneuroethics discussion focuses on tradi-tional ecological knowledge —the spiritualand intangible experience of relationships,health, and the environment.","prefix":"Traditional ecological knowledge","suffix":" I illustratethis component of t"}]}]}
+>```
+>%%
+>*%%PREFIX%%Traditional ecological knowledge%%HIGHLIGHT%% ==The next component of the environmentalneuroethics discussion focuses on tradi-tional ecological knowledge —the spiritualand intangible experience of relationships,health, and the environment.== *
+>%%LINK%%[[#^6cipqd5u0lu|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^6cipqd5u0lu
