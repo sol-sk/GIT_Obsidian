@@ -169,3 +169,31 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^6cipqd5u0lu
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:56:32.014Z","updated":"2024-11-27T06:56:32.014Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":10688,"end":10991},{"type":"TextQuoteSelector","exact":"To approach this work in a culturallyappropriate way, we co-created research questions. We moved from the poorlyformulated, paternalistic urban approachof “Why aren’t they [Tahltans] coming tous [UBC], for testing?”to one that reson-ated with the community, “How does aNation achieve wellness in EOFAD?”","prefix":"-plement to traditional beliefs.","suffix":"Thelatter reflected the values o"}]}]}
+>```
+>%%
+>*%%PREFIX%%-plement to traditional beliefs.%%HIGHLIGHT%% ==To approach this work in a culturallyappropriate way, we co-created research questions. We moved from the poorlyformulated, paternalistic urban approachof “Why aren’t they [Tahltans] coming tous [UBC], for testing?”to one that reson-ated with the community, “How does aNation achieve wellness in EOFAD?”== *
+>%%LINK%%[[#^xvb9uikvn4|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^xvb9uikvn4
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:56:37.524Z","updated":"2024-11-27T06:56:37.524Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":10309,"end":10431},{"type":"TextQuoteSelector","exact":"This highly collaborative workfocused on the causes and understand- ings of early onset familial AlzheimerDisease (EOFAD).","prefix":"ong the western flank ofCanada. ","suffix":"With Elders from the Nation, com"}]}]}
+>```
+>%%
+>*%%PREFIX%%ong the western flank ofCanada.%%HIGHLIGHT%% ==This highly collaborative workfocused on the causes and understand- ings of early onset familial AlzheimerDisease (EOFAD).== *
+>%%LINK%%[[#^ckw987dlk9f|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^ckw987dlk9f
