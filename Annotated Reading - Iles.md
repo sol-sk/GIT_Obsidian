@@ -57,3 +57,17 @@ annotation-target: W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethics
 >%%TAGS%%
 >
 ^nc6nowfyhiq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-27T06:43:55.679Z","updated":"2024-11-27T06:43:55.679Z","document":{"title":"SN-JNSJ230677 8272..8274","link":[{"href":"urn:x-pdf:6735c4ef14381b2bc308d989ba41e0e9"},{"href":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf"}],"documentFingerprint":"6735c4ef14381b2bc308d989ba41e0e9"},"uri":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","target":[{"source":"vault:/W2024/W2024T1/COGS 401/Readings/IllesEnvironmentalNeuroethicsforGlobalNeuroscience - Illes (2023).pdf","selector":[{"type":"TextPositionSelector","start":14297,"end":14483},{"type":"TextQuoteSelector","exact":"Returning to the fundamental practicaltenets of neuroethics, anticipation andresponsiveness remain central themes atthe intersection of neuroscience, environ-ment, and ethics and culture","prefix":"call it, as longas we pursue it.","suffix":". Continuedbalance in the equati"}]}]}
+>```
+>%%
+>*%%PREFIX%%call it, as longas we pursue it.%%HIGHLIGHT%% ==Returning to the fundamental practicaltenets of neuroethics, anticipation andresponsiveness remain central themes atthe intersection of neuroscience, environ-ment, and ethics and culture== *
+>%%LINK%%[[#^grxxctkjk|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^grxxctkjk
