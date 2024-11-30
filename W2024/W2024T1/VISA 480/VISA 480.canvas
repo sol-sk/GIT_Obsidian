@@ -231,26 +231,6 @@
       "height": 129
     },
     {
-      "id": "86c3b98d0f9dffa9",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 480/Rhetoric and cognitive bias.md",
-      "styleAttributes": {},
-      "x": 1400,
-      "y": 5040,
-      "width": 1020,
-      "height": 772
-    },
-    {
-      "id": "911e099f7a9833d4",
-      "type": "text",
-      "text": "### 10.23.24",
-      "styleAttributes": {},
-      "x": 1120,
-      "y": 5040,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "b3f0b7c51ecc5686",
       "type": "file",
       "file": "W2024/W2024T1/VISA 480/VISA 480 Le Guin Notes.md",
@@ -279,16 +259,6 @@
       "y": 3340,
       "width": 401,
       "height": 1560
-    },
-    {
-      "id": "ec66c103415abb87",
-      "type": "text",
-      "text": "### False consensus effect\n- When you assume that people have the same beliefs, habits, and desires as you do \n- Comes from a desire for social cohesion and to fit in; alleviates anxiety to assume that you are successfully conforming \n- Assuming that the way one thinks and behaves is \"correct\" and therefore other people would also be doing the correct thing \n\t- Wanting to act correctly; we have to assume we know what other people's expectations of \"correctness\" are in order to act\n- In the codex, under \"need to act fast\"; \"we must feel confident we can make an impact and feel what we do  is important\" \n- although I feel it's also accurate to categorize it with \"we think we know what other people are thinking\"; complement to \"illusion of transparency\"\n- It can also be a barrier to empathy; assuming someone has had the same experiences as you make it difficult to understand why someone would think or act differently\n\n**Example**\n- you are in VISA 480 class and you raise your hand to discuss a particular reading assuming that lots of other people are also interested in it, and being surprised when you are the only one",
-      "styleAttributes": {},
-      "x": 1420,
-      "y": 5860,
-      "width": 560,
-      "height": 536
     },
     {
       "id": "6244138f1d281d55",
@@ -434,8 +404,38 @@
       "styleAttributes": {},
       "x": -900,
       "y": 2160,
-      "width": 260,
-      "height": 8280
+      "width": 340,
+      "height": 319
+    },
+    {
+      "id": "911e099f7a9833d4",
+      "type": "text",
+      "text": "### 10.23.24",
+      "styleAttributes": {},
+      "x": 3920,
+      "y": 1170,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "86c3b98d0f9dffa9",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/Rhetoric and cognitive bias.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 1170,
+      "width": 1020,
+      "height": 772
+    },
+    {
+      "id": "ec66c103415abb87",
+      "type": "text",
+      "text": "### False consensus effect\n- When you assume that people have the same beliefs, habits, and desires as you do \n- Comes from a desire for social cohesion and to fit in; alleviates anxiety to assume that you are successfully conforming \n- Assuming that the way one thinks and behaves is \"correct\" and therefore other people would also be doing the correct thing \n\t- Wanting to act correctly; we have to assume we know what other people's expectations of \"correctness\" are in order to act\n- In the codex, under \"need to act fast\"; \"we must feel confident we can make an impact and feel what we do  is important\" \n- although I feel it's also accurate to categorize it with \"we think we know what other people are thinking\"; complement to \"illusion of transparency\"\n- It can also be a barrier to empathy; assuming someone has had the same experiences as you make it difficult to understand why someone would think or act differently\n\n**Example**\n- you are in VISA 480 class and you raise your hand to discuss a particular reading assuming that lots of other people are also interested in it, and being surprised when you are the only one",
+      "styleAttributes": {},
+      "x": 4220,
+      "y": 1990,
+      "width": 560,
+      "height": 536
     }
   ],
   "edges": [
