@@ -41,16 +41,6 @@
       "label": "Untitled group"
     },
     {
-      "id": "5a0f1c1a38dce28f",
-      "type": "text",
-      "text": "#### Chapter 1\n[[Ethics for the Information Age, 9e.pdf#page=57&annotation=2405R|Ethics for the Information Age, 9e, page 57]]\n> The traditional view of technology, called **instrumentalism**, sees technological devices as instruments created by engineers to achieve ends dictated by society. Instrumentalists focus on the benefits of technology. They see technology as expanding human capabilities, which is desirable. While it is true that a technology may be put to a bad use, that is the fault of the human users of the technology, not the creators of the technology or the technology itself, according to this view. \n\n> The **neutrality** thesis holds that technology is neither good nor bad; it is the users of that technology who determine whether it will be put to good or bad use. A well-known example of this perspective is the statement, “Guns don’t kill people. People kill people.”\n\n> **Pragmatism** is another view of technology that focuses on the role of technological devices in solving practical problems. Unlike instrumentalists, however, pragmatists do not think technology is value neutral. Rather, in their view, the value of a technology is dependent on the social context in which it is deployed. For example, urban coal-fired steam-heating plants would have been viewed favorably in the 1880s because they were a cleaner and more efficient source of heat than the alternatives available at that time. Today, the same technology would be seen as harmful because climate change is an important social concern, and coal-fired plants emit more carbon dioxide than alternative heat sources. \n\n> **Technological determinism** is the view that technological advancements are the most important driver of social, economic, and cultural change. According to this view, technological change is autonomous and inevitable, as expressed in the familiar saying, “You can’t stop progress.” Technological determinists can point to historical events sup- porting their view. For example, the early adoption of gunpowder in Turkey enabled the creation the Ottoman Empire, and the invention of the printing press was a catalyst for the creation of nation-states in Western Europe. Modern commentators who see the rise of AI as unstoppable are reflecting a deterministic view of technology. \n\n\n> Critics of technological determinism argue that the theory is too simplistic and ignores the fact that societies do have some choice regarding whether to adopt new technologies. The **cultural approach to technology** holds that technology is an expression of human culture. Technology is value-laden because once adopted, it can impact society by making it easier for people to achieve some goals and more difficult for them to achieve others [62]. For example, as described earlier in this chapter, the adoption of the telephone facilitated long-distance communication, and the telephone also eroded traditional social hierarchies and generated new concerns about privacy. \n\n> Underlying the European colonization of the lands and people of America, Asia, and Africa was a belief system that presumed the racial inferiority of the colonized people and the inferiority of their knowledge and values. **Coloniality** refers to the situation in which these beliefs have been internalized and have persisted, even though colonialism is largely relegated to the past. Ex-colonized people believing that they are incapable of developing high quality technologies is a symptom of coloniality. Another symptom of coloniality is the view of some North Americans or Europeans that they can solve technical problems in developing nations without any help from the people who live there. Decolonial tech- nical design is the view that a pluralistic technical design process can overcome coloniality by including the knowledge, values, and world views of formerly colonized people ",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 1817,
-      "width": 1071,
-      "height": 767
-    },
-    {
       "id": "75f917c8fd20cde3",
       "type": "text",
       "text": "*literally just going over the textbook reading*",
@@ -79,16 +69,6 @@
       "y": 1760,
       "width": 440,
       "height": 60
-    },
-    {
-      "id": "882c06f901ffd9fe",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 2 Outline.md",
-      "styleAttributes": {},
-      "x": -80,
-      "y": 1817,
-      "width": 649,
-      "height": 360
     },
     {
       "id": "a2bc8a68712d7fe5",
@@ -132,6 +112,46 @@
       "height": 241
     },
     {
+      "id": "2ac44bbcc1c552ef",
+      "type": "text",
+      "text": "### 09.24.24: Kant",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 3760,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e2e30c276f928d07",
+      "type": "text",
+      "text": "### Essay 3 \nCan moral decisions be made on a purely rational, algorithmic basis, or are there limits to rationality in moral decision making? ",
+      "styleAttributes": {},
+      "x": -1140,
+      "y": 3580,
+      "width": 460,
+      "height": 128
+    },
+    {
+      "id": "5a0f1c1a38dce28f",
+      "type": "text",
+      "text": "#### Chapter 1\n[[Ethics for the Information Age, 9e.pdf#page=57&annotation=2405R|Ethics for the Information Age, 9e, page 57]]\n> The traditional view of technology, called **instrumentalism**, sees technological devices as instruments created by engineers to achieve ends dictated by society. Instrumentalists focus on the benefits of technology. They see technology as expanding human capabilities, which is desirable. While it is true that a technology may be put to a bad use, that is the fault of the human users of the technology, not the creators of the technology or the technology itself, according to this view. \n\n> The **neutrality** thesis holds that technology is neither good nor bad; it is the users of that technology who determine whether it will be put to good or bad use. A well-known example of this perspective is the statement, “Guns don’t kill people. People kill people.”\n\n> **Pragmatism** is another view of technology that focuses on the role of technological devices in solving practical problems. Unlike instrumentalists, however, pragmatists do not think technology is value neutral. Rather, in their view, the value of a technology is dependent on the social context in which it is deployed. For example, urban coal-fired steam-heating plants would have been viewed favorably in the 1880s because they were a cleaner and more efficient source of heat than the alternatives available at that time. Today, the same technology would be seen as harmful because climate change is an important social concern, and coal-fired plants emit more carbon dioxide than alternative heat sources. \n\n> **Technological determinism** is the view that technological advancements are the most important driver of social, economic, and cultural change. According to this view, technological change is autonomous and inevitable, as expressed in the familiar saying, “You can’t stop progress.” Technological determinists can point to historical events sup- porting their view. For example, the early adoption of gunpowder in Turkey enabled the creation the Ottoman Empire, and the invention of the printing press was a catalyst for the creation of nation-states in Western Europe. Modern commentators who see the rise of AI as unstoppable are reflecting a deterministic view of technology. \n\n\n> Critics of technological determinism argue that the theory is too simplistic and ignores the fact that societies do have some choice regarding whether to adopt new technologies. The **cultural approach to technology** holds that technology is an expression of human culture. Technology is value-laden because once adopted, it can impact society by making it easier for people to achieve some goals and more difficult for them to achieve others [62]. For example, as described earlier in this chapter, the adoption of the telephone facilitated long-distance communication, and the telephone also eroded traditional social hierarchies and generated new concerns about privacy. \n\n> Underlying the European colonization of the lands and people of America, Asia, and Africa was a belief system that presumed the racial inferiority of the colonized people and the inferiority of their knowledge and values. **Coloniality** refers to the situation in which these beliefs have been internalized and have persisted, even though colonialism is largely relegated to the past. Ex-colonized people believing that they are incapable of developing high quality technologies is a symptom of coloniality. Another symptom of coloniality is the view of some North Americans or Europeans that they can solve technical problems in developing nations without any help from the people who live there. Decolonial tech- nical design is the view that a pluralistic technical design process can overcome coloniality by including the knowledge, values, and world views of formerly colonized people ",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": 1817,
+      "width": 1071,
+      "height": 767
+    },
+    {
+      "id": "882c06f901ffd9fe",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 2 Outline.md",
+      "styleAttributes": {},
+      "x": -80,
+      "y": 1817,
+      "width": 649,
+      "height": 360
+    },
+    {
       "id": "8857c6d116c6f967",
       "type": "text",
       "text": "| 09.17.24 | Course Topics Discussion            | Chapter 1       |\n| -------- | ----------------------------------- | --------------- |\n| 09.19.24 | Ethics: Unworkable Ethical Theories | Secs. 2.1 - 2.5 |",
@@ -152,26 +172,6 @@
       "height": 60
     },
     {
-      "id": "d1c96d0adccc28ef",
-      "type": "text",
-      "text": "### Lecture 2 09.10.24",
-      "styleAttributes": {},
-      "x": 1527,
-      "y": 102,
-      "width": 250,
-      "height": 58
-    },
-    {
-      "id": "213e1c0506d3be8a",
-      "type": "file",
-      "file": "W2024/W2024T1/W2024T1 Files/Lect1-1.pdf",
-      "styleAttributes": {},
-      "x": 1191,
-      "y": 280,
-      "width": 400,
-      "height": 320
-    },
-    {
       "id": "e82bd32dce95b53f",
       "type": "text",
       "text": "Argue **against**\n\nSocial networks should be held legally liable for the content of any post promoted to the feeds of over 100k users\n\n- Not liable for user's actions\n- Privacy concerns\n- Countries have varying laws; which defer to \n- **Person posting** should be held liable\n- Not **feasible** to screen that much content; 100k is low bar in grand scheme \n- **Censorship** from over-screening bad for user base & freedom\n- Retroactively becoming illegal either thru post editing or new laws\n- Can just cap your illegal posts at 99k \n\nSection 230",
@@ -190,6 +190,46 @@
       "y": 102,
       "width": 250,
       "height": 58
+    },
+    {
+      "id": "0fac7b7b3bae2ea7",
+      "type": "text",
+      "text": "#### Speaking, Writing, and Argumentation",
+      "styleAttributes": {},
+      "x": 2400,
+      "y": 192,
+      "width": 420,
+      "height": 60
+    },
+    {
+      "id": "3dd93f54ee4552f4",
+      "type": "file",
+      "file": "W2024/W2024T1/W2024T1 Files/Lect1-2.pdf",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": 280,
+      "width": 400,
+      "height": 298
+    },
+    {
+      "id": "d1c96d0adccc28ef",
+      "type": "text",
+      "text": "### Lecture 2 09.10.24",
+      "styleAttributes": {},
+      "x": 1527,
+      "y": 102,
+      "width": 250,
+      "height": 58
+    },
+    {
+      "id": "213e1c0506d3be8a",
+      "type": "file",
+      "file": "W2024/W2024T1/W2024T1 Files/Lect1-1.pdf",
+      "styleAttributes": {},
+      "x": 1191,
+      "y": 280,
+      "width": 400,
+      "height": 320
     },
     {
       "id": "4a13c4c9714fd8b6",
@@ -222,26 +262,6 @@
       "height": 300
     },
     {
-      "id": "0fac7b7b3bae2ea7",
-      "type": "text",
-      "text": "#### Speaking, Writing, and Argumentation",
-      "styleAttributes": {},
-      "x": 2400,
-      "y": 192,
-      "width": 420,
-      "height": 60
-    },
-    {
-      "id": "3dd93f54ee4552f4",
-      "type": "file",
-      "file": "W2024/W2024T1/W2024T1 Files/Lect1-2.pdf",
-      "styleAttributes": {},
-      "x": 2320,
-      "y": 280,
-      "width": 400,
-      "height": 298
-    },
-    {
       "id": "5b566a3fb6273663",
       "type": "text",
       "text": "# CPSC 430 Syllabus\nhttps://www.cs.ubc.ca/~kevinlb/teaching/cs430/\n[MTA](https://mta.students.cs.ubc.ca/)\n",
@@ -250,16 +270,6 @@
       "y": -160,
       "width": 649,
       "height": 140
-    },
-    {
-      "id": "8e5c8cb50b7301e3",
-      "type": "text",
-      "text": "# [[Ethics for the Information Age, 9e.pdf|Textbook]]\n",
-      "styleAttributes": {},
-      "x": 344,
-      "y": -160,
-      "width": 336,
-      "height": 70
     },
     {
       "id": "40f3f152194cddf5",
@@ -292,6 +302,16 @@
       "height": 504
     },
     {
+      "id": "8e5c8cb50b7301e3",
+      "type": "text",
+      "text": "# [[Ethics for the Information Age, 9e.pdf|Textbook]]\n",
+      "styleAttributes": {},
+      "x": 344,
+      "y": -160,
+      "width": 336,
+      "height": 70
+    },
+    {
       "id": "2528eb2697d45091",
       "type": "text",
       "text": "#### Articles on Writing: [[All_Articles_on_Writing_A0w74ic_2_EYwx96N_WK33B2M_FIRiUnz_mXpyVsH.pdf]]",
@@ -320,26 +340,6 @@
       "y": 6100,
       "width": 1163,
       "height": 336
-    },
-    {
-      "id": "a263db81a669ce09",
-      "type": "text",
-      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=100&annotation=2634R|Social Contract Theory]]\n>  Hobbes argues that everybody living in a civilized society has implicitly agreed to two things: (1) the establishment of such a set of moral rules to govern relations among citi- zens and (2) a government capable of enforcing these rules. He calls this arrangement the social contract.\n\n> Social Contract Theory Morality consists in the set of rules, governing how people are to treat one another, that rational people will agree to accept, for their mutual benefit, on the condition that others follow those rules as well.\n\n**Rights**\n> A negative right is a right that another can guarantee by leaving you alone to exercise your right. \n> \n> A positive right is a right that obligates others to do something on your behalf. \n> \n> An absolute right is a right that is guaranteed without exception. Negative rights, such as the right to life, are usually considered absolute rights. \n> \n> A limited right is a right that may be restricted based on the circumstances.\n\n\n**John Rawls' Principles of Justice**\n> 1. Each person may claim a “fully adequate” number of basic rights and liberties, such as freedom of thought and speech, freedom of association, the right to be safe from harm, and the right to own property, so long as these claims are consistent with everyone else having a claim to the same rights and liberties. \n> 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (*the difference principle*)”\n\nPotential counterarguments: [[Ethics for the Information Age, 9e.pdf#page=106&annotation=2659R|The Case Against Social Contract Theory]]\n",
-      "styleAttributes": {},
-      "x": -1146,
-      "y": 4652,
-      "width": 660,
-      "height": 743
-    },
-    {
-      "id": "196c0f18998ee2a2",
-      "type": "text",
-      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=107&annotation=2663R|Virtue Ethics]]\n\n**Aristotle:**\n>  Intellectual virtues are those virtues associated with reasoning and truth. Moral virtues, often called virtues of character by today’s writers, are habits or dispositions formed through the repetition of the relevant virtuous actions  \n\n> Morally good people consistently do what is right; it becomes second nature to them. Note, then, that a moral virtue is not simply a disposition to act in a particular way, it is also a disposition to feel in a particular way. ",
-      "styleAttributes": {},
-      "x": -1146,
-      "y": 5449,
-      "width": 660,
-      "height": 260
     },
     {
       "id": "4a85d63e19b21cda",
@@ -392,16 +392,6 @@
       "height": 380
     },
     {
-      "id": "b5d401081f98b46b",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 4 Outline.md",
-      "styleAttributes": {},
-      "x": -426,
-      "y": 4529,
-      "width": 600,
-      "height": 81
-    },
-    {
       "id": "889e6d2fd96af1ad",
       "type": "file",
       "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 9 Outline.md",
@@ -410,6 +400,36 @@
       "y": 6109,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "a263db81a669ce09",
+      "type": "text",
+      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=100&annotation=2634R|Social Contract Theory]]\n>  Hobbes argues that everybody living in a civilized society has implicitly agreed to two things: (1) the establishment of such a set of moral rules to govern relations among citi- zens and (2) a government capable of enforcing these rules. He calls this arrangement the social contract.\n\n> Social Contract Theory Morality consists in the set of rules, governing how people are to treat one another, that rational people will agree to accept, for their mutual benefit, on the condition that others follow those rules as well.\n\n**Rights**\n> A negative right is a right that another can guarantee by leaving you alone to exercise your right. \n> \n> A positive right is a right that obligates others to do something on your behalf. \n> \n> An absolute right is a right that is guaranteed without exception. Negative rights, such as the right to life, are usually considered absolute rights. \n> \n> A limited right is a right that may be restricted based on the circumstances.\n\n\n**John Rawls' Principles of Justice**\n> 1. Each person may claim a “fully adequate” number of basic rights and liberties, such as freedom of thought and speech, freedom of association, the right to be safe from harm, and the right to own property, so long as these claims are consistent with everyone else having a claim to the same rights and liberties. \n> 2. Any social and economic inequalities must satisfy two conditions: first, they are associated with positions in society that everyone has a fair and equal opportunity to assume; and second, they are “to be to the greatest benefit of the least-advantaged members of society (*the difference principle*)”\n\nPotential counterarguments: [[Ethics for the Information Age, 9e.pdf#page=106&annotation=2659R|The Case Against Social Contract Theory]]\n",
+      "styleAttributes": {},
+      "x": -1146,
+      "y": 4652,
+      "width": 660,
+      "height": 743
+    },
+    {
+      "id": "196c0f18998ee2a2",
+      "type": "text",
+      "text": "#### [[Ethics for the Information Age, 9e.pdf#page=107&annotation=2663R|Virtue Ethics]]\n\n**Aristotle:**\n>  Intellectual virtues are those virtues associated with reasoning and truth. Moral virtues, often called virtues of character by today’s writers, are habits or dispositions formed through the repetition of the relevant virtuous actions  \n\n> Morally good people consistently do what is right; it becomes second nature to them. Note, then, that a moral virtue is not simply a disposition to act in a particular way, it is also a disposition to feel in a particular way. ",
+      "styleAttributes": {},
+      "x": -1146,
+      "y": 5449,
+      "width": 660,
+      "height": 260
+    },
+    {
+      "id": "b5d401081f98b46b",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 4 Outline.md",
+      "styleAttributes": {},
+      "x": -426,
+      "y": 4529,
+      "width": 600,
+      "height": 81
     },
     {
       "id": "8a44a6c3321d3e5e",
@@ -430,46 +450,6 @@
       "y": 4127,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "239d2c25443b0136",
-      "type": "text",
-      "text": "Against act utilitarianism: \n\n- problem of scope: what is in calculation?\n- ignores innate sense of duty\n- s",
-      "styleAttributes": {},
-      "x": 1249,
-      "y": 4038,
-      "width": 260,
-      "height": 182
-    },
-    {
-      "id": "2ee057a9210bbf47",
-      "type": "text",
-      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
-      "styleAttributes": {},
-      "x": 860,
-      "y": 4240,
-      "width": 320,
-      "height": 197
-    },
-    {
-      "id": "c4b195bdf8dc1012",
-      "type": "text",
-      "text": "### 09.26.24",
-      "styleAttributes": {},
-      "x": 920,
-      "y": 3620,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "84e4889dd41eecfa",
-      "type": "text",
-      "text": "Philosophies which could be described as utilitarian\n- Ethical egoism\n- Social contract theory",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 3720,
-      "width": 300,
-      "height": 128
     },
     {
       "id": "d40c7483ff407d5e",
@@ -512,26 +492,6 @@
       "height": 90
     },
     {
-      "id": "2ac44bbcc1c552ef",
-      "type": "text",
-      "text": "### 09.24.24: Kant",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 3760,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e2e30c276f928d07",
-      "type": "text",
-      "text": "### Essay 3 \nCan moral decisions be made on a purely rational, algorithmic basis, or are there limits to rationality in moral decision making? ",
-      "styleAttributes": {},
-      "x": -1140,
-      "y": 3580,
-      "width": 460,
-      "height": 128
-    },
-    {
       "id": "5e69ebb0d0967f27",
       "type": "file",
       "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 3 Outline.md",
@@ -542,6 +502,46 @@
       "height": 39
     },
     {
+      "id": "239d2c25443b0136",
+      "type": "text",
+      "text": "Against act utilitarianism: \n\n- problem of scope: what is in calculation?\n- ignores innate sense of duty\n- s",
+      "styleAttributes": {},
+      "x": 1249,
+      "y": 4038,
+      "width": 260,
+      "height": 182
+    },
+    {
+      "id": "2ee057a9210bbf47",
+      "type": "text",
+      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 4240,
+      "width": 320,
+      "height": 197
+    },
+    {
+      "id": "c4b195bdf8dc1012",
+      "type": "text",
+      "text": "### 09.26.24",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 3620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "84e4889dd41eecfa",
+      "type": "text",
+      "text": "Philosophies which could be described as utilitarian\n- Ethical egoism\n- Social contract theory",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 3720,
+      "width": 300,
+      "height": 128
+    },
+    {
       "id": "a06ef4e732c993ef",
       "type": "text",
       "text": "**Purely** rational, algorithmic\n1. Moral decisions often have a significant emotional/relational/social component which can't be easily quantified into a moral equation\n2. Bias; who decides the steps of the algorithm? Who provides the contextualizing information from which the decision is made? ; \"moral experts?\"\n3. Counter:\n\tIt is possible to break situations down to their essential components and to analyze them from their in a democratized process so as to remove individual biases and provide an expansive perspective. \n\tRebuttal:\n\tThis is maybe as close as we can get (barring a hypothetical perfect moral AI), but \"purely\" demands a level of definitiveness that is just not possible outside of theory. We will always be limited by what we know",
@@ -550,6 +550,16 @@
       "y": 3740,
       "width": 460,
       "height": 389
+    },
+    {
+      "id": "7a6a66cf954f03fb",
+      "type": "text",
+      "text": "### Appeal\nI would like to appeal the TA grade I have received for essay 10. \n\n",
+      "styleAttributes": {},
+      "x": -1340,
+      "y": 8660,
+      "width": 620,
+      "height": 140
     }
   ],
   "edges": [
