@@ -402,16 +402,6 @@
       "height": 128
     },
     {
-      "id": "7a6a66cf954f03fb",
-      "type": "text",
-      "text": "### Appeal\nI would like to appeal the TA grade I have received for essay 10. \n\nThe TA gave me a 3 for structure and a 2 for argument. The reasoning they gave for both is very similar.\n\nThe primary complaint is that I don't name my ethical theory. Piazza post 191 says we don't have to. This complaint is reiterated multiple times throughout the different sections of the rubric. \n\nI believe that by using the language of greater and fewer harms brought about by a specific action, and framing what is and is not ethical in terms of minimizing harm, it's clear that I'm using act utilitarianism. If it's not completely clear (e.g., I didn't reference the greatest happiness principle), I understand that a point or two could be taken off, but I don't think a 2 is reasonable.\n\nThe TA said that my arguments are not connected. My thesis states whistleblowing on bootlegged software is immoral because it would bring greater harm overall than continuing to use the software. The first argument is that bootlegging brings relatively little harm all around, since in some instances it's necessary for a small company, it's generally uncommon, and the boss has said they intend to buy a license eventually. The second argument is that whistleblowing can bring harm to not only you by getting you fired, but to your company's reputation and therefore future work prospects of your coworkers. \n\nTL;DR: Thesis: whistleblowing harm > bootlegging harm = immoral by utilitarianism. P1: bootlegging harm low, P2: whistleblowing harm high, P3/counter: easy to manipulate ethics of whistleblowing/argue against it with utilitarianism, so it shouldn't be used. I think these are all connected to each other?\n\nThey say my counterargument is unrelated to my argument because they didn't recognize my use of act utilitarianism. They say I bring up unrelated ethical theories, but I was just paraphrasing the textbook to explain a sound counterargument to using specifically utilitarianism regarding whistleblowing.\n\n\nFor english, they took off a point for using a colon instead of a comma. Despite saying there were multiple, this is the only error mentioned. That feels a little severe.\n",
-      "styleAttributes": {},
-      "x": -1340,
-      "y": 8660,
-      "width": 740,
-      "height": 657
-    },
-    {
       "id": "9eee6e2d167791bc",
       "type": "text",
       "text": "**Falsifying documents**: A nurse’s close friend is in desperate need of medical help but cannot afford treatment. Is it morally justifiable for the nurse to falsify medical documents to help their friend, even though it violates their professional duties? Evaluate this from the perspective of social contract theory and/or virtue ethics.",
@@ -560,6 +550,16 @@
       "y": 3740,
       "width": 460,
       "height": 389
+    },
+    {
+      "id": "7a6a66cf954f03fb",
+      "type": "text",
+      "text": "### Appeal\nI would like to appeal the TA grade I have received for essay 10. \n\nThe TA gave me a 3 for structure and a 2 for argument. The reasoning they gave for both is very similar.\n\nThe primary complaint is that I don't name my ethical theory. Piazza post 191 says we don't have to. This complaint is reiterated multiple times throughout the different sections of the rubric. \n\nI believe that by using the language of greater and fewer harms brought about by a specific action, and framing what is and is not ethical in terms of minimizing harm, it's clear that I'm using act utilitarianism. If it's not completely clear (e.g., I didn't reference the greatest happiness principle), I understand that a point or two could be taken off, but I don't think a 2 is reasonable.\n\nThe TA said that my arguments are not connected. My thesis states whistleblowing on bootlegged software is immoral because it would bring greater harm overall than continuing to use the software. The first argument is that bootlegging brings relatively little harm all around, since in some instances it's necessary for a small company, it's generally uncommon, and the boss has said they intend to buy a license eventually. The second argument is that whistleblowing can bring harm to not only you by getting you fired, but to your company's reputation and therefore future work prospects of your coworkers. \n\nTL;DR: Thesis: whistleblowing harm > bootlegging harm = immoral by utilitarianism. P1: bootlegging harm low, P2: whistleblowing harm high, P3/counter: easy to manipulate ethics of whistleblowing/argue against it with utilitarianism, so it shouldn't be used. I think these are all connected to each other?\n\nThey say my counterargument is unrelated to my argument because they didn't recognize my use of act utilitarianism. They say I bring up unrelated ethical theories, but I was just paraphrasing the textbook to explain a sound counterargument to using specifically utilitarianism regarding whistleblowing.\n\n\nFor english, they took off a point for using a colon instead of a comma. Despite saying there were multiple, this is the only error mentioned. That feels a little severe.\n",
+      "styleAttributes": {},
+      "x": -1340,
+      "y": 8660,
+      "width": 740,
+      "height": 657
     }
   ],
   "edges": [
