@@ -141,16 +141,6 @@
       "height": 400
     },
     {
-      "id": "d645b06b1889ad49",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/Miessen-Nightmare-of-Participation Collaboration and the Conflictual.pdf",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 2900,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "491b4d56a4d4bfc2",
       "type": "file",
       "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/The Carrier Bag Theory of Fiction - Le Guin.pdf",
@@ -161,22 +151,62 @@
       "height": 400
     },
     {
-      "id": "ff955983b3f159e8",
+      "id": "fc6b99d03f3d8ae2",
       "type": "text",
-      "text": " Barthes' post-industrial call to arms, where the death of the author should lead to the birth of the reader, which is a radically different notion of activating the public and presumably deepening democracy, are, in effect, attempts at reconfiguring the function of the author",
+      "text": "### Materials presentation\n10 min max\nGeneral structure (at least from sugar presentation example)\n- Chemical structure\n- Origin\n- Development: how it became important\n- Processing\n- Culture\n- Industry/economy\n- Artworks\n** visuals important",
       "styleAttributes": {},
-      "x": 2020,
-      "y": 1740,
-      "width": 400,
-      "height": 155
+      "x": 1310,
+      "y": 1801,
+      "width": 534,
+      "height": 281
     },
     {
-      "id": "23c0a44b5fe606d1",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/public intellectual sheikh.pdf",
+      "id": "51a15d10aa2a7b78",
+      "type": "text",
+      "text": "![[cradle-to-cradle_waste-equals-food_McDonough.pdf]]",
       "styleAttributes": {},
-      "x": 2020,
-      "y": 1320,
+      "x": 710,
+      "y": 1630,
+      "width": 585,
+      "height": 452
+    },
+    {
+      "id": "9e08e31fae651905",
+      "type": "text",
+      "text": "### Material culture, Tilley et al.\n\nMaterial cataloguing vs material study/investigation\n\n",
+      "styleAttributes": {},
+      "x": 1310,
+      "y": 1630,
+      "width": 360,
+      "height": 150
+    },
+    {
+      "id": "914f759e59c2b699",
+      "type": "text",
+      "text": "![[VISA 480 Notes on approaches to materials]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1070,
+      "width": 960,
+      "height": 540
+    },
+    {
+      "id": "e0549b5d1e9f3be8",
+      "type": "text",
+      "text": "## 09.11.24",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 970,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d645b06b1889ad49",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/Miessen-Nightmare-of-Participation Collaboration and the Conflictual.pdf",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 2900,
       "width": 400,
       "height": 400
     },
@@ -199,36 +229,6 @@
       "y": 1140,
       "width": 480,
       "height": 129
-    },
-    {
-      "id": "435f041498640912",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research[1] 1.pdf",
-      "styleAttributes": {},
-      "x": 2820,
-      "y": 1320,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "187dbc8d1bdc3fee",
-      "type": "text",
-      "text": "> However, the affect of this phenomenon has been variable; in ethnographic societies, narrative is never assumed by a person but by a mediator, shaman, or reciter, whose \"performance\" (i.e., his mastery of the narrative code) can be admired, but never his \"genius.\" The author is a modern character, no doubt produced by our society as it emerged from the Middle Ages, inflected by English empiricism, French rationalism, and the personal faith of the Reformation, thereby discovering the prestige of the individual, or, as we say more nobly, of the \"human person.\"\n> \n>explanation of the work is still sought in the person of its producer,\n>\n>The Author, when we believe in him, is always conceived as the past of his own book: book and author are voluntarily placed on one and the same line, distributed as a before and an after: the Author is supposed to feed the book, i.e., he lives before it, thinks, suffers, lives for it; he has the same relation of antecedence with his work that a father sustains with his child. Quite the contrary, the modern scriptor is born at the same time as his text; he is not furnished with a being which precedes or exceeds his writing, he is not the subject of which his book would be the predicate; there is no time other than that of the speech-act, and every text is written eternally here and now.\n>\n>We know now that a text consists not of a line of words, releasing a single \"theological\" meaning (the \"message\" of the Author-God,) but of a multi-dimensional space in which are married and contested several writings, none of which is original: the text is a fabric of quotations, resulting from a thousand sources of culture.\n",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 1740,
-      "width": 400,
-      "height": 940
-    },
-    {
-      "id": "fc6b99d03f3d8ae2",
-      "type": "text",
-      "text": "### Materials presentation\n10 min max\nGeneral structure (at least from sugar presentation example)\n- Chemical structure\n- Origin\n- Development: how it became important\n- Processing\n- Culture\n- Industry/economy\n- Artworks\n** visuals important",
-      "styleAttributes": {},
-      "x": 1310,
-      "y": 1801,
-      "width": 534,
-      "height": 281
     },
     {
       "id": "86c3b98d0f9dffa9",
@@ -301,6 +301,46 @@
       "height": 984
     },
     {
+      "id": "ff955983b3f159e8",
+      "type": "text",
+      "text": " Barthes' post-industrial call to arms, where the death of the author should lead to the birth of the reader, which is a radically different notion of activating the public and presumably deepening democracy, are, in effect, attempts at reconfiguring the function of the author",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1740,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "23c0a44b5fe606d1",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/public intellectual sheikh.pdf",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "435f041498640912",
+      "type": "file",
+      "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/2009Iwama-etal-CJNE-Two-Eyed-Seeing-Mikmaw-language-healing-community-based-research[1] 1.pdf",
+      "styleAttributes": {},
+      "x": 2820,
+      "y": 1320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "187dbc8d1bdc3fee",
+      "type": "text",
+      "text": "> However, the affect of this phenomenon has been variable; in ethnographic societies, narrative is never assumed by a person but by a mediator, shaman, or reciter, whose \"performance\" (i.e., his mastery of the narrative code) can be admired, but never his \"genius.\" The author is a modern character, no doubt produced by our society as it emerged from the Middle Ages, inflected by English empiricism, French rationalism, and the personal faith of the Reformation, thereby discovering the prestige of the individual, or, as we say more nobly, of the \"human person.\"\n> \n>explanation of the work is still sought in the person of its producer,\n>\n>The Author, when we believe in him, is always conceived as the past of his own book: book and author are voluntarily placed on one and the same line, distributed as a before and an after: the Author is supposed to feed the book, i.e., he lives before it, thinks, suffers, lives for it; he has the same relation of antecedence with his work that a father sustains with his child. Quite the contrary, the modern scriptor is born at the same time as his text; he is not furnished with a being which precedes or exceeds his writing, he is not the subject of which his book would be the predicate; there is no time other than that of the speech-act, and every text is written eternally here and now.\n>\n>We know now that a text consists not of a line of words, releasing a single \"theological\" meaning (the \"message\" of the Author-God,) but of a multi-dimensional space in which are married and contested several writings, none of which is original: the text is a fabric of quotations, resulting from a thousand sources of culture.\n",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 1740,
+      "width": 400,
+      "height": 940
+    },
+    {
       "id": "c5861c47c2ad398f",
       "type": "text",
       "text": "For the cultural industry, the notion of \"the public\", with its contingent modes of access and articulation, is replaced by the notion of \"the market\", implying commodity-exchange and consumption as modes of access and interaction. This also means that the idea of the Enlightenment, rational-critical subjects and a disciplinary social order, is replaced by the notion of entertainment as communication, as the mechanism of social control and producer of subjectivity.",
@@ -341,26 +381,6 @@
       "height": 260
     },
     {
-      "id": "51a15d10aa2a7b78",
-      "type": "text",
-      "text": "![[cradle-to-cradle_waste-equals-food_McDonough.pdf]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 1630,
-      "width": 585,
-      "height": 452
-    },
-    {
-      "id": "9e08e31fae651905",
-      "type": "text",
-      "text": "### Material culture, Tilley et al.\n\nMaterial cataloguing vs material study/investigation\n\n",
-      "styleAttributes": {},
-      "x": 1310,
-      "y": 1630,
-      "width": 360,
-      "height": 150
-    },
-    {
       "id": "575932d03ee520a7",
       "type": "text",
       "text": "> So it says jsut as much about the relationship thats been going on in the circumstances as it does about that action? | Yes. It does need an audience. It does need players. (Marilyn and Murdena)\n> \n> We have to have to sit down and tru t come up with ways and means as to how we can connect or use the healing tense to ... reconnect people, how we are intimiately connected, interconnected with our natural world. So That reconnection has to be somehow brought back into the educational system\n",
@@ -371,24 +391,41 @@
       "height": 320
     },
     {
-      "id": "914f759e59c2b699",
+      "id": "45d5c95023f35d31",
       "type": "text",
-      "text": "![[VISA 480 Notes on approaches to materials]]",
+      "text": "### Peer reviews",
       "styleAttributes": {},
-      "x": 710,
-      "y": 1070,
-      "width": 960,
-      "height": 540
+      "x": -1020,
+      "y": 2000,
+      "width": 260,
+      "height": 60
     },
     {
-      "id": "e0549b5d1e9f3be8",
-      "type": "text",
-      "text": "## 09.11.24",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 970,
-      "width": 250,
-      "height": 60
+      "id": "5ce6ecb8c04fc55f",
+      "type": "file",
+      "file": "W2024 Files/Application Draft-1.pdf",
+      "x": -1380,
+      "y": 2160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e33de8b682d42cdc",
+      "type": "file",
+      "file": "W2024 Files/Arquetopia Draft.pdf",
+      "x": -1060,
+      "y": 2740,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "11b2eb7ab6298a98",
+      "type": "file",
+      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
+      "x": -760,
+      "y": 2240,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
