@@ -421,16 +421,6 @@
       "height": 400
     },
     {
-      "id": "11b2eb7ab6298a98",
-      "type": "file",
-      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
-      "styleAttributes": {},
-      "x": -420,
-      "y": 2280,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "82dc65fd9ec4611f",
       "type": "text",
       "text": "Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas as responses to the APPLICATION DRAFT assignment (this assignment is for your participation in the peer review process).\n\nDuring class you will be assigned peers to review. Your feedback should address how effectively they responded to the question that was posed to them in the application, according to the rubric associated with the original application.",
@@ -439,6 +429,16 @@
       "y": 2080,
       "width": 580,
       "height": 174
+    },
+    {
+      "id": "11b2eb7ab6298a98",
+      "type": "file",
+      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
+      "styleAttributes": {},
+      "x": -850,
+      "y": 2280,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
