@@ -271,16 +271,6 @@
       "height": 984
     },
     {
-      "id": "ff955983b3f159e8",
-      "type": "text",
-      "text": " Barthes' post-industrial call to arms, where the death of the author should lead to the birth of the reader, which is a radically different notion of activating the public and presumably deepening democracy, are, in effect, attempts at reconfiguring the function of the author",
-      "styleAttributes": {},
-      "x": 2020,
-      "y": 1740,
-      "width": 400,
-      "height": 155
-    },
-    {
       "id": "23c0a44b5fe606d1",
       "type": "file",
       "file": "W2024/W2024T1/VISA 480/VISA 480 Readings/public intellectual sheikh.pdf",
@@ -299,6 +289,26 @@
       "y": 1320,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "911e099f7a9833d4",
+      "type": "text",
+      "text": "### 10.23.24",
+      "styleAttributes": {},
+      "x": 3920,
+      "y": 1170,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "ff955983b3f159e8",
+      "type": "text",
+      "text": " Barthes' post-industrial call to arms, where the death of the author should lead to the birth of the reader, which is a radically different notion of activating the public and presumably deepening democracy, are, in effect, attempts at reconfiguring the function of the author",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": 1740,
+      "width": 400,
+      "height": 155
     },
     {
       "id": "187dbc8d1bdc3fee",
@@ -371,53 +381,6 @@
       "height": 60
     },
     {
-      "id": "5ce6ecb8c04fc55f",
-      "type": "file",
-      "file": "W2024 Files/Application Draft-1.pdf",
-      "x": -1380,
-      "y": 2160,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e33de8b682d42cdc",
-      "type": "file",
-      "file": "W2024 Files/Arquetopia Draft.pdf",
-      "x": -1060,
-      "y": 2740,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "11b2eb7ab6298a98",
-      "type": "file",
-      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
-      "x": -420,
-      "y": 2280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "82dc65fd9ec4611f",
-      "type": "text",
-      "text": "Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas as responses to the APPLICATION DRAFT assignment (this assignment is for your participation in the peer review process).\n\nDuring class you will be assigned peers to review. Your feedback should address how effectively they responded to the question that was posed to them in the application, according to the rubric associated with the original application.",
-      "styleAttributes": {},
-      "x": -900,
-      "y": 2160,
-      "width": 340,
-      "height": 319
-    },
-    {
-      "id": "911e099f7a9833d4",
-      "type": "text",
-      "text": "### 10.23.24",
-      "styleAttributes": {},
-      "x": 3920,
-      "y": 1170,
-      "width": 250,
-      "height": 60
-    },
-    {
       "id": "86c3b98d0f9dffa9",
       "type": "file",
       "file": "W2024/W2024T1/VISA 480/Rhetoric and cognitive bias.md",
@@ -436,6 +399,46 @@
       "y": 1990,
       "width": 560,
       "height": 536
+    },
+    {
+      "id": "5ce6ecb8c04fc55f",
+      "type": "file",
+      "file": "W2024 Files/Application Draft-1.pdf",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": 2160,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e33de8b682d42cdc",
+      "type": "file",
+      "file": "W2024 Files/Arquetopia Draft.pdf",
+      "styleAttributes": {},
+      "x": -1060,
+      "y": 2740,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "11b2eb7ab6298a98",
+      "type": "file",
+      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 2280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "82dc65fd9ec4611f",
+      "type": "text",
+      "text": "Write feedback for each of the peers whose proposals you read/heard. This will be done directly in Canvas as responses to the APPLICATION DRAFT assignment (this assignment is for your participation in the peer review process).\n\nDuring class you will be assigned peers to review. Your feedback should address how effectively they responded to the question that was posed to them in the application, according to the rubric associated with the original application.",
+      "styleAttributes": {},
+      "x": -940,
+      "y": 2080,
+      "width": 580,
+      "height": 174
     }
   ],
   "edges": [
