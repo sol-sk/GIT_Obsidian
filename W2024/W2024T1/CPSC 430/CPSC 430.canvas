@@ -102,36 +102,6 @@
       "height": 76
     },
     {
-      "id": "c5d406d914208f3c",
-      "type": "text",
-      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
-      "styleAttributes": {},
-      "x": -1220,
-      "y": 3144,
-      "width": 443,
-      "height": 241
-    },
-    {
-      "id": "2ac44bbcc1c552ef",
-      "type": "text",
-      "text": "### 09.24.24: Kant",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 3760,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e2e30c276f928d07",
-      "type": "text",
-      "text": "### Essay 3 \nCan moral decisions be made on a purely rational, algorithmic basis, or are there limits to rationality in moral decision making? ",
-      "styleAttributes": {},
-      "x": -1140,
-      "y": 3580,
-      "width": 460,
-      "height": 128
-    },
-    {
       "id": "5a0f1c1a38dce28f",
       "type": "text",
       "text": "#### Chapter 1\n[[Ethics for the Information Age, 9e.pdf#page=57&annotation=2405R|Ethics for the Information Age, 9e, page 57]]\n> The traditional view of technology, called **instrumentalism**, sees technological devices as instruments created by engineers to achieve ends dictated by society. Instrumentalists focus on the benefits of technology. They see technology as expanding human capabilities, which is desirable. While it is true that a technology may be put to a bad use, that is the fault of the human users of the technology, not the creators of the technology or the technology itself, according to this view. \n\n> The **neutrality** thesis holds that technology is neither good nor bad; it is the users of that technology who determine whether it will be put to good or bad use. A well-known example of this perspective is the statement, “Guns don’t kill people. People kill people.”\n\n> **Pragmatism** is another view of technology that focuses on the role of technological devices in solving practical problems. Unlike instrumentalists, however, pragmatists do not think technology is value neutral. Rather, in their view, the value of a technology is dependent on the social context in which it is deployed. For example, urban coal-fired steam-heating plants would have been viewed favorably in the 1880s because they were a cleaner and more efficient source of heat than the alternatives available at that time. Today, the same technology would be seen as harmful because climate change is an important social concern, and coal-fired plants emit more carbon dioxide than alternative heat sources. \n\n> **Technological determinism** is the view that technological advancements are the most important driver of social, economic, and cultural change. According to this view, technological change is autonomous and inevitable, as expressed in the familiar saying, “You can’t stop progress.” Technological determinists can point to historical events sup- porting their view. For example, the early adoption of gunpowder in Turkey enabled the creation the Ottoman Empire, and the invention of the printing press was a catalyst for the creation of nation-states in Western Europe. Modern commentators who see the rise of AI as unstoppable are reflecting a deterministic view of technology. \n\n\n> Critics of technological determinism argue that the theory is too simplistic and ignores the fact that societies do have some choice regarding whether to adopt new technologies. The **cultural approach to technology** holds that technology is an expression of human culture. Technology is value-laden because once adopted, it can impact society by making it easier for people to achieve some goals and more difficult for them to achieve others [62]. For example, as described earlier in this chapter, the adoption of the telephone facilitated long-distance communication, and the telephone also eroded traditional social hierarchies and generated new concerns about privacy. \n\n> Underlying the European colonization of the lands and people of America, Asia, and Africa was a belief system that presumed the racial inferiority of the colonized people and the inferiority of their knowledge and values. **Coloniality** refers to the situation in which these beliefs have been internalized and have persisted, even though colonialism is largely relegated to the past. Ex-colonized people believing that they are incapable of developing high quality technologies is a symptom of coloniality. Another symptom of coloniality is the view of some North Americans or Europeans that they can solve technical problems in developing nations without any help from the people who live there. Decolonial tech- nical design is the view that a pluralistic technical design process can overcome coloniality by including the knowledge, values, and world views of formerly colonized people ",
@@ -150,26 +120,6 @@
       "y": 1817,
       "width": 649,
       "height": 360
-    },
-    {
-      "id": "8857c6d116c6f967",
-      "type": "text",
-      "text": "| 09.17.24 | Course Topics Discussion            | Chapter 1       |\n| -------- | ----------------------------------- | --------------- |\n| 09.19.24 | Ethics: Unworkable Ethical Theories | Secs. 2.1 - 2.5 |",
-      "styleAttributes": {},
-      "x": -740,
-      "y": 1580,
-      "width": 491,
-      "height": 66
-    },
-    {
-      "id": "5578b515503c8aca",
-      "type": "text",
-      "text": "### Lecture 4 09.17.24",
-      "styleAttributes": {},
-      "x": -754,
-      "y": 1680,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "e82bd32dce95b53f",
@@ -282,6 +232,26 @@
       "height": 78
     },
     {
+      "id": "8857c6d116c6f967",
+      "type": "text",
+      "text": "| 09.17.24 | Course Topics Discussion            | Chapter 1       |\n| -------- | ----------------------------------- | --------------- |\n| 09.19.24 | Ethics: Unworkable Ethical Theories | Secs. 2.1 - 2.5 |",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 1580,
+      "width": 491,
+      "height": 66
+    },
+    {
+      "id": "5578b515503c8aca",
+      "type": "text",
+      "text": "### Lecture 4 09.17.24",
+      "styleAttributes": {},
+      "x": -754,
+      "y": 1680,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "1e15e876970da15f",
       "type": "text",
       "text": "## CPSC 430 Schedule\n\n| Date     | Topic                                              | Readings                                               |\n| -------- | -------------------------------------------------- | ------------------------------------------------------ |\n| 09.05.24 | Introduction - [[Lecture 0.pdf\\|Slides]]               |                                                        |\n| 09.10.24 | Course Topics Discussion - [[Lect1-1.pdf\\|Slides]] | Material on writing linked above                       |\n| 09.12.24 | Writing and Argument - [[Lect1-2.pdf\\|Slides]]     |                                                        |\n| 09.17.24 | Course Topics Discussion - [[Lect1-3.pdf\\|Slides]] | Chapter 1 [[Ethics for the Information Age, 9e.pdf\\|]] |\n| 09.19.24 | Ethics: Unworkable Ethical Theories                | Secs. 2.1 - 2.5                                        |\n| 09.24.24 | Ethics: Kantianism                                 | Secs. 2.6 - 2.8                                        |\n| 09.26.24 | Ethics: Utilitarianism                             |                                                        |\n| 10.01.24 | Ethics: Social Contract Theory                     | Secs. 2.9 - 2.12                                       |\n| 10.03.24 | Ethics: Virtue Ethics                              |                                                        |\n| 10.08.24 | Networked Communications                           | Chapter 3                                              |\n| 10.10.24 | Networked Communications                           |                                                        |\n| 10.15.24 | Intellectual Property                              | Chapter 4                                              |\n| 10.17.24 | Intellectual Property                              |                                                        |\n| 10.22.24 | Information Privacy                                | Chapter 5                                              |\n| 10.24.24 | Information Privacy                                |                                                        |\n| 10.29.24 | Privacy and the Government                         | Chapter 6                                              |\n| 10.31.24 | Privacy and the Government                         |                                                        |\n| 11.05.24 | Computer and Network Security                      | Chapter 7                                              |\n| 11.07.24 | Computer and Network Security                      |                                                        |\n| 11.12.24 | No Class: Midterm Break                            |                                                        |\n| 11.14.24 | Computer Reliability                               | Chapter 8                                              |\n| 11.19.24 | Professional Ethics                                | Chapter 9                                              |\n| 11.21.24 | Work and Wealth                                    |                                                        |\n| 11.26.24 | Work and Wealth                                    | Chapter 10                                             |\n| 11.28.24 | Artificial Intelligence                            |                                                        |\n| 12.03.24 | Artificial Intelligence                            | TBA                                                    |\n| 12.05.24 | Artificial Intelligence                            | TBA                                                    |",
@@ -322,6 +292,26 @@
       "height": 121
     },
     {
+      "id": "d40c7483ff407d5e",
+      "type": "text",
+      "text": "Principle of Utility - \"Greatest Happiness Principle\"",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 3695,
+      "width": 380,
+      "height": 50
+    },
+    {
+      "id": "2ee057a9210bbf47",
+      "type": "text",
+      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
+      "styleAttributes": {},
+      "x": 860,
+      "y": 4240,
+      "width": 320,
+      "height": 197
+    },
+    {
       "id": "e9b11c96dc3a2d54",
       "type": "text",
       "text": "### Essay 7 ",
@@ -350,16 +340,6 @@
       "y": 6466,
       "width": 491,
       "height": 394
-    },
-    {
-      "id": "9eee6e2d167791bc",
-      "type": "text",
-      "text": "**Falsifying documents**: A nurse’s close friend is in desperate need of medical help but cannot afford treatment. Is it morally justifiable for the nurse to falsify medical documents to help their friend, even though it violates their professional duties? Evaluate this from the perspective of social contract theory and/or virtue ethics.",
-      "styleAttributes": {},
-      "x": -1146,
-      "y": 4529,
-      "width": 660,
-      "height": 103
     },
     {
       "id": "bb6a83402d8dfee8",
@@ -400,6 +380,46 @@
       "y": 6109,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "c4b195bdf8dc1012",
+      "type": "text",
+      "text": "### 09.26.24",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 3620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "84e4889dd41eecfa",
+      "type": "text",
+      "text": "Philosophies which could be described as utilitarian\n- Ethical egoism\n- Social contract theory",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 3720,
+      "width": 300,
+      "height": 128
+    },
+    {
+      "id": "7a6a66cf954f03fb",
+      "type": "text",
+      "text": "### Appeal\nI would like to appeal the TA grade I have received for essay 10. \n\nThe TA gave me a 3 for structure and a 2 for argument. The reasoning they gave for both is very similar.\n\nThe primary complaint is that I don't name my ethical theory. Piazza post 191 says we don't have to. This complaint is reiterated multiple times later. \n\nI believe that by using the language of greater and fewer harms brought about by a specific action, and framing what is and is not ethical in terms of minimizing harm, it's clear that I'm using act utilitarianism. If it's not completely clear (e.g., I didn't reference the greatest happiness principle), I understand that a point or two could be taken off, but I don't think a 2 is reasonable.\n\nThe TA said that my arguments are not connected. My thesis states whistleblowing on bootlegged software is immoral because it would bring greater harm overall than continuing to use the software. The first argument is that bootlegging brings relatively little harm all around, since in some instances it's necessary for a small company, it's generally uncommon, and the boss has said they intend to buy a license eventually. The second argument is that whistleblowing can bring harm to not only you by getting you fired, but to your company's reputation and therefore future work prospects of your coworkers. \n\nTL;DR: Thesis: whistleblowing harm > bootlegging harm = immoral by utilitarianism. P1: bootlegging harm low, P2: whistleblowing harm high, P3/counter: easy to manipulate ethics of whistleblowing/argue against it with utilitarianism, so it shouldn't be used. I think these are all connected to each other?\n\nThey say my counterargument is unrelated to my argument because they didn't recognize my use of act utilitarianism. They say I bring up unrelated ethical theories, but I was just paraphrasing the textbook to explain a sound counterargument to using specifically utilitarianism regarding whistleblowing.\n\n\nFor english, they took off a point for using a colon instead of a comma. Despite saying there were multiple, this is the only error mentioned. That feels a little severe.\n",
+      "styleAttributes": {},
+      "x": -1340,
+      "y": 8660,
+      "width": 740,
+      "height": 657
+    },
+    {
+      "id": "9eee6e2d167791bc",
+      "type": "text",
+      "text": "**Falsifying documents**: A nurse’s close friend is in desperate need of medical help but cannot afford treatment. Is it morally justifiable for the nurse to falsify medical documents to help their friend, even though it violates their professional duties? Evaluate this from the perspective of social contract theory and/or virtue ethics.",
+      "styleAttributes": {},
+      "x": -1146,
+      "y": 4529,
+      "width": 660,
+      "height": 103
     },
     {
       "id": "a263db81a669ce09",
@@ -452,16 +472,6 @@
       "height": 60
     },
     {
-      "id": "d40c7483ff407d5e",
-      "type": "text",
-      "text": "Principle of Utility - \"Greatest Happiness Principle\"",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 3695,
-      "width": 380,
-      "height": 50
-    },
-    {
       "id": "4629149cbe263acb",
       "type": "text",
       "text": "1. Quantify utility \n2. Sum harms vs benefits\n3. Whichever way the scale tips",
@@ -492,16 +502,6 @@
       "height": 90
     },
     {
-      "id": "5e69ebb0d0967f27",
-      "type": "file",
-      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 3 Outline.md",
-      "styleAttributes": {},
-      "x": -580,
-      "y": 3644,
-      "width": 693,
-      "height": 39
-    },
-    {
       "id": "239d2c25443b0136",
       "type": "text",
       "text": "Against act utilitarianism: \n\n- problem of scope: what is in calculation?\n- ignores innate sense of duty\n- s",
@@ -512,34 +512,44 @@
       "height": 182
     },
     {
-      "id": "2ee057a9210bbf47",
+      "id": "c5d406d914208f3c",
       "type": "text",
-      "text": "Overly logical; authority or ability to quantify – illogical to think this is possible & false sense of security \n\nWhat value do numbers have if they're ultimately inevitably arbitrary\n- Highway example",
+      "text": "Sensitive information tracking does not justify umbrella surveillance\n\nsurveillance rarely improves workplace conditions\n\nfurthering power disparity between employer/employee\n\nif this data is automatically reviewed (likely esp in big companies since it would be sm info): overly punitive towards diff work styles such as working things out on paper ",
       "styleAttributes": {},
-      "x": 860,
-      "y": 4240,
-      "width": 320,
-      "height": 197
+      "x": -1220,
+      "y": 3144,
+      "width": 443,
+      "height": 241
     },
     {
-      "id": "c4b195bdf8dc1012",
+      "id": "2ac44bbcc1c552ef",
       "type": "text",
-      "text": "### 09.26.24",
+      "text": "### 09.24.24: Kant",
       "styleAttributes": {},
-      "x": 920,
-      "y": 3620,
+      "x": -340,
+      "y": 3760,
       "width": 260,
       "height": 60
     },
     {
-      "id": "84e4889dd41eecfa",
+      "id": "e2e30c276f928d07",
       "type": "text",
-      "text": "Philosophies which could be described as utilitarian\n- Ethical egoism\n- Social contract theory",
+      "text": "### Essay 3 \nCan moral decisions be made on a purely rational, algorithmic basis, or are there limits to rationality in moral decision making? ",
       "styleAttributes": {},
-      "x": 940,
-      "y": 3720,
-      "width": 300,
+      "x": -1140,
+      "y": 3580,
+      "width": 460,
       "height": 128
+    },
+    {
+      "id": "5e69ebb0d0967f27",
+      "type": "file",
+      "file": "W2024/W2024T1/CPSC 430/CPSC 430 Essay 3 Outline.md",
+      "styleAttributes": {},
+      "x": -580,
+      "y": 3644,
+      "width": 693,
+      "height": 39
     },
     {
       "id": "a06ef4e732c993ef",
@@ -550,16 +560,6 @@
       "y": 3740,
       "width": 460,
       "height": 389
-    },
-    {
-      "id": "7a6a66cf954f03fb",
-      "type": "text",
-      "text": "### Appeal\nI would like to appeal the TA grade I have received for essay 10. \n\nThe TA gave me a 3 for structure and a 2 for argument. The reasoning they gave for both is very similar.\n\nThe primary complaint is that I don't name my ethical theory. Piazza post 191 says we don't have to. This complaint is reiterated multiple times later. \n\nI believe that by using the language of greater and fewer harms brought about by a specific action, and framing what is and is not ethical in terms of minimizing harm, it's clear that I'm using act utilitarianism. If it's not completely clear (e.g., I didn't reference the greatest happiness principle), I understand that a point or two could be taken off, but I don't think a 2 is reasonable.\n\nThe TA said that my arguments are not connected. My thesis states whistleblowing on bootlegged software is immoral because it would bring greater harm overall than continuing to use the software. The first argument is that bootlegging brings relatively little harm all around, since in some instances it's necessary for a small company, it's generally uncommon, and the boss has said they intend to buy a license eventually. The second argument is that whistleblowing can bring harm to not only you by getting you fired, but to your company's reputation and therefore future work prospects of your coworkers. \n\nTL;DR: Thesis: whistleblowing harm > bootlegging harm = immoral by utilitarianism. P1: bootlegging harm low, P2: whistleblowing harm high, P3/counter: easy to manipulate ethics of whistleblowing/argue against it with utilitarianism, so it shouldn't be used. I think these are all connected to each other?\n\nThey say my counterargument is unrelated to my argument because they didn't recognize my use of act utilitarianism. They say I bring up unrelated ethical theories, but I was just paraphrasing the textbook to explain a sound counterargument to using specifically utilitarianism regarding whistleblowing.\n\n\nFor english, they took off a point for using a colon instead of a comma. Despite saying there were multiple, this is the only error mentioned. That feels a little severe.\n",
-      "styleAttributes": {},
-      "x": -1340,
-      "y": 8660,
-      "width": 740,
-      "height": 657
     }
   ],
   "edges": [
