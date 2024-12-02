@@ -391,16 +391,6 @@
       "height": 400
     },
     {
-      "id": "11b2eb7ab6298a98",
-      "type": "file",
-      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
-      "styleAttributes": {},
-      "x": -1380,
-      "y": 3040,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "972ce7d300aaaf88",
       "type": "text",
       "text": "## 09.04.24",
@@ -439,6 +429,16 @@
       "y": 40,
       "width": 540,
       "height": 515
+    },
+    {
+      "id": "11b2eb7ab6298a98",
+      "type": "file",
+      "file": "W2024 Files/VISA 480_Gladstone House Artist Residency Application.pdf",
+      "styleAttributes": {},
+      "x": -1380,
+      "y": 3040,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
