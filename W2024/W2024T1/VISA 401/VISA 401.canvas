@@ -420,6 +420,25 @@
       "y": 480,
       "width": 620,
       "height": 240
+    },
+    {
+      "id": "adca130a01748238",
+      "type": "file",
+      "file": "W2024 Files/VISA 401 Artist statement.pdf",
+      "x": -2300,
+      "y": 1680,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e51d2547e9439cdb",
+      "type": "text",
+      "text": "This triptych of installation works envelops the participant. ",
+      "styleAttributes": {},
+      "x": -1840,
+      "y": 1680,
+      "width": 740,
+      "height": 60
     }
   ],
   "edges": [
