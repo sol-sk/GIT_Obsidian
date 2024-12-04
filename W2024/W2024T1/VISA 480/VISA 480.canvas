@@ -453,12 +453,21 @@
     {
       "id": "79c87f4dd5e4980f",
       "type": "text",
-      "text": "Final Applicaiton",
+      "text": "Final Application\n\nInstagram handle: @sulabust  \nWebsite: [sol-sk.github.io](http://sol-sk.github.io)  \nOther link to art: [https://sol-sk.github.io/portfolio.html](https://sol-sk.github.io/portfolio.html)  \n  \nTwo sentences about what you hope to get out of the program:  \nI hope to develop my emerging practice, enabled by a personal studio space and informed by critique from other artists and curators; while I have had the privilege of studying art at UBC, it has only been as a minor in the program\n- Going from a VISA minor (relatively a fraction of my time) having a dedicated space and attention: putting full attention and time",
       "styleAttributes": {},
       "x": 2840,
       "y": 120,
-      "width": 260,
-      "height": 60
+      "width": 540,
+      "height": 320
+    },
+    {
+      "id": "48d3e1538d70db78",
+      "type": "file",
+      "file": "W2024 Files/Skelton-Art-CV-VISA480.pdf",
+      "x": 2380,
+      "y": 120,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
