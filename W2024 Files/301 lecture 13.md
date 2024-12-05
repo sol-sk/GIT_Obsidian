@@ -11,4 +11,4 @@ Direct/Go path
 
 Indirect/stop pathway 
 - GPe increases inhibition !!!
-- GPe inhibited by striatum → not firing APs to release GABA to GPi → not inhibiting subthal nuc. or GPi → 
+- GPe inhibited by striatum → not firing APs to release GABA to GPi → not inhibiting subthal nuc. or GPi → subthal stimulates GPi 
