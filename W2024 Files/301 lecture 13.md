@@ -10,5 +10,4 @@ Direct/Go path
 - More APs in striatum D1R = more GABA to GPi = Less GABA to thal = more stim to motor cortices
 
 Indirect/stop pathway 
-- GPe increases inhibition !!!
-- GPe inhibited by striatum → not firing APs to release GABA to GPi → not inhibiting subthal nuc. or GPi → subthal stimulates GPi 
+- GPe inhibited by striatum → not firing APs to release GABA to GPi → not inhibiting subthal nuc. or GPi → subthal stimulates GPi → more more more GABA!
