@@ -134,60 +134,6 @@
       "height": 835
     },
     {
-      "id": "5355ff9092c2820d",
-      "type": "text",
-      "text": "### Methodology",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5f1ec2e06a9b0249",
-      "type": "text",
-      "text": "### Outcome",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "More emphasis on explaining the methods for the ANN",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11160,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11380,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "657b8e3fe46cecee",
-      "type": "text",
-      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11480,
-      "width": 330,
-      "height": 120
-    },
-    {
       "id": "87ad87ba863ecc62",
       "type": "text",
       "text": "**Morality**",
@@ -296,16 +242,6 @@
       "y": -280,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "2e4d3e263588a10c",
-      "type": "file",
-      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
-      "styleAttributes": {},
-      "x": -6000,
-      "y": 12360,
-      "width": 680,
-      "height": 320
     },
     {
       "id": "17df8e08f4019537",
@@ -2132,6 +2068,70 @@
       "y": 11072,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "5355ff9092c2820d",
+      "type": "text",
+      "text": "### Methodology",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5f1ec2e06a9b0249",
+      "type": "text",
+      "text": "### Outcome",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2e4d3e263588a10c",
+      "type": "file",
+      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
+      "styleAttributes": {},
+      "x": -6000,
+      "y": 12360,
+      "width": 900,
+      "height": 1680
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "657b8e3fe46cecee",
+      "type": "text",
+      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11480,
+      "width": 330,
+      "height": 120
     }
   ],
   "edges": [
