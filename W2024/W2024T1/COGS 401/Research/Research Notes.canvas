@@ -2100,8 +2100,8 @@
       "styleAttributes": {},
       "x": -6000,
       "y": 12360,
-      "width": 900,
-      "height": 500
+      "width": 940,
+      "height": 540
     },
     {
       "id": "96031e5e20ab5e53",
@@ -2162,6 +2162,16 @@
       "y": 10260,
       "width": 610,
       "height": 400
+    },
+    {
+      "id": "03fd373a93f88735",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -5040,
+      "y": 12440,
+      "width": 440,
+      "height": 260
     }
   ],
   "edges": [
