@@ -2101,7 +2101,7 @@
       "x": -6000,
       "y": 12360,
       "width": 900,
-      "height": 1680
+      "height": 400
     },
     {
       "id": "96031e5e20ab5e53",
@@ -2132,6 +2132,16 @@
       "y": 11480,
       "width": 330,
       "height": 120
+    },
+    {
+      "id": "ad44efdddc8c0c46",
+      "type": "text",
+      "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists in my bibliography?/how to I do so? \n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- \n",
+      "styleAttributes": {},
+      "x": -4680,
+      "y": 10260,
+      "width": 640,
+      "height": 240
     }
   ],
   "edges": [
