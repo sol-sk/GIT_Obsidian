@@ -2142,6 +2142,26 @@
       "y": 10260,
       "width": 580,
       "height": 202
+    },
+    {
+      "id": "5258814bb0cea5f2",
+      "type": "text",
+      "text": "don't worry too much about laura's comment abt \"an image\"",
+      "styleAttributes": {},
+      "x": -4360,
+      "y": 10480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "55a0afde8f113662",
+      "type": "text",
+      "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
+      "styleAttributes": {},
+      "x": -4360,
+      "y": 10560,
+      "width": 260,
+      "height": 120
     }
   ],
   "edges": [
