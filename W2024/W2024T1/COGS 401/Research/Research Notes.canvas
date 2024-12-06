@@ -2172,6 +2172,16 @@
       "y": -796,
       "width": 340,
       "height": 100
+    },
+    {
+      "id": "b8c0b511855fc12a",
+      "type": "text",
+      "text": "**Amelia Jones** \n",
+      "styleAttributes": {},
+      "x": -760,
+      "y": 12100,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
