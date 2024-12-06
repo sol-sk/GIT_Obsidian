@@ -2166,12 +2166,12 @@
     {
       "id": "03fd373a93f88735",
       "type": "text",
-      "text": "",
+      "text": "Psychology aspect: could be acknowledged under outcome\n",
       "styleAttributes": {},
-      "x": -5040,
+      "x": -5100,
       "y": 12440,
       "width": 440,
-      "height": 220
+      "height": 80
     }
   ],
   "edges": [
