@@ -1637,7 +1637,7 @@
       "x": -3480,
       "y": 12190,
       "width": 570,
-      "height": 400
+      "height": 170
     },
     {
       "id": "cebbdc08fcd0a9eb",
@@ -1688,7 +1688,7 @@
       "styleAttributes": {},
       "x": -5190,
       "y": 11440,
-      "width": 440,
+      "width": 530,
       "height": 673
     },
     {
@@ -2161,16 +2161,6 @@
       "height": 60
     },
     {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4660,
-      "y": 11722,
-      "width": 560,
-      "height": 110
-    },
-    {
       "id": "eb547d58ae7e1399",
       "type": "text",
       "text": "**Surveillance habituation**",
@@ -2179,6 +2169,16 @@
       "y": 8685,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 11460,
+      "width": 360,
+      "height": 215
     }
   ],
   "edges": [
