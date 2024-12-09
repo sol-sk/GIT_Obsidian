@@ -7,7 +7,7 @@
       "x": -1680,
       "y": 6620,
       "width": 3640,
-      "height": 6720,
+      "height": 7500,
       "label": "Bibliography notes"
     },
     {
@@ -1012,36 +1012,6 @@
       "height": 215
     },
     {
-      "id": "9d6d3baf60e72eb2",
-      "type": "text",
-      "text": "#### BarabasiLAB",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11890,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c8a5ce2c4deb92d6",
-      "type": "text",
-      "text": "#### Refik Anadol",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 11460,
-      "width": 360,
-      "height": 215
-    },
-    {
       "id": "55a0afde8f113662",
       "type": "text",
       "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
@@ -1072,16 +1042,6 @@
       "height": 180
     },
     {
-      "id": "d0913af6b42081d5",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
-      "styleAttributes": {},
-      "x": -3100,
-      "y": 11140,
-      "width": 340,
-      "height": 110
-    },
-    {
       "id": "25306e3d47f118b7",
       "type": "text",
       "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
@@ -1092,16 +1052,6 @@
       "height": 200
     },
     {
-      "id": "4db6d54886bc0e52",
-      "type": "text",
-      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
-      "styleAttributes": {},
-      "x": -3310,
-      "y": 11695,
-      "width": 310,
-      "height": 80
-    },
-    {
       "id": "5da8e5b8ccd3d511",
       "type": "text",
       "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
@@ -1109,56 +1059,6 @@
       "x": -3440,
       "y": 10500,
       "width": 360,
-      "height": 60
-    },
-    {
-      "id": "44741e52d666ef91",
-      "type": "text",
-      "text": "#### Trevor Paglen",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12190,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "dd6244c895c66528",
-      "type": "text",
-      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 11890,
-      "width": 570,
-      "height": 240
-    },
-    {
-      "id": "335f5cae3fdb2769",
-      "type": "file",
-      "file": "Clippings/e-flux.md",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 12190,
-      "width": 570,
-      "height": 170
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
       "height": 60
     },
     {
@@ -1204,16 +1104,6 @@
       "y": 10580,
       "width": 400,
       "height": 103
-    },
-    {
-      "id": "dca9020443ef373b",
-      "type": "text",
-      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11360,
-      "width": 420,
-      "height": 408
     },
     {
       "id": "6f79bccfb22b2286",
@@ -1268,16 +1158,6 @@
       "height": 60
     },
     {
-      "id": "c708b57f3b06953c",
-      "type": "file",
-      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11140,
-      "width": 400,
-      "height": 220
-    },
-    {
       "id": "68221bd9306bdeab",
       "type": "text",
       "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
@@ -1306,26 +1186,6 @@
       "y": 11380,
       "width": 330,
       "height": 80
-    },
-    {
-      "id": "ceb11b1ee2f84f9a",
-      "type": "file",
-      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11850,
-      "width": 500,
-      "height": 400
-    },
-    {
-      "id": "ec5069c6b80e4f02",
-      "type": "text",
-      "text": "#### Postmasters",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12650,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "03fd373a93f88735",
@@ -2200,6 +2060,106 @@
       "height": 60
     },
     {
+      "id": "2feb09f016ea44b4",
+      "type": "text",
+      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 11293,
+      "width": 420,
+      "height": 361
+    },
+    {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11890,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c8a5ce2c4deb92d6",
+      "type": "text",
+      "text": "#### Refik Anadol",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12190,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ec5069c6b80e4f02",
+      "type": "text",
+      "text": "#### Postmasters",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12650,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 11460,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "d0913af6b42081d5",
+      "type": "text",
+      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 11140,
+      "width": 340,
+      "height": 110
+    },
+    {
       "id": "7281d1bff2eb2aa9",
       "type": "file",
       "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
@@ -2218,16 +2178,6 @@
       "y": 12389,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "2feb09f016ea44b4",
-      "type": "text",
-      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 11293,
-      "width": 420,
-      "height": 361
     },
     {
       "id": "f2a6cc2a57dcdf1b",
@@ -2270,6 +2220,56 @@
       "height": 400
     },
     {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11850,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "4db6d54886bc0e52",
+      "type": "text",
+      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
+      "styleAttributes": {},
+      "x": -3310,
+      "y": 11695,
+      "width": 310,
+      "height": 80
+    },
+    {
+      "id": "dca9020443ef373b",
+      "type": "text",
+      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11360,
+      "width": 420,
+      "height": 408
+    },
+    {
+      "id": "335f5cae3fdb2769",
+      "type": "file",
+      "file": "Clippings/e-flux.md",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 12190,
+      "width": 570,
+      "height": 170
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 11890,
+      "width": 570,
+      "height": 240
+    },
+    {
       "id": "49dc46840b80e57f",
       "type": "text",
       "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma, meaning “gift of grace” or “divine favor” from its theological origins to define a secular power that often elevates its possessor to a position of influence or leadership. Charismatic authority for Weber is unstable and temporary, an unpredictable presence that remains bound to an individual only as long as she might embody an identifiable ideology around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
@@ -2278,6 +2278,26 @@
       "y": 11840,
       "width": 545,
       "height": 298
+    },
+    {
+      "id": "18441e06330e92e1",
+      "type": "text",
+      "text": "[[Society of the Psyop Paglen.pdf]]",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 13400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6259f5ff3b3a3bde",
+      "type": "text",
+      "text": "> That notices which kinds of stimulus induce what kinds of precognitive responses, and uses machine learning to develop, A/B test, and deploy custom-generated cognitive injections designed to manipulate us even further, all without us consciously perceiving what’s happening?\n\n[[Society of the Psyop Paglen.pdf#page=1&selection=40,19,46,72|Society of the Psyop Paglen, page 1]]",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 13400,
+      "width": 440,
+      "height": 320
     }
   ],
   "edges": [
