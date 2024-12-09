@@ -2170,15 +2170,6 @@
       "height": 590
     },
     {
-      "id": "8694c52f613da692",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "x": -7920,
-      "y": 11460,
-      "width": 520,
-      "height": 635
-    },
-    {
       "id": "29af2dd0f05050c4",
       "type": "text",
       "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
@@ -2186,7 +2177,7 @@
       "x": -7400,
       "y": 11100,
       "width": 520,
-      "height": 220
+      "height": 208
     },
     {
       "id": "d2cd9f6191bf2388",
@@ -2196,7 +2187,7 @@
       "x": -7400,
       "y": 11340,
       "width": 520,
-      "height": 222
+      "height": 208
     },
     {
       "id": "9eedd2d895bc850a",
@@ -2221,12 +2212,51 @@
     {
       "id": "1c8a476d7cd2e2bd",
       "type": "text",
-      "text": "**Potential/Hypothe**",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
       "styleAttributes": {},
       "x": -7400,
-      "y": 11940,
+      "y": 11960,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "f4d405392c3c012f",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 12140,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "x": -8160,
+      "y": 11461,
+      "width": 520,
+      "height": 635
+    },
+    {
+      "id": "f6fd8768b41001fd",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 12280,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "838f489b7cb92a20",
+      "type": "text",
+      "text": "**Writing: Audience (**Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manne",
+      "styleAttributes": {},
+      "x": -7420,
+      "y": 12560,
       "width": 260,
-      "height": 60
+      "height": 140
     }
   ],
   "edges": [
