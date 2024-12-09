@@ -27,19 +27,6 @@
       "color": "#5c28bd"
     },
     {
-      "id": "31c06bd8faa2314c",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -240,
-      "y": -311,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
       "id": "67476c6fbf3a646e",
       "type": "text",
       "text": "###### [[Education of vision Kepes.pdf]]",
@@ -84,31 +71,6 @@
       "height": 60
     },
     {
-      "id": "f5c81d99f6e11789",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -240,
-      "y": -11,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "3f899c38746c29fd",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -240,
-      "y": -101,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
       "id": "433e4bae2d4aad42",
       "type": "text",
       "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
@@ -129,19 +91,6 @@
       "height": 60
     },
     {
-      "id": "0fb0b4bba051378d",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -240,
-      "y": -218,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
       "id": "bdaaebc0e8b35ef6",
       "type": "text",
       "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
@@ -149,6 +98,98 @@
       "x": -240,
       "y": 340,
       "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f5c81d99f6e11789",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -490,
+      "y": 640,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "8d63d202425a9cbb",
+      "type": "text",
+      "text": "###### [[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf| Abstraction as Resistance]]",
+      "styleAttributes": {},
+      "x": -490,
+      "y": 740,
+      "width": 259,
+      "height": 60
+    },
+    {
+      "id": "0ebf2dc054075486",
+      "type": "text",
+      "text": "**Surveillance**",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "795546810b8b931f",
+      "type": "text",
+      "text": "**Vision and perception: Psychology**",
+      "styleAttributes": {},
+      "x": -560,
+      "y": 831,
+      "width": 320,
+      "height": 60,
+      "color": "#066a17"
+    },
+    {
+      "id": "31c06bd8faa2314c",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -490,
+      "y": 920,
+      "width": 343,
+      "height": 60,
+      "color": "#066a17"
+    },
+    {
+      "id": "0fb0b4bba051378d",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -490,
+      "y": 1000,
+      "width": 361,
+      "height": 98,
+      "color": "#066a17"
+    },
+    {
+      "id": "3f899c38746c29fd",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -490,
+      "y": 1117,
+      "width": 380,
+      "height": 60,
+      "color": "#066a17"
+    },
+    {
+      "id": "425717981ad9c5b4",
+      "type": "text",
+      "text": "**Vision and perception: Art theory**",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 1200,
+      "width": 300,
       "height": 60
     }
   ],
