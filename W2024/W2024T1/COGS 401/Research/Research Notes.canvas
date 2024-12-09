@@ -2170,12 +2170,21 @@
       "height": 590
     },
     {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "x": -8800,
+      "y": 11374,
+      "width": 520,
+      "height": 635
+    },
+    {
       "id": "29af2dd0f05050c4",
       "type": "text",
       "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 11100,
+      "x": -8800,
+      "y": 12189,
       "width": 520,
       "height": 208
     },
@@ -2184,8 +2193,8 @@
       "type": "text",
       "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 11340,
+      "x": -8200,
+      "y": 12189,
       "width": 520,
       "height": 208
     },
@@ -2194,8 +2203,8 @@
       "type": "text",
       "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 11580,
+      "x": -7600,
+      "y": 12195,
       "width": 520,
       "height": 150
     },
@@ -2204,59 +2213,60 @@
       "type": "text",
       "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 11778,
+      "x": -7000,
+      "y": 12195,
       "width": 520,
       "height": 152
-    },
-    {
-      "id": "1c8a476d7cd2e2bd",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": -7400,
-      "y": 11960,
-      "width": 520,
-      "height": 98
     },
     {
       "id": "f4d405392c3c012f",
       "type": "text",
       "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 12140,
+      "x": -7000,
+      "y": 12397,
       "width": 520,
       "height": 97
     },
     {
-      "id": "8694c52f613da692",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "x": -8160,
-      "y": 11461,
+      "id": "1c8a476d7cd2e2bd",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": -7600,
+      "y": 12396,
       "width": 520,
-      "height": 635
+      "height": 98
     },
     {
       "id": "f6fd8768b41001fd",
       "type": "text",
       "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
       "styleAttributes": {},
-      "x": -7400,
-      "y": 12280,
+      "x": -8800,
+      "y": 12520,
       "width": 520,
       "height": 260
     },
     {
       "id": "838f489b7cb92a20",
       "type": "text",
-      "text": "**Writing: Audience (**Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manne",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
       "styleAttributes": {},
-      "x": -7420,
-      "y": 12560,
-      "width": 260,
-      "height": 140
+      "x": -8800,
+      "y": 12800,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "5493944c49f4026f",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": -8200,
+      "y": 12520,
+      "width": 520,
+      "height": 98
     }
   ],
   "edges": [
@@ -3053,6 +3063,22 @@
       "fromSide": "right",
       "toNode": "03fd373a93f88735",
       "toSide": "left"
+    },
+    {
+      "id": "f275b2901e4f598c",
+      "styleAttributes": {},
+      "fromNode": "0bcd5eb3138ba697",
+      "fromSide": "bottom",
+      "toNode": "f4d405392c3c012f",
+      "toSide": "top"
+    },
+    {
+      "id": "c8033ce64bac30c0",
+      "styleAttributes": {},
+      "fromNode": "9eedd2d895bc850a",
+      "fromSide": "bottom",
+      "toNode": "1c8a476d7cd2e2bd",
+      "toSide": "top"
     }
   ],
   "metadata": {}
