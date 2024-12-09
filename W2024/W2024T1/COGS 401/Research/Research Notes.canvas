@@ -2157,6 +2157,17 @@
       "y": 12871,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "fb7e36890b4ea4c7",
+      "type": "text",
+      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 566,
+      "y": 8155,
+      "width": 454,
+      "height": 220,
+      "color": "2"
     }
   ],
   "edges": [
