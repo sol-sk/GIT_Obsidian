@@ -2089,16 +2089,6 @@
       "height": 80
     },
     {
-      "id": "2e4d3e263588a10c",
-      "type": "file",
-      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
-      "styleAttributes": {},
-      "x": -6240,
-      "y": 12410,
-      "width": 1030,
-      "height": 590
-    },
-    {
       "id": "7ce87a31e28cd281",
       "type": "text",
       "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
@@ -2168,6 +2158,16 @@
       "width": 454,
       "height": 220,
       "color": "2"
+    },
+    {
+      "id": "2e4d3e263588a10c",
+      "type": "file",
+      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": 12410,
+      "width": 1030,
+      "height": 590
     }
   ],
   "edges": [
