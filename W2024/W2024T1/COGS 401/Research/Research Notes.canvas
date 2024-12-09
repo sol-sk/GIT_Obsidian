@@ -11,6 +11,16 @@
       "label": "Bibliography notes"
     },
     {
+      "id": "af727b3351bfdc38",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -2240,
+      "y": 7580,
+      "width": 461,
+      "height": 1280,
+      "label": "Bibliography"
+    },
+    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -49,16 +59,6 @@
       "width": 1374,
       "height": 1407,
       "label": "Mind Map Final Version"
-    },
-    {
-      "id": "af727b3351bfdc38",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -2240,
-      "y": 7580,
-      "width": 461,
-      "height": 1280,
-      "label": "Bibliography"
     },
     {
       "id": "2318d07b7800b50b",
@@ -411,56 +411,6 @@
       "height": 180
     },
     {
-      "id": "816a6f30f3df274c",
-      "type": "text",
-      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9110,
-      "width": 400,
-      "height": 129
-    },
-    {
-      "id": "d4739a166856d2b6",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 8155,
-      "width": 400,
-      "height": 208
-    },
-    {
-      "id": "22ffa01a0b5d909a",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7800,
-      "width": 394,
-      "height": 129
-    },
-    {
-      "id": "39ee391fdd3d547c",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 7667,
-      "width": 394,
-      "height": 102
-    },
-    {
-      "id": "007fd667a03d9ac1",
-      "type": "text",
-      "text": "#### Self and other perception",
-      "styleAttributes": {},
-      "x": -481,
-      "y": 8966,
-      "width": 260,
-      "height": 65
-    },
-    {
       "id": "269af91c7a21c958",
       "type": "text",
       "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
@@ -507,16 +457,6 @@
       "styleAttributes": {},
       "x": -278,
       "y": 7320,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3724c201a0b6bd19",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": -470,
-      "y": 7408,
       "width": 260,
       "height": 60
     },
@@ -1106,45 +1046,6 @@
       "height": 320
     },
     {
-      "id": "f3d0e7f0a07d23cd",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7800,
-      "width": 343,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "f909bc41ebe376f2",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7920,
-      "width": 235,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "a9628a64bf741ad8",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8029,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
       "id": "105584a9914dc91a",
       "type": "text",
       "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
@@ -1205,134 +1106,12 @@
       "height": 148
     },
     {
-      "id": "b367106df2162b0c",
-      "type": "text",
-      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b2cfd2cda4850e9d",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8329,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "35174b871f4d8223",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8239,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
-    },
-    {
-      "id": "31f36e9b8f06c73b",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8419,
-      "width": 380,
-      "height": 70
-    },
-    {
-      "id": "c95fe32513846b9a",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c02a0423281cf766",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8637,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e859292c5377bd84",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 8637,
-      "width": 469,
-      "height": 155
-    },
-    {
-      "id": "df0bee9f0c27ae22",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8122,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "aef734225c75f111",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7709,
-      "width": 380,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "1b70e8c4303d0900",
-      "type": "text",
-      "text": "# Bibliography",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 7600,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "8542a90d171be16d",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
       "styleAttributes": {},
       "x": -1270,
       "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9110,
       "width": 400,
       "height": 400
     },
@@ -1417,16 +1196,6 @@
       "height": 400
     },
     {
-      "id": "0f58d66fd6ddcd3e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7187,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "b18dff2f79d50026",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
@@ -1503,26 +1272,6 @@
       "styleAttributes": {},
       "x": -1638,
       "y": 12389,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "9e5b1e0dcff1ab2d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8155,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "8e489775f8391ccb",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 7667,
       "width": 400,
       "height": 400
     },
@@ -1913,36 +1662,6 @@
       "height": 60
     },
     {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": -2160,
-      "y": 9158,
-      "width": 440,
-      "height": 275
-    },
-    {
-      "id": "401c3450fe595b64",
-      "type": "text",
-      "text": "###### [[Anagram Deren.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8760,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9b55c79615cec593",
-      "type": "text",
-      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8680,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "2cad693b8a9567f4",
       "type": "text",
       "text": "- More memorable? \n- More personal experience?",
@@ -2173,6 +1892,7 @@
       "id": "8694c52f613da692",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "styleAttributes": {},
       "x": -8800,
       "y": 11374,
       "width": 520,
@@ -2267,6 +1987,287 @@
       "y": 12520,
       "width": 520,
       "height": 98
+    },
+    {
+      "id": "816a6f30f3df274c",
+      "type": "text",
+      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9110,
+      "width": 400,
+      "height": 129
+    },
+    {
+      "id": "d4739a166856d2b6",
+      "type": "text",
+      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 8155,
+      "width": 400,
+      "height": 208
+    },
+    {
+      "id": "007fd667a03d9ac1",
+      "type": "text",
+      "text": "#### Self and other perception",
+      "styleAttributes": {},
+      "x": -481,
+      "y": 8966,
+      "width": 260,
+      "height": 65
+    },
+    {
+      "id": "f3d0e7f0a07d23cd",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7800,
+      "width": 343,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "f909bc41ebe376f2",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7920,
+      "width": 235,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "a9628a64bf741ad8",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8029,
+      "width": 343,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "aef734225c75f111",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7709,
+      "width": 380,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "1b70e8c4303d0900",
+      "type": "text",
+      "text": "# Bibliography",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 7600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401c3450fe595b64",
+      "type": "text",
+      "text": "###### [[Anagram Deren.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8760,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b367106df2162b0c",
+      "type": "text",
+      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b2cfd2cda4850e9d",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8329,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "35174b871f4d8223",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8239,
+      "width": 380,
+      "height": 60,
+      "color": "#046214"
+    },
+    {
+      "id": "31f36e9b8f06c73b",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8419,
+      "width": 380,
+      "height": 70
+    },
+    {
+      "id": "c95fe32513846b9a",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c02a0423281cf766",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8637,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e859292c5377bd84",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 8637,
+      "width": 469,
+      "height": 155
+    },
+    {
+      "id": "df0bee9f0c27ae22",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8122,
+      "width": 361,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": -2160,
+      "y": 9158,
+      "width": 440,
+      "height": 275
+    },
+    {
+      "id": "9b55c79615cec593",
+      "type": "text",
+      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "22ffa01a0b5d909a",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7800,
+      "width": 394,
+      "height": 129
+    },
+    {
+      "id": "39ee391fdd3d547c",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 7667,
+      "width": 394,
+      "height": 102
+    },
+    {
+      "id": "3724c201a0b6bd19",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": -470,
+      "y": 7408,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9110,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0f58d66fd6ddcd3e",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7187,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "9e5b1e0dcff1ab2d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "8e489775f8391ccb",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 7667,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
