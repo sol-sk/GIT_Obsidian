@@ -191,6 +191,15 @@
       "y": 734,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "44fe86c057c4939c",
+      "type": "text",
+      "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
+      "x": 1440,
+      "y": 821,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [],
