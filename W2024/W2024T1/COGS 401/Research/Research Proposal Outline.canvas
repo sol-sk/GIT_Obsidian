@@ -20,7 +20,8 @@
       "x": 720,
       "y": -36,
       "width": 380,
-      "height": 80
+      "height": 80,
+      "color": "6"
     },
     {
       "id": "8d63d202425a9cbb",
@@ -30,7 +31,8 @@
       "x": 841,
       "y": 64,
       "width": 259,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "795546810b8b931f",
@@ -52,7 +54,8 @@
       "x": 757,
       "y": 244,
       "width": 343,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "0fb0b4bba051378d",
@@ -64,7 +67,8 @@
       "x": 739,
       "y": 324,
       "width": 361,
-      "height": 98
+      "height": 98,
+      "color": "4"
     },
     {
       "id": "3f899c38746c29fd",
@@ -76,7 +80,8 @@
       "x": 720,
       "y": 441,
       "width": 380,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "425717981ad9c5b4",
@@ -99,7 +104,8 @@
       "x": 720,
       "y": 640,
       "width": 380,
-      "height": 67
+      "height": 67,
+      "color": "6"
     },
     {
       "id": "f435e5b027465f5d",
@@ -156,16 +162,6 @@
       "height": 60
     },
     {
-      "id": "44fe86c057c4939c",
-      "type": "text",
-      "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
-      "styleAttributes": {},
-      "x": 670,
-      "y": 1479,
-      "width": 430,
-      "height": 60
-    },
-    {
       "id": "8660c9b24d26e762",
       "type": "text",
       "text": "###### [[Anagram Deren.pdf]]",
@@ -173,7 +169,8 @@
       "x": 840,
       "y": 914,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "6"
     },
     {
       "id": "433e4bae2d4aad42",
@@ -213,6 +210,38 @@
       "x": 820,
       "y": 1779,
       "width": 280,
+      "height": 60
+    },
+    {
+      "id": "e9d3326fed1891f3",
+      "type": "text",
+      "text": "###### Books",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -120,
+      "width": 260,
+      "height": 40,
+      "color": "6"
+    },
+    {
+      "id": "24e8d8a1f8dc5edd",
+      "type": "text",
+      "text": "###### Journals",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -60,
+      "width": 260,
+      "height": 40,
+      "color": "4"
+    },
+    {
+      "id": "44fe86c057c4939c",
+      "type": "text",
+      "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
+      "styleAttributes": {},
+      "x": 670,
+      "y": 1480,
+      "width": 430,
       "height": 60
     }
   ],
