@@ -93,7 +93,7 @@
       "type": "text",
       "text": "###### [[Education of vision Kepes.pdf]]",
       "styleAttributes": {
-        "shape": "predefined-process",
+        "shape": null,
         "textAlign": null
       },
       "x": 670,
