@@ -2184,7 +2184,7 @@
       "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
       "styleAttributes": {},
       "x": -7400,
-      "y": 11540,
+      "y": 11100,
       "width": 520,
       "height": 220
     },
@@ -2194,7 +2194,7 @@
       "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
       "styleAttributes": {},
       "x": -7400,
-      "y": 11780,
+      "y": 11340,
       "width": 520,
       "height": 222
     },
@@ -2204,9 +2204,29 @@
       "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
       "styleAttributes": {},
       "x": -7400,
-      "y": 12020,
+      "y": 11580,
       "width": 520,
       "height": 150
+    },
+    {
+      "id": "0bcd5eb3138ba697",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 11778,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "1c8a476d7cd2e2bd",
+      "type": "text",
+      "text": "**Potential/Hypothe**",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 11940,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
