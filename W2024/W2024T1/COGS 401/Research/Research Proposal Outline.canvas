@@ -204,6 +204,16 @@
       "y": 950,
       "width": 280,
       "height": 60
+    },
+    {
+      "id": "3e3488812021d3af",
+      "type": "text",
+      "text": "[[Society of the Psyop, Part 1_ UFOs and the Future of_Paglen.pdf]]",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": 1020,
+      "width": 580,
+      "height": 170
     }
   ],
   "edges": [],
