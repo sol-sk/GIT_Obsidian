@@ -1406,16 +1406,6 @@
       "height": 180
     },
     {
-      "id": "55a0afde8f113662",
-      "type": "text",
-      "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
-      "styleAttributes": {},
-      "x": -4360,
-      "y": 10560,
-      "width": 260,
-      "height": 120
-    },
-    {
       "id": "ad44efdddc8c0c46",
       "type": "text",
       "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists, artworks, websites in my bibliography?/how to I do so? \n\t- Typical artwork citations for paper \n\t- Bibliography: Compsci side\n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- How to present/combine paper and installation in proposal\n\t- She likes the methodology from presentation\n\t- Part 1/2 type thing: don't need to split up outside of methodology\n- Do look to add more abt big picture, but specific feedback can be grain of salt \n\t- Eg. the difference between AI \"art\" and what I'm doing: the role of artist and technology \n",
@@ -1535,16 +1525,6 @@
       "x": -3440,
       "y": 10500,
       "width": 360,
-      "height": 60
-    },
-    {
-      "id": "5258814bb0cea5f2",
-      "type": "text",
-      "text": "don't worry too much about laura's comment abt \"an image\"",
-      "styleAttributes": {},
-      "x": -4360,
-      "y": 10480,
-      "width": 260,
       "height": 60
     },
     {
@@ -2179,6 +2159,26 @@
       "y": 11460,
       "width": 360,
       "height": 215
+    },
+    {
+      "id": "55a0afde8f113662",
+      "type": "text",
+      "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10530,
+      "width": 260,
+      "height": 126
+    },
+    {
+      "id": "5258814bb0cea5f2",
+      "type": "text",
+      "text": "don't worry too much about laura's comment abt \"an image\"",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10450,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
