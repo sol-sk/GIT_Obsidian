@@ -546,26 +546,6 @@
       "height": 60
     },
     {
-      "id": "d8c98b499d78aa80",
-      "type": "text",
-      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
-      "styleAttributes": {},
-      "x": 2243,
-      "y": 6718,
-      "width": 360,
-      "height": 84
-    },
-    {
-      "id": "eea35fedda198923",
-      "type": "text",
-      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
-      "styleAttributes": {},
-      "x": 1868,
-      "y": 6718,
-      "width": 360,
-      "height": 84
-    },
-    {
       "id": "3724c201a0b6bd19",
       "type": "text",
       "text": "**Morality**",
@@ -964,16 +944,6 @@
       "y": 3640,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "35173d32e20a9ebf",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
-      "styleAttributes": {},
-      "x": 2860,
-      "y": 6709,
-      "width": 640,
-      "height": 377
     },
     {
       "id": "63e399d5f7428f8f",
@@ -2157,6 +2127,36 @@
       "y": 12631,
       "width": 440,
       "height": 148
+    },
+    {
+      "id": "eea35fedda198923",
+      "type": "text",
+      "text": "- **I am human**\n- **I do not see you the way I see myself**\n- **You are not as human as I am**",
+      "styleAttributes": {},
+      "x": 312,
+      "y": 6769,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "d8c98b499d78aa80",
+      "type": "text",
+      "text": "- **I see in you the ways that I want to be**\n- **You are human**",
+      "styleAttributes": {},
+      "x": 687,
+      "y": 6769,
+      "width": 360,
+      "height": 84
+    },
+    {
+      "id": "35173d32e20a9ebf",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
+      "styleAttributes": {},
+      "x": 1304,
+      "y": 6760,
+      "width": 640,
+      "height": 377
     }
   ],
   "edges": [
