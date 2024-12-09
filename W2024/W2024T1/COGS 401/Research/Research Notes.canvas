@@ -2297,7 +2297,17 @@
       "x": -1188,
       "y": 13400,
       "width": 440,
-      "height": 320
+      "height": 200
+    },
+    {
+      "id": "8bdf0926427f31e5",
+      "type": "text",
+      "text": "> **How did we get here? This three-part essay traces a brief history of media, technologies, and techniques that take advantage of the malleability of perception, capitalizing on quirks in human brains to shape reality. It is a story about the manufacturing of hallucinations and the fact that, under the right conditions, hallucination and reality can become one and the same**\n\n[[Society of the Psyop Paglen.pdf#page=3&selection=0,0,4,13|Society of the Psyop Paglen, page 3]]",
+      "styleAttributes": {},
+      "x": -1601,
+      "y": 13680,
+      "width": 532,
+      "height": 220
     }
   ],
   "edges": [
