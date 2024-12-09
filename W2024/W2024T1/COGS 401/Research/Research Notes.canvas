@@ -2168,6 +2168,25 @@
       "y": 12410,
       "width": 1030,
       "height": 590
+    },
+    {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "x": -7100,
+      "y": 11620,
+      "width": 520,
+      "height": 1083
+    },
+    {
+      "id": "29af2dd0f05050c4",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": -6580,
+      "y": 11680,
+      "width": 520,
+      "height": 220
     }
   ],
   "edges": [
