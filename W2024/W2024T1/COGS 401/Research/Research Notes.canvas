@@ -2173,20 +2173,40 @@
       "id": "8694c52f613da692",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "x": -7100,
-      "y": 11620,
+      "x": -7920,
+      "y": 11460,
       "width": 520,
-      "height": 1083
+      "height": 635
     },
     {
       "id": "29af2dd0f05050c4",
       "type": "text",
       "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
       "styleAttributes": {},
-      "x": -6580,
-      "y": 11680,
+      "x": -7400,
+      "y": 11540,
       "width": 520,
       "height": 220
+    },
+    {
+      "id": "d2cd9f6191bf2388",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 11780,
+      "width": 520,
+      "height": 222
+    },
+    {
+      "id": "9eedd2d895bc850a",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": -7400,
+      "y": 12020,
+      "width": 520,
+      "height": 150
     }
   ],
   "edges": [
