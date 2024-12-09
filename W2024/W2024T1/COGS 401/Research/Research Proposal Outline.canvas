@@ -115,7 +115,8 @@
       "x": 840,
       "y": 734,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "772f847e9a566acf",
@@ -134,10 +135,11 @@
       "styleAttributes": {
         "textAlign": null
       },
-      "x": 757,
+      "x": 625,
       "y": 1130,
-      "width": 343,
-      "height": 98
+      "width": 475,
+      "height": 90,
+      "color": "4"
     },
     {
       "id": "7c7c9d1784498585",
@@ -149,7 +151,8 @@
       "x": 670,
       "y": 1267,
       "width": 430,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "a938f9538a201b2b",
@@ -159,7 +162,8 @@
       "x": 707,
       "y": 1379,
       "width": 393,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "8660c9b24d26e762",
@@ -180,7 +184,8 @@
       "x": 720,
       "y": 820,
       "width": 380,
-      "height": 70
+      "height": 70,
+      "color": "6"
     },
     {
       "id": "3e3488812021d3af",
@@ -190,17 +195,19 @@
       "x": 800,
       "y": 1580,
       "width": 300,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "bdaaebc0e8b35ef6",
       "type": "text",
       "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
       "styleAttributes": {},
-      "x": 840,
+      "x": 757,
       "y": 1680,
-      "width": 260,
-      "height": 60
+      "width": 343,
+      "height": 60,
+      "color": "6"
     },
     {
       "id": "8eaa8aba4362d3f3",
@@ -210,7 +217,8 @@
       "x": 820,
       "y": 1779,
       "width": 280,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
       "id": "e9d3326fed1891f3",
@@ -239,10 +247,22 @@
       "type": "text",
       "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
       "styleAttributes": {},
-      "x": 670,
+      "x": 625,
       "y": 1480,
       "width": 430,
-      "height": 60
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "be7a7e1828ba3176",
+      "type": "text",
+      "text": "###### Other",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": 4,
+      "width": 260,
+      "height": 40,
+      "color": "3"
     }
   ],
   "edges": [],
