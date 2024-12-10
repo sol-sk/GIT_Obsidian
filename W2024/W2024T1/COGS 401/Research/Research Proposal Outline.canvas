@@ -577,16 +577,6 @@
       "height": 84
     },
     {
-      "id": "a79d1644c5b85d02",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": 704,
-      "width": 320,
-      "height": 84
-    },
-    {
       "id": "ddb21937473a24d9",
       "type": "text",
       "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
@@ -764,12 +754,12 @@
     {
       "id": "f10c5296358dfa80",
       "type": "text",
-      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.\n\n",
       "styleAttributes": {},
       "x": 3740,
       "y": 1323,
       "width": 400,
-      "height": 103,
+      "height": 160,
       "color": "4"
     },
     {
@@ -826,6 +816,115 @@
       "width": 532,
       "height": 319,
       "color": "4"
+    },
+    {
+      "id": "a79d1644c5b85d02",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": 5336,
+      "y": 480,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "5c9badbbea3badab",
+      "type": "text",
+      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2039,
+      "y": 2417,
+      "width": 454,
+      "height": 220,
+      "color": "5"
+    },
+    {
+      "id": "55357374dacdbd16",
+      "type": "text",
+      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+      "styleAttributes": {},
+      "x": 1599,
+      "y": 2417,
+      "width": 400,
+      "height": 129,
+      "color": "5"
+    },
+    {
+      "id": "1e4ee32bf0af2d43",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": 2039,
+      "y": 2677,
+      "width": 400,
+      "height": 155,
+      "color": "5"
+    },
+    {
+      "id": "52a98a0524bd1d3d",
+      "type": "file",
+      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
+      "x": 1599,
+      "y": 2677,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "625b37d79a03d165",
+      "type": "text",
+      "text": "> Paik considered broadcast TV to be an oppressive institution, which he attempted to subvert by turning the viewer into a user of the medium [22].\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=34,20,42,12|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2533,
+      "y": 2417,
+      "width": 454,
+      "height": 140,
+      "color": "5"
+    },
+    {
+      "id": "966753443d72d3e8",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": 1599,
+      "y": 3117,
+      "width": 545,
+      "height": 320,
+      "color": "5"
+    },
+    {
+      "id": "585b2836a9f90123",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": 2184,
+      "y": 3117,
+      "width": 360,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "4a6aa6b776947100",
+      "type": "text",
+      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
+      "styleAttributes": {},
+      "x": 1599,
+      "y": 3477,
+      "width": 532,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "287e6286cf792b7a",
+      "type": "text",
+      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
+      "styleAttributes": {},
+      "x": 2171,
+      "y": 3477,
+      "width": 532,
+      "height": 245,
+      "color": "5"
     }
   ],
   "edges": [
