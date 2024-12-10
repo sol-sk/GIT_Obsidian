@@ -475,16 +475,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "30a7fb53bd23c2ed",
-      "type": "text",
-      "text": "###### [[Computing-legacies_Krapp.pdf]]",
-      "styleAttributes": {},
-      "x": -100,
-      "y": 1140,
-      "width": 300,
-      "height": 60
-    },
-    {
       "id": "305da09c6be9390a",
       "type": "text",
       "text": "**Contemporary (ish)**",
@@ -513,7 +503,8 @@
       "x": 3740,
       "y": 704,
       "width": 320,
-      "height": 40
+      "height": 40,
+      "color": "#28f028"
     },
     {
       "id": "8ed0457a6be6d403",
@@ -545,6 +536,28 @@
       "y": 704,
       "width": 320,
       "height": 84
+    },
+    {
+      "id": "30a7fb53bd23c2ed",
+      "type": "text",
+      "text": "###### [[Computing-legacies_Krapp.pdf]]",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 1210,
+      "width": 300,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "0529ec6c69bfe42f",
+      "type": "text",
+      "text": "###### [[Flusser_Vilem_Writings.pdf]]",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1320,
+      "width": 260,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [
