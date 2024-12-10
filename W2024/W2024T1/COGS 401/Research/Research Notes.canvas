@@ -2488,16 +2488,6 @@
       "height": 60
     },
     {
-      "id": "a06a50105502b813",
-      "type": "text",
-      "text": "> How can the queen be saved? By recognizing that the abstractions here are multilayered. When McCulloch goes down a level, away from what in- formation is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. These circuits are diagrams that have been abstracted from two different kinds of embod- iments, neural tissue for the human and vacuum tubes or silicon chips for the robot. Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differ- ences create a Significant gap. It depends on how the perspective is con- structed. Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial to constructing the path- ways through which the McCulloch-Pitts neuron was made to stand simul- taneously for a computer code and for human thought. Transforming the body into a flow of binary code pulSing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary Simplification that made an im- portant contribution to neurophysiology. Taken out ofcontext, it is extrapo- lated to the unwarranted conclusion that there is no essential difference between thought and code\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
-      "styleAttributes": {},
-      "x": 5603,
-      "y": 11508,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "b8c0b511855fc12a",
       "type": "text",
       "text": "**Amelia Jones** critique in Judith Butler \n",
@@ -2506,6 +2496,16 @@
       "y": 11000,
       "width": 339,
       "height": 60
+    },
+    {
+      "id": "a06a50105502b813",
+      "type": "text",
+      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary Simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
+      "styleAttributes": {},
+      "x": 3330,
+      "y": 11720,
+      "width": 545,
+      "height": 520
     }
   ],
   "edges": [
