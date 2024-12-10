@@ -263,6 +263,15 @@
       "width": 380,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "c59520e77206cc5b",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-12-09 at 5.12.38 PM.png",
+      "x": 2000,
+      "y": 800,
+      "width": 400,
+      "height": 130
     }
   ],
   "edges": [],

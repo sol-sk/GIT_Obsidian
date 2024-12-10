@@ -1022,26 +1022,6 @@
       "height": 60
     },
     {
-      "id": "6c987bfd8709d556",
-      "type": "text",
-      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10580,
-      "width": 400,
-      "height": 180
-    },
-    {
-      "id": "25306e3d47f118b7",
-      "type": "text",
-      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10780,
-      "width": 300,
-      "height": 200
-    },
-    {
       "id": "5da8e5b8ccd3d511",
       "type": "text",
       "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
@@ -1658,26 +1638,6 @@
       "y": 11460,
       "width": 360,
       "height": 215
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
     },
     {
       "id": "c708b57f3b06953c",
@@ -2427,6 +2387,46 @@
       "y": 11800,
       "width": 420,
       "height": 140
+    },
+    {
+      "id": "6c987bfd8709d556",
+      "type": "text",
+      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10580,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
