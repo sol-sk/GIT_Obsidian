@@ -14,172 +14,11 @@
       "id": "a12de91363579ccf",
       "type": "group",
       "styleAttributes": {},
-      "isCollapsed": true,
       "x": -6560,
       "y": 13200,
       "width": 3440,
       "height": 2560,
       "label": "Final Project Guidelines"
-    },
-    {
-      "id": "0bcd5eb3138ba697",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14035,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "f4d405392c3c012f",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14237,
-      "width": 520,
-      "height": 97
-    },
-    {
-      "id": "fa372c2696463f70",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": -4060,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "9eedd2d895bc850a",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14035,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "1c8a476d7cd2e2bd",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14236,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "8694c52f613da692",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 13214,
-      "width": 520,
-      "height": 635
-    },
-    {
-      "id": "5493944c49f4026f",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14286,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "fc197701110b7112",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": -3540,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "a560451957c0e6b6",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": -4740,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "29af2dd0f05050c4",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "f6fd8768b41001fd",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14286,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "838f489b7cb92a20",
-      "type": "text",
-      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14566,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "d2cd9f6191bf2388",
-      "type": "text",
-      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "9529fd7ce532069e",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": -5300,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "bedad107149fb2b7",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": -5940,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "609eafa2a84b0764",
-      "type": "text",
-      "text": "#### Background (in sufficient detail to motivate the RQ) ",
-      "styleAttributes": {},
-      "x": -6540,
-      "y": 14820,
-      "width": 320,
-      "height": 80
     },
     {
       "id": "a1066e269eddfaf0",
@@ -354,114 +193,154 @@
       "color": "#046214"
     },
     {
-      "id": "2318d07b7800b50b",
+      "id": "0bcd5eb3138ba697",
       "type": "text",
-      "text": "Ecological and interpersonal selves intertwine",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
       "styleAttributes": {},
-      "x": 6049,
-      "y": -400,
-      "width": 260,
-      "height": 60
+      "x": -3660,
+      "y": 14035,
+      "width": 520,
+      "height": 152
     },
     {
-      "id": "86a6585083fa504a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": -1085,
-      "width": 720,
-      "height": 835
-    },
-    {
-      "id": "18ea84df6ffbecc9",
+      "id": "f4d405392c3c012f",
       "type": "text",
-      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
       "styleAttributes": {},
-      "x": 6700,
-      "y": -598,
-      "width": 340,
-      "height": 129
+      "x": -3660,
+      "y": 14237,
+      "width": 520,
+      "height": 97
     },
     {
-      "id": "9cb2e2cd3aa275e3",
+      "id": "fa372c2696463f70",
       "type": "text",
-      "text": "\"Social\" vs \"physical\" objects",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
       "styleAttributes": {},
-      "x": 5880,
-      "y": -499,
-      "width": 260,
-      "height": 60
+      "x": -4060,
+      "y": 14820,
+      "width": 320,
+      "height": 84
     },
     {
-      "id": "2457cd5115b4e079",
+      "id": "9eedd2d895bc850a",
       "type": "text",
-      "text": "##### Interpersonal self-conception",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
       "styleAttributes": {},
-      "x": 7200,
-      "y": -598,
-      "width": 260,
-      "height": 60
+      "x": -4260,
+      "y": 14035,
+      "width": 520,
+      "height": 150
     },
     {
-      "id": "d429b8844b43b949",
+      "id": "1c8a476d7cd2e2bd",
       "type": "text",
-      "text": "#### Self-conception",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
       "styleAttributes": {},
-      "x": 7040,
-      "y": -736,
-      "width": 260,
-      "height": 60
+      "x": -4260,
+      "y": 14236,
+      "width": 520,
+      "height": 98
     },
     {
-      "id": "25316e1faf936bdb",
+      "id": "5493944c49f4026f",
       "type": "text",
-      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
       "styleAttributes": {},
-      "x": 6470,
-      "y": -796,
-      "width": 340,
-      "height": 100
+      "x": -4860,
+      "y": 14286,
+      "width": 520,
+      "height": 98
     },
     {
-      "id": "3665f31e678ec6e6",
+      "id": "fc197701110b7112",
       "type": "text",
-      "text": "Mechanics of mimicry",
+      "text": "#### Significance/Contributions",
       "styleAttributes": {},
-      "x": 6267,
-      "y": -280,
-      "width": 260,
-      "height": 60
+      "x": -3540,
+      "y": 14820,
+      "width": 320,
+      "height": 40
     },
     {
-      "id": "fbb0639357dc7c35",
+      "id": "a560451957c0e6b6",
       "type": "text",
-      "text": "**Recursion**",
+      "text": "#### Expected Results/Interpretation of Results ",
       "styleAttributes": {},
-      "x": 6620,
-      "y": -280,
-      "width": 260,
-      "height": 60
+      "x": -4740,
+      "y": 14820,
+      "width": 320,
+      "height": 84
     },
     {
-      "id": "c9bb3d54bb517b45",
+      "id": "29af2dd0f05050c4",
       "type": "text",
-      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
       "styleAttributes": {},
-      "x": 5875,
-      "y": -160,
-      "width": 348,
-      "height": 304
+      "x": -5460,
+      "y": 14029,
+      "width": 520,
+      "height": 208
     },
     {
-      "id": "ff61b3618c93141a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 1.md",
+      "id": "f6fd8768b41001fd",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
       "styleAttributes": {},
-      "x": 5080,
-      "y": -1085,
-      "width": 680,
-      "height": 1176
+      "x": -5460,
+      "y": 14286,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "838f489b7cb92a20",
+      "type": "text",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14566,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "d2cd9f6191bf2388",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "9529fd7ce532069e",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": -5300,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "bedad107149fb2b7",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": -5940,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "609eafa2a84b0764",
+      "type": "text",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "styleAttributes": {},
+      "x": -6540,
+      "y": 14820,
+      "width": 320,
+      "height": 80
     },
     {
       "id": "465ab03efff76484",
@@ -2685,6 +2564,126 @@
       "width": 389,
       "height": 102,
       "color": "#046214"
+    },
+    {
+      "id": "c9bb3d54bb517b45",
+      "type": "text",
+      "text": "> If it is correct that imitation depends on detection of higher order variables which transcend sensory modalities, and that perception of emotion depends on de- tecting the invariant feeling states which accompany emotional expressions, then specification of self is clearly not a  matter of traditionally conceived sense perception. It may be  better thought of as a \"metaphorical\" process of detecting  abstract correspondences within perceptual information",
+      "styleAttributes": {},
+      "x": 5875,
+      "y": -160,
+      "width": 348,
+      "height": 304
+    },
+    {
+      "id": "ff61b3618c93141a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 1.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": -1085,
+      "width": 680,
+      "height": 1176
+    },
+    {
+      "id": "86a6585083fa504a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": -1085,
+      "width": 720,
+      "height": 835
+    },
+    {
+      "id": "3665f31e678ec6e6",
+      "type": "text",
+      "text": "Mechanics of mimicry",
+      "styleAttributes": {},
+      "x": 6267,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fbb0639357dc7c35",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 6620,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2318d07b7800b50b",
+      "type": "text",
+      "text": "Ecological and interpersonal selves intertwine",
+      "styleAttributes": {},
+      "x": 6049,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "18ea84df6ffbecc9",
+      "type": "text",
+      "text": "There are \"higher order\" variables, aka abstract, metaphorical, or non-perceptual pieces of information, which are necessary in understanding mimicry and thus social development/\"interpersonal self.\" ",
+      "styleAttributes": {},
+      "x": 6700,
+      "y": -598,
+      "width": 340,
+      "height": 129
+    },
+    {
+      "id": "9cb2e2cd3aa275e3",
+      "type": "text",
+      "text": "\"Social\" vs \"physical\" objects",
+      "styleAttributes": {},
+      "x": 5880,
+      "y": -499,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2457cd5115b4e079",
+      "type": "text",
+      "text": "##### Interpersonal self-conception",
+      "styleAttributes": {},
+      "x": 7200,
+      "y": -598,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d429b8844b43b949",
+      "type": "text",
+      "text": "#### Self-conception",
+      "styleAttributes": {},
+      "x": 7040,
+      "y": -736,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25316e1faf936bdb",
+      "type": "text",
+      "text": "The basis for knowledge acquisition is the self/non-self distinction, which is understood very early in development",
+      "styleAttributes": {},
+      "x": 6470,
+      "y": -796,
+      "width": 340,
+      "height": 100
+    },
+    {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 13214,
+      "width": 520,
+      "height": 635
     }
   ],
   "edges": [
