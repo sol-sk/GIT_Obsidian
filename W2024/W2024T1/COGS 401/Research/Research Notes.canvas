@@ -2377,6 +2377,26 @@
       "y": 13643,
       "width": 400,
       "height": 100
+    },
+    {
+      "id": "355823c62ee6699a",
+      "type": "text",
+      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
+      "styleAttributes": {},
+      "x": -1180,
+      "y": 13660,
+      "width": 526,
+      "height": 160
+    },
+    {
+      "id": "613df219e450e62e",
+      "type": "text",
+      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "styleAttributes": {},
+      "x": -608,
+      "y": 13760,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
