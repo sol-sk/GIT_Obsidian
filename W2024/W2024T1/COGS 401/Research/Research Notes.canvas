@@ -7,7 +7,7 @@
       "x": -1680,
       "y": 6620,
       "width": 3640,
-      "height": 8100,
+      "height": 8980,
       "label": "Bibliography notes"
     },
     {
@@ -2518,6 +2518,15 @@
       "y": 13566,
       "width": 532,
       "height": 160
+    },
+    {
+      "id": "22e75b37e2cbe3fc",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
+      "x": -1480,
+      "y": 14020,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [

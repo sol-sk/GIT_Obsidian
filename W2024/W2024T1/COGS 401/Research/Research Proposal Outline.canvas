@@ -544,6 +544,16 @@
       "y": 1603,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "30a7fb53bd23c2ed",
+      "type": "text",
+      "text": "###### [[Computing-legacies_Krapp.pdf]]",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 1140,
+      "width": 300,
+      "height": 60
     }
   ],
   "edges": [
