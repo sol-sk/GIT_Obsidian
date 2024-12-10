@@ -403,17 +403,6 @@
       "height": 260
     },
     {
-      "id": "1d8b47d0c03e7e7d",
-      "type": "text",
-      "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 1073,
-      "width": 360,
-      "height": 226,
-      "color": "#28aaf0"
-    },
-    {
       "id": "c0f803fe0aad5e32",
       "type": "text",
       "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
@@ -438,12 +427,12 @@
     {
       "id": "1281b63ee7e57b58",
       "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
+      "text": "> The transcripts show that researchers from a wide variety of fields-neurophysiology, electrical engineering, philosophy, semantics, literature, and psychology, among others-struggled to understand one another and make connections between others' ideas and their own areas of expertise. In the process, a concept that may have begun as a model of a particular physical system came to have broader significance, acting Simultaneously as mechanism and metaphor ...\n> \n> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
       "styleAttributes": {},
       "x": 1820,
       "y": 844,
-      "width": 360,
-      "height": 200,
+      "width": 640,
+      "height": 292,
       "color": "#28aaf0"
     },
     {
@@ -946,6 +935,17 @@
       "y": 522,
       "width": 320,
       "height": 84
+    },
+    {
+      "id": "1d8b47d0c03e7e7d",
+      "type": "text",
+      "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
+      "styleAttributes": {},
+      "x": 2500,
+      "y": 820,
+      "width": 360,
+      "height": 226,
+      "color": "#28aaf0"
     }
   ],
   "edges": [
