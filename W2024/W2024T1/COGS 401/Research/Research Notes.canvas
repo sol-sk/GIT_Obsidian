@@ -303,36 +303,6 @@
       "height": 76
     },
     {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 154,
-      "y": 10050,
-      "width": 460,
-      "height": 234
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "66a8e594b9bcfcab",
       "type": "text",
       "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
@@ -351,16 +321,6 @@
       "y": 9579,
       "width": 400,
       "height": 105
-    },
-    {
-      "id": "22f9b30e5a9ea20f",
-      "type": "text",
-      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 9783,
-      "width": 350,
-      "height": 120
     },
     {
       "id": "12453a54f25d9336",
@@ -393,16 +353,6 @@
       "height": 400
     },
     {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "783cb05753c91821",
       "type": "text",
       "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
@@ -413,16 +363,6 @@
       "height": 180
     },
     {
-      "id": "892e8f07eb18c822",
-      "type": "text",
-      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9579,
-      "width": 400,
-      "height": 324
-    },
-    {
       "id": "816a6f30f3df274c",
       "type": "text",
       "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
@@ -431,36 +371,6 @@
       "y": 9110,
       "width": 400,
       "height": 129
-    },
-    {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9783,
-      "width": 400,
-      "height": 120
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
     },
     {
       "id": "73cf9087e878334e",
@@ -523,16 +433,6 @@
       "height": 80
     },
     {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
       "id": "02459a76cd570547",
       "type": "text",
       "text": "**Mimicry**",
@@ -581,26 +481,6 @@
       "y": 8639,
       "width": 454,
       "height": 76
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "e859292c5377bd84",
@@ -697,17 +577,6 @@
       "height": 100
     },
     {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155,
-      "color": "5"
-    },
-    {
       "id": "2f2221f4dc604816",
       "type": "text",
       "text": "**Anti-embodiment**",
@@ -716,27 +585,6 @@
       "y": 10300,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 10052,
-      "width": 400,
-      "height": 160,
-      "color": "4"
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
     },
     {
       "id": "9666e22619b61c1a",
@@ -1653,26 +1501,6 @@
       "height": 100
     },
     {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "8e489775f8391ccb",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
@@ -2076,6 +1904,7 @@
       "id": "77d023904c6630a1",
       "type": "file",
       "file": "W2024 Files/mechanical-reproduction_benjamin.pdf",
+      "styleAttributes": {},
       "x": -1638,
       "y": 15280,
       "width": 400,
@@ -2106,6 +1935,7 @@
       "id": "0f595e42a18eb119",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
+      "styleAttributes": {},
       "x": -1638,
       "y": 15840,
       "width": 400,
@@ -2684,6 +2514,189 @@
       "y": 14286,
       "width": 520,
       "height": 260
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
+      "height": 234
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "22f9b30e5a9ea20f",
+      "type": "text",
+      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9783,
+      "width": 350,
+      "height": 120
+    },
+    {
+      "id": "892e8f07eb18c822",
+      "type": "text",
+      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9579,
+      "width": 400,
+      "height": 324
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9783,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9579,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155,
+      "color": "5"
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10280,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "4ea435c7d2a4e508",
+      "type": "text",
+      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10052,
+      "width": 415,
+      "height": 228,
+      "color": "4"
     }
   ],
   "edges": [
