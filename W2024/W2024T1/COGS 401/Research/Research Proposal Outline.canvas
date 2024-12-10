@@ -255,122 +255,22 @@
       "color": "4"
     },
     {
-      "id": "937d51fbb27136c7",
+      "id": "699ee643e8f794a1",
       "type": "text",
-      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "text": "### [[COGS401_FinalProject.pdf]]",
       "styleAttributes": {},
-      "x": 1860,
-      "y": 1740,
-      "width": 320,
-      "height": 80
-    },
-    {
-      "id": "3101a8a3d36cb8ed",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": 949,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "9805da0c01345e41",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": 1206,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "4509247965d00cb8",
-      "type": "text",
-      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": 1486,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "904cb0ddb5c9b9f1",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 1740,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "a79d1644c5b85d02",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": 3660,
-      "y": 1740,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "79e99461f71a7ced",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": 2460,
-      "y": 1740,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "bb5cde848d3fa4e9",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": 4140,
-      "y": 955,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "b11cdb3ed654077e",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": 4140,
-      "y": 1156,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "73514a6462708b9d",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": 4740,
-      "y": 955,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "05687779c73c9644",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": 4740,
-      "y": 1157,
-      "width": 520,
-      "height": 97
+      "x": 1580,
+      "y": -180,
+      "width": 280,
+      "height": 60
     },
     {
       "id": "7773c5a0d0f9505f",
       "type": "text",
       "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
       "styleAttributes": {},
-      "x": 3540,
-      "y": 949,
+      "x": 2840,
+      "y": -161,
       "width": 520,
       "height": 208
     },
@@ -379,18 +279,128 @@
       "type": "text",
       "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
       "styleAttributes": {},
-      "x": 3540,
-      "y": 1206,
+      "x": 2840,
+      "y": 96,
       "width": 520,
       "height": 98
+    },
+    {
+      "id": "73514a6462708b9d",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": 4040,
+      "y": -155,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "05687779c73c9644",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": 4040,
+      "y": 47,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "bb5cde848d3fa4e9",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": 3440,
+      "y": -155,
+      "width": 520,
+      "height": 150
+    },
+    {
+      "id": "b11cdb3ed654077e",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": 3440,
+      "y": 46,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "3101a8a3d36cb8ed",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": 2240,
+      "y": -161,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "904cb0ddb5c9b9f1",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": 3060,
+      "y": 724,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "a79d1644c5b85d02",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": 3620,
+      "y": 724,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "937d51fbb27136c7",
+      "type": "text",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 724,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "79e99461f71a7ced",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": 2420,
+      "y": 724,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "4509247965d00cb8",
+      "type": "text",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
+      "styleAttributes": {},
+      "x": 4640,
+      "y": 125,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "9805da0c01345e41",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": 4640,
+      "y": -155,
+      "width": 520,
+      "height": 260
     },
     {
       "id": "5f865b77ff13867e",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project ",
       "styleAttributes": {},
-      "x": 4340,
-      "y": 1740,
+      "x": 4240,
+      "y": 724,
       "width": 320,
       "height": 84
     },
@@ -399,20 +409,20 @@
       "type": "text",
       "text": "#### Significance/Contributions",
       "styleAttributes": {},
-      "x": 4860,
-      "y": 1740,
+      "x": 4760,
+      "y": 724,
       "width": 320,
       "height": 40
     },
     {
-      "id": "699ee643e8f794a1",
+      "id": "1281b63ee7e57b58",
       "type": "text",
-      "text": "### [[COGS401_FinalProject.pdf]]",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
       "styleAttributes": {},
-      "x": 3560,
-      "y": 240,
-      "width": 280,
-      "height": 60
+      "x": 1820,
+      "y": 844,
+      "width": 360,
+      "height": 200
     }
   ],
   "edges": [
