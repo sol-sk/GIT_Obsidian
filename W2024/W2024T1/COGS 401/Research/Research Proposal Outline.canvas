@@ -427,12 +427,12 @@
     {
       "id": "1d8b47d0c03e7e7d",
       "type": "text",
-      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent. Here the slippage between mechanism and model be- comes important, for even among researchers dedicated to a hard-science approach, such as McCulloch, the tendency was to use the model meta- phOrically to forge connections between relatively simple neural circuits and the complexities of embodied experience.\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|How We Became Posthuman Hayles, page 72]]",
+      "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]",
       "styleAttributes": {},
       "x": 1820,
       "y": 1073,
       "width": 360,
-      "height": 361
+      "height": 140
     }
   ],
   "edges": [
