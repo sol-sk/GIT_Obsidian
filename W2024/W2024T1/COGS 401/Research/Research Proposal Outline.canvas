@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "42842190a8105752",
+      "type": "group",
+      "x": 1520,
+      "y": 700,
+      "width": 1440,
+      "height": 1940,
+      "color": "#28aaf0",
+      "label": "Background"
+    },
+    {
       "id": "795546810b8b931f",
       "type": "text",
       "text": "**Vision and perception: Psychology**",
@@ -335,26 +345,6 @@
       "height": 208
     },
     {
-      "id": "904cb0ddb5c9b9f1",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": 3060,
-      "y": 724,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "a79d1644c5b85d02",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": 3620,
-      "y": 724,
-      "width": 320,
-      "height": 84
-    },
-    {
       "id": "937d51fbb27136c7",
       "type": "text",
       "text": "#### Background (in sufficient detail to motivate the RQ) ",
@@ -362,17 +352,8 @@
       "x": 1820,
       "y": 724,
       "width": 320,
-      "height": 80
-    },
-    {
-      "id": "79e99461f71a7ced",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": 2420,
-      "y": 724,
-      "width": 320,
-      "height": 40
+      "height": 80,
+      "color": "#28aaf0"
     },
     {
       "id": "4509247965d00cb8",
@@ -395,26 +376,6 @@
       "height": 260
     },
     {
-      "id": "5f865b77ff13867e",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": 4240,
-      "y": 724,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "8ed0457a6be6d403",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": 4760,
-      "y": 724,
-      "width": 320,
-      "height": 40
-    },
-    {
       "id": "1d8b47d0c03e7e7d",
       "type": "text",
       "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
@@ -422,7 +383,8 @@
       "x": 1820,
       "y": 1073,
       "width": 360,
-      "height": 226
+      "height": 226,
+      "color": "#28aaf0"
     },
     {
       "id": "c0f803fe0aad5e32",
@@ -432,7 +394,8 @@
       "x": 1760,
       "y": 1320,
       "width": 420,
-      "height": 208
+      "height": 208,
+      "color": "#28aaf0"
     },
     {
       "id": "55fb4a78e7053e39",
@@ -442,7 +405,8 @@
       "x": 1540,
       "y": 820,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "#28aaf0"
     },
     {
       "id": "1281b63ee7e57b58",
@@ -452,7 +416,8 @@
       "x": 1820,
       "y": 844,
       "width": 360,
-      "height": 200
+      "height": 200,
+      "color": "#28aaf0"
     },
     {
       "id": "43abb7e8086fe9ef",
@@ -473,7 +438,8 @@
       "x": 2260,
       "y": 1282,
       "width": 540,
-      "height": 180
+      "height": 180,
+      "color": "#28aaf0"
     },
     {
       "id": "bbe91b6f5cb59c4e",
@@ -483,7 +449,8 @@
       "x": 1540,
       "y": 1573,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "#28aaf0"
     },
     {
       "id": "4cf15bb07c8f65af",
@@ -493,7 +460,8 @@
       "x": 1850,
       "y": 2060,
       "width": 320,
-      "height": 240
+      "height": 240,
+      "color": "#28aaf0"
     },
     {
       "id": "acb4618c5b3bca81",
@@ -503,7 +471,8 @@
       "x": 1820,
       "y": 1603,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "#28aaf0"
     },
     {
       "id": "30a7fb53bd23c2ed",
@@ -523,7 +492,58 @@
       "x": 1540,
       "y": 2035,
       "width": 260,
-      "height": 60
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "79e99461f71a7ced",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 560,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "904cb0ddb5c9b9f1",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 704,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "a79d1644c5b85d02",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 704,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "5f865b77ff13867e",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 704,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "8ed0457a6be6d403",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 704,
+      "width": 320,
+      "height": 40
     }
   ],
   "edges": [
