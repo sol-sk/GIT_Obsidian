@@ -2379,16 +2379,6 @@
       "height": 208
     },
     {
-      "id": "5493944c49f4026f",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": -8200,
-      "y": 12520,
-      "width": 520,
-      "height": 98
-    },
-    {
       "id": "8694c52f613da692",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
@@ -2409,12 +2399,42 @@
       "height": 208
     },
     {
+      "id": "fa372c2696463f70",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
+      "styleAttributes": {},
+      "x": -9000,
+      "y": 13622,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "fc197701110b7112",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": -9000,
+      "y": 13722,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "5493944c49f4026f",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": -8200,
+      "y": 12446,
+      "width": 520,
+      "height": 98
+    },
+    {
       "id": "f6fd8768b41001fd",
       "type": "text",
       "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
       "styleAttributes": {},
       "x": -8800,
-      "y": 12520,
+      "y": 12446,
       "width": 520,
       "height": 260
     },
@@ -2424,19 +2444,49 @@
       "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
       "styleAttributes": {},
       "x": -8800,
-      "y": 12800,
+      "y": 12726,
       "width": 520,
       "height": 98
     },
     {
-      "id": "e9ddf92ec0279ec5",
+      "id": "609eafa2a84b0764",
       "type": "text",
-      "text": "- Background (in sufficient detail to motivate the RQ/hypothesis) \n- Research Q/Hypothesis \n- Proposed Methods\n- Expected Results/Interpretation of Results \n- Brief Description of a Planned or Ideal Lab and/or Supervisor for the Project \n- Significance/Contributions",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
       "styleAttributes": {},
-      "x": -8720,
-      "y": 13220,
-      "width": 700,
-      "height": 171
+      "x": -8800,
+      "y": 13000,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "bedad107149fb2b7",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": -8200,
+      "y": 13000,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "9529fd7ce532069e",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": -7560,
+      "y": 13000,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "a560451957c0e6b6",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": -7000,
+      "y": 13000,
+      "width": 320,
+      "height": 84
     }
   ],
   "edges": [
