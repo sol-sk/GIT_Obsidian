@@ -453,6 +453,27 @@
       "y": 1320,
       "width": 540,
       "height": 180
+    },
+    {
+      "id": "43abb7e8086fe9ef",
+      "type": "text",
+      "text": "##### Information Arts: Intersections of Art, Science, and Technology",
+      "styleAttributes": {},
+      "x": 160,
+      "y": 1210,
+      "width": 360,
+      "height": 66,
+      "color": "6"
+    },
+    {
+      "id": "305da09c6be9390a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": 1620,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
