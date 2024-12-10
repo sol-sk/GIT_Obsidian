@@ -168,7 +168,7 @@
       "type": "text",
       "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
       "styleAttributes": {},
-      "x": 625,
+      "x": 640,
       "y": 1533,
       "width": 430,
       "height": 60,
@@ -214,7 +214,7 @@
       "styleAttributes": {
         "textAlign": null
       },
-      "x": 714,
+      "x": 720,
       "y": 1920,
       "width": 380,
       "height": 80,
@@ -435,27 +435,6 @@
       "height": 208
     },
     {
-      "id": "cbf3f9fba58cbb2e",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
-      "styleAttributes": {},
-      "x": 2220,
-      "y": 1320,
-      "width": 540,
-      "height": 180
-    },
-    {
-      "id": "43abb7e8086fe9ef",
-      "type": "text",
-      "text": "###### [[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf]]",
-      "styleAttributes": {},
-      "x": 160,
-      "y": 1210,
-      "width": 320,
-      "height": 70,
-      "color": "6"
-    },
-    {
       "id": "55fb4a78e7053e39",
       "type": "text",
       "text": "**Cybernetics**\n",
@@ -523,6 +502,37 @@
       "x": 1180,
       "y": 2030,
       "width": 360,
+      "height": 60
+    },
+    {
+      "id": "43abb7e8086fe9ef",
+      "type": "text",
+      "text": "###### [[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf]]",
+      "styleAttributes": {},
+      "x": 780,
+      "y": 2030,
+      "width": 320,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "cbf3f9fba58cbb2e",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
+      "styleAttributes": {},
+      "x": 2260,
+      "y": 1282,
+      "width": 540,
+      "height": 180
+    },
+    {
+      "id": "bbe91b6f5cb59c4e",
+      "type": "text",
+      "text": "**Art **",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": 1540,
+      "width": 260,
       "height": 60
     }
   ],
