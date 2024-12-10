@@ -432,7 +432,17 @@
       "x": 1820,
       "y": 1073,
       "width": 360,
-      "height": 320
+      "height": 226
+    },
+    {
+      "id": "c0f803fe0aad5e32",
+      "type": "text",
+      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object.",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 1320,
+      "width": 360,
+      "height": 120
     }
   ],
   "edges": [
