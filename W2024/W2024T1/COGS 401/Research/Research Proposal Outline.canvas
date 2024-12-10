@@ -11,6 +11,15 @@
       "label": "Background"
     },
     {
+      "id": "fcc910624593465c",
+      "type": "group",
+      "x": 3040,
+      "y": 700,
+      "width": 620,
+      "height": 268,
+      "label": "Research Q, Supervisor"
+    },
+    {
       "id": "795546810b8b931f",
       "type": "text",
       "text": "**Vision and perception: Psychology**",
@@ -486,16 +495,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "79e99461f71a7ced",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 560,
-      "width": 320,
-      "height": 40
-    },
-    {
       "id": "904cb0ddb5c9b9f1",
       "type": "text",
       "text": "#### Proposed Methods",
@@ -518,26 +517,6 @@
       "color": "3"
     },
     {
-      "id": "a79d1644c5b85d02",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": 4400,
-      "y": 704,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "5f865b77ff13867e",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": 5160,
-      "y": 704,
-      "width": 320,
-      "height": 84
-    },
-    {
       "id": "30a7fb53bd23c2ed",
       "type": "text",
       "text": "###### [[Computing-legacies_Krapp.pdf]]",
@@ -558,6 +537,36 @@
       "width": 260,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "79e99461f71a7ced",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": 3060,
+      "y": 720,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "5f865b77ff13867e",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
+      "styleAttributes": {},
+      "x": 3060,
+      "y": 810,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "a79d1644c5b85d02",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": 5160,
+      "y": 704,
+      "width": 320,
+      "height": 84
     }
   ],
   "edges": [
