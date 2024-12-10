@@ -2421,12 +2421,12 @@
     {
       "id": "f522e0d972728407",
       "type": "text",
-      "text": "**Modelling Charisma**",
+      "text": "**Modelling Charisma**\n- AI as optimally charismatic\n- Charisma as tool for social control, persuasion, production of culture",
       "styleAttributes": {},
       "x": -180,
       "y": 11800,
-      "width": 260,
-      "height": 60
+      "width": 420,
+      "height": 140
     }
   ],
   "edges": [
