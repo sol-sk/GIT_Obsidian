@@ -756,16 +756,6 @@
       "height": 60
     },
     {
-      "id": "434387f956274fba",
-      "type": "text",
-      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 1400,
-      "y": 11272,
-      "width": 420,
-      "height": 148
-    },
-    {
       "id": "bc3497921fa47e25",
       "type": "text",
       "text": "##### Embodiment",
@@ -1800,46 +1790,6 @@
       "height": 60
     },
     {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 154,
-      "y": 10050,
-      "width": 460,
-      "height": 234
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 10052,
-      "width": 400,
-      "height": 160
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "948933e2de3cc000",
       "type": "text",
       "text": "*Compositions must not be in opposition to natural eye movement*",
@@ -1858,126 +1808,6 @@
       "y": 10050,
       "width": 460,
       "height": 102
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "2f2221f4dc604816",
-      "type": "text",
-      "text": "**Anti-embodiment**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10300,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "73cf9087e878334e",
-      "type": "text",
-      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10392,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "105584a9914dc91a",
-      "type": "text",
-      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10170,
-      "width": 460,
-      "height": 100
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
     },
     {
       "id": "9d6d3baf60e72eb2",
@@ -2401,12 +2231,192 @@
     {
       "id": "49dc46840b80e57f",
       "type": "text",
-      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma, meaning “gift of grace” or “divine favor” from its theological origins to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might embody an identifiable ideology around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
       "styleAttributes": {},
       "x": -810,
       "y": 11940,
       "width": 545,
-      "height": 300
+      "height": 280
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "73cf9087e878334e",
+      "type": "text",
+      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10392,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "434387f956274fba",
+      "type": "text",
+      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 1400,
+      "y": 11272,
+      "width": 420,
+      "height": 148
+    },
+    {
+      "id": "2f2221f4dc604816",
+      "type": "text",
+      "text": "**Anti-embodiment**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
+      "height": 234
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 10052,
+      "width": 400,
+      "height": 160
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "105584a9914dc91a",
+      "type": "text",
+      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10170,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "3bd7a8869f03963e",
+      "type": "text",
+      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 12280,
+      "width": 545,
+      "height": 120
     }
   ],
   "edges": [
