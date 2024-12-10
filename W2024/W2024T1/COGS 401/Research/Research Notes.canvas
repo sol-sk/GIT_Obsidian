@@ -494,16 +494,6 @@
       "height": 1176
     },
     {
-      "id": "53fb11076478f995",
-      "type": "text",
-      "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 4120,
-      "y": 4080,
-      "width": 800,
-      "height": 741
-    },
-    {
       "id": "db5b8e6eadd5bb01",
       "type": "text",
       "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
@@ -856,16 +846,6 @@
       "width": 389,
       "height": 102,
       "color": "#046214"
-    },
-    {
-      "id": "63e399d5f7428f8f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": 3320,
-      "y": 4080,
-      "width": 720,
-      "height": 624
     },
     {
       "id": "796edfd7dea47577",
@@ -2030,12 +2010,12 @@
     {
       "id": "e71f01d6ff0d8aa5",
       "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.\n\n[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf#page=4&selection=18,17,24,15|Butterworth-SelfPerceptionFoundationSelfKnowledge-1992, page 4]]",
       "styleAttributes": {},
       "x": -825,
       "y": 6707,
       "width": 389,
-      "height": 102,
+      "height": 220,
       "color": "3"
     },
     {
@@ -2686,6 +2666,26 @@
       "width": 532,
       "height": 319,
       "color": "4"
+    },
+    {
+      "id": "53fb11076478f995",
+      "type": "text",
+      "text": "Some quotes I pulled from this article:\n\"Later, with Francisco Varela, {Humberto Maturana} developed the term auto-poiesis to describe a living system through its ability to self-organize, while insisting that organisms were structurally coupled with their environment. Second-wave cy- bernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'\"\n\n\"Artist Scott Blake has attempted to emulate Close's pixel-aesthetics by creat- ing a software program, The Chuck Close Filter, that emulates and utilizes elements of Close's technique in order to create his very own Chuck-Close-like artworks. Scott Blake's Self Portrait Made with Chuck Close Filter (Fig. 3) demonstrates the po- tential of appropriating Close's aesthetics into a purely digital form and resonates strikingly with Close's work\"\n\n\"The key relation between third-wave cy- bernetics and digital art is exemplified in the conceptualization and practice of emergence, which has opened new hori- zons and modes of art production. Howard Rheingold correlates the emergence of an on-line 'collective intelligence' as analogous to the behavior of swarm sys- tems where agents residing on one scale produce higher-level behavior and patterns. Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"\n\n\"Similarly, Lev Manovich perceptively points out that new-media objects are readymades by default and are in line with Barthes's criticism of the author as a sole-inventor, such that the text becomes a 'tissue of quotations drawn from the innumerable centers of culture'\"\n\n\"Similarly, Eduardo Kac utilizes emergence in his transgenic bioart. In Genesis (1999), Kac translated a quote from the Bible (Genesis 1:26) into Morse code and then converted it into a DNA sequence - ordered from a genetics lab - and infused it into a Pe- tri dish with fluorescent E. coli bacteria (Fig. 6). Finally, the bacteria's light source was connected to the Internet such that web users could turn it off and on, influencing the E. coli s unpredictable mutation.\"\n\n\"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. What caused this delay? While it takes time for ideas to seep into the social conscious- ness, artists are often capable of rapidly integrating ideas and conceptualizing new ones. Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between pow- erful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": 4120,
+      "y": 4080,
+      "width": 800,
+      "height": 741
+    },
+    {
+      "id": "63e399d5f7428f8f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": 3320,
+      "y": 4080,
+      "width": 720,
+      "height": 624
     }
   ],
   "edges": [
