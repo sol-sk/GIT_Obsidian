@@ -588,28 +588,6 @@
       "height": 673
     },
     {
-      "id": "1fa5dd24850f5912",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 5780,
-      "y": 2089,
-      "width": 454,
-      "height": 76,
-      "color": "3"
-    },
-    {
-      "id": "5ebdff134be0f5eb",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": 5780,
-      "y": 1669,
-      "width": 400,
-      "height": 280,
-      "color": "3"
-    },
-    {
       "id": "2f784e2b10205b9a",
       "type": "text",
       "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
@@ -665,39 +643,6 @@
       "color": "3"
     },
     {
-      "id": "573ef010cd3a3d62",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"\n\n[[Causes and consequences of mind perception Waytz et al.pdf#page=4&selection=0,40,11,31|Causes and consequences of mind perception Waytz et al, page 4]]",
-      "styleAttributes": {},
-      "x": 5780,
-      "y": 1400,
-      "width": 454,
-      "height": 180,
-      "color": "3"
-    },
-    {
-      "id": "2c90f7691e843ed2",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"\n\n[[Causes and consequences of mind perception Waytz et al.pdf#page=3&selection=67,1,69,37|Causes and consequences of mind perception Waytz et al, page 3]]",
-      "styleAttributes": {},
-      "x": 5780,
-      "y": 1147,
-      "width": 454,
-      "height": 180,
-      "color": "3"
-    },
-    {
-      "id": "b9d617d0d65835c7",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.\n\n[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf#page=4&selection=18,17,24,15|Butterworth-SelfPerceptionFoundationSelfKnowledge-1992, page 4]]",
-      "styleAttributes": {},
-      "x": 5780,
-      "y": 885,
-      "width": 389,
-      "height": 200,
-      "color": "3"
-    },
-    {
       "id": "f51a91fe72aea184",
       "type": "text",
       "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
@@ -706,6 +651,83 @@
       "y": 2325,
       "width": 545,
       "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "f60eb7099eea9780",
+      "type": "text",
+      "text": "**Perception**",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 780,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "5ebdff134be0f5eb",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=344,0,352,18|Ilfeld-ContemporaryArtCybernetics-2012, page 7]]",
+      "styleAttributes": {},
+      "x": 6454,
+      "y": 1680,
+      "width": 400,
+      "height": 280,
+      "color": "3"
+    },
+    {
+      "id": "1fa5dd24850f5912",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.\n\n\n[[Modeling Charisma AI's Fashion Mirror Stage Smith.pdf#page=11&selection=41,0,47,21|Modeling Charisma AI's Fashion Mirror Stage Smith, page 11]]",
+      "styleAttributes": {},
+      "x": 5968,
+      "y": 1820,
+      "width": 454,
+      "height": 121,
+      "color": "3"
+    },
+    {
+      "id": "b9d617d0d65835c7",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.\n\n[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf#page=4&selection=18,17,24,15|Butterworth-SelfPerceptionFoundationSelfKnowledge-1992, page 4]]",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 900,
+      "width": 389,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "2c90f7691e843ed2",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"\n\n[[Causes and consequences of mind perception Waytz et al.pdf#page=3&selection=67,1,69,37|Causes and consequences of mind perception Waytz et al, page 3]]",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 1152,
+      "width": 454,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "573ef010cd3a3d62",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"\n\n[[Causes and consequences of mind perception Waytz et al.pdf#page=4&selection=0,40,11,31|Causes and consequences of mind perception Waytz et al, page 4]]",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 1392,
+      "width": 454,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "a8cb8bf76b981cde",
+      "type": "text",
+      "text": "**AI**",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 1620,
+      "width": 260,
+      "height": 60,
       "color": "3"
     }
   ],
