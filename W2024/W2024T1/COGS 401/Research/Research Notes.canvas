@@ -1980,56 +1980,6 @@
       "height": 325
     },
     {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 10998,
-      "width": 545,
-      "height": 121
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10998,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "68947a3c33b501cb",
-      "type": "text",
-      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 11272,
-      "width": 360,
-      "height": 252
-    },
-    {
-      "id": "517aac4c23c9104e",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": -230,
-      "y": 11272,
-      "width": 360,
-      "height": 200
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11272,
-      "width": 371,
-      "height": 50
-    },
-    {
       "id": "9d6d3baf60e72eb2",
       "type": "text",
       "text": "#### BarabasiLAB",
@@ -2108,16 +2058,6 @@
       "y": 11140,
       "width": 400,
       "height": 220
-    },
-    {
-      "id": "d0913af6b42081d5",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
-      "styleAttributes": {},
-      "x": -3100,
-      "y": 11140,
-      "width": 340,
-      "height": 110
     },
     {
       "id": "7281d1bff2eb2aa9",
@@ -2228,16 +2168,6 @@
       "y": 11890,
       "width": 570,
       "height": 240
-    },
-    {
-      "id": "49dc46840b80e57f",
-      "type": "text",
-      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma, meaning “gift of grace” or “divine favor” from its theological origins to define a secular power that often elevates its possessor to a position of influence or leadership. Charismatic authority for Weber is unstable and temporary, an unpredictable presence that remains bound to an individual only as long as she might embody an identifiable ideology around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11840,
-      "width": 545,
-      "height": 298
     },
     {
       "id": "e635867efea83f6b",
@@ -2397,6 +2327,86 @@
       "y": 13566,
       "width": 532,
       "height": 160
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10998,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "517aac4c23c9104e",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 11272,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11272,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "d0913af6b42081d5",
+      "type": "text",
+      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 11140,
+      "width": 340,
+      "height": 110
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 10998,
+      "width": 545,
+      "height": 121
+    },
+    {
+      "id": "68947a3c33b501cb",
+      "type": "text",
+      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 11272,
+      "width": 360,
+      "height": 252
+    },
+    {
+      "id": "9d568d6d2d73025c",
+      "type": "text",
+      "text": "Charisma initially defined around physical presence, but progression of information technology (telephone, television: hyper-immaterial internet age)",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11800,
+      "width": 545,
+      "height": 102
+    },
+    {
+      "id": "49dc46840b80e57f",
+      "type": "text",
+      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma, meaning “gift of grace” or “divine favor” from its theological origins to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might embody an identifiable ideology around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11940,
+      "width": 545,
+      "height": 300
     }
   ],
   "edges": [
