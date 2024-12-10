@@ -6,7 +6,7 @@
       "x": 5760,
       "y": 680,
       "width": 2360,
-      "height": 2795,
+      "height": 1280,
       "label": "Significance"
     },
     {
@@ -18,6 +18,15 @@
       "height": 1940,
       "color": "#50b4f0",
       "label": "Background"
+    },
+    {
+      "id": "d4e69c9c355e547e",
+      "type": "group",
+      "x": 3720,
+      "y": 680,
+      "width": 1796,
+      "height": 1481,
+      "label": "Methods"
     },
     {
       "id": "fcc910624593465c",
@@ -667,34 +676,12 @@
     {
       "id": "5ebdff134be0f5eb",
       "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=344,0,352,18|Ilfeld-ContemporaryArtCybernetics-2012, page 7]]",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag between the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=7&selection=344,0,352,18|Ilfeld-ContemporaryArtCybernetics-2012, page 7]]",
       "styleAttributes": {},
       "x": 6600,
       "y": 1300,
       "width": 546,
-      "height": 226,
-      "color": "3"
-    },
-    {
-      "id": "9a4e43d63cd6b681",
-      "type": "text",
-      "text": "**Surveillance**",
-      "styleAttributes": {},
-      "x": 5840,
-      "y": 1720,
-      "width": 260,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "b0293444fc7243be",
-      "type": "text",
-      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
-      "styleAttributes": {},
-      "x": 6000,
-      "y": 1840,
-      "width": 440,
-      "height": 174,
+      "height": 240,
       "color": "3"
     },
     {
@@ -720,26 +707,125 @@
       "color": "3"
     },
     {
+      "id": "04f08e61ce512fa3",
+      "type": "text",
+      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "styleAttributes": {},
+      "x": 7540,
+      "y": 1160,
+      "width": 532,
+      "height": 160,
+      "color": "3"
+    },
+    {
       "id": "2f784e2b10205b9a",
       "type": "text",
       "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
       "styleAttributes": {},
-      "x": 6480,
-      "y": 2080,
+      "x": 7546,
+      "y": 1400,
       "width": 526,
       "height": 160,
       "color": "3"
     },
     {
-      "id": "04f08e61ce512fa3",
+      "id": "b0293444fc7243be",
       "type": "text",
-      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
       "styleAttributes": {},
-      "x": 6866,
-      "y": 1840,
-      "width": 532,
-      "height": 160,
+      "x": 7546,
+      "y": 1663,
+      "width": 440,
+      "height": 174,
       "color": "3"
+    },
+    {
+      "id": "9a4e43d63cd6b681",
+      "type": "text",
+      "text": "**Surveillance**",
+      "styleAttributes": {},
+      "x": 7220,
+      "y": 1480,
+      "width": 260,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "8de92353a17cc3ea",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1083,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "f10c5296358dfa80",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1323,
+      "width": 400,
+      "height": 103,
+      "color": "4"
+    },
+    {
+      "id": "e5ea56a9adca7626",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1506,
+      "width": 532,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "e1addcac27d4c0dd",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 850,
+      "width": 400,
+      "height": 153,
+      "color": "4"
+    },
+    {
+      "id": "283ea2057bc310fe",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": 4352,
+      "y": 1506,
+      "width": 532,
+      "height": 167,
+      "color": "4"
+    },
+    {
+      "id": "7ea4b1cfefbe1b55",
+      "type": "text",
+      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
+      "styleAttributes": {},
+      "x": 4964,
+      "y": 1506,
+      "width": 532,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "f861136f11e244e4",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1826,
+      "width": 532,
+      "height": 319,
+      "color": "4"
     }
   ],
   "edges": [
