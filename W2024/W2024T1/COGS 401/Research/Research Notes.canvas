@@ -7,7 +7,7 @@
       "x": -1680,
       "y": 6620,
       "width": 3640,
-      "height": 9540,
+      "height": 9860,
       "label": "Bibliography notes"
     },
     {
@@ -190,36 +190,6 @@
       "width": 2220,
       "height": 2598,
       "label": "Artists"
-    },
-    {
-      "id": "5555230744ad4956",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -730,
-      "y": 1600,
-      "width": 2320,
-      "height": 1220,
-      "label": "Mind Map"
-    },
-    {
-      "id": "f068dea71cd497e6",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -730,
-      "y": 3040,
-      "width": 1621,
-      "height": 1580,
-      "label": "Mind Map"
-    },
-    {
-      "id": "80aaf8e63d41d098",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -730,
-      "y": 4760,
-      "width": 1374,
-      "height": 1407,
-      "label": "Mind Map Final Version"
     },
     {
       "id": "af727b3351bfdc38",
@@ -492,400 +462,6 @@
       "y": -1085,
       "width": 680,
       "height": 1176
-    },
-    {
-      "id": "db5b8e6eadd5bb01",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": 6455,
-      "y": 4112,
-      "width": 454,
-      "height": 129
-    },
-    {
-      "id": "7a762afbb68426ca",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 4013,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "2fc8270908d406c4",
-      "type": "text",
-      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
-      "styleAttributes": {},
-      "x": 6000,
-      "y": 3253,
-      "width": 454,
-      "height": 105
-    },
-    {
-      "id": "bba277bb5047a94b",
-      "type": "text",
-      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
-      "styleAttributes": {},
-      "x": 6000,
-      "y": 3120,
-      "width": 454,
-      "height": 93
-    },
-    {
-      "id": "65421ed7aa074bb4",
-      "type": "text",
-      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
-      "styleAttributes": {},
-      "x": 5840,
-      "y": 2892,
-      "width": 320,
-      "height": 232
-    },
-    {
-      "id": "1b7474c6f9d70add",
-      "type": "text",
-      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
-      "styleAttributes": {},
-      "x": 6060,
-      "y": 3960,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "87ad87ba863ecc62",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 6640,
-      "y": 3253,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bfcac655d3fa14ac",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 4.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 2000,
-      "width": 680,
-      "height": 1960
-    },
-    {
-      "id": "dc87fb4e640fe28c",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 2000,
-      "width": 800,
-      "height": 1874
-    },
-    {
-      "id": "fbf6ad7ed854772d",
-      "type": "text",
-      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-      "styleAttributes": {},
-      "x": 5840,
-      "y": 2700,
-      "width": 320,
-      "height": 180
-    },
-    {
-      "id": "8d071a44c8304a51",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {},
-      "x": 6880,
-      "y": 4580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e9b041fb09c7d7fa",
-      "type": "text",
-      "text": "**Recursion**",
-      "styleAttributes": {},
-      "x": 7248,
-      "y": 4520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d157fe110a00c9ea",
-      "type": "text",
-      "text": "**Mimicry**",
-      "styleAttributes": {},
-      "x": 7100,
-      "y": 4036,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e94f4d6999eba9ec",
-      "type": "text",
-      "text": "Generative model",
-      "styleAttributes": {},
-      "x": 7468,
-      "y": 3900,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7e4f9fb3296caf8e",
-      "type": "text",
-      "text": "Discrimination model",
-      "styleAttributes": {},
-      "x": 7338,
-      "y": 3770,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "916bf02255ef6bc2",
-      "type": "text",
-      "text": "#### Self and other perception",
-      "styleAttributes": {},
-      "x": 7170,
-      "y": 3640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "263c158a3f0567f0",
-      "type": "text",
-      "text": "Categories of mind perception",
-      "styleAttributes": {},
-      "x": 6072,
-      "y": 2203,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "1dcf371763f08e1c",
-      "type": "text",
-      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 3917,
-      "width": 454,
-      "height": 76
-    },
-    {
-      "id": "822432290291d2a7",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": 6456,
-      "y": 3731,
-      "width": 469,
-      "height": 155
-    },
-    {
-      "id": "74c201cf1ba79bc8",
-      "type": "text",
-      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
-      "styleAttributes": {},
-      "x": 6074,
-      "y": 2952,
-      "width": 410,
-      "height": 136
-    },
-    {
-      "id": "c9ef2ac3811d28e0",
-      "type": "text",
-      "text": "**Effect of other-mind on perceiver**",
-      "styleAttributes": {},
-      "x": 6673,
-      "y": 3040,
-      "width": 307,
-      "height": 60
-    },
-    {
-      "id": "1459ab9df9becf2c",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 6680,
-      "y": 2672,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eedb917b24c7e83f",
-      "type": "text",
-      "text": "Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
-      "styleAttributes": {},
-      "x": 6120,
-      "y": 2315,
-      "width": 364,
-      "height": 417
-    },
-    {
-      "id": "5b42eac1f846d648",
-      "type": "text",
-      "text": "#### Other perception",
-      "styleAttributes": {},
-      "x": 6170,
-      "y": 1600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9fcfe154f41940a8",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 3.md",
-      "styleAttributes": {},
-      "x": 7320,
-      "y": 1025,
-      "width": 680,
-      "height": 860
-    },
-    {
-      "id": "794d53ce188cf230",
-      "type": "text",
-      "text": "**Dehumanization**",
-      "styleAttributes": {},
-      "x": 6387,
-      "y": 867,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "84638da88a1acff7",
-      "type": "text",
-      "text": "Attributing less agency",
-      "styleAttributes": {},
-      "x": 6300,
-      "y": 1060,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4d2aedff91e8ab29",
-      "type": "text",
-      "text": "Less deserving of rights and protections (less moral standing)",
-      "styleAttributes": {},
-      "x": 6500,
-      "y": 1148,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "a3e04c19472badc3",
-      "type": "text",
-      "text": "Seen as cold, uncivil, animalistic, machine-like",
-      "styleAttributes": {},
-      "x": 6580,
-      "y": 967,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9567558e3f53dae7",
-      "type": "text",
-      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
-      "styleAttributes": {},
-      "x": 5860,
-      "y": 888,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "2ec63e0d4c0ec17e",
-      "type": "text",
-      "text": "**Morality**",
-      "styleAttributes": {},
-      "x": 6020,
-      "y": 1126,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4819fc4e0fa822c0",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 2.md",
-      "styleAttributes": {},
-      "x": 5080,
-      "y": 830,
-      "width": 680,
-      "height": 1055
-    },
-    {
-      "id": "6a0111e421134e03",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
-      "styleAttributes": {},
-      "x": 4200,
-      "y": 830,
-      "width": 800,
-      "height": 542
-    },
-    {
-      "id": "27d0ec5d30fe8a65",
-      "type": "text",
-      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
-      "styleAttributes": {
-        "border": null,
-        "textAlign": null
-      },
-      "x": 4200,
-      "y": -1085,
-      "width": 800,
-      "height": 1767
-    },
-    {
-      "id": "3b22556d5d20bb78",
-      "type": "text",
-      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
-      "styleAttributes": {},
-      "x": 5073,
-      "y": 397,
-      "width": 389,
-      "height": 102,
-      "color": "#046214"
-    },
-    {
-      "id": "796edfd7dea47577",
-      "type": "text",
-      "text": ">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
-      "styleAttributes": {},
-      "x": 3460,
-      "y": 3538,
-      "width": 580,
-      "height": 283
-    },
-    {
-      "id": "361fbfa0fec0fbe7",
-      "type": "text",
-      "text": "##### Emergence",
-      "styleAttributes": {},
-      "x": 3780,
-      "y": 3458,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "73ca841cfbd00b3a",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 2000,
-      "width": 720,
-      "height": 800
-    },
-    {
-      "id": "acd4d40a2024e63b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
-      "styleAttributes": {},
-      "x": 3400,
-      "y": 815,
-      "width": 720,
-      "height": 580
     },
     {
       "id": "465ab03efff76484",
@@ -1679,16 +1255,6 @@
       "y": 12871,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "a28bb8604b98866e",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_Mindmap.pdf",
-      "styleAttributes": {},
-      "x": -1530,
-      "y": 1598,
-      "width": 529,
-      "height": 653
     },
     {
       "id": "54be7cb7cda53628",
@@ -2716,6 +2282,409 @@
       "y": 15300,
       "width": 532,
       "height": 240
+    },
+    {
+      "id": "0f595e42a18eb119",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
+      "x": -1638,
+      "y": 15840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "73ca841cfbd00b3a",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 2000,
+      "width": 720,
+      "height": 800
+    },
+    {
+      "id": "acd4d40a2024e63b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
+      "styleAttributes": {},
+      "x": 3400,
+      "y": 815,
+      "width": 720,
+      "height": 580
+    },
+    {
+      "id": "796edfd7dea47577",
+      "type": "text",
+      "text": ">  I view the brain not as a box with compartments that contain sadness, joy, color, texture, and all the other \"objects\" and categories that one might think of. Instead, I envisage it as a constantly shifting dynamic system; more like the flow of a river in which patterns emerge and disappear, than a static landscape. \"Meaningful patterns,\" as Sherrington said, \"but never abiding ones.\" This is an entirely different image from the brain as a computer with stored contents or subroutines to be called up by a program. In nature's pattern-forming systems, contents aren't contained anywhere but are revealed only by the dynamics. Form and content are thus inextricably connected and can't ever be separated.\n> [[kelso-ch1.pdf]]",
+      "styleAttributes": {},
+      "x": 3460,
+      "y": 3538,
+      "width": 580,
+      "height": 283
+    },
+    {
+      "id": "361fbfa0fec0fbe7",
+      "type": "text",
+      "text": "##### Emergence",
+      "styleAttributes": {},
+      "x": 3780,
+      "y": 3458,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dc87fb4e640fe28c",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences Waytz et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 2000,
+      "width": 800,
+      "height": 1874
+    },
+    {
+      "id": "bfcac655d3fa14ac",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 4.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 2000,
+      "width": 680,
+      "height": 1960
+    },
+    {
+      "id": "4819fc4e0fa822c0",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 2.md",
+      "styleAttributes": {},
+      "x": 5080,
+      "y": 830,
+      "width": 680,
+      "height": 1055
+    },
+    {
+      "id": "65421ed7aa074bb4",
+      "type": "text",
+      "text": "**Consequences of mind perception**\n- *Perceiver*: intensified emotional experience of events, feelings of self-consciousness, ascription of morality\n- *Perceived*: perceived as having more agency=attributed more moral rights & responsibility",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 2892,
+      "width": 320,
+      "height": 232
+    },
+    {
+      "id": "fbf6ad7ed854772d",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 2700,
+      "width": 320,
+      "height": 180
+    },
+    {
+      "id": "2fc8270908d406c4",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 3253,
+      "width": 454,
+      "height": 105
+    },
+    {
+      "id": "bba277bb5047a94b",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 3120,
+      "width": 454,
+      "height": 93
+    },
+    {
+      "id": "1b7474c6f9d70add",
+      "type": "text",
+      "text": "https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5",
+      "styleAttributes": {},
+      "x": 6060,
+      "y": 3960,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "263c158a3f0567f0",
+      "type": "text",
+      "text": "Categories of mind perception",
+      "styleAttributes": {},
+      "x": 6072,
+      "y": 2203,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "74c201cf1ba79bc8",
+      "type": "text",
+      "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
+      "styleAttributes": {},
+      "x": 6074,
+      "y": 2952,
+      "width": 410,
+      "height": 136
+    },
+    {
+      "id": "eedb917b24c7e83f",
+      "type": "text",
+      "text": "Two dimensions by which we understand other minds: \n- \"Experience (the capacity to sense and feel)\"\n- \"Agency (the capacity to plan and act)\"\n\nOther division of representation: \n- \"Human nature (the capacity for emotional responsiveness)\"\n- \"Human uniqueness (the capacity for civility, rationality, and morality)\"\n\nDimensions of social evaluation:\n- \"Warmth (corresponding to experience)\"\n- \"Competence (corresponding to agency)\"",
+      "styleAttributes": {},
+      "x": 6120,
+      "y": 2315,
+      "width": 364,
+      "height": 417
+    },
+    {
+      "id": "5b42eac1f846d648",
+      "type": "text",
+      "text": "#### Other perception",
+      "styleAttributes": {},
+      "x": 6170,
+      "y": 1600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "db5b8e6eadd5bb01",
+      "type": "text",
+      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+      "styleAttributes": {},
+      "x": 6455,
+      "y": 4112,
+      "width": 454,
+      "height": 129
+    },
+    {
+      "id": "7a762afbb68426ca",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 4013,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "1dcf371763f08e1c",
+      "type": "text",
+      "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 3917,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "822432290291d2a7",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": 6456,
+      "y": 3731,
+      "width": 469,
+      "height": 155
+    },
+    {
+      "id": "6a0111e421134e03",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al Annotated.md",
+      "styleAttributes": {},
+      "x": 4200,
+      "y": 830,
+      "width": 800,
+      "height": 542
+    },
+    {
+      "id": "87ad87ba863ecc62",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6640,
+      "y": 3253,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c9ef2ac3811d28e0",
+      "type": "text",
+      "text": "**Effect of other-mind on perceiver**",
+      "styleAttributes": {},
+      "x": 6673,
+      "y": 3040,
+      "width": 307,
+      "height": 60
+    },
+    {
+      "id": "1459ab9df9becf2c",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6680,
+      "y": 2672,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "84638da88a1acff7",
+      "type": "text",
+      "text": "Attributing less agency",
+      "styleAttributes": {},
+      "x": 6300,
+      "y": 1060,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4d2aedff91e8ab29",
+      "type": "text",
+      "text": "Less deserving of rights and protections (less moral standing)",
+      "styleAttributes": {},
+      "x": 6500,
+      "y": 1148,
+      "width": 260,
+      "height": 76
+    },
+    {
+      "id": "2ec63e0d4c0ec17e",
+      "type": "text",
+      "text": "**Morality**",
+      "styleAttributes": {},
+      "x": 6020,
+      "y": 1126,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8d071a44c8304a51",
+      "type": "text",
+      "text": "**Emergence**",
+      "styleAttributes": {},
+      "x": 6880,
+      "y": 4580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a3e04c19472badc3",
+      "type": "text",
+      "text": "Seen as cold, uncivil, animalistic, machine-like",
+      "styleAttributes": {},
+      "x": 6580,
+      "y": 967,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d157fe110a00c9ea",
+      "type": "text",
+      "text": "**Mimicry**",
+      "styleAttributes": {},
+      "x": 7100,
+      "y": 4036,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e9b041fb09c7d7fa",
+      "type": "text",
+      "text": "**Recursion**",
+      "styleAttributes": {},
+      "x": 7248,
+      "y": 4520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "916bf02255ef6bc2",
+      "type": "text",
+      "text": "#### Self and other perception",
+      "styleAttributes": {},
+      "x": 7170,
+      "y": 3640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9567558e3f53dae7",
+      "type": "text",
+      "text": "People perceive harmful agents as less human and less agentic than good or neutral agents",
+      "styleAttributes": {},
+      "x": 5860,
+      "y": 888,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "7e4f9fb3296caf8e",
+      "type": "text",
+      "text": "Discrimination model",
+      "styleAttributes": {},
+      "x": 7338,
+      "y": 3770,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9fcfe154f41940a8",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 3.md",
+      "styleAttributes": {},
+      "x": 7320,
+      "y": 1025,
+      "width": 680,
+      "height": 860
+    },
+    {
+      "id": "794d53ce188cf230",
+      "type": "text",
+      "text": "**Dehumanization**",
+      "styleAttributes": {},
+      "x": 6387,
+      "y": 867,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e94f4d6999eba9ec",
+      "type": "text",
+      "text": "Generative model",
+      "styleAttributes": {},
+      "x": 7468,
+      "y": 3900,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "27d0ec5d30fe8a65",
+      "type": "text",
+      "text": "![[COGS 401 Journal Entry 1 Article Annotated]]",
+      "styleAttributes": {
+        "border": null,
+        "textAlign": null
+      },
+      "x": 4200,
+      "y": -1085,
+      "width": 800,
+      "height": 1767
+    },
+    {
+      "id": "3b22556d5d20bb78",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": 5073,
+      "y": 397,
+      "width": 389,
+      "height": 102,
+      "color": "#046214"
     }
   ],
   "edges": [
