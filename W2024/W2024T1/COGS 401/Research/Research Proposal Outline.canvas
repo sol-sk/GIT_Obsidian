@@ -946,6 +946,16 @@
       "width": 540,
       "height": 180,
       "color": "#28aaf0"
+    },
+    {
+      "id": "e45a5d26856a878c",
+      "type": "text",
+      "text": "> \"This is the same sort of nonsense one finds in the writings of those who never understood [abstract form] as an embodiment,\" he continues. \"It is like mistaking a Chomsky language for a real language. You will find no such categorical confusion in the original Pitts and McCulloch of 1943. There the temporal propositional expressions are events occurring in time and space in a phYSically real net. The postulated neurons, for all their oversim- plifications, are still physical neurons as truly as the chemist's atoms are physical atoms.\"22 Here, in the slippages between abstract propositions, models of neurons, and \"physically real\" nets, we can see McCulloch trying to keep three balls in the air at once. Although the neurons are only\"postu- lated\" and are admittedly \"oversimplifications,\" McCulloch fiercely wants to insist they are still phYSical. Ifhe does not entirely succeed in creating an \"empirical epistemology,\" he nevertheless achieves no small feat in insist- ing that none of the balls can be dropped without sacrificing the complexi- ties of embodied thought. The McCulloch-Pitts neuron is a liminal object, part abstraction and part embodied actuality, but other models were more firmly in the material realm.\n\n[[How We Became Posthuman Hayles.pdf#page=77&selection=190,0,393,6|How We Became Posthuman Hayles, page 77]]",
+      "styleAttributes": {},
+      "x": 2330,
+      "y": 1360,
+      "width": 260,
+      "height": 920
     }
   ],
   "edges": [
