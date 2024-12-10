@@ -2506,6 +2506,16 @@
       "y": 11720,
       "width": 545,
       "height": 520
+    },
+    {
+      "id": "cfb942af78d0a51b",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"25\n\n[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|How We Became Posthuman Hayles, page 79]]",
+      "styleAttributes": {},
+      "x": 3910,
+      "y": 11740,
+      "width": 560,
+      "height": 174
     }
   ],
   "edges": [
