@@ -2652,17 +2652,29 @@
       "x": -1186,
       "y": 14690,
       "width": 532,
-      "height": 380
+      "height": 403
     },
     {
       "id": "3da84e70cd069890",
       "type": "text",
-      "text": "> “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communica- tion with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
+      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
       "styleAttributes": {},
       "x": -600,
       "y": 14780,
       "width": 532,
-      "height": 160
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "f0edec20b1785fa8",
+      "type": "text",
+      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 14695,
+      "width": 532,
+      "height": 170,
+      "color": "5"
     }
   ],
   "edges": [
