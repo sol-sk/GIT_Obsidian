@@ -635,16 +635,6 @@
       "height": 180
     },
     {
-      "id": "35173d32e20a9ebf",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
-      "styleAttributes": {},
-      "x": 1304,
-      "y": 6760,
-      "width": 640,
-      "height": 377
-    },
-    {
       "id": "9fcfe154f41940a8",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 3.md",
@@ -2516,6 +2506,16 @@
       "y": 11740,
       "width": 560,
       "height": 240
+    },
+    {
+      "id": "35173d32e20a9ebf",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-14 at 3.37.18 PM.png",
+      "styleAttributes": {},
+      "x": 1304,
+      "y": 6760,
+      "width": 640,
+      "height": 377
     }
   ],
   "edges": [
