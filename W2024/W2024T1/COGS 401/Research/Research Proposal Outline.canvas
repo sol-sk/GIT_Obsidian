@@ -1,40 +1,6 @@
 {
   "nodes": [
     {
-      "id": "0ebf2dc054075486",
-      "type": "text",
-      "text": "**Surveillance**",
-      "styleAttributes": {},
-      "x": 520,
-      "y": -116,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f5c81d99f6e11789",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 720,
-      "y": -36,
-      "width": 380,
-      "height": 80,
-      "color": "6"
-    },
-    {
-      "id": "8d63d202425a9cbb",
-      "type": "text",
-      "text": "###### [[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf| Abstraction as Resistance]]",
-      "styleAttributes": {},
-      "x": 841,
-      "y": 64,
-      "width": 259,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "795546810b8b931f",
       "type": "text",
       "text": "**Vision and perception: Psychology**",
@@ -106,29 +72,6 @@
       "color": "4"
     },
     {
-      "id": "772f847e9a566acf",
-      "type": "text",
-      "text": "**Cybernetics + AI** ",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 1040,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "3c617961cdef59f1",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 625,
-      "y": 1130,
-      "width": 475,
-      "height": 70,
-      "color": "4"
-    },
-    {
       "id": "8660c9b24d26e762",
       "type": "text",
       "text": "###### [[Anagram Deren.pdf]]",
@@ -184,74 +127,6 @@
       "color": "3"
     },
     {
-      "id": "7c7c9d1784498585",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 670,
-      "y": 1240,
-      "width": 430,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "a938f9538a201b2b",
-      "type": "text",
-      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": 707,
-      "y": 1352,
-      "width": 393,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "3e3488812021d3af",
-      "type": "text",
-      "text": "###### [[Society of the Psyop Paglen.pdf]]",
-      "styleAttributes": {},
-      "x": 800,
-      "y": 1553,
-      "width": 300,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "8eaa8aba4362d3f3",
-      "type": "text",
-      "text": "###### [[Strategies of interactive art.pdf]]",
-      "styleAttributes": {},
-      "x": 820,
-      "y": 1752,
-      "width": 280,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "44fe86c057c4939c",
-      "type": "text",
-      "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
-      "styleAttributes": {},
-      "x": 625,
-      "y": 1453,
-      "width": 430,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "bdaaebc0e8b35ef6",
-      "type": "text",
-      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
-      "styleAttributes": {},
-      "x": 757,
-      "y": 1653,
-      "width": 343,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "3f899c38746c29fd",
       "type": "text",
       "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
@@ -269,9 +144,124 @@
       "type": "file",
       "file": "W2024 Files/Screenshot 2024-12-09 at 5.12.38 PM.png",
       "x": 2000,
-      "y": 800,
-      "width": 400,
-      "height": 130
+      "y": -1000,
+      "width": 2218,
+      "height": 720
+    },
+    {
+      "id": "7c7c9d1784498585",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 670,
+      "y": 1320,
+      "width": 430,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "a938f9538a201b2b",
+      "type": "text",
+      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": 707,
+      "y": 1432,
+      "width": 393,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "44fe86c057c4939c",
+      "type": "text",
+      "text": "###### [[How to See like a Machine  Magazine  MoMA]]",
+      "styleAttributes": {},
+      "x": 625,
+      "y": 1533,
+      "width": 430,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "3e3488812021d3af",
+      "type": "text",
+      "text": "###### [[Society of the Psyop Paglen.pdf]]",
+      "styleAttributes": {},
+      "x": 800,
+      "y": 1633,
+      "width": 300,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "bdaaebc0e8b35ef6",
+      "type": "text",
+      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
+      "styleAttributes": {},
+      "x": 757,
+      "y": 1733,
+      "width": 343,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "8eaa8aba4362d3f3",
+      "type": "text",
+      "text": "###### [[Strategies of interactive art.pdf]]",
+      "styleAttributes": {},
+      "x": 820,
+      "y": 1832,
+      "width": 280,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "f5c81d99f6e11789",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 714,
+      "y": 1920,
+      "width": 380,
+      "height": 80,
+      "color": "6"
+    },
+    {
+      "id": "772f847e9a566acf",
+      "type": "text",
+      "text": "**Cybernetics + AI** ",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3c617961cdef59f1",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 625,
+      "y": 1210,
+      "width": 475,
+      "height": 70,
+      "color": "4"
+    },
+    {
+      "id": "8d63d202425a9cbb",
+      "type": "text",
+      "text": "###### [[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf| Abstraction as Resistance]]",
+      "styleAttributes": {},
+      "x": 841,
+      "y": 1000,
+      "width": 259,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [],
