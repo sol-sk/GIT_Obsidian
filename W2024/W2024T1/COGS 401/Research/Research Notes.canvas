@@ -932,7 +932,8 @@
       "x": -299,
       "y": 8637,
       "width": 454,
-      "height": 76
+      "height": 76,
+      "color": "3"
     },
     {
       "id": "d4739a166856d2b6",
@@ -962,7 +963,8 @@
       "x": -340,
       "y": 8155,
       "width": 400,
-      "height": 260
+      "height": 260,
+      "color": "3"
     },
     {
       "id": "2461c1cc3ef3e3e6",
@@ -983,7 +985,7 @@
       "y": 8155,
       "width": 454,
       "height": 220,
-      "color": "2"
+      "color": "5"
     },
     {
       "id": "d219dea82f983c8c",
@@ -993,7 +995,8 @@
       "x": 112,
       "y": 8156,
       "width": 400,
-      "height": 129
+      "height": 129,
+      "color": "5"
     },
     {
       "id": "105584a9914dc91a",
@@ -1396,16 +1399,6 @@
       "height": 60
     },
     {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": -2160,
-      "y": 9158,
-      "width": 440,
-      "height": 275
-    },
-    {
       "id": "401c3450fe595b64",
       "type": "text",
       "text": "###### [[Anagram Deren.pdf]]",
@@ -1746,7 +1739,8 @@
       "x": 566,
       "y": 7964,
       "width": 454,
-      "height": 109
+      "height": 109,
+      "color": "3"
     },
     {
       "id": "8bde710afcbf54a9",
@@ -1846,7 +1840,8 @@
       "x": 566,
       "y": 7834,
       "width": 454,
-      "height": 93
+      "height": 93,
+      "color": "3"
     },
     {
       "id": "72d5381d9134437a",
@@ -1876,7 +1871,8 @@
       "x": -825,
       "y": 6707,
       "width": 389,
-      "height": 102
+      "height": 102,
+      "color": "3"
     },
     {
       "id": "1cca6de671a27c4f",
@@ -2335,7 +2331,8 @@
       "x": 114,
       "y": 7667,
       "width": 400,
-      "height": 153
+      "height": 153,
+      "color": "4"
     },
     {
       "id": "a5cc3ffa4a81613e",
@@ -2384,8 +2381,8 @@
       "styleAttributes": {},
       "x": -396,
       "y": 6707,
-      "width": 348,
-      "height": 304
+      "width": 496,
+      "height": 208
     },
     {
       "id": "1cf421d647bfb3eb",
@@ -2395,7 +2392,8 @@
       "x": 1081,
       "y": 8155,
       "width": 454,
-      "height": 140
+      "height": 140,
+      "color": "5"
     },
     {
       "id": "e3738d3f633b5ae7",
@@ -2631,6 +2629,16 @@
       "width": 532,
       "height": 220,
       "color": "4"
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": -2180,
+      "y": 9409,
+      "width": 440,
+      "height": 275
     }
   ],
   "edges": [
