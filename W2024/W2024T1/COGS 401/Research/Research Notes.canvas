@@ -2590,12 +2590,22 @@
       "height": 400
     },
     {
+      "id": "d41aa1f3a55ea750",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13980,
+      "width": 532,
+      "height": 167
+    },
+    {
       "id": "140b081963612721",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Flusser_Vilem_Writings.pdf",
       "styleAttributes": {},
-      "x": 200,
-      "y": 14020,
+      "x": 0,
+      "y": 13980,
       "width": 400,
       "height": 400
     },
@@ -2604,20 +2614,10 @@
       "type": "text",
       "text": ">  The more objective models fail us because of the practical dif- ficulty mentioned earlier, the less are they able to store incoming infor- mation concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenome- nologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
       "styleAttributes": {},
-      "x": 654,
-      "y": 14020,
+      "x": 454,
+      "y": 13980,
       "width": 532,
       "height": 226
-    },
-    {
-      "id": "d41aa1f3a55ea750",
-      "type": "text",
-      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 14133,
-      "width": 550,
-      "height": 87
     }
   ],
   "edges": [
@@ -3454,6 +3454,14 @@
       "fromSide": "left",
       "toNode": "ef7e111046a623e6",
       "toSide": "bottom"
+    },
+    {
+      "id": "5c8b00d99ea3162b",
+      "styleAttributes": {},
+      "fromNode": "d41aa1f3a55ea750",
+      "fromSide": "right",
+      "toNode": "140b081963612721",
+      "toSide": "left"
     }
   ],
   "metadata": {}
