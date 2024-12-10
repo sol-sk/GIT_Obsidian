@@ -2303,10 +2303,20 @@
       "type": "text",
       "text": "> (A media environment) That notices which kinds of stimulus induce what kinds of precognitive responses, and uses machine learning to develop, A/B test, and deploy custom-generated cognitive injections designed to manipulate us even further, all without us consciously perceiving what’s happening?\n\n[[Society of the Psyop Paglen.pdf#page=1&selection=40,19,46,72|Society of the Psyop Paglen, page 1]]",
       "styleAttributes": {},
-      "x": -600,
-      "y": 13490,
-      "width": 440,
+      "x": -656,
+      "y": 13480,
+      "width": 532,
       "height": 220
+    },
+    {
+      "id": "6bf5c9fd56a04e67",
+      "type": "text",
+      "text": "> Woody Bledsoe was an early trailblazer in artificial intelligence, specializing in devising algorithms to conduct pattern matching, a crucial predecessor to modern machine learning ... In 1963, the CIA—using the cutout company “King-Hurley Research Group”—contracted Bledsoe to develop a system that would use computers to identify people by looking at pictures of their faces\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=0,0,4,38|Society of the Psyop Paglen, page 17]]",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 13480,
+      "width": 532,
+      "height": 200
     }
   ],
   "edges": [
