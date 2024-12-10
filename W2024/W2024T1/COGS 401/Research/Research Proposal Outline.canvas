@@ -403,17 +403,6 @@
       "height": 260
     },
     {
-      "id": "c0f803fe0aad5e32",
-      "type": "text",
-      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
-      "styleAttributes": {},
-      "x": 1760,
-      "y": 1320,
-      "width": 420,
-      "height": 208,
-      "color": "#28aaf0"
-    },
-    {
       "id": "55fb4a78e7053e39",
       "type": "text",
       "text": "**Cybernetics**\n",
@@ -445,17 +434,6 @@
       "width": 320,
       "height": 70,
       "color": "6"
-    },
-    {
-      "id": "cbf3f9fba58cbb2e",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
-      "styleAttributes": {},
-      "x": 2260,
-      "y": 1282,
-      "width": 540,
-      "height": 180,
-      "color": "#28aaf0"
     },
     {
       "id": "bbe91b6f5cb59c4e",
@@ -945,6 +923,28 @@
       "y": 820,
       "width": 360,
       "height": 226,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "c0f803fe0aad5e32",
+      "type": "text",
+      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": 1198,
+      "width": 460,
+      "height": 208,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "cbf3f9fba58cbb2e",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1160,
+      "width": 540,
+      "height": 180,
       "color": "#28aaf0"
     }
   ],
