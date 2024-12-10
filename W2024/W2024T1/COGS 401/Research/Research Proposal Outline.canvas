@@ -567,6 +567,16 @@
       "y": 704,
       "width": 320,
       "height": 84
+    },
+    {
+      "id": "ddb21937473a24d9",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": 555,
+      "y": 2300,
+      "width": 530,
+      "height": 673
     }
   ],
   "edges": [
