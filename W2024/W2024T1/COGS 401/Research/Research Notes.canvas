@@ -223,36 +223,6 @@
       "height": 84
     },
     {
-      "id": "9eedd2d895bc850a",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14035,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "1c8a476d7cd2e2bd",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14236,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "5493944c49f4026f",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14286,
-      "width": 520,
-      "height": 98
-    },
-    {
       "id": "fc197701110b7112",
       "type": "text",
       "text": "#### Significance/Contributions",
@@ -273,26 +243,6 @@
       "height": 84
     },
     {
-      "id": "29af2dd0f05050c4",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "f6fd8768b41001fd",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14286,
-      "width": 520,
-      "height": 260
-    },
-    {
       "id": "838f489b7cb92a20",
       "type": "text",
       "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
@@ -301,16 +251,6 @@
       "y": 14566,
       "width": 520,
       "height": 98
-    },
-    {
-      "id": "d2cd9f6191bf2388",
-      "type": "text",
-      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14029,
-      "width": 520,
-      "height": 208
     },
     {
       "id": "9529fd7ce532069e",
@@ -2684,6 +2624,66 @@
       "y": 13214,
       "width": 520,
       "height": 635
+    },
+    {
+      "id": "29af2dd0f05050c4",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "d2cd9f6191bf2388",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "9eedd2d895bc850a",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14035,
+      "width": 520,
+      "height": 150
+    },
+    {
+      "id": "1c8a476d7cd2e2bd",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14236,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "5493944c49f4026f",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14286,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "f6fd8768b41001fd",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14286,
+      "width": 520,
+      "height": 260
     }
   ],
   "edges": [
