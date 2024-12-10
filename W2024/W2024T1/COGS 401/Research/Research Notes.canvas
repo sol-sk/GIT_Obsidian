@@ -1309,36 +1309,6 @@
       "height": 98
     },
     {
-      "id": "816a6f30f3df274c",
-      "type": "text",
-      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9110,
-      "width": 400,
-      "height": 129
-    },
-    {
-      "id": "d4739a166856d2b6",
-      "type": "text",
-      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 8155,
-      "width": 400,
-      "height": 208
-    },
-    {
-      "id": "007fd667a03d9ac1",
-      "type": "text",
-      "text": "#### Self and other perception",
-      "styleAttributes": {},
-      "x": -481,
-      "y": 8966,
-      "width": 260,
-      "height": 65
-    },
-    {
       "id": "f3d0e7f0a07d23cd",
       "type": "text",
       "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
@@ -1467,26 +1437,6 @@
       "height": 60
     },
     {
-      "id": "c02a0423281cf766",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8637,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e859292c5377bd84",
-      "type": "text",
-      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 8637,
-      "width": 469,
-      "height": 155
-    },
-    {
       "id": "df0bee9f0c27ae22",
       "type": "text",
       "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
@@ -1550,32 +1500,12 @@
       "height": 60
     },
     {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9110,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "0f58d66fd6ddcd3e",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Perceiving the agency of harmful agents Khamitov et al.pdf",
       "styleAttributes": {},
       "x": -1270,
       "y": 7187,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "9e5b1e0dcff1ab2d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 8155,
       "width": 400,
       "height": 400
     },
@@ -1588,46 +1518,6 @@
       "y": 7667,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "988f0558c9670808",
-      "type": "text",
-      "text": "**Emergence**",
-      "styleAttributes": {},
-      "x": -270,
-      "y": 8465,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9d1c97054f334f60",
-      "type": "text",
-      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
-      "styleAttributes": {},
-      "x": -340,
-      "y": 8155,
-      "width": 400,
-      "height": 260
-    },
-    {
-      "id": "c5e222d5f81351a1",
-      "type": "text",
-      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
-      "styleAttributes": {},
-      "x": -300,
-      "y": 8736,
-      "width": 454,
-      "height": 129
-    },
-    {
-      "id": "e3172d7a4eaf71bc",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
-      "styleAttributes": {},
-      "x": -299,
-      "y": 8637,
-      "width": 454,
-      "height": 76
     },
     {
       "id": "d1db8d7e967717ae",
@@ -1670,26 +1560,6 @@
       "height": 205
     },
     {
-      "id": "d219dea82f983c8c",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 112,
-      "y": 8156,
-      "width": 400,
-      "height": 129
-    },
-    {
-      "id": "783cb05753c91821",
-      "type": "text",
-      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9272,
-      "width": 400,
-      "height": 180
-    },
-    {
       "id": "3633624f63b5721b",
       "type": "text",
       "text": "> Generative adversarial networks (GANs) mimic in order to produce something “new” within the distribution of the provided data set.",
@@ -1706,76 +1576,6 @@
       "styleAttributes": {},
       "x": 182,
       "y": 8465,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "66a8e594b9bcfcab",
-      "type": "text",
-      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9703,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9783,
-      "width": 400,
-      "height": 120
-    },
-    {
-      "id": "22f9b30e5a9ea20f",
-      "type": "text",
-      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 9783,
-      "width": 350,
-      "height": 120
-    },
-    {
-      "id": "61ec068d1806830a",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9579,
-      "width": 400,
-      "height": 105
-    },
-    {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "892e8f07eb18c822",
-      "type": "text",
-      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9579,
-      "width": 400,
-      "height": 324
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
       "width": 260,
       "height": 60
     },
@@ -2417,6 +2217,216 @@
       "y": 12280,
       "width": 545,
       "height": 120
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9110,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "783cb05753c91821",
+      "type": "text",
+      "text": "> Owing to the academic hegemony of symbolic AI and the widespread anthropomorphisation of technology, it is hard to imagine contemporary AI as a technique of self-organising information or ‘spontaneous order’ emerging out of data. And yet, this is a realistic description of what machine learning actually does. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=127&selection=105,0,108,71|p.127]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9272,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "66a8e594b9bcfcab",
+      "type": "text",
+      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9703,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9783,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "61ec068d1806830a",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9579,
+      "width": 400,
+      "height": 105
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9579,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "892e8f07eb18c822",
+      "type": "text",
+      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9579,
+      "width": 400,
+      "height": 324
+    },
+    {
+      "id": "816a6f30f3df274c",
+      "type": "text",
+      "text": "> Theories of self-organisation are today popular in physics, chemistry, biology, neuroscience, and ecology, but it took cybernetics, rather than a natural science, to trigger the debate on self-organisation in the mid-twentieth century. [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=25&selection=79,47,82,46|p.25]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9110,
+      "width": 400,
+      "height": 129
+    },
+    {
+      "id": "d4739a166856d2b6",
+      "type": "text",
+      "text": "> \"The key relation between third-wave cybernetics and digital art is exemplified in the conceptualization and practice of **emergence**, which has opened new horizons and modes of art production. ... Emergence may also occur when a recursive feedback loop evolves within a system in such as a way as to lead to previously unforeseeable phenomena\"",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 8155,
+      "width": 400,
+      "height": 208
+    },
+    {
+      "id": "007fd667a03d9ac1",
+      "type": "text",
+      "text": "#### Self and other perception",
+      "styleAttributes": {},
+      "x": -481,
+      "y": 8966,
+      "width": 260,
+      "height": 65
+    },
+    {
+      "id": "c02a0423281cf766",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Modeling Charisma AI's Fashion Mirror Stage Smith.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8637,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e859292c5377bd84",
+      "type": "text",
+      "text": "> \"The individual’s recognition of “self,” in other words, is based on a failed correspondence. All of the narratives that the human constructs (and reconstructs) about their identity as an ideal image are grounded in this unresolved moment and compulsively repeated, indeed every time we confront ourselves before our phone’s camera-mirror.\"",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 8637,
+      "width": 469,
+      "height": 155
+    },
+    {
+      "id": "9e5b1e0dcff1ab2d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Ilfeld-ContemporaryArtCybernetics-2012.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 8155,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "988f0558c9670808",
+      "type": "text",
+      "text": "**Emergence**",
+      "styleAttributes": {},
+      "x": -270,
+      "y": 8465,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9d1c97054f334f60",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": -340,
+      "y": 8155,
+      "width": 400,
+      "height": 260
+    },
+    {
+      "id": "c5e222d5f81351a1",
+      "type": "text",
+      "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
+      "styleAttributes": {},
+      "x": -300,
+      "y": 8736,
+      "width": 454,
+      "height": 129
+    },
+    {
+      "id": "e3172d7a4eaf71bc",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": -299,
+      "y": 8637,
+      "width": 454,
+      "height": 76
+    },
+    {
+      "id": "d219dea82f983c8c",
+      "type": "text",
+      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
+      "styleAttributes": {},
+      "x": 112,
+      "y": 8156,
+      "width": 400,
+      "height": 129
+    },
+    {
+      "id": "22f9b30e5a9ea20f",
+      "type": "text",
+      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9783,
+      "width": 350,
+      "height": 120
+    },
+    {
+      "id": "f522e0d972728407",
+      "type": "text",
+      "text": "**Modelling Charisma**",
+      "styleAttributes": {},
+      "x": -180,
+      "y": 11800,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -3229,6 +3239,14 @@
       "fromSide": "bottom",
       "toNode": "1c8a476d7cd2e2bd",
       "toSide": "top"
+    },
+    {
+      "id": "ead941a5345885da",
+      "styleAttributes": {},
+      "fromNode": "9d568d6d2d73025c",
+      "fromSide": "right",
+      "toNode": "f522e0d972728407",
+      "toSide": "left"
     }
   ],
   "metadata": {}
