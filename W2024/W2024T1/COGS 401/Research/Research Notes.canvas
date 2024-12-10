@@ -7,7 +7,7 @@
       "x": -1680,
       "y": 6620,
       "width": 3640,
-      "height": 7500,
+      "height": 8100,
       "label": "Bibliography notes"
     },
     {
@@ -2030,46 +2030,6 @@
       "height": 50
     },
     {
-      "id": "67a5ba9a9e0c043e",
-      "type": "text",
-      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 150,
-      "y": 11272,
-      "width": 360,
-      "height": 382
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11346,
-      "width": 545,
-      "height": 320
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": -180,
-      "y": 11612,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2feb09f016ea44b4",
-      "type": "text",
-      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 940,
-      "y": 11293,
-      "width": 420,
-      "height": 361
-    },
-    {
       "id": "9d6d3baf60e72eb2",
       "type": "text",
       "text": "#### BarabasiLAB",
@@ -2349,26 +2309,6 @@
       "height": 240
     },
     {
-      "id": "5212c0854246116f",
-      "type": "text",
-      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 14180,
-      "width": 480,
-      "height": 300
-    },
-    {
-      "id": "7543f2c72189d0ff",
-      "type": "text",
-      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
-      "styleAttributes": {},
-      "x": 1040,
-      "y": 14180,
-      "width": 400,
-      "height": 100
-    },
-    {
       "id": "b4b80354119fc604",
       "type": "text",
       "text": "> There are, of course, numerous other ways to deliver a “magical” payload (misdirection, concealment, forcing, etc.), but in Mulholland’s paradigm, they all exploit the simple fact that our minds either throw away, selectively interpret, or even act upon the vast majority of our sensory stimulus **based on our preconscious and/or memetic priors**\n\n[[Society of the Psyop Paglen.pdf#page=28&selection=22,0,30,64|Society of the Psyop Paglen, page 28]]",
@@ -2377,6 +2317,66 @@
       "y": 13493,
       "width": 532,
       "height": 220
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 150,
+      "y": 11272,
+      "width": 360,
+      "height": 382
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were notthe only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11346,
+      "width": 545,
+      "height": 320
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": -180,
+      "y": 11612,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2feb09f016ea44b4",
+      "type": "text",
+      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 940,
+      "y": 11293,
+      "width": 420,
+      "height": 361
+    },
+    {
+      "id": "5212c0854246116f",
+      "type": "text",
+      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
+      "styleAttributes": {},
+      "x": -2720,
+      "y": 13643,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "7543f2c72189d0ff",
+      "type": "text",
+      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": 13643,
+      "width": 400,
+      "height": 100
     }
   ],
   "edges": [
