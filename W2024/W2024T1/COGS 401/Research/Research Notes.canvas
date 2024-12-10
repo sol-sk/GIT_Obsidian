@@ -64,11 +64,163 @@
       "id": "af727b3351bfdc38",
       "type": "group",
       "styleAttributes": {},
+      "isCollapsed": true,
       "x": -2240,
       "y": 7580,
       "width": 461,
       "height": 1280,
       "label": "Bibliography"
+    },
+    {
+      "id": "a9628a64bf741ad8",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8029,
+      "width": 343,
+      "height": 60,
+      "color": "#77be50"
+    },
+    {
+      "id": "df0bee9f0c27ae22",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8122,
+      "width": 361,
+      "height": 98,
+      "color": "#24995a"
+    },
+    {
+      "id": "f909bc41ebe376f2",
+      "type": "text",
+      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7920,
+      "width": 235,
+      "height": 78,
+      "color": "#5c28bd"
+    },
+    {
+      "id": "f3d0e7f0a07d23cd",
+      "type": "text",
+      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7800,
+      "width": 343,
+      "height": 98,
+      "color": "#1e2180"
+    },
+    {
+      "id": "aef734225c75f111",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 7709,
+      "width": 380,
+      "height": 67,
+      "color": "#1035a2"
+    },
+    {
+      "id": "1b70e8c4303d0900",
+      "type": "text",
+      "text": "# Bibliography",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 7600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9b55c79615cec593",
+      "type": "text",
+      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b367106df2162b0c",
+      "type": "text",
+      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8600,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "401c3450fe595b64",
+      "type": "text",
+      "text": "###### [[Anagram Deren.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8760,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b2cfd2cda4850e9d",
+      "type": "text",
+      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8329,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "31f36e9b8f06c73b",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8419,
+      "width": 380,
+      "height": 70
+    },
+    {
+      "id": "c95fe32513846b9a",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": -2220,
+      "y": 8520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "35174b871f4d8223",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -2220,
+      "y": 8239,
+      "width": 380,
+      "height": 60,
+      "color": "#046214"
     },
     {
       "id": "2318d07b7800b50b",
@@ -1103,82 +1255,6 @@
       "height": 180
     },
     {
-      "id": "a9628a64bf741ad8",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8029,
-      "width": 343,
-      "height": 60,
-      "color": "#77be50"
-    },
-    {
-      "id": "df0bee9f0c27ae22",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8122,
-      "width": 361,
-      "height": 98,
-      "color": "#24995a"
-    },
-    {
-      "id": "f909bc41ebe376f2",
-      "type": "text",
-      "text": "###### [\"Modeling Charisma: AI's Fashion Mirror Stage\"](https://www.invisibleculturejournal.com/pub/smith-ai-fashion/release/5)",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7920,
-      "width": 235,
-      "height": 78,
-      "color": "#5c28bd"
-    },
-    {
-      "id": "f3d0e7f0a07d23cd",
-      "type": "text",
-      "text": "###### [[Ilfeld-ContemporaryArtCybernetics-2012.pdf|Contemporary Art and Cybernetics: Waves of Cybernetic Discourse within Conceptual, Video and New Media Art]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7800,
-      "width": 343,
-      "height": 98,
-      "color": "#1e2180"
-    },
-    {
-      "id": "aef734225c75f111",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 7709,
-      "width": 380,
-      "height": 67,
-      "color": "#1035a2"
-    },
-    {
-      "id": "1b70e8c4303d0900",
-      "type": "text",
-      "text": "# Bibliography",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 7600,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "dca9020443ef373b",
       "type": "text",
       "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
@@ -1349,26 +1425,6 @@
       "height": 325
     },
     {
-      "id": "9b55c79615cec593",
-      "type": "text",
-      "text": "###### [[La Lucha Sin Fin 2012 Frid-Jimenez.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b367106df2162b0c",
-      "type": "text",
-      "text": "###### [[How We Became Posthuman Hayles.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8600,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "335f5cae3fdb2769",
       "type": "file",
       "file": "Clippings/e-flux.md",
@@ -1397,61 +1453,6 @@
       "y": 12650,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "401c3450fe595b64",
-      "type": "text",
-      "text": "###### [[Anagram Deren.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8760,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b2cfd2cda4850e9d",
-      "type": "text",
-      "text": "###### [[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf|The Eye of the Master A Social History of Artificial Intelligence]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8329,
-      "width": 380,
-      "height": 80
-    },
-    {
-      "id": "31f36e9b8f06c73b",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8419,
-      "width": 380,
-      "height": 70
-    },
-    {
-      "id": "c95fe32513846b9a",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": -2220,
-      "y": 8520,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "35174b871f4d8223",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": -2220,
-      "y": 8239,
-      "width": 380,
-      "height": 60,
-      "color": "#046214"
     },
     {
       "id": "8bdf0926427f31e5",
