@@ -2327,6 +2327,16 @@
       "y": 13740,
       "width": 320,
       "height": 80
+    },
+    {
+      "id": "74189347bbcb825d",
+      "type": "text",
+      "text": "> Weizenbaum decided to dispel the illusion he’d created ... by publishing ELIZA’s source code some users continued to believe that ELIZA was sentient, even after he revealed exactly how the magic trick worked. \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=17,0,19,45|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 500,
+      "y": 13733,
+      "width": 532,
+      "height": 140
     }
   ],
   "edges": [
