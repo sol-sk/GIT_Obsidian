@@ -940,12 +940,12 @@
     {
       "id": "d5c888e406e00927",
       "type": "text",
-      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. ",
+      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. \n",
       "styleAttributes": {},
       "x": 4320,
       "y": 800,
-      "width": 400,
-      "height": 100
+      "width": 460,
+      "height": 95
     }
   ],
   "edges": [
