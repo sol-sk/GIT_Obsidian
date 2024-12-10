@@ -2280,16 +2280,6 @@
       "height": 100
     },
     {
-      "id": "2d3483b8298f0163",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
-      "styleAttributes": {},
-      "x": -1560,
-      "y": 14520,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "e2eee08c1b88ad31",
       "type": "file",
       "file": "Clippings/ARTISTS SPACE.md",
@@ -2588,6 +2578,26 @@
       "y": 11284,
       "width": 360,
       "height": 252
+    },
+    {
+      "id": "2d3483b8298f0163",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 14510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "140b081963612721",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Flusser_Vilem_Writings.pdf",
+      "styleAttributes": {},
+      "x": -546,
+      "y": 14020,
+      "width": 400,
+      "height": 400
     }
   ],
   "edges": [
