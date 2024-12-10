@@ -498,11 +498,31 @@
     {
       "id": "3160514fdff9759c",
       "type": "text",
-      "text": "******",
+      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
       "styleAttributes": {},
-      "x": 1740,
-      "y": 2120,
+      "x": 1820,
+      "y": 2140,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "fb073a1fe71addc4",
+      "type": "text",
+      "text": "+Emergent behavior",
+      "styleAttributes": {},
+      "x": 1470,
+      "y": 2130,
       "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2b3ac2efe89ff72d",
+      "type": "text",
+      "text": "Genetic, Evolutionary, and Organic art",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 2030,
+      "width": 360,
       "height": 60
     }
   ],
@@ -530,6 +550,22 @@
       "fromSide": "right",
       "toNode": "cbf3f9fba58cbb2e",
       "toSide": "left"
+    },
+    {
+      "id": "3c0898b30d16f0e3",
+      "styleAttributes": {},
+      "fromNode": "fb073a1fe71addc4",
+      "fromSide": "top",
+      "toNode": "2b3ac2efe89ff72d",
+      "toSide": "right"
+    },
+    {
+      "id": "179f529915a35a82",
+      "styleAttributes": {},
+      "fromNode": "3160514fdff9759c",
+      "fromSide": "left",
+      "toNode": "2243334c2c564c21",
+      "toSide": "right"
     }
   ],
   "metadata": {}
