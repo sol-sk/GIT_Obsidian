@@ -437,12 +437,12 @@
     {
       "id": "c0f803fe0aad5e32",
       "type": "text",
-      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object.",
+      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come out by virtue of their contrast with the metaphor ",
       "styleAttributes": {},
       "x": 1820,
       "y": 1320,
       "width": 360,
-      "height": 120
+      "height": 240
     }
   ],
   "edges": [
