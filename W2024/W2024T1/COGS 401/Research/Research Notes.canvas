@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "a12de91363579ccf",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -9900,
-      "y": 11360,
-      "width": 3440,
-      "height": 2560,
-      "label": "Final Project Guidelines"
-    },
-    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 2220,
       "height": 2598,
       "label": "Artists"
+    },
+    {
+      "id": "a12de91363579ccf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -9900,
+      "y": 11360,
+      "width": 3440,
+      "height": 2560,
+      "label": "Final Project Guidelines"
     },
     {
       "id": "5555230744ad4956",
@@ -280,16 +280,6 @@
       "width": 454,
       "height": 220,
       "color": "2"
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 11800,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "9d568d6d2d73025c",
@@ -582,16 +572,6 @@
       "height": 103
     },
     {
-      "id": "ceb11b1ee2f84f9a",
-      "type": "file",
-      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11850,
-      "width": 500,
-      "height": 400
-    },
-    {
       "id": "4db6d54886bc0e52",
       "type": "text",
       "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
@@ -600,26 +580,6 @@
       "y": 11695,
       "width": 310,
       "height": 80
-    },
-    {
-      "id": "335f5cae3fdb2769",
-      "type": "file",
-      "file": "Clippings/e-flux.md",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 12190,
-      "width": 570,
-      "height": 170
-    },
-    {
-      "id": "dd6244c895c66528",
-      "type": "text",
-      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 11890,
-      "width": 570,
-      "height": 240
     },
     {
       "id": "cebbdc08fcd0a9eb",
@@ -728,26 +688,6 @@
       "styleAttributes": {},
       "x": -3880,
       "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "44741e52d666ef91",
-      "type": "text",
-      "text": "#### Trevor Paglen",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12190,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ec5069c6b80e4f02",
-      "type": "text",
-      "text": "#### Postmasters",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12650,
       "width": 260,
       "height": 60
     },
@@ -1183,46 +1123,6 @@
       "color": "#24995a"
     },
     {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12389,
-      "width": 237,
-      "height": 258
-    },
-    {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12389,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "f2a6cc2a57dcdf1b",
-      "type": "text",
-      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12871,
-      "width": 440,
-      "height": 174
-    },
-    {
-      "id": "39fedd8c9d541225",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12871,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "5d0ed83ce2d43ca3",
       "type": "text",
       "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
@@ -1281,26 +1181,6 @@
       "y": 10392,
       "width": 460,
       "height": 60
-    },
-    {
-      "id": "49dc46840b80e57f",
-      "type": "text",
-      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 11940,
-      "width": 545,
-      "height": 280
-    },
-    {
-      "id": "3bd7a8869f03963e",
-      "type": "text",
-      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
-      "styleAttributes": {},
-      "x": -810,
-      "y": 12280,
-      "width": 545,
-      "height": 120
     },
     {
       "id": "96031e5e20ab5e53",
@@ -2400,14 +2280,24 @@
       "height": 580
     },
     {
-      "id": "e635867efea83f6b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Society of the Psyop Paglen.pdf",
+      "id": "355823c62ee6699a",
+      "type": "text",
+      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
       "styleAttributes": {},
-      "x": -1634,
-      "y": 13370,
-      "width": 400,
-      "height": 400
+      "x": 1200,
+      "y": 13393,
+      "width": 526,
+      "height": 160
+    },
+    {
+      "id": "613df219e450e62e",
+      "type": "text",
+      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 13566,
+      "width": 532,
+      "height": 160
     },
     {
       "id": "8bdf0926427f31e5",
@@ -2450,14 +2340,214 @@
       "height": 174
     },
     {
-      "id": "355823c62ee6699a",
+      "id": "6bf5c9fd56a04e67",
       "type": "text",
-      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
+      "text": "> Woody Bledsoe was an early trailblazer in artificial intelligence, specializing in devising algorithms to conduct pattern matching, a crucial predecessor to modern machine learning ... In 1963, the CIA—using the cutout company “King-Hurley Research Group”—contracted Bledsoe to develop a system that would use computers to identify people by looking at pictures of their faces ... Today Bledsoe is known as the grandfather of facial recognition.\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=0,0,4,38|Society of the Psyop Paglen, page 17]]",
       "styleAttributes": {},
-      "x": 1200,
-      "y": 13393,
-      "width": 526,
-      "height": 160
+      "x": -600,
+      "y": 13590,
+      "width": 532,
+      "height": 226
+    },
+    {
+      "id": "0daa093cf834cb81",
+      "type": "text",
+      "text": "> In the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 13567,
+      "width": 532,
+      "height": 240
+    },
+    {
+      "id": "22e75b37e2cbe3fc",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 13900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "0e0be919e54fb5d2",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 13980,
+      "width": 532,
+      "height": 240
+    },
+    {
+      "id": "a7e71a29f000598d",
+      "type": "text",
+      "text": "+Emergent behavior",
+      "styleAttributes": {},
+      "x": -896,
+      "y": 14580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ef7e111046a623e6",
+      "type": "text",
+      "text": "Genetic, Evolutionary, and Organic art",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 14480,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12389,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12389,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "f2a6cc2a57dcdf1b",
+      "type": "text",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12871,
+      "width": 440,
+      "height": 174
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12871,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "49dc46840b80e57f",
+      "type": "text",
+      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 11940,
+      "width": 545,
+      "height": 280
+    },
+    {
+      "id": "3bd7a8869f03963e",
+      "type": "text",
+      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -810,
+      "y": 12280,
+      "width": 545,
+      "height": 120
+    },
+    {
+      "id": "e635867efea83f6b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Society of the Psyop Paglen.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 13370,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "979b6e71a68e2677",
+      "type": "text",
+      "text": "> Standard Head\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=36,5,36,18|Society of the Psyop Paglen, page 17]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13850,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "dd3d95cf9ac9bf80",
+      "type": "text",
+      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
+      "styleAttributes": {},
+      "x": -546,
+      "y": 14590,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 11800,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11850,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "335f5cae3fdb2769",
+      "type": "file",
+      "file": "Clippings/e-flux.md",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 12190,
+      "width": 570,
+      "height": 170
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 11890,
+      "width": 570,
+      "height": 240
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12190,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ec5069c6b80e4f02",
+      "type": "text",
+      "text": "#### Postmasters",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12650,
+      "width": 260,
+      "height": 60
     },
     {
       "id": "5212c0854246116f",
@@ -2480,63 +2570,14 @@
       "height": 100
     },
     {
-      "id": "6bf5c9fd56a04e67",
-      "type": "text",
-      "text": "> Woody Bledsoe was an early trailblazer in artificial intelligence, specializing in devising algorithms to conduct pattern matching, a crucial predecessor to modern machine learning ... In 1963, the CIA—using the cutout company “King-Hurley Research Group”—contracted Bledsoe to develop a system that would use computers to identify people by looking at pictures of their faces ... Today Bledsoe is known as the grandfather of facial recognition.\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=0,0,4,38|Society of the Psyop Paglen, page 17]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13590,
-      "width": 532,
-      "height": 226
-    },
-    {
-      "id": "979b6e71a68e2677",
-      "type": "text",
-      "text": "> Standard Head\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=36,5,36,18|Society of the Psyop Paglen, page 17]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13850,
-      "width": 320,
-      "height": 80
-    },
-    {
-      "id": "0daa093cf834cb81",
-      "type": "text",
-      "text": "> In the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 13567,
-      "width": 532,
-      "height": 240
-    },
-    {
-      "id": "613df219e450e62e",
-      "type": "text",
-      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
-      "styleAttributes": {},
-      "x": 1200,
-      "y": 13566,
-      "width": 532,
-      "height": 160
-    },
-    {
-      "id": "22e75b37e2cbe3fc",
+      "id": "2d3483b8298f0163",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
-      "x": -1634,
-      "y": 13900,
+      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
+      "styleAttributes": {},
+      "x": -1560,
+      "y": 14520,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "0e0be919e54fb5d2",
-      "type": "text",
-      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 13980,
-      "width": 532,
-      "height": 240
     }
   ],
   "edges": [
@@ -3357,6 +3398,22 @@
       "fromSide": "right",
       "toNode": "f522e0d972728407",
       "toSide": "left"
+    },
+    {
+      "id": "c0fafa72b391ed04",
+      "styleAttributes": {},
+      "fromNode": "a7e71a29f000598d",
+      "fromSide": "top",
+      "toNode": "ef7e111046a623e6",
+      "toSide": "right"
+    },
+    {
+      "id": "e7c5d05219cc446e",
+      "styleAttributes": {},
+      "fromNode": "dd3d95cf9ac9bf80",
+      "fromSide": "left",
+      "toNode": "ef7e111046a623e6",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
