@@ -486,36 +486,6 @@
       "height": 60
     },
     {
-      "id": "2b3ac2efe89ff72d",
-      "type": "text",
-      "text": "Genetic, Evolutionary, and Organic art",
-      "styleAttributes": {},
-      "x": 1210,
-      "y": 2230,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "fb073a1fe71addc4",
-      "type": "text",
-      "text": "+Emergent behavior",
-      "styleAttributes": {},
-      "x": 1500,
-      "y": 2330,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "305da09c6be9390a",
-      "type": "text",
-      "text": "**Contemporary (ish)**",
-      "styleAttributes": {},
-      "x": 1570,
-      "y": 2060,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "4cf15bb07c8f65af",
       "type": "text",
       "text": "***Amber Frid-Jimenez***",
@@ -524,16 +494,6 @@
       "y": 2060,
       "width": 320,
       "height": 240
-    },
-    {
-      "id": "3160514fdff9759c",
-      "type": "text",
-      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
-      "styleAttributes": {},
-      "x": 1850,
-      "y": 2340,
-      "width": 320,
-      "height": 100
     },
     {
       "id": "acb4618c5b3bca81",
@@ -553,6 +513,16 @@
       "x": -100,
       "y": 1140,
       "width": 300,
+      "height": 60
+    },
+    {
+      "id": "305da09c6be9390a",
+      "type": "text",
+      "text": "**Contemporary (ish)**",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 2035,
+      "width": 260,
       "height": 60
     }
   ],
@@ -580,22 +550,6 @@
       "fromSide": "right",
       "toNode": "cbf3f9fba58cbb2e",
       "toSide": "left"
-    },
-    {
-      "id": "3c0898b30d16f0e3",
-      "styleAttributes": {},
-      "fromNode": "fb073a1fe71addc4",
-      "fromSide": "top",
-      "toNode": "2b3ac2efe89ff72d",
-      "toSide": "right"
-    },
-    {
-      "id": "179f529915a35a82",
-      "styleAttributes": {},
-      "fromNode": "3160514fdff9759c",
-      "fromSide": "left",
-      "toNode": "2b3ac2efe89ff72d",
-      "toSide": "bottom"
     }
   ],
   "metadata": {}
