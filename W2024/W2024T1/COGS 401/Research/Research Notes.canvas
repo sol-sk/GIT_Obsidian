@@ -2341,12 +2341,22 @@
     {
       "id": "0daa093cf834cb81",
       "type": "text",
-      "text": "> n the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” Society of the Psy\n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
+      "text": "> In the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
       "styleAttributes": {},
       "x": 560,
       "y": 13673,
       "width": 532,
-      "height": 247
+      "height": 240
+    },
+    {
+      "id": "5212c0854246116f",
+      "type": "text",
+      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWha\n",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 14180,
+      "width": 480,
+      "height": 260
     }
   ],
   "edges": [
