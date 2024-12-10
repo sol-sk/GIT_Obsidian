@@ -2351,12 +2351,22 @@
     {
       "id": "5212c0854246116f",
       "type": "text",
-      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWha\n",
+      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
       "styleAttributes": {},
       "x": 520,
       "y": 14180,
       "width": 480,
-      "height": 260
+      "height": 300
+    },
+    {
+      "id": "7543f2c72189d0ff",
+      "type": "text",
+      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
+      "styleAttributes": {},
+      "x": 1040,
+      "y": 14180,
+      "width": 400,
+      "height": 100
     }
   ],
   "edges": [
