@@ -2280,16 +2280,6 @@
       "height": 298
     },
     {
-      "id": "74189347bbcb825d",
-      "type": "text",
-      "text": "> Weizenbaum decided to dispel the illusion he’d created ... by publishing ELIZA’s source code some users continued to believe that ELIZA was sentient, even after he revealed exactly how the magic trick worked. \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=17,0,19,45|Society of the Psyop Paglen, page 22]]",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 13733,
-      "width": 532,
-      "height": 140
-    },
-    {
       "id": "e635867efea83f6b",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Society of the Psyop Paglen.pdf",
@@ -2316,7 +2306,7 @@
       "x": -32,
       "y": 13493,
       "width": 532,
-      "height": 240
+      "height": 226
     },
     {
       "id": "8bdf0926427f31e5",
@@ -2337,6 +2327,26 @@
       "y": 13753,
       "width": 320,
       "height": 80
+    },
+    {
+      "id": "74189347bbcb825d",
+      "type": "text",
+      "text": "> Weizenbaum decided to dispel the illusion he’d created ... by publishing ELIZA’s source code some users continued to believe that ELIZA was sentient, even after he revealed exactly how the magic trick worked. \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=17,0,19,45|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 13493,
+      "width": 532,
+      "height": 147
+    },
+    {
+      "id": "0daa093cf834cb81",
+      "type": "text",
+      "text": "> n the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” Society of the Psy\n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 560,
+      "y": 13673,
+      "width": 532,
+      "height": 247
     }
   ],
   "edges": [
