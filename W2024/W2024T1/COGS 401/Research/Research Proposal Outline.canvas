@@ -7,7 +7,7 @@
       "y": 700,
       "width": 1440,
       "height": 1940,
-      "color": "#28aaf0",
+      "color": "#50b4f0",
       "label": "Background"
     },
     {
@@ -516,11 +516,22 @@
       "height": 40
     },
     {
+      "id": "8ed0457a6be6d403",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": 5840,
+      "y": 704,
+      "width": 320,
+      "height": 40,
+      "color": "3"
+    },
+    {
       "id": "a79d1644c5b85d02",
       "type": "text",
       "text": "#### Expected Results/Interpretation of Results ",
       "styleAttributes": {},
-      "x": 5160,
+      "x": 4400,
       "y": 704,
       "width": 320,
       "height": 84
@@ -530,20 +541,10 @@
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project ",
       "styleAttributes": {},
-      "x": 5780,
+      "x": 5160,
       "y": 704,
       "width": 320,
       "height": 84
-    },
-    {
-      "id": "8ed0457a6be6d403",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": 6300,
-      "y": 704,
-      "width": 320,
-      "height": 40
     }
   ],
   "edges": [
