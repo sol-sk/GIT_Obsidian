@@ -2668,13 +2668,24 @@
     {
       "id": "f0edec20b1785fa8",
       "type": "text",
-      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
+      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
       "styleAttributes": {},
       "x": -40,
       "y": 14695,
       "width": 532,
-      "height": 170,
+      "height": 245,
       "color": "5"
+    },
+    {
+      "id": "798f7272ccd196e5",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 14695,
+      "width": 532,
+      "height": 319,
+      "color": "4"
     }
   ],
   "edges": [

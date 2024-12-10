@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "639a23f1e6fe3653",
+      "type": "group",
+      "x": 5760,
+      "y": 680,
+      "width": 1950,
+      "height": 2795,
+      "label": "Significance"
+    },
+    {
       "id": "42842190a8105752",
       "type": "group",
       "x": 1520,
@@ -577,6 +586,127 @@
       "y": 2300,
       "width": 530,
       "height": 673
+    },
+    {
+      "id": "1fa5dd24850f5912",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 2089,
+      "width": 454,
+      "height": 76,
+      "color": "3"
+    },
+    {
+      "id": "5ebdff134be0f5eb",
+      "type": "text",
+      "text": "> \"The question remains as to why there has been at minimum a 15-year lag be- tween the ideas proposed in cybernetics and their artistic counterparts. ... Perhaps these ideas first had to be incorporated into the technologies these artists used...technological history is often the outcome of social struggles between powerful interest groups. Perhaps the correlation between cybernetics and art is itself a form of emergence?\"",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 1669,
+      "width": 400,
+      "height": 260,
+      "color": "3"
+    },
+    {
+      "id": "2f784e2b10205b9a",
+      "type": "text",
+      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
+      "styleAttributes": {},
+      "x": 7164,
+      "y": 2939,
+      "width": 526,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "04f08e61ce512fa3",
+      "type": "text",
+      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 3299,
+      "width": 532,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "8f03669c096abde8",
+      "type": "text",
+      "text": "> (A media environment) That notices which kinds of stimulus induce what kinds of precognitive responses, and uses machine learning to develop, A/B test, and deploy custom-generated cognitive injections designed to manipulate us even further, all without us consciously perceiving what’s happening?\n\n[[Society of the Psyop Paglen.pdf#page=1&selection=40,19,46,72|Society of the Psyop Paglen, page 1]]",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 2939,
+      "width": 532,
+      "height": 174,
+      "color": "3"
+    },
+    {
+      "id": "faf48dde7653dd4f",
+      "type": "text",
+      "text": "> There are, of course, numerous other ways to deliver a “magical” payload (misdirection, concealment, forcing, etc.), but in Mulholland’s paradigm, they all exploit the simple fact that our minds either throw away, selectively interpret, or even act upon the vast majority of our sensory stimulus **based on our preconscious and/or memetic priors**.\n\n[[Society of the Psyop Paglen.pdf#page=28&selection=22,0,30,64|Society of the Psyop Paglen, page 28]]",
+      "styleAttributes": {},
+      "x": 6472,
+      "y": 2939,
+      "width": 532,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "b0293444fc7243be",
+      "type": "text",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 2605,
+      "width": 440,
+      "height": 174,
+      "color": "3"
+    },
+    {
+      "id": "573ef010cd3a3d62",
+      "type": "text",
+      "text": "> \"That mind perception is tied so tightly to morality is no coincidence because moral events –consisting of punishment, condemnation,praise, and reward –are fundamentally social events\"(386)",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 1400,
+      "width": 454,
+      "height": 109,
+      "color": "3"
+    },
+    {
+      "id": "2c90f7691e843ed2",
+      "type": "text",
+      "text": "> \"Perceivers want to be evaluated positively by others, and the presence of another surveilling mind can therefore increase socially desirable behavior\"",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 1147,
+      "width": 454,
+      "height": 93,
+      "color": "3"
+    },
+    {
+      "id": "b9d617d0d65835c7",
+      "type": "text",
+      "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 885,
+      "width": 389,
+      "height": 102,
+      "color": "3"
+    },
+    {
+      "id": "f51a91fe72aea184",
+      "type": "text",
+      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": 5780,
+      "y": 2325,
+      "width": 545,
+      "height": 120,
+      "color": "3"
     }
   ],
   "edges": [
