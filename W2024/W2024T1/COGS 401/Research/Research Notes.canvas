@@ -2523,10 +2523,20 @@
       "id": "22e75b37e2cbe3fc",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
-      "x": -1480,
-      "y": 14020,
+      "x": -1634,
+      "y": 13900,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "0e0be919e54fb5d2",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 13980,
+      "width": 532,
+      "height": 240
     }
   ],
   "edges": [
