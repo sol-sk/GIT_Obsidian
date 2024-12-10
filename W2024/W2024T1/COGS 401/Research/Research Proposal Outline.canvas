@@ -1,6 +1,16 @@
 {
   "nodes": [
     {
+      "id": "42842190a8105752",
+      "type": "group",
+      "x": 1520,
+      "y": 700,
+      "width": 1520,
+      "height": 3180,
+      "color": "#50b4f0",
+      "label": "Background"
+    },
+    {
       "id": "639a23f1e6fe3653",
       "type": "group",
       "x": 5760,
@@ -8,16 +18,6 @@
       "width": 2940,
       "height": 1280,
       "label": "Significance"
-    },
-    {
-      "id": "42842190a8105752",
-      "type": "group",
-      "x": 1520,
-      "y": 700,
-      "width": 1440,
-      "height": 1940,
-      "color": "#50b4f0",
-      "label": "Background"
     },
     {
       "id": "d4e69c9c355e547e",
@@ -836,7 +836,7 @@
       "y": 2417,
       "width": 454,
       "height": 220,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "55357374dacdbd16",
@@ -847,7 +847,7 @@
       "y": 2417,
       "width": 400,
       "height": 129,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "1e4ee32bf0af2d43",
@@ -858,7 +858,7 @@
       "y": 2677,
       "width": 400,
       "height": 155,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "52a98a0524bd1d3d",
@@ -869,7 +869,7 @@
       "y": 2677,
       "width": 400,
       "height": 400,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "625b37d79a03d165",
@@ -880,7 +880,7 @@
       "y": 2417,
       "width": 454,
       "height": 140,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "966753443d72d3e8",
@@ -891,7 +891,7 @@
       "y": 3117,
       "width": 545,
       "height": 320,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "585b2836a9f90123",
@@ -902,7 +902,7 @@
       "y": 3117,
       "width": 360,
       "height": 200,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "4a6aa6b776947100",
@@ -913,7 +913,7 @@
       "y": 3477,
       "width": 532,
       "height": 260,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "287e6286cf792b7a",
@@ -924,7 +924,7 @@
       "y": 3477,
       "width": 532,
       "height": 245,
-      "color": "5"
+      "color": "#50b4f0"
     },
     {
       "id": "5e4a2ab6cedfa975",
