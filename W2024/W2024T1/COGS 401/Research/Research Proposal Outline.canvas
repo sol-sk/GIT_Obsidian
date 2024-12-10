@@ -676,17 +676,6 @@
       "color": "3"
     },
     {
-      "id": "1fa5dd24850f5912",
-      "type": "text",
-      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.\n\n\n[[Modeling Charisma AI's Fashion Mirror Stage Smith.pdf#page=11&selection=41,0,47,21|Modeling Charisma AI's Fashion Mirror Stage Smith, page 11]]",
-      "styleAttributes": {},
-      "x": 5968,
-      "y": 1820,
-      "width": 454,
-      "height": 121,
-      "color": "3"
-    },
-    {
       "id": "b9d617d0d65835c7",
       "type": "text",
       "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.\n\n[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf#page=4&selection=18,17,24,15|Butterworth-SelfPerceptionFoundationSelfKnowledge-1992, page 4]]",
@@ -728,6 +717,17 @@
       "y": 1620,
       "width": 260,
       "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "1fa5dd24850f5912",
+      "type": "text",
+      "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.\n\n\n[[Modeling Charisma AI's Fashion Mirror Stage Smith.pdf#page=11&selection=41,0,47,21|Modeling Charisma AI's Fashion Mirror Stage Smith, page 11]]",
+      "styleAttributes": {},
+      "x": 6000,
+      "y": 1760,
+      "width": 454,
+      "height": 121,
       "color": "3"
     }
   ],
