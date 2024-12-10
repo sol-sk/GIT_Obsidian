@@ -415,16 +415,6 @@
       "height": 40
     },
     {
-      "id": "1281b63ee7e57b58",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 844,
-      "width": 360,
-      "height": 220
-    },
-    {
       "id": "1d8b47d0c03e7e7d",
       "type": "text",
       "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
@@ -439,10 +429,10 @@
       "type": "text",
       "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
       "styleAttributes": {},
-      "x": 1820,
+      "x": 1760,
       "y": 1320,
-      "width": 360,
-      "height": 240
+      "width": 420,
+      "height": 208
     },
     {
       "id": "cbf3f9fba58cbb2e",
@@ -466,12 +456,52 @@
       "color": "6"
     },
     {
+      "id": "55fb4a78e7053e39",
+      "type": "text",
+      "text": "**Cybernetics**\n",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1281b63ee7e57b58",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 844,
+      "width": 360,
+      "height": 200
+    },
+    {
       "id": "305da09c6be9390a",
+      "type": "text",
+      "text": "**Contemporary (ish)**",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 1860,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4cf15bb07c8f65af",
+      "type": "text",
+      "text": "***Amber Frid-Jimenez***",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 1860,
+      "width": 320,
+      "height": 240
+    },
+    {
+      "id": "3160514fdff9759c",
       "type": "text",
       "text": "",
       "styleAttributes": {},
-      "x": 1800,
-      "y": 1620,
+      "x": 1740,
+      "y": 2120,
       "width": 260,
       "height": 60
     }
