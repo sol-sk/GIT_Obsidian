@@ -1063,7 +1063,8 @@
       "x": 1200,
       "y": 13393,
       "width": 526,
-      "height": 160
+      "height": 160,
+      "color": "3"
     },
     {
       "id": "613df219e450e62e",
@@ -1073,7 +1074,8 @@
       "x": 1200,
       "y": 13566,
       "width": 532,
-      "height": 160
+      "height": 160,
+      "color": "3"
     },
     {
       "id": "531b643a7021403a",
@@ -1474,7 +1476,8 @@
       "x": -600,
       "y": 13393,
       "width": 532,
-      "height": 174
+      "height": 174,
+      "color": "3"
     },
     {
       "id": "74189347bbcb825d",
@@ -1494,7 +1497,8 @@
       "x": 600,
       "y": 13393,
       "width": 532,
-      "height": 200
+      "height": 200,
+      "color": "3"
     },
     {
       "id": "6bf5c9fd56a04e67",
@@ -1524,7 +1528,8 @@
       "x": -1188,
       "y": 12871,
       "width": 440,
-      "height": 174
+      "height": 174,
+      "color": "3"
     },
     {
       "id": "39fedd8c9d541225",
@@ -2458,7 +2463,8 @@
       "x": -544,
       "y": 12650,
       "width": 545,
-      "height": 120
+      "height": 120,
+      "color": "3"
     },
     {
       "id": "05dd887824078e8a",
@@ -2478,12 +2484,13 @@
       "x": -1174,
       "y": 11358,
       "width": 545,
-      "height": 320
+      "height": 320,
+      "color": "5"
     },
     {
       "id": "a06a50105502b813",
       "type": "text",
-      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary Simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
+      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
       "styleAttributes": {},
       "x": -1174,
       "y": 11730,
@@ -2498,7 +2505,8 @@
       "x": -594,
       "y": 11284,
       "width": 360,
-      "height": 200
+      "height": 200,
+      "color": "5"
     },
     {
       "id": "eb4767d328ff9dcb",
