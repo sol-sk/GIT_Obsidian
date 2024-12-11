@@ -44,6 +44,16 @@
       "label": "Research Q, Supervisor"
     },
     {
+      "id": "a4e5ce31171aca57",
+      "type": "group",
+      "x": 3720,
+      "y": 2320,
+      "width": 632,
+      "height": 400,
+      "color": "2",
+      "label": "Expected Results/Interpretation"
+    },
+    {
       "id": "5e4a2ab6cedfa975",
       "type": "text",
       "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
