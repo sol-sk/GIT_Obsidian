@@ -11,6 +11,16 @@
       "label": "Bibliography notes"
     },
     {
+      "id": "a12de91363579ccf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6560,
+      "y": 13200,
+      "width": 3440,
+      "height": 2560,
+      "label": "Final Project Guidelines"
+    },
+    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -181,106 +191,6 @@
       "width": 380,
       "height": 60,
       "color": "#046214"
-    },
-    {
-      "id": "a12de91363579ccf",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -6560,
-      "y": 13200,
-      "width": 3440,
-      "height": 2560,
-      "label": "Final Project Guidelines"
-    },
-    {
-      "id": "0bcd5eb3138ba697",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14035,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "f4d405392c3c012f",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14237,
-      "width": 520,
-      "height": 97
-    },
-    {
-      "id": "fa372c2696463f70",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": -4060,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "fc197701110b7112",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": -3540,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "a560451957c0e6b6",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": -4740,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "838f489b7cb92a20",
-      "type": "text",
-      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14566,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "9529fd7ce532069e",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": -5300,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "bedad107149fb2b7",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": -5940,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "609eafa2a84b0764",
-      "type": "text",
-      "text": "#### Background (in sufficient detail to motivate the RQ) ",
-      "styleAttributes": {},
-      "x": -6540,
-      "y": 14820,
-      "width": 320,
-      "height": 80
     },
     {
       "id": "9666e22619b61c1a",
@@ -503,26 +413,6 @@
       "height": 388
     },
     {
-      "id": "5212c0854246116f",
-      "type": "text",
-      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
-      "styleAttributes": {},
-      "x": -2720,
-      "y": 13643,
-      "width": 480,
-      "height": 300
-    },
-    {
-      "id": "7543f2c72189d0ff",
-      "type": "text",
-      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
-      "styleAttributes": {},
-      "x": -2200,
-      "y": 13643,
-      "width": 400,
-      "height": 100
-    },
-    {
       "id": "1cca6de671a27c4f",
       "type": "text",
       "text": "[[How We Became Posthuman Hayles.pdf]]",
@@ -531,174 +421,6 @@
       "y": 8970,
       "width": 440,
       "height": 60
-    },
-    {
-      "id": "2cad693b8a9567f4",
-      "type": "text",
-      "text": "- More memorable? \n- More personal experience?",
-      "styleAttributes": {},
-      "x": -5010,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "6f79bccfb22b2286",
-      "type": "text",
-      "text": "### Paper",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 11360,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "498244fd7ecd9db5",
-      "type": "text",
-      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 10830,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "8fd5523b2c14cf00",
-      "type": "text",
-      "text": "### Research Question",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 10750,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "68221bd9306bdeab",
-      "type": "text",
-      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11440,
-      "width": 530,
-      "height": 673
-    },
-    {
-      "id": "03fd373a93f88735",
-      "type": "text",
-      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
-      "styleAttributes": {},
-      "x": -5060,
-      "y": 12631,
-      "width": 440,
-      "height": 148
-    },
-    {
-      "id": "fc76e0c145880469",
-      "type": "text",
-      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
-      "styleAttributes": {},
-      "x": -4640,
-      "y": 10810,
-      "width": 360,
-      "height": 215
-    },
-    {
-      "id": "55a0afde8f113662",
-      "type": "text",
-      "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
-      "styleAttributes": {},
-      "x": -4380,
-      "y": 10530,
-      "width": 260,
-      "height": 126
-    },
-    {
-      "id": "5258814bb0cea5f2",
-      "type": "text",
-      "text": "don't worry too much about laura's comment abt \"an image\"",
-      "styleAttributes": {},
-      "x": -4380,
-      "y": 10450,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "More emphasis on explaining the methods for the ANN",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11160,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "657b8e3fe46cecee",
-      "type": "text",
-      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11480,
-      "width": 330,
-      "height": 120
-    },
-    {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11380,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "2e4d3e263588a10c",
-      "type": "file",
-      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
-      "styleAttributes": {},
-      "x": -6280,
-      "y": 12410,
-      "width": 1030,
-      "height": 590
-    },
-    {
-      "id": "5f1ec2e06a9b0249",
-      "type": "text",
-      "text": "### Outcome",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5355ff9092c2820d",
-      "type": "text",
-      "text": "### Methodology",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ad44efdddc8c0c46",
-      "type": "text",
-      "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists, artworks, websites in my bibliography?/how to I do so? \n\t- Typical artwork citations for paper \n\t- Bibliography: Compsci side\n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- How to present/combine paper and installation in proposal\n\t- She likes the methodology from presentation\n\t- Part 1/2 type thing: don't need to split up outside of methodology\n- Do look to add more abt big picture, but specific feedback can be grain of salt \n\t- Eg. the difference between AI \"art\" and what I'm doing: the role of artist and technology \n",
-      "styleAttributes": {},
-      "x": -5000,
-      "y": 10260,
-      "width": 610,
-      "height": 400
     },
     {
       "id": "22e75b37e2cbe3fc",
@@ -1451,196 +1173,6 @@
       "y": -796,
       "width": 340,
       "height": 100
-    },
-    {
-      "id": "8694c52f613da692",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 13214,
-      "width": 520,
-      "height": 635
-    },
-    {
-      "id": "29af2dd0f05050c4",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "d2cd9f6191bf2388",
-      "type": "text",
-      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "9eedd2d895bc850a",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14035,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "1c8a476d7cd2e2bd",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14236,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "5493944c49f4026f",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14286,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "f6fd8768b41001fd",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14286,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "4db6d54886bc0e52",
-      "type": "text",
-      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
-      "styleAttributes": {},
-      "x": -3310,
-      "y": 11695,
-      "width": 310,
-      "height": 80
-    },
-    {
-      "id": "ceb11b1ee2f84f9a",
-      "type": "file",
-      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11850,
-      "width": 500,
-      "height": 400
-    },
-    {
-      "id": "dd6244c895c66528",
-      "type": "text",
-      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 11890,
-      "width": 570,
-      "height": 240
-    },
-    {
-      "id": "335f5cae3fdb2769",
-      "type": "file",
-      "file": "Clippings/e-flux.md",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 12190,
-      "width": 570,
-      "height": 170
-    },
-    {
-      "id": "a06a50105502b813",
-      "type": "text",
-      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11730,
-      "width": 545,
-      "height": 520
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": -544,
-      "y": 11624,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "cfb942af78d0a51b",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"25 \n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|How We Became Posthuman Hayles, page 79]]",
-      "styleAttributes": {},
-      "x": -594,
-      "y": 11750,
-      "width": 560,
-      "height": 240
-    },
-    {
-      "id": "c8a5ce2c4deb92d6",
-      "type": "text",
-      "text": "#### Refik Anadol",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9d6d3baf60e72eb2",
-      "type": "text",
-      "text": "#### BarabasiLAB",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11890,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "44741e52d666ef91",
-      "type": "text",
-      "text": "#### Trevor Paglen",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12190,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ec5069c6b80e4f02",
-      "type": "text",
-      "text": "#### Postmasters",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12650,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 11460,
-      "width": 360,
-      "height": 215
     },
     {
       "id": "9d568d6d2d73025c",
@@ -2707,6 +2239,474 @@
       "y": 11042,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "55a0afde8f113662",
+      "type": "text",
+      "text": "big picture wise: \n- how it relates to art\n\t- How art, changing mediums is important ",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10530,
+      "width": 260,
+      "height": 126
+    },
+    {
+      "id": "5258814bb0cea5f2",
+      "type": "text",
+      "text": "don't worry too much about laura's comment abt \"an image\"",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10450,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": -544,
+      "y": 11624,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11360,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 10750,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11440,
+      "width": 530,
+      "height": 673
+    },
+    {
+      "id": "4db6d54886bc0e52",
+      "type": "text",
+      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
+      "styleAttributes": {},
+      "x": -3310,
+      "y": 11695,
+      "width": 310,
+      "height": 80
+    },
+    {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11850,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 11890,
+      "width": 570,
+      "height": 240
+    },
+    {
+      "id": "a06a50105502b813",
+      "type": "text",
+      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11730,
+      "width": 545,
+      "height": 520
+    },
+    {
+      "id": "cfb942af78d0a51b",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"25 \n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|How We Became Posthuman Hayles, page 79]]",
+      "styleAttributes": {},
+      "x": -594,
+      "y": 11750,
+      "width": 560,
+      "height": 240
+    },
+    {
+      "id": "c8a5ce2c4deb92d6",
+      "type": "text",
+      "text": "#### Refik Anadol",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11890,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "- More memorable? \n- More personal experience?",
+      "styleAttributes": {},
+      "x": -5010,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 10830,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "fc76e0c145880469",
+      "type": "text",
+      "text": "- Specify: does x lead to y (expected or anticipated) feedback\n- What comments would I anticipate/want to hear\n- (& for the outcome: if unanticipated/different reactions/feedback received, why that might be and how it can inform future projects)",
+      "styleAttributes": {},
+      "x": -4640,
+      "y": 10810,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "657b8e3fe46cecee",
+      "type": "text",
+      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11480,
+      "width": 330,
+      "height": 120
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "5f1ec2e06a9b0249",
+      "type": "text",
+      "text": "### Outcome",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5355ff9092c2820d",
+      "type": "text",
+      "text": "### Methodology",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ad44efdddc8c0c46",
+      "type": "text",
+      "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists, artworks, websites in my bibliography?/how to I do so? \n\t- Typical artwork citations for paper \n\t- Bibliography: Compsci side\n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- How to present/combine paper and installation in proposal\n\t- She likes the methodology from presentation\n\t- Part 1/2 type thing: don't need to split up outside of methodology\n- Do look to add more abt big picture, but specific feedback can be grain of salt \n\t- Eg. the difference between AI \"art\" and what I'm doing: the role of artist and technology \n",
+      "styleAttributes": {},
+      "x": -5000,
+      "y": 10260,
+      "width": 610,
+      "height": 400
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 11460,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "335f5cae3fdb2769",
+      "type": "file",
+      "file": "Clippings/e-flux.md",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 12190,
+      "width": 570,
+      "height": 170
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12190,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "03fd373a93f88735",
+      "type": "text",
+      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
+      "styleAttributes": {},
+      "x": -5060,
+      "y": 12631,
+      "width": 440,
+      "height": 148
+    },
+    {
+      "id": "2e4d3e263588a10c",
+      "type": "file",
+      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": 12410,
+      "width": 1030,
+      "height": 590
+    },
+    {
+      "id": "ec5069c6b80e4f02",
+      "type": "text",
+      "text": "#### Postmasters",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12650,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 13214,
+      "width": 520,
+      "height": 635
+    },
+    {
+      "id": "5212c0854246116f",
+      "type": "text",
+      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
+      "styleAttributes": {},
+      "x": -2720,
+      "y": 13643,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "7543f2c72189d0ff",
+      "type": "text",
+      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": 13643,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "29af2dd0f05050c4",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "d2cd9f6191bf2388",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "9eedd2d895bc850a",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14035,
+      "width": 520,
+      "height": 150
+    },
+    {
+      "id": "1c8a476d7cd2e2bd",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14236,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "5493944c49f4026f",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14286,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "f6fd8768b41001fd",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14286,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "fa372c2696463f70",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
+      "styleAttributes": {},
+      "x": -4060,
+      "y": 14820,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "a560451957c0e6b6",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": -4740,
+      "y": 14820,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "838f489b7cb92a20",
+      "type": "text",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14566,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "9529fd7ce532069e",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": -5300,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "bedad107149fb2b7",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": -5940,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "609eafa2a84b0764",
+      "type": "text",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "styleAttributes": {},
+      "x": -6540,
+      "y": 14820,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "0bcd5eb3138ba697",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14035,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "f4d405392c3c012f",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14237,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "fc197701110b7112",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": -3540,
+      "y": 14820,
+      "width": 320,
+      "height": 40
     }
   ],
   "edges": [
