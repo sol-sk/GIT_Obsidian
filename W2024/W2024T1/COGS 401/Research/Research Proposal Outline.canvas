@@ -659,50 +659,6 @@
       "height": 673
     },
     {
-      "id": "5c9badbbea3badab",
-      "type": "text",
-      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
-      "styleAttributes": {},
-      "x": 2039,
-      "y": 2417,
-      "width": 454,
-      "height": 220,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "625b37d79a03d165",
-      "type": "text",
-      "text": "> Paik considered broadcast TV to be an oppressive institution, which he attempted to subvert by turning the viewer into a user of the medium [22].\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=34,20,42,12|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
-      "styleAttributes": {},
-      "x": 2493,
-      "y": 2260,
-      "width": 454,
-      "height": 140,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "55357374dacdbd16",
-      "type": "text",
-      "text": "> \"Second-wave cybernetic discourse stressed that language is structurally coupled as a social system founded on a 'reciprocal consensus' and therefore not representative of an external reality but rather of 'consensual objects'.\" (59)",
-      "styleAttributes": {},
-      "x": 2039,
-      "y": 2266,
-      "width": 400,
-      "height": 129,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "1e4ee32bf0af2d43",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.\n\n[[Pictures Crimp.pdf]] 77",
-      "styleAttributes": {},
-      "x": 2520,
-      "y": 2417,
-      "width": 400,
-      "height": 220,
-      "color": "#28aaf0"
-    },
-    {
       "id": "5f865b77ff13867e",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
@@ -1051,6 +1007,39 @@
       "width": 270,
       "height": 60,
       "color": "#28aaf0"
+    },
+    {
+      "id": "625b37d79a03d165",
+      "type": "text",
+      "text": "> Paik considered broadcast TV to be an oppressive institution, which he attempted to subvert by turning the viewer into a user of the medium [22].\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=34,20,42,12|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2075,
+      "y": 2940,
+      "width": 454,
+      "height": 140,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "5c9badbbea3badab",
+      "type": "text",
+      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2466,
+      "y": 2047,
+      "width": 554,
+      "height": 174,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "1e4ee32bf0af2d43",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.\n\n[[Pictures Crimp.pdf]] 77",
+      "styleAttributes": {},
+      "x": 2466,
+      "y": 1806,
+      "width": 554,
+      "height": 148,
+      "color": "#28aaf0"
     }
   ],
   "edges": [
@@ -1161,6 +1150,24 @@
       "fromSide": "bottom",
       "toNode": "acb4618c5b3bca81",
       "toSide": "top"
+    },
+    {
+      "id": "66a90f6987858fb8",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "acb4618c5b3bca81",
+      "fromSide": "right",
+      "toNode": "5c9badbbea3badab",
+      "toSide": "left"
+    },
+    {
+      "id": "859028fe4505528c",
+      "styleAttributes": {},
+      "fromNode": "acb4618c5b3bca81",
+      "fromSide": "right",
+      "toNode": "1e4ee32bf0af2d43",
+      "toSide": "left"
     }
   ],
   "metadata": {}
