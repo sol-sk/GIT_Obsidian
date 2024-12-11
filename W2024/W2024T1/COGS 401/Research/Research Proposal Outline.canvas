@@ -12,16 +12,6 @@
       "label": "Background"
     },
     {
-      "id": "639a23f1e6fe3653",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 5760,
-      "y": 680,
-      "width": 2940,
-      "height": 1280,
-      "label": "Significance"
-    },
-    {
       "id": "d4e69c9c355e547e",
       "type": "group",
       "styleAttributes": {},
@@ -35,282 +25,21 @@
       "id": "fcc910624593465c",
       "type": "group",
       "styleAttributes": {},
-      "x": 3040,
-      "y": 412,
-      "width": 620,
-      "height": 268,
+      "x": 3080,
+      "y": 400,
+      "width": 600,
+      "height": 975,
       "label": "Research Q, Supervisor"
     },
     {
-      "id": "795546810b8b931f",
-      "type": "text",
-      "text": "**Vision and perception: Psychology**",
+      "id": "639a23f1e6fe3653",
+      "type": "group",
       "styleAttributes": {},
-      "x": 520,
-      "y": 155,
-      "width": 320,
-      "height": 60
-    },
-    {
-      "id": "31c06bd8faa2314c",
-      "type": "text",
-      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 757,
-      "y": 244,
-      "width": 343,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "0fb0b4bba051378d",
-      "type": "text",
-      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 625,
-      "y": 324,
-      "width": 475,
-      "height": 76,
-      "color": "4"
-    },
-    {
-      "id": "425717981ad9c5b4",
-      "type": "text",
-      "text": "**Vision and perception: Art theory**",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 544,
-      "width": 300,
-      "height": 60
-    },
-    {
-      "id": "67476c6fbf3a646e",
-      "type": "text",
-      "text": "###### [[Education of vision Kepes.pdf]]",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": null
-      },
-      "x": 720,
-      "y": 640,
-      "width": 380,
-      "height": 67,
-      "color": "6"
-    },
-    {
-      "id": "f435e5b027465f5d",
-      "type": "text",
-      "text": "###### [[Pictures Crimp.pdf]]",
-      "styleAttributes": {},
-      "x": 840,
-      "y": 734,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "433e4bae2d4aad42",
-      "type": "text",
-      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
-      "styleAttributes": {},
-      "x": 720,
-      "y": 820,
-      "width": 380,
-      "height": 70,
-      "color": "6"
-    },
-    {
-      "id": "e9d3326fed1891f3",
-      "type": "text",
-      "text": "###### Books",
-      "styleAttributes": {},
-      "x": 1160,
-      "y": -120,
-      "width": 260,
-      "height": 40,
-      "color": "6"
-    },
-    {
-      "id": "24e8d8a1f8dc5edd",
-      "type": "text",
-      "text": "###### Journals",
-      "styleAttributes": {},
-      "x": 1160,
-      "y": -60,
-      "width": 260,
-      "height": 40,
-      "color": "4"
-    },
-    {
-      "id": "be7a7e1828ba3176",
-      "type": "text",
-      "text": "###### Other",
-      "styleAttributes": {},
-      "x": 1160,
-      "y": 4,
-      "width": 260,
-      "height": 40,
-      "color": "3"
-    },
-    {
-      "id": "3f899c38746c29fd",
-      "type": "text",
-      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "x": 720,
-      "y": 420,
-      "width": 380,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "772f847e9a566acf",
-      "type": "text",
-      "text": "**Cybernetics + AI** ",
-      "styleAttributes": {},
-      "x": 520,
-      "y": 1120,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "699ee643e8f794a1",
-      "type": "text",
-      "text": "### [[COGS401_FinalProject.pdf]]",
-      "styleAttributes": {},
-      "x": 1580,
-      "y": -180,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "7773c5a0d0f9505f",
-      "type": "text",
-      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
-      "styleAttributes": {},
-      "x": 2840,
-      "y": -161,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "5abe901edfe11a2b",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": 2840,
-      "y": 96,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "73514a6462708b9d",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": 4040,
-      "y": -155,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "05687779c73c9644",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": 4040,
-      "y": 47,
-      "width": 520,
-      "height": 97
-    },
-    {
-      "id": "bb5cde848d3fa4e9",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": 3440,
-      "y": -155,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "b11cdb3ed654077e",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": 3440,
-      "y": 46,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "3101a8a3d36cb8ed",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": 2240,
-      "y": -161,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "937d51fbb27136c7",
-      "type": "text",
-      "text": "#### Background (in sufficient detail to motivate the RQ) ",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 724,
-      "width": 320,
-      "height": 80,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "4509247965d00cb8",
-      "type": "text",
-      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
-      "styleAttributes": {},
-      "x": 4640,
-      "y": 125,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "9805da0c01345e41",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": 4640,
-      "y": -155,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "55fb4a78e7053e39",
-      "type": "text",
-      "text": "**Cybernetics**\n",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 820,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "904cb0ddb5c9b9f1",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 704,
-      "width": 320,
-      "height": 40,
-      "color": "#28f028"
+      "x": 5760,
+      "y": 680,
+      "width": 2940,
+      "height": 1280,
+      "label": "Significance"
     },
     {
       "id": "8ed0457a6be6d403",
@@ -500,72 +229,6 @@
       "color": "3"
     },
     {
-      "id": "8de92353a17cc3ea",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1083,
-      "width": 400,
-      "height": 160,
-      "color": "4"
-    },
-    {
-      "id": "f10c5296358dfa80",
-      "type": "text",
-      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.\n\n",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1323,
-      "width": 400,
-      "height": 103,
-      "color": "4"
-    },
-    {
-      "id": "e5ea56a9adca7626",
-      "type": "text",
-      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1506,
-      "width": 532,
-      "height": 240,
-      "color": "4"
-    },
-    {
-      "id": "e1addcac27d4c0dd",
-      "type": "text",
-      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 850,
-      "width": 400,
-      "height": 153,
-      "color": "4"
-    },
-    {
-      "id": "283ea2057bc310fe",
-      "type": "text",
-      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
-      "styleAttributes": {},
-      "x": 4352,
-      "y": 1506,
-      "width": 532,
-      "height": 167,
-      "color": "4"
-    },
-    {
-      "id": "7ea4b1cfefbe1b55",
-      "type": "text",
-      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
-      "styleAttributes": {},
-      "x": 4964,
-      "y": 1506,
-      "width": 532,
-      "height": 220,
-      "color": "4"
-    },
-    {
       "id": "f861136f11e244e4",
       "type": "text",
       "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
@@ -585,28 +248,6 @@
       "y": 480,
       "width": 320,
       "height": 84
-    },
-    {
-      "id": "966753443d72d3e8",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": 1599,
-      "y": 3117,
-      "width": 545,
-      "height": 320,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "585b2836a9f90123",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": 2184,
-      "y": 3117,
-      "width": 360,
-      "height": 200,
-      "color": "#28aaf0"
     },
     {
       "id": "4a6aa6b776947100",
@@ -640,47 +281,6 @@
       "width": 532,
       "height": 120,
       "color": "3"
-    },
-    {
-      "id": "d5c888e406e00927",
-      "type": "text",
-      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. \n",
-      "styleAttributes": {},
-      "x": 4320,
-      "y": 800,
-      "width": 460,
-      "height": 95
-    },
-    {
-      "id": "79e99461f71a7ced",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": 3060,
-      "y": 432,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "5f865b77ff13867e",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": 3060,
-      "y": 522,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "8579599c4adda426",
-      "type": "text",
-      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
-      "styleAttributes": {},
-      "x": 4272,
-      "y": 1000,
-      "width": 415,
-      "height": 228,
-      "color": "4"
     },
     {
       "id": "1281b63ee7e57b58",
@@ -972,6 +572,416 @@
       "width": 400,
       "height": 400,
       "color": "#28aaf0"
+    },
+    {
+      "id": "966753443d72d3e8",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": 1599,
+      "y": 3117,
+      "width": 545,
+      "height": 320,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "585b2836a9f90123",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": 2184,
+      "y": 3117,
+      "width": 360,
+      "height": 200,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "433e4bae2d4aad42",
+      "type": "text",
+      "text": "###### [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf]]",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 820,
+      "width": 380,
+      "height": 70,
+      "color": "6"
+    },
+    {
+      "id": "55fb4a78e7053e39",
+      "type": "text",
+      "text": "**Cybernetics**\n",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 820,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "937d51fbb27136c7",
+      "type": "text",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 724,
+      "width": 320,
+      "height": 80,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "f435e5b027465f5d",
+      "type": "text",
+      "text": "###### [[Pictures Crimp.pdf]]",
+      "styleAttributes": {},
+      "x": 840,
+      "y": 734,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "67476c6fbf3a646e",
+      "type": "text",
+      "text": "###### [[Education of vision Kepes.pdf]]",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": null
+      },
+      "x": 720,
+      "y": 640,
+      "width": 380,
+      "height": 67,
+      "color": "6"
+    },
+    {
+      "id": "425717981ad9c5b4",
+      "type": "text",
+      "text": "**Vision and perception: Art theory**",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 544,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "3f899c38746c29fd",
+      "type": "text",
+      "text": "###### [[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf|Self Perception as a Foundation for Self Knowledge]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 720,
+      "y": 420,
+      "width": 380,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "31c06bd8faa2314c",
+      "type": "text",
+      "text": "###### [[Causes and consequences of mind perception Waytz et al.pdf|Causes and consequences of mind perception]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 757,
+      "y": 244,
+      "width": 343,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "0fb0b4bba051378d",
+      "type": "text",
+      "text": "###### [[Perceiving the agency of harmful agents Khamitov et al.pdf|Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts]]",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": 625,
+      "y": 324,
+      "width": 475,
+      "height": 76,
+      "color": "4"
+    },
+    {
+      "id": "795546810b8b931f",
+      "type": "text",
+      "text": "**Vision and perception: Psychology**",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 155,
+      "width": 320,
+      "height": 60
+    },
+    {
+      "id": "5abe901edfe11a2b",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": 2840,
+      "y": 96,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "772f847e9a566acf",
+      "type": "text",
+      "text": "**Cybernetics + AI** ",
+      "styleAttributes": {},
+      "x": 520,
+      "y": 1120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "be7a7e1828ba3176",
+      "type": "text",
+      "text": "###### Other",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": 4,
+      "width": 260,
+      "height": 40,
+      "color": "3"
+    },
+    {
+      "id": "7773c5a0d0f9505f",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": 2840,
+      "y": -161,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "3101a8a3d36cb8ed",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": 2240,
+      "y": -161,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "b11cdb3ed654077e",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": 3440,
+      "y": 46,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "904cb0ddb5c9b9f1",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 704,
+      "width": 320,
+      "height": 40,
+      "color": "#28f028"
+    },
+    {
+      "id": "8de92353a17cc3ea",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1083,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "f10c5296358dfa80",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.\n\n",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1323,
+      "width": 400,
+      "height": 103,
+      "color": "4"
+    },
+    {
+      "id": "e5ea56a9adca7626",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1506,
+      "width": 532,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "e1addcac27d4c0dd",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 850,
+      "width": 400,
+      "height": 153,
+      "color": "4"
+    },
+    {
+      "id": "05687779c73c9644",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": 4040,
+      "y": 47,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "d5c888e406e00927",
+      "type": "text",
+      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. \n",
+      "styleAttributes": {},
+      "x": 4320,
+      "y": 800,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "8579599c4adda426",
+      "type": "text",
+      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
+      "styleAttributes": {},
+      "x": 4272,
+      "y": 1000,
+      "width": 415,
+      "height": 228,
+      "color": "4"
+    },
+    {
+      "id": "283ea2057bc310fe",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": 4352,
+      "y": 1506,
+      "width": 532,
+      "height": 167,
+      "color": "4"
+    },
+    {
+      "id": "24e8d8a1f8dc5edd",
+      "type": "text",
+      "text": "###### Journals",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -60,
+      "width": 260,
+      "height": 40,
+      "color": "4"
+    },
+    {
+      "id": "bb5cde848d3fa4e9",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": 3440,
+      "y": -155,
+      "width": 520,
+      "height": 150
+    },
+    {
+      "id": "e9d3326fed1891f3",
+      "type": "text",
+      "text": "###### Books",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": -120,
+      "width": 260,
+      "height": 40,
+      "color": "6"
+    },
+    {
+      "id": "699ee643e8f794a1",
+      "type": "text",
+      "text": "### [[COGS401_FinalProject.pdf]]",
+      "styleAttributes": {},
+      "x": 1580,
+      "y": -180,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "73514a6462708b9d",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": 4040,
+      "y": -155,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "4509247965d00cb8",
+      "type": "text",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
+      "styleAttributes": {},
+      "x": 4640,
+      "y": 125,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "9805da0c01345e41",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": 4640,
+      "y": -155,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "7ea4b1cfefbe1b55",
+      "type": "text",
+      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
+      "styleAttributes": {},
+      "x": 4964,
+      "y": 1506,
+      "width": 532,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "79e99461f71a7ced",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 420,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "5f865b77ff13867e",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 840,
+      "width": 540,
+      "height": 500
+    },
+    {
+      "id": "aa7790b20151014f",
+      "type": "text",
+      "text": "**Installation:** Does interacting with an artificial neural network (ANNs) as a live installation cause people to feel more personal connection to ANNs? **Paper:** what role can artists play in the ever-evolving realm of artificial intelligence?",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 480,
+      "width": 260,
+      "height": 220
     }
   ],
   "edges": [
