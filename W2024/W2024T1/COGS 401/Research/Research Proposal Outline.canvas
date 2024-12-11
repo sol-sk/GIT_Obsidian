@@ -930,17 +930,6 @@
       "height": 95
     },
     {
-      "id": "acb4618c5b3bca81",
-      "type": "text",
-      "text": "Nam June Paik",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 1790,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
       "id": "bbe91b6f5cb59c4e",
       "type": "text",
       "text": "**New Media Art**",
@@ -1008,12 +997,12 @@
     {
       "id": "28f4a09adbf69c97",
       "type": "text",
-      "text": "ANNs ",
+      "text": "#### ANNs ",
       "styleAttributes": {},
       "x": 2563,
       "y": 1480,
       "width": 147,
-      "height": 60
+      "height": 40
     },
     {
       "id": "7ceb4b768a6fecbe",
@@ -1028,15 +1017,38 @@
     {
       "id": "b1021fc228080980",
       "type": "text",
-      "text": "###### Metaphor & Abstraction",
+      "text": "##### Metaphor & Abstraction",
       "styleAttributes": {
         "shape": "predefined-process"
       },
-      "x": 1880,
-      "y": 1520,
+      "x": 2710,
+      "y": 1600,
       "width": 260,
       "height": 60,
       "color": "#cccccc"
+    },
+    {
+      "id": "ad89928a8721d737",
+      "type": "text",
+      "text": "##### Conceptual & Digital art",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 1700,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "acb4618c5b3bca81",
+      "type": "text",
+      "text": "###### Nam June Paik",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2080,
+      "y": 1820,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
     }
   ],
   "edges": [
@@ -1099,6 +1111,54 @@
       "fromSide": "right",
       "toNode": "28f4a09adbf69c97",
       "toSide": "left"
+    },
+    {
+      "id": "7e53be9779b14a6a",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b1021fc228080980",
+      "fromSide": "top",
+      "toNode": "28f4a09adbf69c97",
+      "toSide": "right"
+    },
+    {
+      "id": "58f9bed8acf7e265",
+      "styleAttributes": {
+        "path": "dotted"
+      },
+      "fromNode": "b1021fc228080980",
+      "fromSide": "left",
+      "toNode": "7ceb4b768a6fecbe",
+      "toSide": "right"
+    },
+    {
+      "id": "e58c70349bba0c46",
+      "styleAttributes": {},
+      "fromNode": "7ceb4b768a6fecbe",
+      "fromSide": "bottom",
+      "toNode": "ad89928a8721d737",
+      "toSide": "top"
+    },
+    {
+      "id": "86434d235eed4b29",
+      "styleAttributes": {
+        "path": "dotted",
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "b1021fc228080980",
+      "fromSide": "bottom",
+      "toNode": "ad89928a8721d737",
+      "toSide": "right"
+    },
+    {
+      "id": "84f89536cabf099a",
+      "styleAttributes": {},
+      "fromNode": "ad89928a8721d737",
+      "fromSide": "bottom",
+      "toNode": "acb4618c5b3bca81",
+      "toSide": "top"
     }
   ],
   "metadata": {}
