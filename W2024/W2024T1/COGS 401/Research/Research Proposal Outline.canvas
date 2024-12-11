@@ -77,17 +77,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "55fb4a78e7053e39",
-      "type": "text",
-      "text": "**Cybernetics**\n",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 820,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
       "id": "aa7790b20151014f",
       "type": "text",
       "text": "**Installation:** \n\nDoes interacting with an artificial neural network (ANNs) as a live installation cause people to feel more personal connection to ANNs? \n\n**Paper:** \n\nWhat role can artists play in the ever-evolving realm of artificial intelligence?",
@@ -736,17 +725,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "e45a5d26856a878c",
-      "type": "text",
-      "text": "> \"This is the same sort of nonsense one finds in the writings of those who never understood [abstract form] as an embodiment,\" he continues. \"It is like mistaking a Chomsky language for a real language. You will find no such categorical confusion in the original Pitts and McCulloch of 1943. There the temporal propositional expressions are events occurring in time and space in a phYSically real net. The postulated neurons, for all their oversim- plifications, are still physical neurons as truly as the chemist's atoms are physical atoms.\"22 Here, in the slippages between abstract propositions, models of neurons, and \"physically real\" nets, we can see McCulloch trying to keep three balls in the air at once. Although the neurons are only\"postu- lated\" and are admittedly \"oversimplifications,\" McCulloch fiercely wants to insist they are still phYSical. Ifhe does not entirely succeed in creating an \"empirical epistemology,\" he nevertheless achieves no small feat in insist- ing that none of the balls can be dropped without sacrificing the complexi- ties of embodied thought. The McCulloch-Pitts neuron is a liminal object, part abstraction and part embodied actuality, but other models were more firmly in the material realm.\n\n[[How We Became Posthuman Hayles.pdf#page=77&selection=190,0,393,6|How We Became Posthuman Hayles, page 77]]",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 1360,
-      "width": 540,
-      "height": 180,
-      "color": "#28aaf0"
-    },
-    {
       "id": "5f865b77ff13867e",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
@@ -757,17 +735,6 @@
       "height": 510
     },
     {
-      "id": "cbf3f9fba58cbb2e",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 1160,
-      "width": 540,
-      "height": 180,
-      "color": "#28aaf0"
-    },
-    {
       "id": "1281b63ee7e57b58",
       "type": "text",
       "text": "> The transcripts show that researchers from a wide variety of fields-neurophysiology, electrical engineering, philosophy, semantics, literature, and psychology, among others-struggled to understand one another and make connections between others' ideas and their own areas of expertise. In the process, a concept that may have begun as a model of a particular physical system came to have broader significance, acting Simultaneously as mechanism and metaphor ...\n> \n> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
@@ -775,18 +742,7 @@
       "x": 1820,
       "y": 844,
       "width": 640,
-      "height": 292,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "c0f803fe0aad5e32",
-      "type": "text",
-      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
-      "styleAttributes": {},
-      "x": 1800,
-      "y": 1198,
-      "width": 460,
-      "height": 208,
+      "height": 154,
       "color": "#28aaf0"
     },
     {
@@ -795,9 +751,9 @@
       "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
       "styleAttributes": {},
       "x": 2500,
-      "y": 820,
-      "width": 360,
-      "height": 226,
+      "y": 800,
+      "width": 447,
+      "height": 125,
       "color": "#28aaf0"
     },
     {
@@ -996,12 +952,76 @@
       "color": "#28aaf0"
     },
     {
+      "id": "536b04c882482470",
+      "type": "text",
+      "text": "McCullough and Pitts",
+      "styleAttributes": {},
+      "x": 2010,
+      "y": 1480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "55fb4a78e7053e39",
+      "type": "text",
+      "text": "**Cybernetics**\n",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 1480,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "c0f803fe0aad5e32",
+      "type": "text",
+      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": 1035,
+      "width": 460,
+      "height": 149,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "cbf3f9fba58cbb2e",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1008,
+      "width": 540,
+      "height": 129,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "e45a5d26856a878c",
+      "type": "text",
+      "text": "> \"This is the same sort of nonsense one finds in the writings of those who never understood [abstract form] as an embodiment,\" he continues. \"It is like mistaking a Chomsky language for a real language. You will find no such categorical confusion in the original Pitts and McCulloch of 1943. There the temporal propositional expressions are events occurring in time and space in a phYSically real net. The postulated neurons, for all their oversim- plifications, are still physical neurons as truly as the chemist's atoms are physical atoms.\"22 Here, in the slippages between abstract propositions, models of neurons, and \"physically real\" nets, we can see McCulloch trying to keep three balls in the air at once. Although the neurons are only\"postu- lated\" and are admittedly \"oversimplifications,\" McCulloch fiercely wants to insist they are still phYSical. Ifhe does not entirely succeed in creating an \"empirical epistemology,\" he nevertheless achieves no small feat in insist- ing that none of the balls can be dropped without sacrificing the complexi- ties of embodied thought. The McCulloch-Pitts neuron is a liminal object, part abstraction and part embodied actuality, but other models were more firmly in the material realm.\n\n[[How We Became Posthuman Hayles.pdf#page=77&selection=190,0,393,6|How We Became Posthuman Hayles, page 77]]",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1151,
+      "width": 540,
+      "height": 129,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "28f4a09adbf69c97",
+      "type": "text",
+      "text": "ANNs ",
+      "styleAttributes": {},
+      "x": 2179,
+      "y": 1660,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "7ceb4b768a6fecbe",
       "type": "text",
-      "text": "",
+      "text": "*Information flows*",
       "styleAttributes": {},
-      "x": 1690,
-      "y": 1450,
+      "x": 1725,
+      "y": 1600,
       "width": 260,
       "height": 60
     }
@@ -1029,6 +1049,30 @@
       "fromNode": "c0f803fe0aad5e32",
       "fromSide": "right",
       "toNode": "cbf3f9fba58cbb2e",
+      "toSide": "left"
+    },
+    {
+      "id": "7b1d55b128b4a1d0",
+      "styleAttributes": {},
+      "fromNode": "55fb4a78e7053e39",
+      "fromSide": "bottom",
+      "toNode": "7ceb4b768a6fecbe",
+      "toSide": "left"
+    },
+    {
+      "id": "6b9effa95a506dbf",
+      "styleAttributes": {},
+      "fromNode": "55fb4a78e7053e39",
+      "fromSide": "right",
+      "toNode": "536b04c882482470",
+      "toSide": "left"
+    },
+    {
+      "id": "e79c1d451b09fb96",
+      "styleAttributes": {},
+      "fromNode": "7ceb4b768a6fecbe",
+      "fromSide": "right",
+      "toNode": "ec3fa95b8d72e8ef",
       "toSide": "left"
     }
   ],
