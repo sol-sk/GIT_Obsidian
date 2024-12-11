@@ -12,6 +12,17 @@
       "label": "Background"
     },
     {
+      "id": "d4e69c9c355e547e",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3080,
+      "y": 1440,
+      "width": 2600,
+      "height": 1481,
+      "color": "4",
+      "label": "Methods"
+    },
+    {
       "id": "639a23f1e6fe3653",
       "type": "group",
       "styleAttributes": {},
@@ -21,17 +32,6 @@
       "height": 1280,
       "color": "3",
       "label": "Significance"
-    },
-    {
-      "id": "d4e69c9c355e547e",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 3080,
-      "y": 1440,
-      "width": 1796,
-      "height": 1481,
-      "color": "4",
-      "label": "Methods"
     },
     {
       "id": "fcc910624593465c",
@@ -63,17 +63,6 @@
       "y": 724,
       "width": 320,
       "height": 80,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "bbe91b6f5cb59c4e",
-      "type": "text",
-      "text": "**New Media Art**",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 1573,
-      "width": 260,
-      "height": 60,
       "color": "#28aaf0"
     },
     {
@@ -754,18 +743,7 @@
       "x": 2340,
       "y": 1360,
       "width": 540,
-      "height": 460,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "acb4618c5b3bca81",
-      "type": "text",
-      "text": "Nam June Paik",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 1603,
-      "width": 260,
-      "height": 60,
+      "height": 180,
       "color": "#28aaf0"
     },
     {
@@ -994,6 +972,38 @@
       "y": 1610,
       "width": 460,
       "height": 95
+    },
+    {
+      "id": "acb4618c5b3bca81",
+      "type": "text",
+      "text": "Nam June Paik",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 1790,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "bbe91b6f5cb59c4e",
+      "type": "text",
+      "text": "**New Media Art**",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 1760,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "7ceb4b768a6fecbe",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 1690,
+      "y": 1450,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
