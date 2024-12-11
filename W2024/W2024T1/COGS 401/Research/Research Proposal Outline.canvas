@@ -44,6 +44,17 @@
       "label": "Research Q, Supervisor"
     },
     {
+      "id": "5e4a2ab6cedfa975",
+      "type": "text",
+      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
+      "styleAttributes": {},
+      "x": 8160,
+      "y": 900,
+      "width": 532,
+      "height": 120,
+      "color": "3"
+    },
+    {
       "id": "1281b63ee7e57b58",
       "type": "text",
       "text": "> The transcripts show that researchers from a wide variety of fields-neurophysiology, electrical engineering, philosophy, semantics, literature, and psychology, among others-struggled to understand one another and make connections between others' ideas and their own areas of expertise. In the process, a concept that may have begun as a model of a particular physical system came to have broader significance, acting Simultaneously as mechanism and metaphor ...\n> \n> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
@@ -745,16 +756,6 @@
       "height": 510
     },
     {
-      "id": "a79d1644c5b85d02",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": 5336,
-      "y": 480,
-      "width": 320,
-      "height": 84
-    },
-    {
       "id": "30a7fb53bd23c2ed",
       "type": "text",
       "text": "###### [[Computing-legacies_Krapp.pdf]]",
@@ -975,15 +976,24 @@
       "color": "3"
     },
     {
-      "id": "5e4a2ab6cedfa975",
+      "id": "a79d1644c5b85d02",
       "type": "text",
-      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
+      "text": "#### Expected Results/Interpretation of Results ",
       "styleAttributes": {},
-      "x": 8160,
-      "y": 900,
-      "width": 532,
-      "height": 120,
-      "color": "3"
+      "x": 3740,
+      "y": 2333,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "cc478bd53cbccf44",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 3760,
+      "y": 2460,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
