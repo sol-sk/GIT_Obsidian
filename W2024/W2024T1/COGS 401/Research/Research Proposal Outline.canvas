@@ -1020,25 +1020,25 @@
       "color": "#28aaf0"
     },
     {
-      "id": "5c9badbbea3badab",
-      "type": "text",
-      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
-      "styleAttributes": {},
-      "x": 2466,
-      "y": 2047,
-      "width": 554,
-      "height": 174,
-      "color": "#28aaf0"
-    },
-    {
       "id": "1e4ee32bf0af2d43",
       "type": "text",
       "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.\n\n[[Pictures Crimp.pdf]] 77",
       "styleAttributes": {},
       "x": 2466,
-      "y": 1806,
+      "y": 1776,
       "width": 554,
       "height": 148,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "5c9badbbea3badab",
+      "type": "text",
+      "text": "> Which was employed during this time [20]. Additionally, video art maintained the dematerialist trend of first-wave conceptual art, as both tape recordings and live feeds projected onto screens dematerialized physical objects into visual representations - prompting a videotaped Jean Baudrillard to ask: \"Am I a man, or am I a machine?\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=0,37,0,36|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2466,
+      "y": 1933,
+      "width": 554,
+      "height": 174,
       "color": "#28aaf0"
     }
   ],
