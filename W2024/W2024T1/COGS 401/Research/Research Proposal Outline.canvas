@@ -952,16 +952,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "536b04c882482470",
-      "type": "text",
-      "text": "McCullough and Pitts",
-      "styleAttributes": {},
-      "x": 2010,
-      "y": 1480,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "55fb4a78e7053e39",
       "type": "text",
       "text": "**Cybernetics**\n",
@@ -1006,13 +996,23 @@
       "color": "#28aaf0"
     },
     {
+      "id": "536b04c882482470",
+      "type": "text",
+      "text": "McCullough and Pitts",
+      "styleAttributes": {},
+      "x": 2233,
+      "y": 1480,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "28f4a09adbf69c97",
       "type": "text",
       "text": "ANNs ",
       "styleAttributes": {},
-      "x": 2179,
-      "y": 1660,
-      "width": 260,
+      "x": 2563,
+      "y": 1480,
+      "width": 147,
       "height": 60
     },
     {
@@ -1020,10 +1020,23 @@
       "type": "text",
       "text": "*Information flows*",
       "styleAttributes": {},
-      "x": 1725,
+      "x": 2080,
       "y": 1600,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "b1021fc228080980",
+      "type": "text",
+      "text": "###### Metaphor & Abstraction",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": 1880,
+      "y": 1520,
+      "width": 260,
+      "height": 60,
+      "color": "#cccccc"
     }
   ],
   "edges": [
@@ -1053,7 +1066,9 @@
     },
     {
       "id": "7b1d55b128b4a1d0",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
       "fromNode": "55fb4a78e7053e39",
       "fromSide": "bottom",
       "toNode": "7ceb4b768a6fecbe",
@@ -1068,11 +1083,21 @@
       "toSide": "left"
     },
     {
-      "id": "e79c1d451b09fb96",
-      "styleAttributes": {},
+      "id": "74803d5674c503ce",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
       "fromNode": "7ceb4b768a6fecbe",
       "fromSide": "right",
-      "toNode": "ec3fa95b8d72e8ef",
+      "toNode": "536b04c882482470",
+      "toSide": "bottom"
+    },
+    {
+      "id": "054e1f6796eaea88",
+      "styleAttributes": {},
+      "fromNode": "536b04c882482470",
+      "fromSide": "right",
+      "toNode": "28f4a09adbf69c97",
       "toSide": "left"
     }
   ],
