@@ -1044,9 +1044,9 @@
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 2080,
+      "x": 2110,
       "y": 1820,
-      "width": 260,
+      "width": 200,
       "height": 60,
       "color": "#28aaf0"
     }
