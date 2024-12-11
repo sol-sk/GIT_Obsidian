@@ -12,17 +12,6 @@
       "label": "Background"
     },
     {
-      "id": "639a23f1e6fe3653",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 5760,
-      "y": 680,
-      "width": 2940,
-      "height": 1280,
-      "color": "3",
-      "label": "Significance"
-    },
-    {
       "id": "d4e69c9c355e547e",
       "type": "group",
       "styleAttributes": {},
@@ -44,6 +33,17 @@
       "label": "Research Q, Supervisor"
     },
     {
+      "id": "639a23f1e6fe3653",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 5760,
+      "y": 680,
+      "width": 2940,
+      "height": 1280,
+      "color": "3",
+      "label": "Significance"
+    },
+    {
       "id": "a4e5ce31171aca57",
       "type": "group",
       "styleAttributes": {},
@@ -53,50 +53,6 @@
       "height": 400,
       "color": "2",
       "label": "Expected Results/Interpretation"
-    },
-    {
-      "id": "e5ea56a9adca7626",
-      "type": "text",
-      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1506,
-      "width": 532,
-      "height": 240,
-      "color": "4"
-    },
-    {
-      "id": "283ea2057bc310fe",
-      "type": "text",
-      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
-      "styleAttributes": {},
-      "x": 4352,
-      "y": 1506,
-      "width": 532,
-      "height": 167,
-      "color": "4"
-    },
-    {
-      "id": "7ea4b1cfefbe1b55",
-      "type": "text",
-      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
-      "styleAttributes": {},
-      "x": 4964,
-      "y": 1506,
-      "width": 532,
-      "height": 220,
-      "color": "4"
-    },
-    {
-      "id": "f861136f11e244e4",
-      "type": "text",
-      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1826,
-      "width": 532,
-      "height": 319,
-      "color": "4"
     },
     {
       "id": "a79d1644c5b85d02",
@@ -130,17 +86,6 @@
       "color": "3"
     },
     {
-      "id": "f10c5296358dfa80",
-      "type": "text",
-      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.\n\n",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1323,
-      "width": 400,
-      "height": 103,
-      "color": "4"
-    },
-    {
       "id": "1fa5dd24850f5912",
       "type": "text",
       "text": "> While we gaze, dumbfounded, at a seemingly more-perfect version of ourselves, the AI mirror is trained to reflect our desire to be seen, our cravings for novelty.\n\n\n[[Modeling Charisma AI's Fashion Mirror Stage Smith.pdf#page=11&selection=41,0,47,21|Modeling Charisma AI's Fashion Mirror Stage Smith, page 11]]",
@@ -150,38 +95,6 @@
       "width": 454,
       "height": 121,
       "color": "3"
-    },
-    {
-      "id": "8de92353a17cc3ea",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1083,
-      "width": 400,
-      "height": 160,
-      "color": "4"
-    },
-    {
-      "id": "8579599c4adda426",
-      "type": "text",
-      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
-      "styleAttributes": {},
-      "x": 4272,
-      "y": 1000,
-      "width": 415,
-      "height": 228,
-      "color": "4"
-    },
-    {
-      "id": "5f865b77ff13867e",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 743,
-      "width": 540,
-      "height": 510
     },
     {
       "id": "a8cb8bf76b981cde",
@@ -195,28 +108,6 @@
       "color": "3"
     },
     {
-      "id": "1d8b47d0c03e7e7d",
-      "type": "text",
-      "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
-      "styleAttributes": {},
-      "x": 2500,
-      "y": 820,
-      "width": 360,
-      "height": 226,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "cbf3f9fba58cbb2e",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 1160,
-      "width": 540,
-      "height": 180,
-      "color": "#28aaf0"
-    },
-    {
       "id": "b9d617d0d65835c7",
       "type": "text",
       "text": "> I did not wish to characterize the developmental process as a shift from perception to conception... Perception of self becomes embedded within other modes of knowing.\n\n[[Butterworth-SelfPerceptionFoundationSelfKnowledge-1992.pdf#page=4&selection=18,17,24,15|Butterworth-SelfPerceptionFoundationSelfKnowledge-1992, page 4]]",
@@ -226,60 +117,6 @@
       "width": 389,
       "height": 200,
       "color": "3"
-    },
-    {
-      "id": "e1addcac27d4c0dd",
-      "type": "text",
-      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 850,
-      "width": 400,
-      "height": 153,
-      "color": "4"
-    },
-    {
-      "id": "1281b63ee7e57b58",
-      "type": "text",
-      "text": "> The transcripts show that researchers from a wide variety of fields-neurophysiology, electrical engineering, philosophy, semantics, literature, and psychology, among others-struggled to understand one another and make connections between others' ideas and their own areas of expertise. In the process, a concept that may have begun as a model of a particular physical system came to have broader significance, acting Simultaneously as mechanism and metaphor ...\n> \n> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 844,
-      "width": 640,
-      "height": 292,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "c0f803fe0aad5e32",
-      "type": "text",
-      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
-      "styleAttributes": {},
-      "x": 1800,
-      "y": 1198,
-      "width": 460,
-      "height": 208,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "d5c888e406e00927",
-      "type": "text",
-      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. \n",
-      "styleAttributes": {},
-      "x": 4320,
-      "y": 800,
-      "width": 460,
-      "height": 95
-    },
-    {
-      "id": "acb4618c5b3bca81",
-      "type": "text",
-      "text": "Nam June Paik",
-      "styleAttributes": {},
-      "x": 1820,
-      "y": 1603,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
     },
     {
       "id": "937d51fbb27136c7",
@@ -994,6 +831,169 @@
       "width": 540,
       "height": 460,
       "color": "#28aaf0"
+    },
+    {
+      "id": "acb4618c5b3bca81",
+      "type": "text",
+      "text": "Nam June Paik",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 1603,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "e5ea56a9adca7626",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1506,
+      "width": 532,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "f861136f11e244e4",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1826,
+      "width": 532,
+      "height": 319,
+      "color": "4"
+    },
+    {
+      "id": "f10c5296358dfa80",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.\n\n",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1323,
+      "width": 400,
+      "height": 103,
+      "color": "4"
+    },
+    {
+      "id": "8de92353a17cc3ea",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1083,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "5f865b77ff13867e",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 743,
+      "width": 540,
+      "height": 510
+    },
+    {
+      "id": "cbf3f9fba58cbb2e",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"^[[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|p.79]]]\n\n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1160,
+      "width": 540,
+      "height": 180,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "1281b63ee7e57b58",
+      "type": "text",
+      "text": "> The transcripts show that researchers from a wide variety of fields-neurophysiology, electrical engineering, philosophy, semantics, literature, and psychology, among others-struggled to understand one another and make connections between others' ideas and their own areas of expertise. In the process, a concept that may have begun as a model of a particular physical system came to have broader significance, acting Simultaneously as mechanism and metaphor ...\n> \n> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|p.66]]",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": 844,
+      "width": 640,
+      "height": 292,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "c0f803fe0aad5e32",
+      "type": "text",
+      "text": "There is no such thing as a perfectly accurate abstraction; such a thing ceases to be a separate object. The imperfection of the abstraction also introduces a point of conflict in discussion–sand in the oyster–where underlying, immaterial, or hidden qualities of the object (a concept, blueprint, or other complex thing) come into the light by virtue of their contrast with the metaphor used.",
+      "styleAttributes": {},
+      "x": 1800,
+      "y": 1198,
+      "width": 460,
+      "height": 208,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "1d8b47d0c03e7e7d",
+      "type": "text",
+      "text": "Model used metaphorically (including by McCullogh) to avoid confronting gap btwn existing hard circuitry and messiness of living and perception\n[[How We Became Posthuman Hayles.pdf#page=72&selection=205,1,277,11|p.72]]\n\nMcCulloch's insight \"that brains do not secrete thought as the liver secretes bile but ... they compute thought the way electronic computers calculate numbers.\" [[How We Became Posthuman Hayles.pdf#page=73&selection=507,43,529,46|p.73]]",
+      "styleAttributes": {},
+      "x": 2500,
+      "y": 820,
+      "width": 360,
+      "height": 226,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "e1addcac27d4c0dd",
+      "type": "text",
+      "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 850,
+      "width": 400,
+      "height": 153,
+      "color": "4"
+    },
+    {
+      "id": "8579599c4adda426",
+      "type": "text",
+      "text": "> This particular investigation resulted in a system, which is called synectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
+      "styleAttributes": {},
+      "x": 4272,
+      "y": 1000,
+      "width": 415,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "d5c888e406e00927",
+      "type": "text",
+      "text": "**How will it be trained?**\n\nThe specificities of the training will be decided in the process of developing the artwork. \n",
+      "styleAttributes": {},
+      "x": 4320,
+      "y": 800,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "283ea2057bc310fe",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": 4352,
+      "y": 1506,
+      "width": 532,
+      "height": 167,
+      "color": "4"
+    },
+    {
+      "id": "7ea4b1cfefbe1b55",
+      "type": "text",
+      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
+      "styleAttributes": {},
+      "x": 4964,
+      "y": 1506,
+      "width": 532,
+      "height": 220,
+      "color": "4"
     }
   ],
   "edges": [
