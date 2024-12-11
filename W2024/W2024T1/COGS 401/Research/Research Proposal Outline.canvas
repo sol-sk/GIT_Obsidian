@@ -34,6 +34,17 @@
       "label": "Methods"
     },
     {
+      "id": "a4e5ce31171aca57",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 3720,
+      "y": 2320,
+      "width": 632,
+      "height": 400,
+      "color": "2",
+      "label": "Expected Results/Interpretation"
+    },
+    {
       "id": "fcc910624593465c",
       "type": "group",
       "styleAttributes": {},
@@ -42,16 +53,6 @@
       "width": 600,
       "height": 880,
       "label": "Research Q, Supervisor"
-    },
-    {
-      "id": "a4e5ce31171aca57",
-      "type": "group",
-      "x": 3720,
-      "y": 2320,
-      "width": 632,
-      "height": 400,
-      "color": "2",
-      "label": "Expected Results/Interpretation"
     },
     {
       "id": "5e4a2ab6cedfa975",
@@ -589,17 +590,6 @@
       "color": "4"
     },
     {
-      "id": "e5ea56a9adca7626",
-      "type": "text",
-      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1506,
-      "width": 532,
-      "height": 240,
-      "color": "4"
-    },
-    {
       "id": "e1addcac27d4c0dd",
       "type": "text",
       "text": "**Causes of mind perception**\n- *Perceiver*: seeking explanation or target of blame, unpredictability\n- *Perceived*: humanlike appearance, similarity to perceiver (difference = less agentic)",
@@ -639,17 +629,6 @@
       "y": 1000,
       "width": 415,
       "height": 228,
-      "color": "4"
-    },
-    {
-      "id": "283ea2057bc310fe",
-      "type": "text",
-      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
-      "styleAttributes": {},
-      "x": 4352,
-      "y": 1506,
-      "width": 532,
-      "height": 167,
       "color": "4"
     },
     {
@@ -725,17 +704,6 @@
       "height": 260
     },
     {
-      "id": "7ea4b1cfefbe1b55",
-      "type": "text",
-      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
-      "styleAttributes": {},
-      "x": 4964,
-      "y": 1506,
-      "width": 532,
-      "height": 220,
-      "color": "4"
-    },
-    {
       "id": "79e99461f71a7ced",
       "type": "text",
       "text": "#### Research Q ",
@@ -808,17 +776,6 @@
       "width": 532,
       "height": 245,
       "color": "#28aaf0"
-    },
-    {
-      "id": "f861136f11e244e4",
-      "type": "text",
-      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
-      "styleAttributes": {},
-      "x": 3740,
-      "y": 1826,
-      "width": 532,
-      "height": 319,
-      "color": "4"
     },
     {
       "id": "8ed0457a6be6d403",
@@ -984,6 +941,50 @@
       "width": 440,
       "height": 174,
       "color": "3"
+    },
+    {
+      "id": "e5ea56a9adca7626",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1506,
+      "width": 532,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "283ea2057bc310fe",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": 4352,
+      "y": 1506,
+      "width": 532,
+      "height": 167,
+      "color": "4"
+    },
+    {
+      "id": "7ea4b1cfefbe1b55",
+      "type": "text",
+      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
+      "styleAttributes": {},
+      "x": 4964,
+      "y": 1506,
+      "width": 532,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "f861136f11e244e4",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 3740,
+      "y": 1826,
+      "width": 532,
+      "height": 319,
+      "color": "4"
     },
     {
       "id": "a79d1644c5b85d02",
