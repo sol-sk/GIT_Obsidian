@@ -28,7 +28,7 @@
       "x": 3080,
       "y": 400,
       "width": 600,
-      "height": 975,
+      "height": 880,
       "label": "Research Q, Supervisor"
     },
     {
@@ -964,24 +964,24 @@
       "height": 40
     },
     {
+      "id": "aa7790b20151014f",
+      "type": "text",
+      "text": "**Installation:** \n\nDoes interacting with an artificial neural network (ANNs) as a live installation cause people to feel more personal connection to ANNs? \n\n**Paper:** \n\nWhat role can artists play in the ever-evolving realm of artificial intelligence?",
+      "styleAttributes": {},
+      "x": 3100,
+      "y": 480,
+      "width": 540,
+      "height": 211
+    },
+    {
       "id": "5f865b77ff13867e",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
       "styleAttributes": {},
       "x": 3100,
-      "y": 840,
+      "y": 743,
       "width": 540,
       "height": 500
-    },
-    {
-      "id": "aa7790b20151014f",
-      "type": "text",
-      "text": "**Installation:** Does interacting with an artificial neural network (ANNs) as a live installation cause people to feel more personal connection to ANNs? **Paper:** what role can artists play in the ever-evolving realm of artificial intelligence?",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 480,
-      "width": 260,
-      "height": 220
     }
   ],
   "edges": [
