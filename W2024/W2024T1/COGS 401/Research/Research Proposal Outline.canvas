@@ -66,17 +66,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "305da09c6be9390a",
-      "type": "text",
-      "text": "**Contemporary (ish)**",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 2035,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
       "id": "aa7790b20151014f",
       "type": "text",
       "text": "**Installation:** \n\nDoes interacting with an artificial neural network (ANNs) as a live installation cause people to feel more personal connection to ANNs? \n\n**Paper:** \n\nWhat role can artists play in the ever-evolving realm of artificial intelligence?",
@@ -714,17 +703,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "4cf15bb07c8f65af",
-      "type": "text",
-      "text": "***Amber Frid-Jimenez***",
-      "styleAttributes": {},
-      "x": 1850,
-      "y": 2060,
-      "width": 270,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
       "id": "5f865b77ff13867e",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project \n\nI met with professor T'ai Smith from the Art History department this week to talk about potentially doing my 402 project with her as my supervisor. She is a part of the Studio for Extensive Aesthetics (SEA), headed by artist Amber Frid-Jimenez. Smith recently published an article in the Invisible Culture Journal titled \"Modeling Charisma: AI's Fashion Mirror Stage.\" While much of her work has been focused on textile arts, weaving, and fashion, her investigation into AI as an art object and cultural force has resonated with my own interests. She's studied cybernetics and is very knowledgeable about philosophy and art theory (which is ostensibly also philosophy), and her colleague Frid-Jimenez has created her own ML models and created artworks with them in ways that I would be interested in learning more about, if not pursuing myself. Her work emphasizes some of the aforementioned emergent behaviors of these models, as AI outputs compiled reveal the ways that it creates and understand visual structures. This in turn can highlight certain trends, such as with her ML model trained on Vogue covers. Also, as indicated by the title of her recent article, she is familiar with the history of psychology and psychoanalysis; which, despite being quite outdated, is still interesting to play with from the viewpoint of a modern psychology researcher/student. I'm looking forward to learning more about her work and the SEA.\n",
@@ -930,17 +908,6 @@
       "height": 95
     },
     {
-      "id": "bbe91b6f5cb59c4e",
-      "type": "text",
-      "text": "**New Media Art**",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 1760,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
       "id": "55fb4a78e7053e39",
       "type": "text",
       "text": "**Cybernetics**\n",
@@ -1040,13 +1007,48 @@
     {
       "id": "acb4618c5b3bca81",
       "type": "text",
-      "text": "###### Nam June Paik",
+      "text": "###### ***Nam June Paik***",
       "styleAttributes": {
         "textAlign": "center"
       },
       "x": 2110,
       "y": 1820,
       "width": 200,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "bbe91b6f5cb59c4e",
+      "type": "text",
+      "text": "**New Media Art**",
+      "styleAttributes": {},
+      "x": 1590,
+      "y": 1820,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "305da09c6be9390a",
+      "type": "text",
+      "text": "**Contemporary (ish)**",
+      "styleAttributes": {},
+      "x": 1590,
+      "y": 1960,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "4cf15bb07c8f65af",
+      "type": "text",
+      "text": "###### ***Amber Frid-Jimenez***",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 2075,
+      "y": 1960,
+      "width": 270,
       "height": 60,
       "color": "#28aaf0"
     }
