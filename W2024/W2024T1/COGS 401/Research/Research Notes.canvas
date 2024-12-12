@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "a1066e269eddfaf0",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -3940,
-      "y": 10360,
-      "width": 2220,
-      "height": 2598,
-      "label": "Artists"
-    },
-    {
       "id": "a12de91363579ccf",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 3440,
       "height": 2560,
       "label": "Final Project Guidelines"
+    },
+    {
+      "id": "a1066e269eddfaf0",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -3940,
+      "y": 10360,
+      "width": 2220,
+      "height": 2598,
+      "label": "Artists"
     },
     {
       "id": "af727b3351bfdc38",
@@ -397,16 +397,6 @@
       "height": 542
     },
     {
-      "id": "74189347bbcb825d",
-      "type": "text",
-      "text": "> Weizenbaum decided to dispel the illusion he’d created ... by publishing ELIZA’s source code some users continued to believe that ELIZA was sentient, even after he revealed exactly how the magic trick worked. \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=17,0,19,45|Society of the Psyop Paglen, page 22]]",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 13393,
-      "width": 532,
-      "height": 147
-    },
-    {
       "id": "afd677edbb7c5193",
       "type": "text",
       "text": "You are a physical creature whose mind does not exist outside your physical body",
@@ -457,26 +447,6 @@
       "height": 60
     },
     {
-      "id": "e3738d3f633b5ae7",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
-      "styleAttributes": {},
-      "x": 2000,
-      "y": 13215,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "7281d1bff2eb2aa9",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
-      "styleAttributes": {},
-      "x": 2450,
-      "y": 13215,
-      "width": 237,
-      "height": 258
-    },
-    {
       "id": "1cca6de671a27c4f",
       "type": "text",
       "text": "[[How We Became Posthuman Hayles.pdf]]",
@@ -487,16 +457,6 @@
       "height": 60
     },
     {
-      "id": "58fddf868d1d1d2f",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 6.md",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 9120,
-      "width": 680,
-      "height": 1163
-    },
-    {
       "id": "b931fc52732da8ef",
       "type": "text",
       "text": "- Difference from self: less agentic (dehumanize disliked others, see earlier re: politics)\n- Medial prefrontal cortex (MPFC): associated with other mind perception \n\t- Less activation for \"out-group\" members",
@@ -505,99 +465,6 @@
       "y": 7673,
       "width": 410,
       "height": 136
-    },
-    {
-      "id": "355823c62ee6699a",
-      "type": "text",
-      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
-      "styleAttributes": {},
-      "x": 1200,
-      "y": 13393,
-      "width": 526,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "613df219e450e62e",
-      "type": "text",
-      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
-      "styleAttributes": {},
-      "x": 1200,
-      "y": 13566,
-      "width": 532,
-      "height": 160,
-      "color": "3"
-    },
-    {
-      "id": "2feb09f016ea44b4",
-      "type": "text",
-      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 576,
-      "y": 11305,
-      "width": 420,
-      "height": 361
-    },
-    {
-      "id": "434387f956274fba",
-      "type": "text",
-      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
-      "styleAttributes": {},
-      "x": 1036,
-      "y": 11284,
-      "width": 420,
-      "height": 148
-    },
-    {
-      "id": "67a5ba9a9e0c043e",
-      "type": "text",
-      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": -214,
-      "y": 11284,
-      "width": 360,
-      "height": 382
-    },
-    {
-      "id": "b4b80354119fc604",
-      "type": "text",
-      "text": "> There are, of course, numerous other ways to deliver a “magical” payload (misdirection, concealment, forcing, etc.), but in Mulholland’s paradigm, they all exploit the simple fact that our minds either throw away, selectively interpret, or even act upon the vast majority of our sensory stimulus **based on our preconscious and/or memetic priors**.\n\n[[Society of the Psyop Paglen.pdf#page=28&selection=22,0,30,64|Society of the Psyop Paglen, page 28]]",
-      "styleAttributes": {},
-      "x": 600,
-      "y": 13393,
-      "width": 532,
-      "height": 200,
-      "color": "3"
-    },
-    {
-      "id": "17df8e08f4019537",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 7.md",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 10380,
-      "width": 680,
-      "height": 400
-    },
-    {
-      "id": "b8c0b511855fc12a",
-      "type": "text",
-      "text": "**Amelia Jones** critique in Judith Butler \n",
-      "styleAttributes": {},
-      "x": 2080,
-      "y": 11000,
-      "width": 339,
-      "height": 60
-    },
-    {
-      "id": "9666e22619b61c1a",
-      "type": "text",
-      "text": "Really long, largely nonsense",
-      "styleAttributes": {},
-      "x": 2840,
-      "y": 10440,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "fb7e36890b4ea4c7",
@@ -755,153 +622,12 @@
       "height": 60
     },
     {
-      "id": "12453a54f25d9336",
-      "type": "text",
-      "text": "**Gestalt**",
-      "styleAttributes": {},
-      "x": 1240,
-      "y": 9681,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fb8cc8af3d4ff242",
-      "type": "text",
-      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
-      "styleAttributes": {},
-      "x": 1240,
-      "y": 10050,
-      "width": 460,
-      "height": 76
-    },
-    {
-      "id": "2fb9ba4ebd672f47",
-      "type": "text",
-      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
-      "styleAttributes": {},
-      "x": 154,
-      "y": 10050,
-      "width": 460,
-      "height": 234
-    },
-    {
-      "id": "22f9b30e5a9ea20f",
-      "type": "text",
-      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 9783,
-      "width": 350,
-      "height": 120
-    },
-    {
-      "id": "465ab03efff76484",
-      "type": "text",
-      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10050,
-      "width": 460,
-      "height": 102
-    },
-    {
       "id": "954a8eefab8424c1",
       "type": "text",
       "text": "**Dehumanization**",
       "styleAttributes": {},
       "x": -278,
       "y": 7187,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "dcf2f334447528f1",
-      "type": "text",
-      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
-      "styleAttributes": {},
-      "x": 170,
-      "y": 10518,
-      "width": 390,
-      "height": 370
-    },
-    {
-      "id": "948933e2de3cc000",
-      "type": "text",
-      "text": "*Compositions must not be in opposition to natural eye movement*",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 9818,
-      "width": 310,
-      "height": 50
-    },
-    {
-      "id": "73cf9087e878334e",
-      "type": "text",
-      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10392,
-      "width": 460,
-      "height": 60
-    },
-    {
-      "id": "105584a9914dc91a",
-      "type": "text",
-      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10170,
-      "width": 460,
-      "height": 100
-    },
-    {
-      "id": "2f2221f4dc604816",
-      "type": "text",
-      "text": "**Anti-embodiment**",
-      "styleAttributes": {},
-      "x": 695,
-      "y": 10300,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155,
-      "color": "5"
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
-    },
-    {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
       "width": 260,
       "height": 60
     },
@@ -1017,46 +743,6 @@
       "width": 454,
       "height": 140,
       "color": "5"
-    },
-    {
-      "id": "892e8f07eb18c822",
-      "type": "text",
-      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
-      "styleAttributes": {},
-      "x": -790,
-      "y": 9579,
-      "width": 400,
-      "height": 324
-    },
-    {
-      "id": "f1bb99b2d31b1620",
-      "type": "text",
-      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9783,
-      "width": 400,
-      "height": 120
-    },
-    {
-      "id": "66a8e594b9bcfcab",
-      "type": "text",
-      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9703,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "61ec068d1806830a",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 9579,
-      "width": 400,
-      "height": 105
     },
     {
       "id": "db5b8e6eadd5bb01",
@@ -1414,48 +1100,6 @@
       "height": 60
     },
     {
-      "id": "f2a6cc2a57dcdf1b",
-      "type": "text",
-      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
-      "styleAttributes": {},
-      "x": -1188,
-      "y": 12871,
-      "width": 440,
-      "height": 174,
-      "color": "3"
-    },
-    {
-      "id": "8bdf0926427f31e5",
-      "type": "text",
-      "text": "> **How did we get here? This three-part essay traces a brief history of media, technologies, and techniques that take advantage of the malleability of perception, capitalizing on quirks in human brains to shape reality. It is a story about the manufacturing of hallucinations and the fact that, under the right conditions, hallucination and reality can become one and the same**\n\n[[Society of the Psyop Paglen.pdf#page=3&selection=0,0,4,13|Society of the Psyop Paglen, page 3]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 13383,
-      "width": 532,
-      "height": 220
-    },
-    {
-      "id": "3bd7a8869f03963e",
-      "type": "text",
-      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
-      "styleAttributes": {},
-      "x": -544,
-      "y": 12650,
-      "width": 545,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "49dc46840b80e57f",
-      "type": "text",
-      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 12471,
-      "width": 545,
-      "height": 280
-    },
-    {
       "id": "bfcac655d3fa14ac",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 4.md",
@@ -1516,230 +1160,6 @@
       "height": 1874
     },
     {
-      "id": "6bf5c9fd56a04e67",
-      "type": "text",
-      "text": "> Woody Bledsoe was an early trailblazer in artificial intelligence, specializing in devising algorithms to conduct pattern matching, a crucial predecessor to modern machine learning ... In 1963, the CIA—using the cutout company “King-Hurley Research Group”—contracted Bledsoe to develop a system that would use computers to identify people by looking at pictures of their faces ... Today Bledsoe is known as the grandfather of facial recognition.\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=0,0,4,38|Society of the Psyop Paglen, page 17]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13590,
-      "width": 532,
-      "height": 226
-    },
-    {
-      "id": "979b6e71a68e2677",
-      "type": "text",
-      "text": "> Standard Head\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=36,5,36,18|Society of the Psyop Paglen, page 17]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13850,
-      "width": 320,
-      "height": 80
-    },
-    {
-      "id": "d41aa1f3a55ea750",
-      "type": "text",
-      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13980,
-      "width": 532,
-      "height": 167,
-      "color": "4"
-    },
-    {
-      "id": "6259f5ff3b3a3bde",
-      "type": "text",
-      "text": "> (A media environment) That notices which kinds of stimulus induce what kinds of precognitive responses, and uses machine learning to develop, A/B test, and deploy custom-generated cognitive injections designed to manipulate us even further, all without us consciously perceiving what’s happening?\n\n[[Society of the Psyop Paglen.pdf#page=1&selection=40,19,46,72|Society of the Psyop Paglen, page 1]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 13393,
-      "width": 532,
-      "height": 174,
-      "color": "3"
-    },
-    {
-      "id": "0e0be919e54fb5d2",
-      "type": "text",
-      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 13980,
-      "width": 532,
-      "height": 240,
-      "color": "4"
-    },
-    {
-      "id": "140b081963612721",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Flusser_Vilem_Writings.pdf",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 13980,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "0daa093cf834cb81",
-      "type": "text",
-      "text": "> In the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 13567,
-      "width": 532,
-      "height": 240
-    },
-    {
-      "id": "8668c178df206101",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
-      "styleAttributes": {},
-      "x": -1634,
-      "y": 12331,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e635867efea83f6b",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Society of the Psyop Paglen.pdf",
-      "styleAttributes": {},
-      "x": -1634,
-      "y": 13370,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "39fedd8c9d541225",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 12871,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "af5f65ecec04ba46",
-      "type": "text",
-      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
-      "styleAttributes": {},
-      "x": 454,
-      "y": 13980,
-      "width": 532,
-      "height": 220,
-      "color": "4"
-    },
-    {
-      "id": "5212c0854246116f",
-      "type": "text",
-      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
-      "styleAttributes": {},
-      "x": -2720,
-      "y": 13643,
-      "width": 480,
-      "height": 300
-    },
-    {
-      "id": "7543f2c72189d0ff",
-      "type": "text",
-      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
-      "styleAttributes": {},
-      "x": -2200,
-      "y": 13643,
-      "width": 400,
-      "height": 100
-    },
-    {
-      "id": "22e75b37e2cbe3fc",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
-      "styleAttributes": {},
-      "x": -1634,
-      "y": 13900,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "657b8e3fe46cecee",
-      "type": "text",
-      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11480,
-      "width": 330,
-      "height": 120
-    },
-    {
-      "id": "eb8295357343624f",
-      "type": "text",
-      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
-      "styleAttributes": {},
-      "x": -4560,
-      "y": 11460,
-      "width": 360,
-      "height": 215
-    },
-    {
-      "id": "68221bd9306bdeab",
-      "type": "text",
-      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11440,
-      "width": 530,
-      "height": 673
-    },
-    {
-      "id": "9d6d3baf60e72eb2",
-      "type": "text",
-      "text": "#### BarabasiLAB",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11890,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c8a5ce2c4deb92d6",
-      "type": "text",
-      "text": "#### Refik Anadol",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "44741e52d666ef91",
-      "type": "text",
-      "text": "#### Trevor Paglen",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12190,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "dd6244c895c66528",
-      "type": "text",
-      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 11890,
-      "width": 570,
-      "height": 240
-    },
-    {
-      "id": "335f5cae3fdb2769",
-      "type": "file",
-      "file": "Clippings/e-flux.md",
-      "styleAttributes": {},
-      "x": -3480,
-      "y": 12190,
-      "width": 570,
-      "height": 170
-    },
-    {
       "id": "9fcfe154f41940a8",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 3.md",
@@ -1770,26 +1190,6 @@
       "height": 580
     },
     {
-      "id": "2e4d3e263588a10c",
-      "type": "file",
-      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
-      "styleAttributes": {},
-      "x": -6280,
-      "y": 12410,
-      "width": 1030,
-      "height": 590
-    },
-    {
-      "id": "03fd373a93f88735",
-      "type": "text",
-      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
-      "styleAttributes": {},
-      "x": -5060,
-      "y": 12631,
-      "width": 440,
-      "height": 148
-    },
-    {
       "id": "8694c52f613da692",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
@@ -1798,27 +1198,6 @@
       "y": 13214,
       "width": 520,
       "height": 635
-    },
-    {
-      "id": "ec5069c6b80e4f02",
-      "type": "text",
-      "text": "#### Postmasters",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 12650,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ab32ae7ba13fc89a",
-      "type": "text",
-      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
-      "styleAttributes": {},
-      "x": -3040,
-      "y": 10580,
-      "width": 400,
-      "height": 103,
-      "color": "4"
     },
     {
       "id": "c5e222d5f81351a1",
@@ -1831,114 +1210,12 @@
       "height": 129
     },
     {
-      "id": "f09b154cc3253b20",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9110,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "afc68e318ceb0f33",
-      "type": "text",
-      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
-      "styleAttributes": {},
-      "x": -2180,
-      "y": 9409,
-      "width": 440,
-      "height": 275
-    },
-    {
       "id": "5b42eac1f846d648",
       "type": "text",
       "text": "#### Other perception",
       "styleAttributes": {},
       "x": 6170,
       "y": 1600,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
-    },
-    {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11010,
-      "width": 545,
-      "height": 121
-    },
-    {
-      "id": "68947a3c33b501cb",
-      "type": "text",
-      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
-      "styleAttributes": {},
-      "x": 176,
-      "y": 11284,
-      "width": 360,
-      "height": 252
-    },
-    {
-      "id": "a06a50105502b813",
-      "type": "text",
-      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11730,
-      "width": 545,
-      "height": 520
-    },
-    {
-      "id": "517aac4c23c9104e",
-      "type": "text",
-      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
-      "styleAttributes": {},
-      "x": -594,
-      "y": 11284,
-      "width": 360,
-      "height": 200,
-      "color": "5"
-    },
-    {
-      "id": "05dd887824078e8a",
-      "type": "text",
-      "text": "### Chapter 3: The Macy Conferences ",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11284,
-      "width": 371,
-      "height": 50
-    },
-    {
-      "id": "78cd8cb112e0ae3f",
-      "type": "text",
-      "text": "> Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11358,
-      "width": 545,
-      "height": 320,
-      "color": "5"
-    },
-    {
-      "id": "eb4767d328ff9dcb",
-      "type": "text",
-      "text": "**Importance of metaphor**",
-      "styleAttributes": {},
-      "x": -544,
-      "y": 11624,
       "width": 260,
       "height": 60
     },
@@ -1973,76 +1250,6 @@
       "height": 65
     },
     {
-      "id": "ceb11b1ee2f84f9a",
-      "type": "file",
-      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11850,
-      "width": 500,
-      "height": 400
-    },
-    {
-      "id": "d0913af6b42081d5",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
-      "styleAttributes": {},
-      "x": -3100,
-      "y": 11140,
-      "width": 340,
-      "height": 110
-    },
-    {
-      "id": "dca9020443ef373b",
-      "type": "text",
-      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
-      "styleAttributes": {},
-      "x": -2740,
-      "y": 11360,
-      "width": 420,
-      "height": 408
-    },
-    {
-      "id": "4db6d54886bc0e52",
-      "type": "text",
-      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
-      "styleAttributes": {},
-      "x": -3310,
-      "y": 11695,
-      "width": 310,
-      "height": 80
-    },
-    {
-      "id": "f522e0d972728407",
-      "type": "text",
-      "text": "**Modelling Charisma**\n- AI as optimally charismatic\n- Charisma as tool for social control, persuasion, production of culture",
-      "styleAttributes": {},
-      "x": -544,
-      "y": 12331,
-      "width": 420,
-      "height": 140
-    },
-    {
-      "id": "9d568d6d2d73025c",
-      "type": "text",
-      "text": "Charisma initially defined around physical presence, but progression of information technology (telephone, television: hyper-immaterial internet age)",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 12331,
-      "width": 545,
-      "height": 102
-    },
-    {
-      "id": "cfb942af78d0a51b",
-      "type": "text",
-      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"25 \n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|How We Became Posthuman Hayles, page 79]]",
-      "styleAttributes": {},
-      "x": -594,
-      "y": 11750,
-      "width": 560,
-      "height": 240
-    },
-    {
       "id": "8e489775f8391ccb",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/Causes and consequences of mind perception Waytz et al.pdf",
@@ -2069,16 +1276,6 @@
       "styleAttributes": {},
       "x": -1270,
       "y": 8155,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1634,
-      "y": 11010,
       "width": 400,
       "height": 400
     },
@@ -2124,98 +1321,6 @@
       "height": 400
     },
     {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -805,
-      "y": 10280,
-      "width": 400,
-      "height": 160,
-      "color": "4"
-    },
-    {
-      "id": "4ea435c7d2a4e508",
-      "type": "text",
-      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
-      "styleAttributes": {},
-      "x": -805,
-      "y": 10025,
-      "width": 415,
-      "height": 228,
-      "color": "4"
-    },
-    {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "9eedd2d895bc850a",
       "type": "text",
       "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
@@ -2244,37 +1349,6 @@
       "y": 14029,
       "width": 520,
       "height": 208
-    },
-    {
-      "id": "0bcd5eb3138ba697",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14035,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "77d023904c6630a1",
-      "type": "file",
-      "file": "W2024 Files/mechanical-reproduction_benjamin.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 15280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "5baabd87a33a0cfb",
-      "type": "text",
-      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 15360,
-      "width": 532,
-      "height": 120,
-      "color": "3"
     },
     {
       "id": "5493944c49f4026f",
@@ -2327,77 +1401,6 @@
       "height": 40
     },
     {
-      "id": "6f5516bc48fb1887",
-      "type": "text",
-      "text": ">  That is to say, in the studio the mechanical equipment has penetrated so deeply into reality that its pure aspect freed from the foreign substance of equipment is the result of a special procedure, namely, the shooting by the specially adjusted camera and the mounting of the shot together with other similar ones. The equipment-free aspect of reality here has become the height of artifice; the sight of immediate reality has become an orchid in the land of technology.\n\n[[mechanical-reproduction_benjamin.pdf#page=13&selection=72,30,88,13|mechanical-reproduction_benjamin, page 13]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 15300,
-      "width": 532,
-      "height": 240
-    },
-    {
-      "id": "0f595e42a18eb119",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 15840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "798f7272ccd196e5",
-      "type": "text",
-      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 14695,
-      "width": 532,
-      "height": 319,
-      "color": "4"
-    },
-    {
-      "id": "a7e71a29f000598d",
-      "type": "text",
-      "text": "+Emergent behavior",
-      "styleAttributes": {},
-      "x": -896,
-      "y": 14580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ef7e111046a623e6",
-      "type": "text",
-      "text": "Genetic, Evolutionary, and Organic art",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 14480,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "dd3d95cf9ac9bf80",
-      "type": "text",
-      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
-      "styleAttributes": {},
-      "x": -546,
-      "y": 14590,
-      "width": 320,
-      "height": 100
-    },
-    {
-      "id": "2d3483b8298f0163",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 14510,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "fa372c2696463f70",
       "type": "text",
       "text": "#### Brief Description of a Planned Supervisor for the Project ",
@@ -2418,26 +1421,6 @@
       "height": 98
     },
     {
-      "id": "f4d405392c3c012f",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14237,
-      "width": 520,
-      "height": 97
-    },
-    {
-      "id": "fc197701110b7112",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": -3540,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
       "id": "bedad107149fb2b7",
       "type": "text",
       "text": "#### Research Q ",
@@ -2456,68 +1439,6 @@
       "y": 14820,
       "width": 320,
       "height": 80
-    },
-    {
-      "id": "3da84e70cd069890",
-      "type": "text",
-      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 14780,
-      "width": 532,
-      "height": 260,
-      "color": "5"
-    },
-    {
-      "id": "6bd00e4c2df7f8a0",
-      "type": "text",
-      "text": "> Much of contemporary art, however, is focused elsewhere, for example, the attempt by some critical theorists to elevate the awareness of art’s social context. They see abstractionism situated firmly within the modernist tradition and challenge its asser- tion of the possibility of identifying of grand, unifying “truths.” They question the possibilities of such universal themes and instead assert postmodern perspectives of relativity and diversity. To some of these critics, the work of artists dis- cussed in this section seems somewhat an anachronism—even though it uses the latest theories and tools. They would claim that the search for shapes and forms to express the underlying unity of the universe seems part of an abandoned discourse and not germane to the pressing issues confronting today’s world and art. The debate promises to continue into the future as art struggles to reconcile these different approaches.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=363&selection=0,11,10,85|Information Arts Intersections of Art, Science, and Technology_Wilson, page 363]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 14690,
-      "width": 532,
-      "height": 403
-    },
-    {
-      "id": "f0edec20b1785fa8",
-      "type": "text",
-      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
-      "styleAttributes": {},
-      "x": -40,
-      "y": 14695,
-      "width": 532,
-      "height": 245,
-      "color": "5"
-    },
-    {
-      "id": "a3275b18111da8d9",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 16320,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "dd155960cd038a3a",
-      "type": "text",
-      "text": ">  In an unpublished 1977 text that laid the foundation for Satellite Arts, the artists wrote: “Our tech- nological society is in an era of transitional mutation from an industrial age to an electronic age. It is an age where dominant agencies of commu- nication produce the message systems that cultivate the dominant social patterns. They structure the public agenda of existence, priorities, values and relationships. It is these mutating consequences that become forces of acculturation, creating a new symbolic order.”27 To Brecht, technical in- novation, conventionally conceived, was in danger of primarily expanding the distribution of content and thus economic and ideological domina- tion under the guise of progress. He lambasted “the colossal triumph of technology at last to be able to make accessible to the entire world a Vien- nese waltz and a kitchen recipe.”28\n\n[[The-future-is-present_Glahn-Levine.pdf#page=23&selection=71,0,116,0|The-future-is-present_Glahn-Levine, page 23]]",
-      "styleAttributes": {},
-      "x": -1120,
-      "y": 16360,
-      "width": 600,
-      "height": 360
-    },
-    {
-      "id": "7357115970f54ff1",
-      "type": "text",
-      "text": ">  “Since it is primarily production (productive creation) that serves human construction, we must strive to turn the apparatus (instruments) used so far for only reproductive pur- poses into ones that can be used for productive purposes as well.\n\n[[The-future-is-present_Glahn-Levine.pdf#page=24&selection=78,40,87,65|The-future-is-present_Glahn-Levine, page 24]]",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 16420,
-      "width": 480,
-      "height": 200
     },
     {
       "id": "642c727676ae6e5a",
@@ -2747,6 +1668,1085 @@
       "y": 11360,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "eb8295357343624f",
+      "type": "text",
+      "text": "- Methodology and result/outcome very much overlap I feel but idk how to separate in a way where \"methodology\" only takes 40% of the time\n- for 402, paper is quite focused on methods and \"how to\"\n- acknowledge where things are both methods and outcome",
+      "styleAttributes": {},
+      "x": -4560,
+      "y": 11460,
+      "width": 360,
+      "height": 215
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11440,
+      "width": 530,
+      "height": 673
+    },
+    {
+      "id": "657b8e3fe46cecee",
+      "type": "text",
+      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11480,
+      "width": 330,
+      "height": 120
+    },
+    {
+      "id": "c8a5ce2c4deb92d6",
+      "type": "text",
+      "text": "#### Refik Anadol",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ab32ae7ba13fc89a",
+      "type": "text",
+      "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
+      "styleAttributes": {},
+      "x": -3040,
+      "y": 10580,
+      "width": 400,
+      "height": 103,
+      "color": "4"
+    },
+    {
+      "id": "d0913af6b42081d5",
+      "type": "text",
+      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n",
+      "styleAttributes": {},
+      "x": -3100,
+      "y": 11140,
+      "width": 340,
+      "height": 110
+    },
+    {
+      "id": "4db6d54886bc0e52",
+      "type": "text",
+      "text": "*Unsupervised - Machine Hallucinations*\n- MoMA Archives",
+      "styleAttributes": {},
+      "x": -3310,
+      "y": 11695,
+      "width": 310,
+      "height": 80
+    },
+    {
+      "id": "dca9020443ef373b",
+      "type": "text",
+      "text": "![](https://www.youtube.com/watch?v=H9wr2hx1PY0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=Mjg2NjY)",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11360,
+      "width": 420,
+      "height": 408
+    },
+    {
+      "id": "ceb11b1ee2f84f9a",
+      "type": "file",
+      "file": "Clippings/BARABASI LAB · ART · ABOUT.md",
+      "styleAttributes": {},
+      "x": -2740,
+      "y": 11850,
+      "width": 500,
+      "height": 400
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
+    },
+    {
+      "id": "9d6d3baf60e72eb2",
+      "type": "text",
+      "text": "#### BarabasiLAB",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11890,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dd6244c895c66528",
+      "type": "text",
+      "text": "> For 25 years, under the leadership of Albert-László Barabási, the Lab has been developing the visual vocabulary of complexity based on the team’s pioneering research into a broad range of topics, from protein interactions to success in the art world. Their 2-D visualizations, 3-D data sculptures, and virtual reality environments have made complex scientific concepts approachable and relatable, offering a window into how the many systems that govern our world actually function. From the first simplistic diagrams to today’s elaborate aesthetic creations, the Lab’s visualization work has evolved into an expressive language that creates a new relationship between art and science.",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 11890,
+      "width": 570,
+      "height": 240
+    },
+    {
+      "id": "44741e52d666ef91",
+      "type": "text",
+      "text": "#### Trevor Paglen",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12190,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "335f5cae3fdb2769",
+      "type": "file",
+      "file": "Clippings/e-flux.md",
+      "styleAttributes": {},
+      "x": -3480,
+      "y": 12190,
+      "width": 570,
+      "height": 170
+    },
+    {
+      "id": "2e4d3e263588a10c",
+      "type": "file",
+      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": 12410,
+      "width": 1030,
+      "height": 590
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f2a6cc2a57dcdf1b",
+      "type": "text",
+      "text": "> In a presentation of his work at UCLA, Rokeby notes the critique that interactive art is impossible without surveillance\n\n[[Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf#page=14&selection=52,0,54,50|Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision , page 14]]",
+      "styleAttributes": {},
+      "x": -1188,
+      "y": 12871,
+      "width": 440,
+      "height": 174,
+      "color": "3"
+    },
+    {
+      "id": "49dc46840b80e57f",
+      "type": "text",
+      "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 12471,
+      "width": 545,
+      "height": 280
+    },
+    {
+      "id": "39fedd8c9d541225",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Abstraction as Resistance to Racialized Surveillance_ The Intersections of Art, Technology, and Identity in the Age of Computer Vision .pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 12871,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "ec5069c6b80e4f02",
+      "type": "text",
+      "text": "#### Postmasters",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 12650,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11010,
+      "width": 545,
+      "height": 121
+    },
+    {
+      "id": "a06a50105502b813",
+      "type": "text",
+      "text": "> How can the queen be saved? By recognizing that the **abstractions here are multilayered.** When McCulloch goes down a level, away from what information is toward what it does, he still ends up several layers away from embodied complexity. Consider his claim that pattern-recognition circuits in a robot mechanism and in a human cortex are the same. **These circuits are diagrams that have been abstracted from two different kinds of embodiments, neural tissue for the human and vacuum tubes or silicon chips for the robot.** Although there may be a level of abstraction at which similarities can be made to appear, there is also a level of specificity at which differences create a significant gap. It depends on how the perspective is constructed. **Controlling the context, particularly the movement from instantiated specificity to abstraction, was crucial** to constructing the pathways through which the McCulloch-Pitts neuron was made to stand simultaneously for a computer code and for human thought. **Transforming the body into a flow of binary code pulsing through neurons was an essential step in seeing human being as an informational pattern. In context, this transformation can be seen as a necessary simplification that made an important contribution to neurophysiology. Taken out of context, it is extrapolated to the unwarranted conclusion that there is no essential difference between thought and code.**\n\n[[How We Became Posthuman Hayles.pdf#page=76&selection=169,0,319,24|How We Became Posthuman Hayles, page 76]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11730,
+      "width": 545,
+      "height": 520
+    },
+    {
+      "id": "05dd887824078e8a",
+      "type": "text",
+      "text": "### Chapter 3: The Macy Conferences ",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11284,
+      "width": 371,
+      "height": 50
+    },
+    {
+      "id": "78cd8cb112e0ae3f",
+      "type": "text",
+      "text": "> Although the Macy Conferences on Cybernetics were not the only forum grappling with these questions, they were particularly important because they acted as a crossroads for the traffic in cybernetic models and artifacts. This chapter charts the arguments that made information seem more important than materiality within this research community. Broadly speaking, the arguments were deployed along three fronts. The first was concerned with the construction of information as a theoretical entity; the second, with the construction of (human) neural structures so that they were seen as flows of information; the third, with the construction of artifacts that translated information flows into observable operations, thereby making the flows \"real.\"\n\n[[How We Became Posthuman Hayles.pdf#page=65&selection=65,6,169,13|How We Became Posthuman Hayles, page 65]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11358,
+      "width": 545,
+      "height": 320,
+      "color": "5"
+    },
+    {
+      "id": "9d568d6d2d73025c",
+      "type": "text",
+      "text": "Charisma initially defined around physical presence, but progression of information technology (telephone, television: hyper-immaterial internet age)",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 12331,
+      "width": 545,
+      "height": 102
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "892e8f07eb18c822",
+      "type": "text",
+      "text": "**On Gestalt**\n> We therefore have to substitute for the idea of sensation the idea of form as the prime value. Furthermore, this substitution is in perfect harmony with the latest researches in physiology. The physiologists have increasingly come to substitute for the differences in cell formation the differences in circuits. ‘Today no one looks any longer for that portion of the cortex where perception takes definite form, but rather for the circuit of the cortex that makes a particular perception possible.  [[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=218&selection=290,0,603,9|p.218]]",
+      "styleAttributes": {},
+      "x": -790,
+      "y": 9579,
+      "width": 400,
+      "height": 324
+    },
+    {
+      "id": "3bd7a8869f03963e",
+      "type": "text",
+      "text": ">  Arendt explores the destructive side of charisma, establishing its connection to **totalitarian regimes.** \n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=94,30,96,22|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
+      "styleAttributes": {},
+      "x": -544,
+      "y": 12650,
+      "width": 545,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "8668c178df206101",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/La Lucha Sin Fin 2012 Frid-Jimenez.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 12331,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "517aac4c23c9104e",
+      "type": "text",
+      "text": "> Researchers might not have been able to identify in their own work the mechanism discussed by a fellow participant, but they could understand it metaphorically and then associate the metaphor with something applicable to their own field.\n\n[[How We Became Posthuman Hayles.pdf#page=66&selection=160,37,209,0|How We Became Posthuman Hayles, page 66]]",
+      "styleAttributes": {},
+      "x": -594,
+      "y": 11284,
+      "width": 360,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "eb4767d328ff9dcb",
+      "type": "text",
+      "text": "**Importance of metaphor**",
+      "styleAttributes": {},
+      "x": -544,
+      "y": 11624,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f522e0d972728407",
+      "type": "text",
+      "text": "**Modelling Charisma**\n- AI as optimally charismatic\n- Charisma as tool for social control, persuasion, production of culture",
+      "styleAttributes": {},
+      "x": -544,
+      "y": 12331,
+      "width": 420,
+      "height": 140
+    },
+    {
+      "id": "cfb942af78d0a51b",
+      "type": "text",
+      "text": "> \"the computing robot provides us with analogs that are helpful as far as they seem to hold, and no less helpful whenever they break down. To find out in what ways a nervous system (or a social group) differs from our man-made analogs requires experiment. These experiments would not have been considered if the analog had not been proposed.\"25 \n\nHeinz von Foerster, Margaret Mead, and Hans Teuber on the electronic rat\n\n[[How We Became Posthuman Hayles.pdf#page=79&selection=153,35,184,12|How We Became Posthuman Hayles, page 79]]",
+      "styleAttributes": {},
+      "x": -594,
+      "y": 11750,
+      "width": 560,
+      "height": 240
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 11010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "03fd373a93f88735",
+      "type": "text",
+      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
+      "styleAttributes": {},
+      "x": -5060,
+      "y": 12631,
+      "width": 440,
+      "height": 148
+    },
+    {
+      "id": "f09b154cc3253b20",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9110,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "afc68e318ceb0f33",
+      "type": "text",
+      "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
+      "styleAttributes": {},
+      "x": -2180,
+      "y": 9409,
+      "width": 440,
+      "height": 275
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10280,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "4ea435c7d2a4e508",
+      "type": "text",
+      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10025,
+      "width": 415,
+      "height": 228,
+      "color": "4"
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9579,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "67a5ba9a9e0c043e",
+      "type": "text",
+      "text": "> Arguing for a strong correlation between the nature of a representation and its effect, MacKay's model recognized the mutual constitution of form and content, message and receiver. His model was fundamentally different from the Shannon-Wiener theory because it triangulated between reflexivity, information, and meaning. In the context of the Macy Conferences, his conclusion qualified as radical: subjectivity, far from being a morass to be avoided, is precisely what enables information and meaning to be connected.\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=12,13,84,10|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": -214,
+      "y": 11284,
+      "width": 360,
+      "height": 382
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155,
+      "color": "5"
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f1bb99b2d31b1620",
+      "type": "text",
+      "text": "> To establish the ocular movement in a Markov chain, the only condition necessary is that the points of attraction be in a hierarchy. \n[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=225&selection=64,2,108,0|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 225]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9783,
+      "width": 400,
+      "height": 120
+    },
+    {
+      "id": "66a8e594b9bcfcab",
+      "type": "text",
+      "text": "[[Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf#page=221&selection=772,0,772,8|Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes) (Z-Library), page 221]]",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9703,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "61ec068d1806830a",
+      "type": "file",
+      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-10-16 at 10.56.13 AM.png",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 9579,
+      "width": 400,
+      "height": 105
+    },
+    {
+      "id": "2fb9ba4ebd672f47",
+      "type": "text",
+      "text": "The division of cognition from perception is an instance of mind-body dualism where the mind is separated from the body and the thinker can exist outside the realm of physical existence, transcendent. Not only is this a positionality that is borne of privilege; where the body does not ascribe certain characteristics to the mind, in the eyes of society– but it is not one that acknowledges the qualities of physical reality which themselves lend to better conceptual understanding and thus more \"advanced\" cognition",
+      "styleAttributes": {},
+      "x": 154,
+      "y": 10050,
+      "width": 460,
+      "height": 234
+    },
+    {
+      "id": "22f9b30e5a9ea20f",
+      "type": "text",
+      "text": "Points of attraction must be in a hierarchy because we can only look at one thing at a time-even when looking at something vast, like the sky, our eyes have a 'trajectory'",
+      "styleAttributes": {},
+      "x": 140,
+      "y": 9783,
+      "width": 350,
+      "height": 120
+    },
+    {
+      "id": "dcf2f334447528f1",
+      "type": "text",
+      "text": "**Modernism/Postmodernism**\n\nDefining modernism (outside Fried):\n> The  work  I have  attempted  to introduce  here is related  to  a  modernism conceived  differently,  whose  roots  are in  the  symbolist aesthetic  announced by  Mallarme,'4  which includes  works  whose  dimension is literally  or metaphorically  temporal,  and which  does not  seek the transcendence of the  material  condition of  the  signs  through  which  meaning  is  generated\n\nModernism & museum space; \nMuseum institutionalized around modernism → Postmodern aesthetic activities are necessarily outside museum",
+      "styleAttributes": {},
+      "x": 170,
+      "y": 10518,
+      "width": 390,
+      "height": 370
+    },
+    {
+      "id": "68947a3c33b501cb",
+      "type": "text",
+      "text": "> When information is made representational, as in MacKay's model, it is conceptualized as an action rather than a thing. Verblike, it be- comes a process that someone enacts, and thus it necessarily implies con- text and embodiment. The price it pays for embodiment is difficulty of quantification and loss of universality\n\n[[How We Became Posthuman Hayles.pdf#page=71&selection=347,0,403,12|How We Became Posthuman Hayles, page 71]]",
+      "styleAttributes": {},
+      "x": 176,
+      "y": 11284,
+      "width": 360,
+      "height": 252
+    },
+    {
+      "id": "2feb09f016ea44b4",
+      "type": "text",
+      "text": "> Making information a thing allies it with homeostasis, for so defined, it can be transported into any medium and maintain a stable quantitative value, reinforcing the stability that homeostasis implies. **Making information an action links it with reflexivity, for then its effect on the receiver must be taken into account, and measuring this effect sets up the potential for a reflexive spiral through an infinite regress of observers**. \n> \n> Homeostasis won in the first wave largely because it was more manageable quantitatively. Reflexivity lost because specifying and delimiting context quickly ballooned into an unmanageable project. \n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=15,0,58,30|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 576,
+      "y": 11305,
+      "width": 420,
+      "height": 361
+    },
+    {
+      "id": "465ab03efff76484",
+      "type": "text",
+      "text": "Physicality is associated with tasks that are not cognitively demanding; the \"dumb\" tradesperson or athlete, who uses their body but not their mind; focus on aesthetics is trite, bimboish, vain",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10050,
+      "width": 460,
+      "height": 102
+    },
+    {
+      "id": "948933e2de3cc000",
+      "type": "text",
+      "text": "*Compositions must not be in opposition to natural eye movement*",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 9818,
+      "width": 310,
+      "height": 50
+    },
+    {
+      "id": "73cf9087e878334e",
+      "type": "text",
+      "text": "**Fetishization of language as *the* distinguishing factor between man and animal**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10392,
+      "width": 460,
+      "height": 60
+    },
+    {
+      "id": "105584a9914dc91a",
+      "type": "text",
+      "text": "Are you not made smarter by your body, which can hold eons of knowledge that are inaccessible to your brain (muscle memory)?",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10170,
+      "width": 460,
+      "height": 100
+    },
+    {
+      "id": "2f2221f4dc604816",
+      "type": "text",
+      "text": "**Anti-embodiment**",
+      "styleAttributes": {},
+      "x": 695,
+      "y": 10300,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "434387f956274fba",
+      "type": "text",
+      "text": "> The problem was how to move from this stripped-down neural model to such complex issues as universals in thought, gestalts in perception, and representations of what a system cannot represent\n\n[[How We Became Posthuman Hayles.pdf#page=72&selection=206,0,229,16|How We Became Posthuman Hayles, page 72]]",
+      "styleAttributes": {},
+      "x": 1036,
+      "y": 11284,
+      "width": 420,
+      "height": 148
+    },
+    {
+      "id": "12453a54f25d9336",
+      "type": "text",
+      "text": "**Gestalt**",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 9681,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fb8cc8af3d4ff242",
+      "type": "text",
+      "text": "Separating \"you\" from \"intellect\" also delegitimizes individual (perceptual) experience and thus prioritizes knowledge which has been assertained externally",
+      "styleAttributes": {},
+      "x": 1240,
+      "y": 10050,
+      "width": 460,
+      "height": 76
+    },
+    {
+      "id": "e3738d3f633b5ae7",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Anagram Deren.pdf",
+      "styleAttributes": {},
+      "x": 2000,
+      "y": 13215,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "58fddf868d1d1d2f",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 6.md",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 9120,
+      "width": 680,
+      "height": 1163
+    },
+    {
+      "id": "17df8e08f4019537",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Journal entries/COGS 401 Journal Entry 7.md",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 10380,
+      "width": 680,
+      "height": 400
+    },
+    {
+      "id": "b8c0b511855fc12a",
+      "type": "text",
+      "text": "**Amelia Jones** critique in Judith Butler \n",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": 11000,
+      "width": 339,
+      "height": 60
+    },
+    {
+      "id": "7281d1bff2eb2aa9",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2024-11-16 at 3.35.56 PM.png",
+      "styleAttributes": {},
+      "x": 2450,
+      "y": 13215,
+      "width": 237,
+      "height": 258
+    },
+    {
+      "id": "9666e22619b61c1a",
+      "type": "text",
+      "text": "Really long, largely nonsense",
+      "styleAttributes": {},
+      "x": 2840,
+      "y": 10440,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "74189347bbcb825d",
+      "type": "text",
+      "text": "> Weizenbaum decided to dispel the illusion he’d created ... by publishing ELIZA’s source code some users continued to believe that ELIZA was sentient, even after he revealed exactly how the magic trick worked. \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=17,0,19,45|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 13393,
+      "width": 532,
+      "height": 147
+    },
+    {
+      "id": "355823c62ee6699a",
+      "type": "text",
+      "text": "> Today’s psyops are cheap, scalable, automated, and widely deployable with built-in real-time feedback mechanisms ... the gap between what we sense and what we perceive can be filled with all sorts of prompt injections and adversarial hallucinations.\n\n[[Society of the Psyop Paglen.pdf#page=41&selection=41,62,55,74|Society of the Psyop Paglen, page 41]]",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 13393,
+      "width": 526,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "b4b80354119fc604",
+      "type": "text",
+      "text": "> There are, of course, numerous other ways to deliver a “magical” payload (misdirection, concealment, forcing, etc.), but in Mulholland’s paradigm, they all exploit the simple fact that our minds either throw away, selectively interpret, or even act upon the vast majority of our sensory stimulus **based on our preconscious and/or memetic priors**.\n\n[[Society of the Psyop Paglen.pdf#page=28&selection=22,0,30,64|Society of the Psyop Paglen, page 28]]",
+      "styleAttributes": {},
+      "x": 600,
+      "y": 13393,
+      "width": 532,
+      "height": 200,
+      "color": "3"
+    },
+    {
+      "id": "8bdf0926427f31e5",
+      "type": "text",
+      "text": "> **How did we get here? This three-part essay traces a brief history of media, technologies, and techniques that take advantage of the malleability of perception, capitalizing on quirks in human brains to shape reality. It is a story about the manufacturing of hallucinations and the fact that, under the right conditions, hallucination and reality can become one and the same**\n\n[[Society of the Psyop Paglen.pdf#page=3&selection=0,0,4,13|Society of the Psyop Paglen, page 3]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 13383,
+      "width": 532,
+      "height": 220
+    },
+    {
+      "id": "6259f5ff3b3a3bde",
+      "type": "text",
+      "text": "> (A media environment) That notices which kinds of stimulus induce what kinds of precognitive responses, and uses machine learning to develop, A/B test, and deploy custom-generated cognitive injections designed to manipulate us even further, all without us consciously perceiving what’s happening?\n\n[[Society of the Psyop Paglen.pdf#page=1&selection=40,19,46,72|Society of the Psyop Paglen, page 1]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13393,
+      "width": 532,
+      "height": 174,
+      "color": "3"
+    },
+    {
+      "id": "e635867efea83f6b",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Society of the Psyop Paglen.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 13370,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "613df219e450e62e",
+      "type": "text",
+      "text": "> Woody Bledsoe learned that computers could be taught to do much more than “see” the world on behalf of humans. They could be used to generate precognitive media inserted directly into the body and mind.\n\n[[Society of the Psyop Paglen.pdf#page=42&selection=34,0,38,69|Society of the Psyop Paglen, page 42]]",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 13566,
+      "width": 532,
+      "height": 160,
+      "color": "3"
+    },
+    {
+      "id": "6bf5c9fd56a04e67",
+      "type": "text",
+      "text": "> Woody Bledsoe was an early trailblazer in artificial intelligence, specializing in devising algorithms to conduct pattern matching, a crucial predecessor to modern machine learning ... In 1963, the CIA—using the cutout company “King-Hurley Research Group”—contracted Bledsoe to develop a system that would use computers to identify people by looking at pictures of their faces ... Today Bledsoe is known as the grandfather of facial recognition.\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=0,0,4,38|Society of the Psyop Paglen, page 17]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13590,
+      "width": 532,
+      "height": 226
+    },
+    {
+      "id": "0daa093cf834cb81",
+      "type": "text",
+      "text": "> In the context of ELIZA, this revealed a secondary magic trick. Because the user could derive meaning from the statements ELIZA made, the user would preconsciously attribute intentions to the program making the words. The user concluded that because the computer made some words and because those words were meaningful to the user, the computer must have intended to communicate those meanings. Thus, the computer was “intelligent.” \n\n[[Society of the Psyop Paglen.pdf#page=22&selection=44,1,58,18|Society of the Psyop Paglen, page 22]]",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 13567,
+      "width": 532,
+      "height": 240
+    },
+    {
+      "id": "5212c0854246116f",
+      "type": "text",
+      "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
+      "styleAttributes": {},
+      "x": -2720,
+      "y": 13643,
+      "width": 480,
+      "height": 300
+    },
+    {
+      "id": "7543f2c72189d0ff",
+      "type": "text",
+      "text": "- Avoiding leading questions\n- Avoiding loaded buzzwords (AI/artificial intelligence, machine learning)",
+      "styleAttributes": {},
+      "x": -2200,
+      "y": 13643,
+      "width": 400,
+      "height": 100
+    },
+    {
+      "id": "979b6e71a68e2677",
+      "type": "text",
+      "text": "> Standard Head\n\n[[Society of the Psyop Paglen.pdf#page=17&selection=36,5,36,18|Society of the Psyop Paglen, page 17]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13850,
+      "width": 320,
+      "height": 80
+    },
+    {
+      "id": "d41aa1f3a55ea750",
+      "type": "text",
+      "text": "> Yet Flusser argued, in an essay on “The Crisis of Our Models,” that legacy models of scholarship neither furnish historical fidelity nor account for contemporary media technologies that revolutionized every field of knowledge generation and distribution.2\n\n[[Computing-legacies_Krapp.pdf#page=24&selection=6,0,23,0|Computing-legacies_Krapp, page 24]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 13980,
+      "width": 532,
+      "height": 167,
+      "color": "4"
+    },
+    {
+      "id": "0e0be919e54fb5d2",
+      "type": "text",
+      "text": ">  The limits of such modeling—of abstraction, reduction, formalization—foreground that these are not just models of or for something, but structures that have their own self-referentiality, which is to say mediality. Similarly, when cybernetic models exhibit their own dynamic instead of erasing their constitutive contribution to knowledge production, they resist becoming imperceptible or anesthetic, and appear as media.\n\n[[Computing-legacies_Krapp.pdf#page=18&selection=22,7,40,16|Computing-legacies_Krapp, page 18]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 13980,
+      "width": 532,
+      "height": 240,
+      "color": "4"
+    },
+    {
+      "id": "140b081963612721",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Flusser_Vilem_Writings.pdf",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 13980,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "af5f65ecec04ba46",
+      "type": "text",
+      "text": ">  The more objective models fail us because of the practical difficulty mentioned earlier, the less are they able to store incoming information concerning time. Only models of the type “space-time continua” can now satisfy us. One reason present models as elaborated by phenomenologists fail us may be the fact that phenomenologists still write books, instead of using space-time media.\n\n[[Flusser_Vilem_Writings.pdf#page=117&selection=24,11,29,34|Flusser_Vilem_Writings, page 117]]",
+      "styleAttributes": {},
+      "x": 454,
+      "y": 13980,
+      "width": 532,
+      "height": 220,
+      "color": "4"
+    },
+    {
+      "id": "22e75b37e2cbe3fc",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Computing-legacies_Krapp.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 13900,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "798f7272ccd196e5",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 14695,
+      "width": 532,
+      "height": 319,
+      "color": "4"
+    },
+    {
+      "id": "a7e71a29f000598d",
+      "type": "text",
+      "text": "+Emergent behavior",
+      "styleAttributes": {},
+      "x": -896,
+      "y": 14580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ef7e111046a623e6",
+      "type": "text",
+      "text": "Genetic, Evolutionary, and Organic art",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 14480,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "dd3d95cf9ac9bf80",
+      "type": "text",
+      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
+      "styleAttributes": {},
+      "x": -546,
+      "y": 14590,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "2d3483b8298f0163",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 14510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "3da84e70cd069890",
+      "type": "text",
+      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 14780,
+      "width": 532,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "6bd00e4c2df7f8a0",
+      "type": "text",
+      "text": "> Much of contemporary art, however, is focused elsewhere, for example, the attempt by some critical theorists to elevate the awareness of art’s social context. They see abstractionism situated firmly within the modernist tradition and challenge its asser- tion of the possibility of identifying of grand, unifying “truths.” They question the possibilities of such universal themes and instead assert postmodern perspectives of relativity and diversity. To some of these critics, the work of artists dis- cussed in this section seems somewhat an anachronism—even though it uses the latest theories and tools. They would claim that the search for shapes and forms to express the underlying unity of the universe seems part of an abandoned discourse and not germane to the pressing issues confronting today’s world and art. The debate promises to continue into the future as art struggles to reconcile these different approaches.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=363&selection=0,11,10,85|Information Arts Intersections of Art, Science, and Technology_Wilson, page 363]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 14690,
+      "width": 532,
+      "height": 403
+    },
+    {
+      "id": "f0edec20b1785fa8",
+      "type": "text",
+      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 14695,
+      "width": 532,
+      "height": 245,
+      "color": "5"
+    },
+    {
+      "id": "0bcd5eb3138ba697",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14035,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "f4d405392c3c012f",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14237,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "fc197701110b7112",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": -3540,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "77d023904c6630a1",
+      "type": "file",
+      "file": "W2024 Files/mechanical-reproduction_benjamin.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 15280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6f5516bc48fb1887",
+      "type": "text",
+      "text": ">  That is to say, in the studio the mechanical equipment has penetrated so deeply into reality that its pure aspect freed from the foreign substance of equipment is the result of a special procedure, namely, the shooting by the specially adjusted camera and the mounting of the shot together with other similar ones. The equipment-free aspect of reality here has become the height of artifice; the sight of immediate reality has become an orchid in the land of technology.\n\n[[mechanical-reproduction_benjamin.pdf#page=13&selection=72,30,88,13|mechanical-reproduction_benjamin, page 13]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 15300,
+      "width": 532,
+      "height": 240
+    },
+    {
+      "id": "5baabd87a33a0cfb",
+      "type": "text",
+      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 15360,
+      "width": 532,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "0f595e42a18eb119",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 15840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a3275b18111da8d9",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 16320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dd155960cd038a3a",
+      "type": "text",
+      "text": ">  In an unpublished 1977 text that laid the foundation for Satellite Arts, the artists wrote: “Our tech- nological society is in an era of transitional mutation from an industrial age to an electronic age. It is an age where dominant agencies of commu- nication produce the message systems that cultivate the dominant social patterns. They structure the public agenda of existence, priorities, values and relationships. It is these mutating consequences that become forces of acculturation, creating a new symbolic order.”27 To Brecht, technical in- novation, conventionally conceived, was in danger of primarily expanding the distribution of content and thus economic and ideological domina- tion under the guise of progress. He lambasted “the colossal triumph of technology at last to be able to make accessible to the entire world a Vien- nese waltz and a kitchen recipe.”28\n\n[[The-future-is-present_Glahn-Levine.pdf#page=23&selection=71,0,116,0|The-future-is-present_Glahn-Levine, page 23]]",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 16360,
+      "width": 600,
+      "height": 360
+    },
+    {
+      "id": "7357115970f54ff1",
+      "type": "text",
+      "text": ">  “Since it is primarily production (productive creation) that serves human construction, we must strive to turn the apparatus (instruments) used so far for only reproductive pur- poses into ones that can be used for productive purposes as well.\n\n[[The-future-is-present_Glahn-Levine.pdf#page=24&selection=78,40,87,65|The-future-is-present_Glahn-Levine, page 24]]",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 16420,
+      "width": 480,
+      "height": 200
     }
   ],
   "edges": [
