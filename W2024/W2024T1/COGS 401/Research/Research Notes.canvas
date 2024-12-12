@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "a12de91363579ccf",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -6560,
-      "y": 13200,
-      "width": 3440,
-      "height": 2560,
-      "label": "Final Project Guidelines"
-    },
-    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 2220,
       "height": 2598,
       "label": "Artists"
+    },
+    {
+      "id": "a12de91363579ccf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6560,
+      "y": 13200,
+      "width": 3440,
+      "height": 2560,
+      "label": "Final Project Guidelines"
     },
     {
       "id": "af727b3351bfdc38",
@@ -745,16 +745,6 @@
       "height": 121
     },
     {
-      "id": "7ce87a31e28cd281",
-      "type": "text",
-      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
-      "styleAttributes": {},
-      "x": -2580,
-      "y": 10580,
-      "width": 400,
-      "height": 325
-    },
-    {
       "id": "5da8e5b8ccd3d511",
       "type": "text",
       "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
@@ -1455,16 +1445,6 @@
       "y": 9579,
       "width": 400,
       "height": 324
-    },
-    {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "2e8bfeb0c01c8dea",
@@ -2717,6 +2697,26 @@
       "y": 10517,
       "width": 340,
       "height": 99
+    },
+    {
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7ce87a31e28cd281",
+      "type": "text",
+      "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
+      "styleAttributes": {},
+      "x": -2580,
+      "y": 10580,
+      "width": 400,
+      "height": 325
     }
   ],
   "edges": [
