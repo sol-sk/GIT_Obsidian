@@ -745,37 +745,6 @@
       "height": 121
     },
     {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
-    },
-    {
-      "id": "c002b4f3eea58ee8",
-      "type": "text",
-      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
-      "styleAttributes": {},
-      "x": -805,
-      "y": 10280,
-      "width": 400,
-      "height": 160,
-      "color": "4"
-    },
-    {
       "id": "7ce87a31e28cd281",
       "type": "text",
       "text": ">  Huyghe and Stenne have created a space that feels like a fish tank, full of strange autonomous interventions that mostly go about their business independently, supposedly harvesting information from their surroundings via sensors, interpreting it through AI and integrating it into their operations. The material lists of Huyghe’s installations indicate a reactive component through descriptions such as ‘real-time recording and emitting’. However, this technology’s exact placement and direct consequence remain opaque to the lay viewer – is its very existence a work of fiction, too?",
@@ -966,27 +935,6 @@
       "y": 10300,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "5d0ed83ce2d43ca3",
-      "type": "text",
-      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10694,
-      "width": 400,
-      "height": 155,
-      "color": "5"
-    },
-    {
-      "id": "559e979027d6f9a1",
-      "type": "text",
-      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10518,
-      "width": 400,
-      "height": 147
     },
     {
       "id": "a06a50105502b813",
@@ -1339,36 +1287,6 @@
       "height": 76
     },
     {
-      "id": "8542a90d171be16d",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 9579,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "19d8654ec9916868",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10052,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
-    },
-    {
       "id": "c5e222d5f81351a1",
       "type": "text",
       "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
@@ -1477,17 +1395,6 @@
       "y": 10440,
       "width": 260,
       "height": 60
-    },
-    {
-      "id": "4ea435c7d2a4e508",
-      "type": "text",
-      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
-      "styleAttributes": {},
-      "x": -805,
-      "y": 10025,
-      "width": 415,
-      "height": 228,
-      "color": "4"
     },
     {
       "id": "816a6f30f3df274c",
@@ -1651,16 +1558,6 @@
       "height": 105
     },
     {
-      "id": "ece3ed8c1e67c1c8",
-      "type": "text",
-      "text": "Inspired by Chapter 1 of education of vision ",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10052,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "afc68e318ceb0f33",
       "type": "text",
       "text": "### T'ai Smith meeting 10.21.24\n- [ ] https://amberfj.com/texts/la-lucha-sin-fin/\n- [ ] https://www.moma.org/artists/5392\n- [ ] https://en.wikipedia.org/wiki/Sherrie_Levine\n- [ ] Douglas Crimp, “Pictures\"\n- [ ] https://artistsspace.org/\n- [ ] Pierre Huyghe\n- [ ] Mika Tajima\n- [ ] Tauba Auerbach",
@@ -1689,16 +1586,6 @@
       "y": 8637,
       "width": 469,
       "height": 155
-    },
-    {
-      "id": "02a600d1922b4eae",
-      "type": "text",
-      "text": "Why separate perception from cognition?",
-      "styleAttributes": {},
-      "x": -330,
-      "y": 10139,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "1b7474c6f9d70add",
@@ -1779,16 +1666,6 @@
       "y": 6707,
       "width": 400,
       "height": 400
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
     },
     {
       "id": "63e399d5f7428f8f",
@@ -2717,6 +2594,129 @@
       "y": 9110,
       "width": 400,
       "height": 240
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
+    },
+    {
+      "id": "c002b4f3eea58ee8",
+      "type": "text",
+      "text": "> On the basis of research that has been implemented so far, however, the author can conclude only that students can be taught the conscious use of metaphor and that these metaphors can lead to visual images for an intuitive, personalized grasp of science. [[Education of vision Kepes.pdf#page=121&selection=554,1,605,11|p.121]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10280,
+      "width": 400,
+      "height": 160,
+      "color": "4"
+    },
+    {
+      "id": "5d0ed83ce2d43ca3",
+      "type": "text",
+      "text": "> The  mode that was  thus  to  become  exemplary  during  the  seventies  was  **performance**- and  not only  that narrowly  defined activity called performance art, but all  those works that were  constituted  in  a *situation* and for  a *duration*  by the artist or the spectator or both  together.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10694,
+      "width": 400,
+      "height": 155,
+      "color": "5"
+    },
+    {
+      "id": "559e979027d6f9a1",
+      "type": "text",
+      "text": "Minimalism's theatricality (Fried) comes from its: \n> Preoccupation  with  time-more precisely, with  the duration  of experience.\"  It  was  temporality  that  Fried considered  \"paradigmatically  theatrical,\" and therefore a threat to modernist  abstraction.",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10518,
+      "width": 400,
+      "height": 147
+    },
+    {
+      "id": "8542a90d171be16d",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Module, Proportion, Symmetry, Rhythm (Gyorgy Kepes).pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 9579,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "19d8654ec9916868",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Education of vision Kepes.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10052,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "4ea435c7d2a4e508",
+      "type": "text",
+      "text": "> This particular investigation resulted in a system, which is called syNectics, for the conscious use of metaphor in problem-solving and hypothesis- formation.\" In the course of this research it became apparent that the most important element in creative problem-solving was making the familiar strange.\n\n[[Education of vision Kepes.pdf#page=114&selection=119,0,199,1|Education of vision Kepes, page 114]]",
+      "styleAttributes": {},
+      "x": -805,
+      "y": 10025,
+      "width": 415,
+      "height": 228,
+      "color": "4"
+    },
+    {
+      "id": "ece3ed8c1e67c1c8",
+      "type": "text",
+      "text": "Inspired by Chapter 1 of education of vision ",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10052,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "02a600d1922b4eae",
+      "type": "text",
+      "text": "Why separate perception from cognition?",
+      "styleAttributes": {},
+      "x": -330,
+      "y": 10139,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
     }
   ],
   "edges": [
