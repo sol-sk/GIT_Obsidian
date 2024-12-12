@@ -11,16 +11,6 @@
       "label": "Bibliography notes"
     },
     {
-      "id": "a12de91363579ccf",
-      "type": "group",
-      "styleAttributes": {},
-      "x": -6560,
-      "y": 13200,
-      "width": 3440,
-      "height": 2560,
-      "label": "Final Project Guidelines"
-    },
-    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -29,6 +19,16 @@
       "width": 2220,
       "height": 2598,
       "label": "Artists"
+    },
+    {
+      "id": "a12de91363579ccf",
+      "type": "group",
+      "styleAttributes": {},
+      "x": -6560,
+      "y": 13200,
+      "width": 3440,
+      "height": 2560,
+      "label": "Final Project Guidelines"
     },
     {
       "id": "af727b3351bfdc38",
@@ -1660,40 +1660,6 @@
       "height": 400
     },
     {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "More emphasis on explaining the methods for the ANN",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11160,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "5f1ec2e06a9b0249",
-      "type": "text",
-      "text": "### Outcome",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5355ff9092c2820d",
-      "type": "text",
-      "text": "### Methodology",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "657b8e3fe46cecee",
       "type": "text",
       "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
@@ -1702,88 +1668,6 @@
       "y": 11480,
       "width": 330,
       "height": 120
-    },
-    {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11380,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "498244fd7ecd9db5",
-      "type": "text",
-      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 10830,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "2cad693b8a9567f4",
-      "type": "text",
-      "text": "- More memorable? \n- More personal experience?",
-      "styleAttributes": {},
-      "x": -5010,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8fd5523b2c14cf00",
-      "type": "text",
-      "text": "### Research Question",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 10750,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "55a0afde8f113662",
-      "type": "text",
-      "text": "***Big picture wise:*** \n- how it relates to art\n\t- How art, changing mediums is important ",
-      "styleAttributes": {},
-      "x": -4380,
-      "y": 10530,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "5258814bb0cea5f2",
-      "type": "text",
-      "text": "don't worry too much about laura's comment abt \"an image\"",
-      "styleAttributes": {},
-      "x": -4380,
-      "y": 10450,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ad44efdddc8c0c46",
-      "type": "text",
-      "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists, artworks, websites in my bibliography?/how to I do so? \n\t- Typical artwork citations for paper \n\t- Bibliography: Compsci side\n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- How to present/combine paper and installation in proposal\n\t- She likes the methodology from presentation\n\t- Part 1/2 type thing: don't need to split up outside of methodology\n- Do look to add more abt big picture, but specific feedback can be grain of salt \n\t- Eg. the difference between AI \"art\" and what I'm doing: the role of artist and technology \n",
-      "styleAttributes": {},
-      "x": -5000,
-      "y": 10260,
-      "width": 610,
-      "height": 400
-    },
-    {
-      "id": "642c727676ae6e5a",
-      "type": "text",
-      "text": "#### Pierre Huyghe",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10500,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "eb8295357343624f",
@@ -1806,18 +1690,6 @@
       "height": 673
     },
     {
-      "id": "6f79bccfb22b2286",
-      "type": "text",
-      "text": "### Paper",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 11360,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "9d6d3baf60e72eb2",
       "type": "text",
       "text": "#### BarabasiLAB",
@@ -1828,83 +1700,12 @@
       "height": 60
     },
     {
-      "id": "25306e3d47f118b7",
-      "type": "text",
-      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10780,
-      "width": 300,
-      "height": 200
-    },
-    {
-      "id": "531b643a7021403a",
-      "type": "file",
-      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10580,
-      "width": 400,
-      "height": 400,
-      "color": "5"
-    },
-    {
-      "id": "c708b57f3b06953c",
-      "type": "file",
-      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11140,
-      "width": 400,
-      "height": 220
-    },
-    {
       "id": "c8a5ce2c4deb92d6",
       "type": "text",
       "text": "#### Refik Anadol",
       "styleAttributes": {},
       "x": -3880,
       "y": 11680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "cebbdc08fcd0a9eb",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20241119144210.png",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11140,
-      "width": 293,
-      "height": 220
-    },
-    {
-      "id": "e149ba802aa53675",
-      "type": "text",
-      "text": "*TV Buddha*",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 11380,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d73b00984d778fb2",
-      "type": "text",
-      "text": "#### Nam June Paik",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 11042,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b54d83fbbe35daf8",
-      "type": "text",
-      "text": "# Artists",
-      "styleAttributes": {},
-      "x": -3880,
-      "y": 10400,
       "width": 260,
       "height": 60
     },
@@ -2009,16 +1810,6 @@
       "height": 60
     },
     {
-      "id": "6c987bfd8709d556",
-      "type": "text",
-      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
-      "styleAttributes": {},
-      "x": -3460,
-      "y": 10580,
-      "width": 400,
-      "height": 180
-    },
-    {
       "id": "ab32ae7ba13fc89a",
       "type": "text",
       "text": "> Huyghe’s role as an artist is as catalyst, initiating an action that AI or robotics then orchestrates and develops autonomously, effectively co-authoring the work.",
@@ -2028,16 +1819,6 @@
       "width": 400,
       "height": 103,
       "color": "4"
-    },
-    {
-      "id": "5da8e5b8ccd3d511",
-      "type": "text",
-      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
-      "styleAttributes": {},
-      "x": -3440,
-      "y": 10500,
-      "width": 360,
-      "height": 60
     },
     {
       "id": "c5e222d5f81351a1",
@@ -2736,6 +2517,225 @@
       "y": 16420,
       "width": 480,
       "height": 200
+    },
+    {
+      "id": "642c727676ae6e5a",
+      "type": "text",
+      "text": "#### Pierre Huyghe",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "25306e3d47f118b7",
+      "type": "text",
+      "text": "![pierre-huyghe-camanta-film-still](https://static.frieze.com/files/inline-images/pierre-huyghe-camata-2.jpg?VersionId=m20n.FQk4wGP58aFqKavJdtc7eyI7LTI)\n",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10780,
+      "width": 300,
+      "height": 200
+    },
+    {
+      "id": "531b643a7021403a",
+      "type": "file",
+      "file": "Clippings/Inside the Dark Vision of Pierre Huyghe.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10580,
+      "width": 400,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "c708b57f3b06953c",
+      "type": "file",
+      "file": "Clippings/Nam June Paik – FLUXUSMUSEUM.md",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11140,
+      "width": 400,
+      "height": 220
+    },
+    {
+      "id": "cebbdc08fcd0a9eb",
+      "type": "file",
+      "file": "W2024 Files/Pasted image 20241119144210.png",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11140,
+      "width": 293,
+      "height": 220
+    },
+    {
+      "id": "e149ba802aa53675",
+      "type": "text",
+      "text": "*TV Buddha*",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 11380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b54d83fbbe35daf8",
+      "type": "text",
+      "text": "# Artists",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 10400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6c987bfd8709d556",
+      "type": "text",
+      "text": "> Sound is an essential consideration on this journey into the abyss. ... It’s an ambient noise that speaks to the slow trickle of time; meanwhile, the fish continue to circle, and the hermit crab struggles. A high-pitched, foreboding frequency resounded in the central atrium, a concrete cell containing *Camata* (2024)",
+      "styleAttributes": {},
+      "x": -3460,
+      "y": 10580,
+      "width": 400,
+      "height": 180
+    },
+    {
+      "id": "5da8e5b8ccd3d511",
+      "type": "text",
+      "text": "**Post-human \"fictions,\" imagining futures, involvement of animals & AI**",
+      "styleAttributes": {},
+      "x": -3440,
+      "y": 10500,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "5f1ec2e06a9b0249",
+      "type": "text",
+      "text": "### Outcome",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5355ff9092c2820d",
+      "type": "text",
+      "text": "### Methodology",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 10830,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "- More memorable? \n- More personal experience?",
+      "styleAttributes": {},
+      "x": -5010,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 10750,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "55a0afde8f113662",
+      "type": "text",
+      "text": "***Big picture wise:*** \n- how it relates to art\n\t- How art, changing mediums is important ",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10530,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11360,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d73b00984d778fb2",
+      "type": "text",
+      "text": "#### Nam June Paik",
+      "styleAttributes": {},
+      "x": -3880,
+      "y": 11042,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5258814bb0cea5f2",
+      "type": "text",
+      "text": "don't worry too much about laura's comment abt \"an image\"",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 10450,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ad44efdddc8c0c46",
+      "type": "text",
+      "text": "##### Gloria Meeting\n\n***Questions***\n- Can I include artists, artworks, websites in my bibliography?/how to I do so? \n\t- Typical artwork citations for paper \n\t- Bibliography: Compsci side\n- Double checking on how my presentation went in her eyes given Laura graded it but Gloria said she'd grade my proposal \n- How to present/combine paper and installation in proposal\n\t- She likes the methodology from presentation\n\t- Part 1/2 type thing: don't need to split up outside of methodology\n- Do look to add more abt big picture, but specific feedback can be grain of salt \n\t- Eg. the difference between AI \"art\" and what I'm doing: the role of artist and technology \n",
+      "styleAttributes": {},
+      "x": -5000,
+      "y": 10260,
+      "width": 610,
+      "height": 400
     },
     {
       "id": "fc76e0c145880469",
