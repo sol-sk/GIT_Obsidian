@@ -2493,6 +2493,7 @@
       "id": "a3275b18111da8d9",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
+      "styleAttributes": {},
       "x": -1638,
       "y": 16320,
       "width": 400,
@@ -2644,16 +2645,6 @@
       "height": 60
     },
     {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11380,
-      "width": 330,
-      "height": 80
-    },
-    {
       "id": "498244fd7ecd9db5",
       "type": "text",
       "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
@@ -2662,16 +2653,6 @@
       "y": 10830,
       "width": 440,
       "height": 160
-    },
-    {
-      "id": "2cad693b8a9567f4",
-      "type": "text",
-      "text": "- More memorable? \n- More personal experience?",
-      "styleAttributes": {},
-      "x": -5010,
-      "y": 11072,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "8fd5523b2c14cf00",
@@ -2694,18 +2675,6 @@
       "y": 10530,
       "width": 380,
       "height": 100
-    },
-    {
-      "id": "6f79bccfb22b2286",
-      "type": "text",
-      "text": "### Paper",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 11360,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "d73b00984d778fb2",
@@ -2746,6 +2715,38 @@
       "y": 10842,
       "width": 480,
       "height": 136
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "- More memorable? \n- More personal experience?",
+      "styleAttributes": {},
+      "x": -5010,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11360,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
