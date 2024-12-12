@@ -7,7 +7,7 @@
       "x": -1680,
       "y": 6620,
       "width": 3640,
-      "height": 10060,
+      "height": 10500,
       "label": "Bibliography notes"
     },
     {
@@ -2722,10 +2722,30 @@
       "id": "a3275b18111da8d9",
       "type": "file",
       "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
-      "x": -1480,
-      "y": 16400,
+      "x": -1638,
+      "y": 16320,
       "width": 400,
       "height": 400
+    },
+    {
+      "id": "dd155960cd038a3a",
+      "type": "text",
+      "text": ">  In an unpublished 1977 text that laid the foundation for Satellite Arts, the artists wrote: “Our tech- nological society is in an era of transitional mutation from an industrial age to an electronic age. It is an age where dominant agencies of commu- nication produce the message systems that cultivate the dominant social patterns. They structure the public agenda of existence, priorities, values and relationships. It is these mutating consequences that become forces of acculturation, creating a new symbolic order.”27 To Brecht, technical in- novation, conventionally conceived, was in danger of primarily expanding the distribution of content and thus economic and ideological domina- tion under the guise of progress. He lambasted “the colossal triumph of technology at last to be able to make accessible to the entire world a Vien- nese waltz and a kitchen recipe.”28\n\n[[The-future-is-present_Glahn-Levine.pdf#page=23&selection=71,0,116,0|The-future-is-present_Glahn-Levine, page 23]]",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 16360,
+      "width": 600,
+      "height": 360
+    },
+    {
+      "id": "7357115970f54ff1",
+      "type": "text",
+      "text": ">  “Since it is primarily production (productive creation) that serves human construction, we must strive to turn the apparatus (instruments) used so far for only reproductive pur- poses into ones that can be used for productive purposes as well.\n\n[[The-future-is-present_Glahn-Levine.pdf#page=24&selection=78,40,87,65|The-future-is-present_Glahn-Levine, page 24]]",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 16420,
+      "width": 480,
+      "height": 200
     }
   ],
   "edges": [
