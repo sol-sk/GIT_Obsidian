@@ -842,39 +842,6 @@
       "color": "#28aaf0"
     },
     {
-      "id": "bbe91b6f5cb59c4e",
-      "type": "text",
-      "text": "**New Media Art**",
-      "styleAttributes": {},
-      "x": 1590,
-      "y": 1820,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "305da09c6be9390a",
-      "type": "text",
-      "text": "**Contemporary (ish)**",
-      "styleAttributes": {},
-      "x": 1590,
-      "y": 1960,
-      "width": 260,
-      "height": 60,
-      "color": "#28aaf0"
-    },
-    {
-      "id": "625b37d79a03d165",
-      "type": "text",
-      "text": "> Paik considered broadcast TV to be an oppressive institution, which he attempted to subvert by turning the viewer into a user of the medium [22].\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=34,20,42,12|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
-      "styleAttributes": {},
-      "x": 2075,
-      "y": 2940,
-      "width": 454,
-      "height": 140,
-      "color": "#28aaf0"
-    },
-    {
       "id": "536b04c882482470",
       "type": "text",
       "text": "McCullough and Pitts",
@@ -1040,6 +1007,39 @@
       "width": 320,
       "height": 40,
       "color": "#28f028"
+    },
+    {
+      "id": "bbe91b6f5cb59c4e",
+      "type": "text",
+      "text": "**New Media Art**",
+      "styleAttributes": {},
+      "x": 1590,
+      "y": 1820,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "305da09c6be9390a",
+      "type": "text",
+      "text": "**Contemporary (ish)**",
+      "styleAttributes": {},
+      "x": 1590,
+      "y": 1960,
+      "width": 260,
+      "height": 60,
+      "color": "#28aaf0"
+    },
+    {
+      "id": "625b37d79a03d165",
+      "type": "text",
+      "text": "> Paik considered broadcast TV to be an oppressive institution, which he attempted to subvert by turning the viewer into a user of the medium [22].\n\n[[Ilfeld-ContemporaryArtCybernetics-2012.pdf#page=5&selection=34,20,42,12|Ilfeld-ContemporaryArtCybernetics-2012, page 5]]",
+      "styleAttributes": {},
+      "x": 2075,
+      "y": 2940,
+      "width": 454,
+      "height": 140,
+      "color": "#28aaf0"
     }
   ],
   "edges": [
