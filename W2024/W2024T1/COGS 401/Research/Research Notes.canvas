@@ -2759,14 +2759,24 @@
       "height": 200
     },
     {
-      "id": "f2fafca6f88d0c56",
+      "id": "8e040e2dffdde7a8",
       "type": "text",
-      "text": "the current paradigm of AI – deep learning – which emerged not from theories of cognition, as some may believe, but from contested experiments to automate the labour of perception, or pattern recognition.39 Deep learning has evolved from the extension of 1950s techniques of visual pattern recognition to non-visual data, which now include text, audio, video, and behavioural data of the most diverse origins.",
+      "text": "> The Eye of the Master contains not only a political but also a technical analogy. It signals, somewhat ironically, the ambivalence of the current paradigm of AI – deep learning – which emerged not from theories of cognition, as some may believe, but from contested experiments to automate the labour of perception, or pattern recognition.39 Deep learning has evolved from the extension of 1950s techniques of visual pattern recognition to non-visual data, which now include text, audio, video, and behavioural data of the most diverse origins. The rise of deep learning dates to 2012, when the convolutional neural network AlexNet won the ImageNet computer vision competition. Since then, the term ‘AI’ has come to define by convention the paradigm of artificial neural networks which, in the 1950s, it must be noted, was actually its rival (an example of the controversies that characterise the ‘rationality’ of AI).40 Stuart and Hubert Dreyfus illuminated this schism in their 1988 essay ‘Making a Mind versus Modeling the Brain’, in which they outlined the two lineages of AI – symbolic and connectionist – that, based on different logical postulates, have also followed different destinies.41 Symbolic AI is the lineage that is associated with the 1956 Dartmouth workshop for which John McCarthy coined the questionable term ‘artificial intelligence’.42 Its key applications have been the Logic Theorist and General Problem Solver – and the array of expert systems and inference engines in general – which were proven trivial and prone to combinatorial explosion. Connectionism, on the other hand, is the lineage of artificial neural networks pioneered by Frank Rosenblatt’s invention of the ‘perceptron’ in 1957, which unfolded into convolutional neural networks in the late 1980s and, eventually, launched the deep learning architecture that has prevailed since the 2010s\n\n[[The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli).pdf#page=21&selection=25,0,104,29|The Eye of the Master A Social History of Artificial Intelligence (Matteo Pasquinelli), page 21]]",
       "styleAttributes": {},
-      "x": -20,
-      "y": 9260,
-      "width": 600,
-      "height": 300
+      "x": 760,
+      "y": 8980,
+      "width": 680,
+      "height": 529
+    },
+    {
+      "id": "a9b14b7f0c353b83",
+      "type": "text",
+      "text": "**ANNs- modern tech = connectionist**\n**AI- symbolic, term maintained but theory replaced**",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 9040,
+      "width": 400,
+      "height": 80
     }
   ],
   "edges": [
@@ -3619,6 +3629,14 @@
       "fromSide": "bottom",
       "toNode": "3d61e94b4bb9d28f",
       "toSide": "top"
+    },
+    {
+      "id": "e084df178b467ac5",
+      "styleAttributes": {},
+      "fromNode": "8e040e2dffdde7a8",
+      "fromSide": "right",
+      "toNode": "a9b14b7f0c353b83",
+      "toSide": "left"
     }
   ],
   "metadata": {}
