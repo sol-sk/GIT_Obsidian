@@ -12,4 +12,5 @@ Paper concept, similar to presentation; **role of artist (broadly, abstraction) 
 	- technological frameworks creating assumptions for kinds of uses/purpose
 		- art which takes AI at face value and goes forward with it as a tool versus art which peels it apart 
 
-Working with Smith and FJ on an art and machine learning project, partt of meeting charisma–shirk 
+Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded. 
+Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) - AFJ is canada research chair, her work 
