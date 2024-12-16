@@ -1,0 +1,14 @@
+### Pre-meeting
+
+- Focusing on paper concept over artwork
+- more enjoyable for me to create art with more freedom/exploratory than cogs (as a program with constraints) lets me be/outside of rigid structure
+	- Entirely possible and likely that I will make some art related to this research paper it just won't be for the project itself; 
+	- If the SEA is interested in working together outside of this specific project (especially as I'm graduating) I'd love to explore that in the future
+
+
+Paper concept, similar to presentation; **role of artist (broadly, abstraction) throughout development of cybernetics into modern ANNs/AI, conceptual influence** 
+- → informing the kinds of approaches contemp artists can take or broadly the reciprocal influence of perception; 
+	- metaphorical representations creating visual images creating conceptual understanding 
+	- technological frameworks creating assumptions for kinds of uses/purpose
+		- art which takes AI at face value and goes forward with it as a tool versus art which peels it apart 
+
