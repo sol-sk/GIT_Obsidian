@@ -30,3 +30,4 @@ This project will be a research project working with the
 - Working w/ them on Pictures - https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
 	- We will go when i get back! 
 - Artist Space archives at NYU (!) 
+- Usually mondays/fridays ok 
