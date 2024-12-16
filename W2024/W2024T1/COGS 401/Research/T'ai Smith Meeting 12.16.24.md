@@ -17,4 +17,6 @@ Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Readi
 
 https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
 
-Product will be paper - Artist Space 
+* Product will be paper 
+
+- Artist Space archives at NYU (!)
