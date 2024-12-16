@@ -13,7 +13,7 @@ Paper concept, similar to presentation; **role of artist (broadly, abstraction) 
 		- art which takes AI at face value and goes forward with it as a tool versus art which peels it apart 
 
 
-Term:
+Term: W2024T2
 
 Project Title: 
 
@@ -28,5 +28,5 @@ This project will be a research project working with the
 
 #### Other
 - Working w/ them on Pictures - https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
-	- We will go when i get back!
-- Artist Space archives at NYU (!)
+	- We will go when i get back! 
+- Artist Space archives at NYU (!) 
