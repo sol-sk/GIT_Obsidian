@@ -12,3 +12,4 @@ Paper concept, similar to presentation; **role of artist (broadly, abstraction) 
 	- technological frameworks creating assumptions for kinds of uses/purpose
 		- art which takes AI at face value and goes forward with it as a tool versus art which peels it apart 
 
+Working with Smith and FJ on an art and machine learning project, partt of meeting charisma–shirk 
