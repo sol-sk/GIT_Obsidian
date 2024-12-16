@@ -19,7 +19,7 @@ Project Title:
 
 *Briefly indicate the nature of the project. (Is it animal lab experiment, human subjects experiment, design/build project, philosophical essay, literature review, field work, artistic collaboration, etc.?)*
 
-This project will be a research project
+This project will be a research project working with the 
 - Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded
 	- Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” (Smith) Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) 
 - AFJ is Canada research chair
@@ -27,4 +27,5 @@ This project will be a research project
 
 #### Other
 - Working w/ them on Pictures - https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
+	- We will go when i get back!
 - Artist Space archives at NYU (!)
