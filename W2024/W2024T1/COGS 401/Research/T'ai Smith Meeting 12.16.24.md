@@ -19,7 +19,7 @@ Project Title:
 
 *Briefly indicate the nature of the project. (Is it animal lab experiment, human subjects experiment, design/build project, philosophical essay, literature review, field work, artistic collaboration, etc.?)*
 
-I will be working with T'ai Smith and Amber Frid-Jimenez on their research investigation “Reading Charisma: Art and Politics in the Age of AI,” which is funded by an SSHRC Insight Development Grant. The result of this project will be a research essay on art and machine learning. 
+I will be working with T'ai Smith and Amber Frid-Jimenez on their research investigation “Reading Charisma: Art and Politics in the Age of AI,” which is funded by an SSHRC Insight Development Grant and by the Canada Research Development program, of which Frid-Jimenez is the Chair in Art . The result of this project will be a research paper on machine learning and contemporary art. 
 
 - Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded 
 	- Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” (Smith) Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) 
