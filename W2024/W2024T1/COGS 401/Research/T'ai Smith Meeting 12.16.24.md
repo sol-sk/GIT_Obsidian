@@ -17,14 +17,13 @@ Term:
 
 Project Title:
 
-Briefly indicate the nature of the project. (Is it animal lab experiment, human subjects experiment, design/build project, philosophical essay, literature review, field work, artistic collaboration, etc.?)
+*Briefly indicate the nature of the project. (Is it animal lab experiment, human subjects experiment, design/build project, philosophical essay, literature review, field work, artistic collaboration, etc.?)*
 
-
+This project will be a research project
 - Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded
 	- Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” (Smith) Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) 
-- AFJ is canada research chair
+- AFJ is Canada research chair
 * Product will be paper 
-* 
 
 #### Other
 - Working w/ them on Pictures - https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
