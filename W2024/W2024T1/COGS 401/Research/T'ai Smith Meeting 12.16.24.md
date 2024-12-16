@@ -16,3 +16,5 @@ Working with Smith and FJ on an art and machine learning project, part of meetin
 Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) - AFJ is canada research chair
 
 https://www.sfu.ca/sca/events---news/events/underneath-each-picture-there-is-always-another-picture.html
+
+Product will be paper - Artist Space 
