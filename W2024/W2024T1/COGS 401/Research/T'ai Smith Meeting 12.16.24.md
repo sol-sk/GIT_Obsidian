@@ -15,14 +15,15 @@ Paper concept, similar to presentation; **role of artist (broadly, abstraction) 
 
 Term:
 
-Project Title:
+Project Title: 
 
 *Briefly indicate the nature of the project. (Is it animal lab experiment, human subjects experiment, design/build project, philosophical essay, literature review, field work, artistic collaboration, etc.?)*
 
 This project will be a research project working with the 
-- Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded
+- Working with Smith and FJ on an art and machine learning project, part of meeting charisma–SSHRC funded 
 	- Social Sciences and Humanities Research Council (SSHRC), Insight Grant: “Reading Charisma: Art and Politics in the Age of AI,” (Smith) Co-investigator with Amber Frid-Jimenez, P.I. (Emily Carr University of Art and Design) 
-- AFJ is Canada research chair
+- AFJ is Canada Research Chair in Art Design Technology
+	- https://amberfj.com/info/
 * Product will be paper 
 
 #### Other
