@@ -14,11 +14,172 @@
       "id": "a12de91363579ccf",
       "type": "group",
       "styleAttributes": {},
+      "isCollapsed": true,
       "x": -6560,
       "y": 13200,
       "width": 3440,
       "height": 2560,
       "label": "Final Project Guidelines"
+    },
+    {
+      "id": "0bcd5eb3138ba697",
+      "type": "text",
+      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14035,
+      "width": 520,
+      "height": 152
+    },
+    {
+      "id": "f4d405392c3c012f",
+      "type": "text",
+      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
+      "styleAttributes": {},
+      "x": -3660,
+      "y": 14237,
+      "width": 520,
+      "height": 97
+    },
+    {
+      "id": "5493944c49f4026f",
+      "type": "text",
+      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14286,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "1c8a476d7cd2e2bd",
+      "type": "text",
+      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14236,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "9eedd2d895bc850a",
+      "type": "text",
+      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
+      "styleAttributes": {},
+      "x": -4260,
+      "y": 14035,
+      "width": 520,
+      "height": 150
+    },
+    {
+      "id": "f6fd8768b41001fd",
+      "type": "text",
+      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14286,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "8694c52f613da692",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 13214,
+      "width": 520,
+      "height": 635
+    },
+    {
+      "id": "d2cd9f6191bf2388",
+      "type": "text",
+      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
+      "styleAttributes": {},
+      "x": -4860,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "29af2dd0f05050c4",
+      "type": "text",
+      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14029,
+      "width": 520,
+      "height": 208
+    },
+    {
+      "id": "fa372c2696463f70",
+      "type": "text",
+      "text": "#### Brief Description of a Planned Supervisor for the Project ",
+      "styleAttributes": {},
+      "x": -4060,
+      "y": 14820,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "fc197701110b7112",
+      "type": "text",
+      "text": "#### Significance/Contributions",
+      "styleAttributes": {},
+      "x": -3540,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "a560451957c0e6b6",
+      "type": "text",
+      "text": "#### Expected Results/Interpretation of Results ",
+      "styleAttributes": {},
+      "x": -4740,
+      "y": 14820,
+      "width": 320,
+      "height": 84
+    },
+    {
+      "id": "838f489b7cb92a20",
+      "type": "text",
+      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
+      "styleAttributes": {},
+      "x": -5460,
+      "y": 14566,
+      "width": 520,
+      "height": 98
+    },
+    {
+      "id": "9529fd7ce532069e",
+      "type": "text",
+      "text": "#### Proposed Methods",
+      "styleAttributes": {},
+      "x": -5300,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "bedad107149fb2b7",
+      "type": "text",
+      "text": "#### Research Q ",
+      "styleAttributes": {},
+      "x": -5940,
+      "y": 14820,
+      "width": 320,
+      "height": 40
+    },
+    {
+      "id": "609eafa2a84b0764",
+      "type": "text",
+      "text": "#### Background (in sufficient detail to motivate the RQ) ",
+      "styleAttributes": {},
+      "x": -6540,
+      "y": 14820,
+      "width": 320,
+      "height": 80
     },
     {
       "id": "a1066e269eddfaf0",
@@ -1947,26 +2108,6 @@
       "height": 60
     },
     {
-      "id": "0bcd5eb3138ba697",
-      "type": "text",
-      "text": "**Results – Expectations and Potential Interpretations (2pts)**\n- Specific potential results are discussed with clear predictions or possibilities that follow from the proposed methodology\n- Discussion is consistent and framed well with respect to the research question and background",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14035,
-      "width": 520,
-      "height": 152
-    },
-    {
-      "id": "f4d405392c3c012f",
-      "type": "text",
-      "text": "**Significance and Contribution (2pts)**\n- Both potential significance and contribution of the project are clearly laid out and highlight importance",
-      "styleAttributes": {},
-      "x": -3660,
-      "y": 14237,
-      "width": 520,
-      "height": 97
-    },
-    {
       "id": "5212c0854246116f",
       "type": "text",
       "text": "#### ***Exit survey***\n\nWhat was your response to the installation on view today? \n\nDid you feel as though you were interacting with something automated? Organic/living? Intelligent?\n\nWhat did the visuals remind you of? \n\nDid the installation change the way you think of artificial neural networks? ",
@@ -2005,56 +2146,6 @@
       "y": 12631,
       "width": 440,
       "height": 148
-    },
-    {
-      "id": "5493944c49f4026f",
-      "type": "text",
-      "text": "**Bibliography (1pt)**\n- A bibliography is provided with at least 20 relevant sources sorted into at least 4 categories",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14286,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "1c8a476d7cd2e2bd",
-      "type": "text",
-      "text": "**Potential/Hypothetical Plan**\n- Defines a specific lab or supervisor; clear reasons are provided for choice; named lab/person has clear relevance for the project",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14236,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "9eedd2d895bc850a",
-      "type": "text",
-      "text": "**Methodology (2pts)**\n- Proposed methodology exceeds expectations and includes good detail with discussion of approach, how the research question could be answered, participants and design (if relevant), and any additional information.",
-      "styleAttributes": {},
-      "x": -4260,
-      "y": 14035,
-      "width": 520,
-      "height": 150
-    },
-    {
-      "id": "f6fd8768b41001fd",
-      "type": "text",
-      "text": "**Writing: General and Structure (1pt each)**\n- Writing has good flow, does not require further proofreading, and exceeds expectations. \n- Proposal is structured in a thoughtful way that reflects the specific needs of the proposed project. Argumentation is clear and shows clear reasoning. \n- All in-text citations have corresponding references. Application of chosen style guide is consistent. Anything that needs (or would benefit from) a supporting citation appears to have one\n",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14286,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "8694c52f613da692",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Rubrics/COGS401_FinalProject.pdf",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 13214,
-      "width": 520,
-      "height": 635
     },
     {
       "id": "3724c201a0b6bd19",
@@ -2135,26 +2226,6 @@
       "y": 8966,
       "width": 260,
       "height": 65
-    },
-    {
-      "id": "d2cd9f6191bf2388",
-      "type": "text",
-      "text": "**Research question (1pt each)**\n- Strong, specific, and clear research question(s) – connections are apparent. \n- Clear hypothesis (or appropriate and/or equivalent direction, where applicable). \n- Research question and hypothesis are strongly motivated by background literature",
-      "styleAttributes": {},
-      "x": -4860,
-      "y": 14029,
-      "width": 520,
-      "height": 208
-    },
-    {
-      "id": "29af2dd0f05050c4",
-      "type": "text",
-      "text": "**Background (5pts)**\n- Relevance of background literature is very clear; ideas are organised and connected. \n- Number of sources are given meets or exceeds expectations; proposal reflects a good understanding of the literature. \n- Background identifies a gap and strongly motivates the proposed project.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14029,
-      "width": 520,
-      "height": 208
     },
     {
       "id": "39ee391fdd3d547c",
@@ -2555,76 +2626,6 @@
       "height": 403
     },
     {
-      "id": "fa372c2696463f70",
-      "type": "text",
-      "text": "#### Brief Description of a Planned Supervisor for the Project ",
-      "styleAttributes": {},
-      "x": -4060,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "fc197701110b7112",
-      "type": "text",
-      "text": "#### Significance/Contributions",
-      "styleAttributes": {},
-      "x": -3540,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "a560451957c0e6b6",
-      "type": "text",
-      "text": "#### Expected Results/Interpretation of Results ",
-      "styleAttributes": {},
-      "x": -4740,
-      "y": 14820,
-      "width": 320,
-      "height": 84
-    },
-    {
-      "id": "838f489b7cb92a20",
-      "type": "text",
-      "text": "**Writing: Audience (2pt)**\n- Writing is appropriate for a general academic audience. Technical terms and concepts are presented in clear manner.",
-      "styleAttributes": {},
-      "x": -5460,
-      "y": 14566,
-      "width": 520,
-      "height": 98
-    },
-    {
-      "id": "9529fd7ce532069e",
-      "type": "text",
-      "text": "#### Proposed Methods",
-      "styleAttributes": {},
-      "x": -5300,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "bedad107149fb2b7",
-      "type": "text",
-      "text": "#### Research Q ",
-      "styleAttributes": {},
-      "x": -5940,
-      "y": 14820,
-      "width": 320,
-      "height": 40
-    },
-    {
-      "id": "609eafa2a84b0764",
-      "type": "text",
-      "text": "#### Background (in sufficient detail to motivate the RQ) ",
-      "styleAttributes": {},
-      "x": -6540,
-      "y": 14820,
-      "width": 320,
-      "height": 80
-    },
-    {
       "id": "3da84e70cd069890",
       "type": "text",
       "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
@@ -2777,6 +2778,16 @@
       "y": 1126,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "33b7a80b45f81d24",
+      "type": "text",
+      "text": "### Meeting w/ T'ai \n\nFocusing on paper concept over artwork as while I enjoyed working in new media/with touchdesigner I ",
+      "styleAttributes": {},
+      "x": -5180,
+      "y": 13120,
+      "width": 480,
+      "height": 140
     }
   ],
   "edges": [
@@ -3607,22 +3618,6 @@
       "toSide": "left"
     },
     {
-      "id": "f275b2901e4f598c",
-      "styleAttributes": {},
-      "fromNode": "0bcd5eb3138ba697",
-      "fromSide": "bottom",
-      "toNode": "f4d405392c3c012f",
-      "toSide": "top"
-    },
-    {
-      "id": "c8033ce64bac30c0",
-      "styleAttributes": {},
-      "fromNode": "9eedd2d895bc850a",
-      "fromSide": "bottom",
-      "toNode": "1c8a476d7cd2e2bd",
-      "toSide": "top"
-    },
-    {
       "id": "3c4b626d652153d1",
       "styleAttributes": {},
       "fromNode": "1cf421d647bfb3eb",
@@ -3637,6 +3632,22 @@
       "fromSide": "right",
       "toNode": "a9b14b7f0c353b83",
       "toSide": "left"
+    },
+    {
+      "id": "f275b2901e4f598c",
+      "styleAttributes": {},
+      "fromNode": "0bcd5eb3138ba697",
+      "fromSide": "bottom",
+      "toNode": "f4d405392c3c012f",
+      "toSide": "top"
+    },
+    {
+      "id": "c8033ce64bac30c0",
+      "styleAttributes": {},
+      "fromNode": "9eedd2d895bc850a",
+      "fromSide": "bottom",
+      "toNode": "1c8a476d7cd2e2bd",
+      "toSide": "top"
     }
   ],
   "metadata": {}
