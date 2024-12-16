@@ -182,6 +182,15 @@
       "height": 80
     },
     {
+      "id": "870ff0054bbcc9de",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/T'ai Smith Meeting 12.16.24.md",
+      "x": -5520,
+      "y": 13380,
+      "width": 620,
+      "height": 540
+    },
+    {
       "id": "a1066e269eddfaf0",
       "type": "group",
       "styleAttributes": {},
@@ -1142,16 +1151,6 @@
       "height": 240
     },
     {
-      "id": "38b87687811faa14",
-      "type": "text",
-      "text": "### Sherrie Levine ",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10635,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "49dc46840b80e57f",
       "type": "text",
       "text": "> Max Weber’s notion of charismatic authority underlies the contemporary use of the word charisma to describe an exceptional magnetism. Weber in turn resurrected the Greek word charisma ... to define **a secular power that often elevates its possessor to a position of influence or leadership.** Charismatic authority for Weber is **unstable and temporary**, an unpredictable presence that remains bound to an individual only as long as she might **embody an identifiable ideology** around which others can gather. In this definition, charisma is an influence that respects no rules and sets its own limits.\n\n[[La Lucha Sin Fin 2012 Frid-Jimenez.pdf#page=5&selection=68,24,81,57|La Lucha Sin Fin 2012 Frid-Jimenez, page 5]]",
@@ -1284,16 +1283,6 @@
       "height": 60
     },
     {
-      "id": "ba6916ed037019fc",
-      "type": "text",
-      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
-      "styleAttributes": {},
-      "x": -1174,
-      "y": 11010,
-      "width": 545,
-      "height": 121
-    },
-    {
       "id": "05dd887824078e8a",
       "type": "text",
       "text": "### Chapter 3: The Macy Conferences ",
@@ -1302,16 +1291,6 @@
       "y": 11284,
       "width": 371,
       "height": 50
-    },
-    {
-      "id": "2e8bfeb0c01c8dea",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
-      "styleAttributes": {},
-      "x": -1634,
-      "y": 11010,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "fb8cc8af3d4ff242",
@@ -1519,26 +1498,6 @@
       "width": 440,
       "height": 174,
       "color": "3"
-    },
-    {
-      "id": "e2eee08c1b88ad31",
-      "type": "file",
-      "file": "Clippings/ARTISTS SPACE.md",
-      "styleAttributes": {},
-      "x": -1660,
-      "y": 10517,
-      "width": 340,
-      "height": 99
-    },
-    {
-      "id": "b18dff2f79d50026",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
-      "styleAttributes": {},
-      "x": -1270,
-      "y": 10518,
-      "width": 400,
-      "height": 400
     },
     {
       "id": "39fedd8c9d541225",
@@ -1751,26 +1710,6 @@
       "y": 9783,
       "width": 350,
       "height": 120
-    },
-    {
-      "id": "c3cd3233e4222915",
-      "type": "text",
-      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10620,
-      "width": 430,
-      "height": 98
-    },
-    {
-      "id": "f0687f5a06ecb9ad",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 10518,
-      "width": 400,
-      "height": 50
     },
     {
       "id": "892e8f07eb18c822",
@@ -2780,13 +2719,74 @@
       "height": 60
     },
     {
-      "id": "870ff0054bbcc9de",
+      "id": "38b87687811faa14",
+      "type": "text",
+      "text": "### Sherrie Levine ",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10635,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ba6916ed037019fc",
+      "type": "text",
+      "text": "> Why does Turing include gender, and why does Hodges want to read this inclusion as indicating that, so far as gender is concerned, verbal performance cannot be equated with embodied reality?\n\n[[How We Became Posthuman Hayles.pdf#page=14&selection=182,0,223,7|How We Became Posthuman Hayles, page 14]]",
+      "styleAttributes": {},
+      "x": -1174,
+      "y": 11010,
+      "width": 545,
+      "height": 121
+    },
+    {
+      "id": "2e8bfeb0c01c8dea",
       "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/T'ai Smith Meeting 12.16.24.md",
-      "x": -5520,
-      "y": 13380,
-      "width": 620,
-      "height": 540
+      "file": "W2024/W2024T1/COGS 401/Research/How We Became Posthuman Hayles.pdf",
+      "styleAttributes": {},
+      "x": -1634,
+      "y": 11010,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "e2eee08c1b88ad31",
+      "type": "file",
+      "file": "Clippings/ARTISTS SPACE.md",
+      "styleAttributes": {},
+      "x": -1660,
+      "y": 10517,
+      "width": 340,
+      "height": 99
+    },
+    {
+      "id": "b18dff2f79d50026",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp.pdf",
+      "styleAttributes": {},
+      "x": -1270,
+      "y": 10518,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "c3cd3233e4222915",
+      "type": "text",
+      "text": "**Sherrie Levine:** \n- The distance between us and what the pictures offer/withhold, and how this sparks desire in us",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10620,
+      "width": 430,
+      "height": 98
+    },
+    {
+      "id": "f0687f5a06ecb9ad",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Pictures Crimp Annotated.md",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 10518,
+      "width": 400,
+      "height": 50
     }
   ],
   "edges": [

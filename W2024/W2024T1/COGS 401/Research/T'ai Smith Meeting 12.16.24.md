@@ -32,3 +32,5 @@ I will be working with T'ai Smith and Amber Frid-Jimenez on their research inves
 	- We will go when i get back! 
 - Artist Space archives at NYU (!) 
 - Usually mondays/fridays ok 
+- Send bibliography
+- 
