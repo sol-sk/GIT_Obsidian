@@ -6,3 +6,4 @@
 **Notes**
 - Parts of transcript that are still labeled inaudible
 - Hammer museum images - some repeats
+	- Reupload 5 smaller
