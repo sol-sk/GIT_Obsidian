@@ -1,1 +1,0 @@
-https://ubc-csm.symplicity.com/students/app/jobs/detail/a2bb9418bb9bc7a2cefa8475c56211db
