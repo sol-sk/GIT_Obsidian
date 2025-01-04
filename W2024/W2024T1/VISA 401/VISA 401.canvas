@@ -1,552 +1,552 @@
 {
-  "nodes": [
-    {
-      "id": "a5a8bf822c1227e6",
-      "type": "text",
-      "text": "| VISA_V 401-D_001 - Advanced Open Studio (D) | Studio | Wed <br>9:00 a.m. - 12:00 p.m. <br>PCE-Room 3007 | Xiong Gu | 1   |\n| ------------------------------------------- | ------ | ------------------------------------------------ | -------- | --- |\n",
-      "styleAttributes": {},
-      "x": -369,
-      "y": -100,
-      "width": 739,
-      "height": 100
-    },
-    {
-      "id": "0fbca4c9c1db019f",
-      "type": "text",
-      "text": "## Project Notes",
-      "styleAttributes": {},
-      "x": 420,
-      "y": 100,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e20a2d3339752509",
-      "type": "text",
-      "text": "- Testing using pre-recorded video",
-      "styleAttributes": {},
-      "x": 392,
-      "y": 192,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f19bf8083e45b5c7",
-      "type": "text",
-      "text": "#### ***Basic setup***",
-      "styleAttributes": {},
-      "x": 392,
-      "y": 328,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "4a1b13d3b1da3084",
-      "type": "text",
-      "text": "##### Video file input\nVideo file → fit TOP (set resolution) → level TOP (invert B&W) → switch TOP → transform TOP → null TOP → edge TOP (takes outline of silhouettte)\n\ncomposite TOP takes edge + (feedback → level (lower opacity of feedback))\n\ncomposite → limit TOP (quantize - round 0,1): removes fading effect → antialias (max quality)",
-      "styleAttributes": {},
-      "x": 392,
-      "y": 415,
-      "width": 507,
-      "height": 271
-    },
-    {
-      "id": "c6d4b63262838907",
-      "type": "text",
-      "text": "##### Kinect input\n(all TOPs)\nKinect → blur (pixel format=32 bit float, filter size=12) → limit (quantize=ceiling) → switch (index=1) \n\n`after this, all same ops as vid file`",
-      "styleAttributes": {},
-      "x": 392,
-      "y": 728,
-      "width": 507,
-      "height": 146
-    },
-    {
-      "id": "ed370e570bda5e9b",
-      "type": "text",
-      "text": "### Peter Kutin",
-      "styleAttributes": {},
-      "x": 960,
-      "y": 130,
-      "width": 174,
-      "height": 50
-    },
-    {
-      "id": "226a6278e1b53de2",
-      "type": "text",
-      "text": "https://www.kutin.xyz/torso1/",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 197,
-      "width": 260,
-      "height": 26
-    },
-    {
-      "id": "17ecbeda69b74f0c",
-      "type": "text",
-      "text": "https://www.kutin.xyz/heat/",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 244,
-      "width": 260,
-      "height": 26
-    },
-    {
-      "id": "a182763cc432fc4e",
-      "type": "text",
-      "text": "https://derivative.ca/community-post/roto%D1%8F-sonic-body/68996",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 297,
-      "width": 260,
-      "height": 76
-    },
-    {
-      "id": "ec3726b97dcc7406",
-      "type": "text",
-      "text": "## Research",
-      "styleAttributes": {},
-      "x": 769,
-      "y": 40,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d10e7164ab052adf",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/on-painting_alberti.png",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": 155,
-      "width": 400,
-      "height": 137
-    },
-    {
-      "id": "971bd4dc6eac38a8",
-      "type": "text",
-      "text": "#### Alberti",
-      "styleAttributes": {},
-      "x": 1440,
-      "y": 80,
-      "width": 109,
-      "height": 49
-    },
-    {
-      "id": "dd63d5da52581af5",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/perspective_panofsky.png",
-      "styleAttributes": {},
-      "x": 1873,
-      "y": 467,
-      "width": 400,
-      "height": 300
-    },
-    {
-      "id": "269ae4f53a50a4a4",
-      "type": "text",
-      "text": "#### Panofsky",
-      "styleAttributes": {},
-      "x": 1815,
-      "y": 385,
-      "width": 130,
-      "height": 60
-    },
-    {
-      "id": "02f74427df8c1a1e",
-      "type": "text",
-      "text": "Keyboard CHOP → Feedback2 (reference to: feedback \"pulse\")\n\nFeedback2 → blur2 (filtersize=32, samplestep=.1) → composite2 (operation=difference)\n\nBlur2 → level2 (blacklevel=.02, gamma=1.2)→ composite2\n\ncomposite2 reference to feedback2\n\nchange original level TOP brightness=.2",
-      "styleAttributes": {},
-      "x": 980,
-      "y": 446,
-      "width": 620,
-      "height": 209
-    },
-    {
-      "id": "5fbd0e1be49027c0",
-      "type": "text",
-      "text": "#### Waytz et al\n",
-      "styleAttributes": {},
-      "x": 1340,
-      "y": 740,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "79cf9bb74ef28696",
-      "type": "text",
-      "text": "![[Causes and consequences of mind perception Waytz et al.pdf]]",
-      "styleAttributes": {},
-      "x": 1420,
-      "y": 820,
-      "width": 453,
-      "height": 300
-    },
-    {
-      "id": "f1eeb779a1e8134c",
-      "type": "text",
-      "text": "###  To do \n- [x] Projector\n- [x] Webcam\n- [ ] Room booking: Can't till 09.25 afternoon",
-      "styleAttributes": {},
-      "x": 417,
-      "y": 965,
-      "width": 457,
-      "height": 151
-    },
-    {
-      "id": "7ebd7b189bf70ef5",
-      "type": "text",
-      "text": "Transformation matrix; move rendering in time with irl motion (mirror)\n\nCanonical face model = locked reference point \nOther geo; (here, torus) in same place as canonical face model\n\tAs long as they line up, you can apply transf matrix \n\nnull1 referenced in geo4 (torus) Xform Matrix/CHOP/DAT passes transform info ",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 1400,
-      "width": 474,
-      "height": 220
-    },
-    {
-      "id": "4b414daed96bd6fb",
-      "type": "text",
-      "text": "[From this YT video (link to section on face detection)](https://youtu.be/Cx4Ellaj6kk?si=IlHMZ5mMGhnsOs_A&t=343)",
-      "styleAttributes": {},
-      "x": 500,
-      "y": 1300,
-      "width": 437,
-      "height": 60
-    },
-    {
-      "id": "7fed47e998e8e9b9",
-      "type": "text",
-      "text": "#### Hand detection DAT",
-      "styleAttributes": {},
-      "x": 140,
-      "y": 1680,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "8458fd38ba9a7796",
-      "type": "text",
-      "text": "Output #1 = TOP",
-      "styleAttributes": {},
-      "x": 523,
-      "y": 1670,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "62ca79aa77fd78e1",
-      "type": "text",
-      "text": "Null CHOP → select channel for specific data point info IE right pointer finger\n\t* in select CHOP gets all coordinates from selected channel",
-      "styleAttributes": {},
-      "x": 1000,
-      "y": 1730,
-      "width": 440,
-      "height": 76
-    },
-    {
-      "id": "a005eaf70d9dc7d2",
-      "type": "text",
-      "text": "Null CHOP → geo COMP; instancing ON, get xyz data \n\ncircle SOP (only 1 needed) → geo \n",
-      "styleAttributes": {},
-      "x": 926,
-      "y": 1899,
-      "width": 294,
-      "height": 121
-    },
-    {
-      "id": "8e1dc618d755e497",
-      "type": "file",
-      "file": "W2024/W2024T1/Screenshots/Screenshot 2024-09-24 at 11.34.20 AM.png",
-      "styleAttributes": {},
-      "x": 1320,
-      "y": 1831,
-      "width": 400,
-      "height": 250
-    },
-    {
-      "id": "d8877afd12673d02",
-      "type": "text",
-      "text": "Output #2 = CHOP all data channels ",
-      "styleAttributes": {},
-      "x": 524,
-      "y": 1756,
-      "width": 302,
-      "height": 50
-    },
-    {
-      "id": "a1aabf871e436192",
-      "type": "text",
-      "text": "Output #3 = CHOP instancing ",
-      "styleAttributes": {},
-      "x": 524,
-      "y": 1831,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "daae68257f1e4c62",
-      "type": "text",
-      "text": "Output #4 = CHOP Overall *motion* (\"velocity\") of movement, mapped into range ",
-      "styleAttributes": {},
-      "x": 523,
-      "y": 1922,
-      "width": 260,
-      "height": 76,
-      "color": "3"
-    },
-    {
-      "id": "4739078ee3f28c42",
-      "type": "text",
-      "text": "Output #5 = CHOP Gestures\n(thumbs up, thumbs down, etc; gesture recognition)",
-      "styleAttributes": {},
-      "x": 523,
-      "y": 2039,
-      "width": 260,
-      "height": 85
-    },
-    {
-      "id": "3aa2618043705b6a",
-      "type": "text",
-      "text": "Output #6&7 = SOP for rendering hand data; split into L&R",
-      "styleAttributes": {},
-      "x": 523,
-      "y": 2160,
-      "width": 260,
-      "height": 90
-    },
-    {
-      "id": "3f7de3bb77901e9f",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 401/VISA_401D_001_2024W1_Gu.pdf",
-      "styleAttributes": {},
-      "x": -520,
-      "y": 60,
-      "width": 760,
-      "height": 980
-    },
-    {
-      "id": "c03b9041d090e098",
-      "type": "text",
-      "text": "#### Pose Tracking",
-      "styleAttributes": {},
-      "x": -20,
-      "y": 1870,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "5eeb9fa8f11aabac",
-      "type": "text",
-      "text": "Movenet for more stable pose tracking",
-      "styleAttributes": {},
-      "x": -140,
-      "y": 1970,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "33a5241de28feb04",
-      "type": "text",
-      "text": "filter per sample to smooth out jitter",
-      "styleAttributes": {},
-      "x": -140,
-      "y": 2053,
-      "width": 260,
-      "height": 50
-    },
-    {
-      "id": "8c5f1c6f05b02675",
-      "type": "text",
-      "text": "#### Reading response",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 2440,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f640be752d22d76b",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 401/Land, Body, Reciprocity.pdf",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 2520,
-      "width": 460,
-      "height": 560
-    },
-    {
-      "id": "1dfb97e966c9da67",
-      "type": "text",
-      "text": "#### 3 questions\n1. According to Simpson (480 reading) embodiment is crucial to decolonization and re building of indigenous identity. How can this ephemeral and spiritual component be integrated in embodied/material work? \n2. How do seeing and being seen relate to both dissociation and physical embodiment?",
-      "styleAttributes": {},
-      "x": 937,
-      "y": 2602,
-      "width": 385,
-      "height": 238
-    },
-    {
-      "id": "75897db3e0296122",
-      "type": "text",
-      "text": "### Response\n\nDispute between Six Nations of the Grand River and the Crown \n- Canadian govt. breaking promise to return land\n\nColonialism destroying communities, homelands & spirits, minds, bodies\n\n*Reflection Series*\n- \"enactment of their presence on their home territories\"\n- **\"fluidity between physical and psychic space\"**\n\t-  relationship to indig. body (sacred body but dissociation, physical actions and form of body in gendered spaces) and land (spiritual traditions, physical relationship) rely on these\n- Ojibway: Masks and fabrics bring us closer to in between\n- Body holds sacred selfhood, oppressed \n*Reflection Piece*\n- Fracturing of identity as seen through settler gaze\n- Relationship with settler-kin\n\t- Friend smashes the mirror: destroying the whole construction of identity through being seen\n\t- \"smash through the veneer of colonial identity\"\n\t- Vulnerability of recognizing how settlers and colonized people will have to work in tandem \n- Relational, illogical optimism\n\nDissociation; community reconnects us to body + land\n\"Warrior-like\"- relationship between solid mask and fractured, \"phantom-like\" presence \n\nMy response; how seeing and being seen relate to dissociation and reaffirm physicality. DIssociation; only seeing, or only having mask be seen; not having \"self\" be seen",
-      "styleAttributes": {},
-      "x": 240,
-      "y": 2560,
-      "width": 500,
-      "height": 760
-    },
-    {
-      "id": "312e95e5a5747335",
-      "type": "file",
-      "file": "W2024/W2024T1/VISA 401/Ai Weiwei’s ‘Zodiac’ Is a Mystical Memory Tour - The New York Times.pdf",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 3240,
-      "width": 460,
-      "height": 560
-    },
-    {
-      "id": "af6deefd5df131d8",
-      "type": "text",
-      "text": "## Schedule\n\n| **Date** | **Focus**                                     | **Due in class**                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 09.04.24 | Syllabus                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 09.11.24 | Presentation group 1                          | Presentation, project proposal                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| 09.18.24 | Presentation group 2                          | Artist statement                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| 09.25.24 | Presentation group 3                          | Artist statement                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| 10.02.24 | Project 1 critique - Group 1                  | Project 1, for critique                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| 10.09.24 | Project 1 critique - Group 2                  | Start project 2 proposal & sketches                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n| 10.16.24 | Presenting project 2, reading discussion      | Reading response (1 page, single space, 12pt.,  & 3 questions) **printed for next class** on either [Burning & Nixon](https://canadianart.ca/features/land-body-reciprocity/?utm_medium=email&utm_campaign=Weekly%20January%2018%202018&utm_content=Weekly%20January%2018%202018+CID_6a53ba8bab604939281825ceb1f9e410&utm_source=E%20Weekly%20Campaign&utm_term=LAND%20BODY%20RECIPROCITY) or [Landreth](https://www.nytimes.com/2024/02/07/arts/ai-weiwei-zodiac-memoir.html). |\n| 10.23.24 | Discussion on project 2                       | Email project 2 (proposal, sketches) to Gu                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| 10.30.24 | Discussion on project 2, reading discussion 2 | Reading response 2 on [Binder](https://www.jstor.org/stable/20447883?)                                                                                                                                                                                                                                                                                                                                                                                                          |\n| 11.06.24 | Discussion on project 2, grant writing        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.13.24 | No class: fall break                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.20.24 | Discussion on project 2                       | *Gallery visit*                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.27.24 | Presentation group 1                          | Project 2, for critique + course evaluation (in class?)                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| 12.04.24 | Presentation group 2                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 12.06.24 | LDOC                                          | Portfolio due: including project 1 + sketches + proposal + artist statement, '' for project 2, presentation notes + ppt, and reading responses and gallery visit report                                                                                                                                                                                                                                                                                                         |\n| 12.12.24 | Individual interview/portfolio pickup         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n",
-      "styleAttributes": {},
-      "x": -1360,
-      "y": 100,
-      "width": 810,
-      "height": 665
-    },
-    {
-      "id": "900e4492472ee3b8",
-      "type": "text",
-      "text": "  *Gallery visit*\n\n  1. visiting Vancouver Art Gallery or other galleries in town.\n\n  2. choose one artist work for writing your gallery report ( a. artist concept (paragraph); b. artist techniques (point notes); c. inspiration (paragraph), one-page, single space, font size 12, put your name & course number), and bring it to next class.\n\n 3.  take one photo of artist work that you will write about, and print it out and bring it to class.",
-      "styleAttributes": {},
-      "x": -2040,
-      "y": 480,
-      "width": 620,
-      "height": 240
-    },
-    {
-      "id": "adca130a01748238",
-      "type": "file",
-      "file": "W2024 Files/VISA 401 Artist statement.pdf",
-      "styleAttributes": {},
-      "x": -2300,
-      "y": 1680,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "e51d2547e9439cdb",
-      "type": "text",
-      "text": "> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n\n\nThis triptych of installation works envelops the participant. Upon entering the space, one has no choice but to be the projected-upon surface: in order to interact, one is not only the generative material from which the visuals develop, but the medium they are expressed upon. These works are more straightforward than the previous in their interactivity; there is less of a guessing game, once their modus operandi is found, it is known. However, it is their input, the sensory data that they collect, that now asserts itself in the installation space. \nOn a loop, installation 3 switches which camera it uses for its video input. Also on a loop, it gives the viewer brief glances of its own processing; sometimes, the facial detection only, a black screen with the location of the participants eyes, nose, and mouth, boxed by \"face detected confidence: 72%.\" Other times, it will show the raw video, allowing one to see what it sees. Sometimes, the video it shows will not be the video it is tracking; it has multiple points of view. \nInstallation 2 similarly offers brief snippets of itself. For a short second, once every few minutes, it plays back the audio from its surroundings, beginning to form a feedback loop ever-increasing in shrillness until it cuts off again. The visual responds to its own looping audio, becoming crazed before normalizing once more. \n\nThis work is not taking a moralizing stance. I offer the opportunity to interact playfully with these technological systems. But it is not only a game–the jarring cuts to one's own voice or face, shown back honestly to them, before being hidden again behind the interactive particles, remind the participant that in order to respond to them, they must be seen and heard by the system. The surprise is a specific device which makes each instance more evocative and memorable. \n\nI found in previous trials that people love to see their own face–in fact, once they can, they'll fixate on the camera. In showing the video, just for a moment, I feed that desire. But it is fleeting, and unreliable; one may dance in front of one camera only to discover, minutes later, that their movement was being tracked from an entirely different device altogether. As much as these systems reveal about themselves, remember it is on their terms. ",
-      "styleAttributes": {},
-      "x": -1840,
-      "y": 1680,
-      "width": 740,
-      "height": 700
-    }
-  ],
-  "edges": [
-    {
-      "id": "c6f7337d6f436171",
-      "styleAttributes": {},
-      "fromNode": "4a1b13d3b1da3084",
-      "fromSide": "right",
-      "toNode": "02f74427df8c1a1e",
-      "toSide": "left"
-    },
-    {
-      "id": "0e73624c16190086",
-      "styleAttributes": {},
-      "fromNode": "4b414daed96bd6fb",
-      "fromSide": "bottom",
-      "toNode": "7ebd7b189bf70ef5",
-      "toSide": "top"
-    },
-    {
-      "id": "d8299928e148340c",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "8458fd38ba9a7796",
-      "toSide": "left"
-    },
-    {
-      "id": "008bc87e24cdf594",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "d8877afd12673d02",
-      "toSide": "left"
-    },
-    {
-      "id": "4d14eea814b40670",
-      "styleAttributes": {},
-      "fromNode": "d8877afd12673d02",
-      "fromSide": "right",
-      "toNode": "62ca79aa77fd78e1",
-      "toSide": "left"
-    },
-    {
-      "id": "2e19c69358d85360",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "a1aabf871e436192",
-      "toSide": "left"
-    },
-    {
-      "id": "95e189760cad1417",
-      "styleAttributes": {},
-      "fromNode": "a1aabf871e436192",
-      "fromSide": "right",
-      "toNode": "a005eaf70d9dc7d2",
-      "toSide": "left"
-    },
-    {
-      "id": "a6222bf27127778e",
-      "styleAttributes": {},
-      "fromNode": "a005eaf70d9dc7d2",
-      "fromSide": "right",
-      "toNode": "8e1dc618d755e497",
-      "toSide": "left"
-    },
-    {
-      "id": "48f614c13ae80cdb",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "daae68257f1e4c62",
-      "toSide": "left"
-    },
-    {
-      "id": "451222b2793a4d2a",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "4739078ee3f28c42",
-      "toSide": "left"
-    },
-    {
-      "id": "1372bb024c271e74",
-      "styleAttributes": {},
-      "fromNode": "7fed47e998e8e9b9",
-      "fromSide": "right",
-      "toNode": "3aa2618043705b6a",
-      "toSide": "left"
-    },
-    {
-      "id": "36a83215ac26908c",
-      "styleAttributes": {},
-      "fromNode": "f640be752d22d76b",
-      "fromSide": "right",
-      "toNode": "1dfb97e966c9da67",
-      "toSide": "left"
-    },
-    {
-      "id": "7d52db52318b751a",
-      "styleAttributes": {},
-      "fromNode": "f640be752d22d76b",
-      "fromSide": "right",
-      "toNode": "75897db3e0296122",
-      "toSide": "left"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"a5a8bf822c1227e6",
+			"type":"text",
+			"text":"| VISA_V 401-D_001 - Advanced Open Studio (D) | Studio | Wed <br>9:00 a.m. - 12:00 p.m. <br>PCE-Room 3007 | Xiong Gu | 1   |\n| ------------------------------------------- | ------ | ------------------------------------------------ | -------- | --- |\n",
+			"styleAttributes":{},
+			"x":-369,
+			"y":-100,
+			"width":739,
+			"height":100
+		},
+		{
+			"id":"0fbca4c9c1db019f",
+			"type":"text",
+			"text":"## Project Notes",
+			"styleAttributes":{},
+			"x":420,
+			"y":100,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e20a2d3339752509",
+			"type":"text",
+			"text":"- Testing using pre-recorded video",
+			"styleAttributes":{},
+			"x":392,
+			"y":192,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f19bf8083e45b5c7",
+			"type":"text",
+			"text":"#### ***Basic setup***",
+			"styleAttributes":{},
+			"x":392,
+			"y":328,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"4a1b13d3b1da3084",
+			"type":"text",
+			"text":"##### Video file input\nVideo file → fit TOP (set resolution) → level TOP (invert B&W) → switch TOP → transform TOP → null TOP → edge TOP (takes outline of silhouettte)\n\ncomposite TOP takes edge + (feedback → level (lower opacity of feedback))\n\ncomposite → limit TOP (quantize - round 0,1): removes fading effect → antialias (max quality)",
+			"styleAttributes":{},
+			"x":392,
+			"y":415,
+			"width":507,
+			"height":271
+		},
+		{
+			"id":"c6d4b63262838907",
+			"type":"text",
+			"text":"##### Kinect input\n(all TOPs)\nKinect → blur (pixel format=32 bit float, filter size=12) → limit (quantize=ceiling) → switch (index=1) \n\n`after this, all same ops as vid file`",
+			"styleAttributes":{},
+			"x":392,
+			"y":728,
+			"width":507,
+			"height":146
+		},
+		{
+			"id":"ed370e570bda5e9b",
+			"type":"text",
+			"text":"### Peter Kutin",
+			"styleAttributes":{},
+			"x":960,
+			"y":130,
+			"width":174,
+			"height":50
+		},
+		{
+			"id":"226a6278e1b53de2",
+			"type":"text",
+			"text":"https://www.kutin.xyz/torso1/",
+			"styleAttributes":{},
+			"x":980,
+			"y":197,
+			"width":260,
+			"height":26
+		},
+		{
+			"id":"17ecbeda69b74f0c",
+			"type":"text",
+			"text":"https://www.kutin.xyz/heat/",
+			"styleAttributes":{},
+			"x":980,
+			"y":244,
+			"width":260,
+			"height":26
+		},
+		{
+			"id":"a182763cc432fc4e",
+			"type":"text",
+			"text":"https://derivative.ca/community-post/roto%D1%8F-sonic-body/68996",
+			"styleAttributes":{},
+			"x":980,
+			"y":297,
+			"width":260,
+			"height":76
+		},
+		{
+			"id":"ec3726b97dcc7406",
+			"type":"text",
+			"text":"## Research",
+			"styleAttributes":{},
+			"x":769,
+			"y":40,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"d10e7164ab052adf",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/on-painting_alberti.png",
+			"styleAttributes":{},
+			"x":1480,
+			"y":155,
+			"width":400,
+			"height":137
+		},
+		{
+			"id":"971bd4dc6eac38a8",
+			"type":"text",
+			"text":"#### Alberti",
+			"styleAttributes":{},
+			"x":1440,
+			"y":80,
+			"width":109,
+			"height":49
+		},
+		{
+			"id":"dd63d5da52581af5",
+			"type":"file",
+			"file":"W2024/W2024T1/COGS 401/Research/perspective_panofsky.png",
+			"styleAttributes":{},
+			"x":1873,
+			"y":467,
+			"width":400,
+			"height":300
+		},
+		{
+			"id":"269ae4f53a50a4a4",
+			"type":"text",
+			"text":"#### Panofsky",
+			"styleAttributes":{},
+			"x":1815,
+			"y":385,
+			"width":130,
+			"height":60
+		},
+		{
+			"id":"02f74427df8c1a1e",
+			"type":"text",
+			"text":"Keyboard CHOP → Feedback2 (reference to: feedback \"pulse\")\n\nFeedback2 → blur2 (filtersize=32, samplestep=.1) → composite2 (operation=difference)\n\nBlur2 → level2 (blacklevel=.02, gamma=1.2)→ composite2\n\ncomposite2 reference to feedback2\n\nchange original level TOP brightness=.2",
+			"styleAttributes":{},
+			"x":980,
+			"y":446,
+			"width":620,
+			"height":209
+		},
+		{
+			"id":"5fbd0e1be49027c0",
+			"type":"text",
+			"text":"#### Waytz et al\n",
+			"styleAttributes":{},
+			"x":1340,
+			"y":740,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"79cf9bb74ef28696",
+			"type":"text",
+			"text":"![[Causes and consequences of mind perception Waytz et al.pdf]]",
+			"styleAttributes":{},
+			"x":1420,
+			"y":820,
+			"width":453,
+			"height":300
+		},
+		{
+			"id":"f1eeb779a1e8134c",
+			"type":"text",
+			"text":"###  To do \n- [x] Projector\n- [x] Webcam\n- [ ] Room booking: Can't till 09.25 afternoon",
+			"styleAttributes":{},
+			"x":417,
+			"y":965,
+			"width":457,
+			"height":151
+		},
+		{
+			"id":"7ebd7b189bf70ef5",
+			"type":"text",
+			"text":"Transformation matrix; move rendering in time with irl motion (mirror)\n\nCanonical face model = locked reference point \nOther geo; (here, torus) in same place as canonical face model\n\tAs long as they line up, you can apply transf matrix \n\nnull1 referenced in geo4 (torus) Xform Matrix/CHOP/DAT passes transform info ",
+			"styleAttributes":{},
+			"x":500,
+			"y":1400,
+			"width":474,
+			"height":220
+		},
+		{
+			"id":"4b414daed96bd6fb",
+			"type":"text",
+			"text":"[From this YT video (link to section on face detection)](https://youtu.be/Cx4Ellaj6kk?si=IlHMZ5mMGhnsOs_A&t=343)",
+			"styleAttributes":{},
+			"x":500,
+			"y":1300,
+			"width":437,
+			"height":60
+		},
+		{
+			"id":"7fed47e998e8e9b9",
+			"type":"text",
+			"text":"#### Hand detection DAT",
+			"styleAttributes":{},
+			"x":140,
+			"y":1680,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"8458fd38ba9a7796",
+			"type":"text",
+			"text":"Output #1 = TOP",
+			"styleAttributes":{},
+			"x":523,
+			"y":1670,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"62ca79aa77fd78e1",
+			"type":"text",
+			"text":"Null CHOP → select channel for specific data point info IE right pointer finger\n\t* in select CHOP gets all coordinates from selected channel",
+			"styleAttributes":{},
+			"x":1000,
+			"y":1730,
+			"width":440,
+			"height":76
+		},
+		{
+			"id":"a005eaf70d9dc7d2",
+			"type":"text",
+			"text":"Null CHOP → geo COMP; instancing ON, get xyz data \n\ncircle SOP (only 1 needed) → geo \n",
+			"styleAttributes":{},
+			"x":926,
+			"y":1899,
+			"width":294,
+			"height":121
+		},
+		{
+			"id":"8e1dc618d755e497",
+			"type":"file",
+			"file":"W2024/W2024T1/Screenshots/Screenshot 2024-09-24 at 11.34.20 AM.png",
+			"styleAttributes":{},
+			"x":1320,
+			"y":1831,
+			"width":400,
+			"height":250
+		},
+		{
+			"id":"d8877afd12673d02",
+			"type":"text",
+			"text":"Output #2 = CHOP all data channels ",
+			"styleAttributes":{},
+			"x":524,
+			"y":1756,
+			"width":302,
+			"height":50
+		},
+		{
+			"id":"a1aabf871e436192",
+			"type":"text",
+			"text":"Output #3 = CHOP instancing ",
+			"styleAttributes":{},
+			"x":524,
+			"y":1831,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"daae68257f1e4c62",
+			"type":"text",
+			"text":"Output #4 = CHOP Overall *motion* (\"velocity\") of movement, mapped into range ",
+			"styleAttributes":{},
+			"x":523,
+			"y":1922,
+			"width":260,
+			"height":76,
+			"color":"3"
+		},
+		{
+			"id":"4739078ee3f28c42",
+			"type":"text",
+			"text":"Output #5 = CHOP Gestures\n(thumbs up, thumbs down, etc; gesture recognition)",
+			"styleAttributes":{},
+			"x":523,
+			"y":2039,
+			"width":260,
+			"height":85
+		},
+		{
+			"id":"3aa2618043705b6a",
+			"type":"text",
+			"text":"Output #6&7 = SOP for rendering hand data; split into L&R",
+			"styleAttributes":{},
+			"x":523,
+			"y":2160,
+			"width":260,
+			"height":90
+		},
+		{
+			"id":"3f7de3bb77901e9f",
+			"type":"file",
+			"file":"W2024/W2024T1/VISA 401/VISA_401D_001_2024W1_Gu.pdf",
+			"styleAttributes":{},
+			"x":-520,
+			"y":60,
+			"width":760,
+			"height":980
+		},
+		{
+			"id":"c03b9041d090e098",
+			"type":"text",
+			"text":"#### Pose Tracking",
+			"styleAttributes":{},
+			"x":-20,
+			"y":1870,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"5eeb9fa8f11aabac",
+			"type":"text",
+			"text":"Movenet for more stable pose tracking",
+			"styleAttributes":{},
+			"x":-140,
+			"y":1970,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"33a5241de28feb04",
+			"type":"text",
+			"text":"filter per sample to smooth out jitter",
+			"styleAttributes":{},
+			"x":-140,
+			"y":2053,
+			"width":260,
+			"height":50
+		},
+		{
+			"id":"8c5f1c6f05b02675",
+			"type":"text",
+			"text":"#### Reading response",
+			"styleAttributes":{},
+			"x":-320,
+			"y":2440,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f640be752d22d76b",
+			"type":"file",
+			"file":"W2024/W2024T1/VISA 401/Land, Body, Reciprocity.pdf",
+			"styleAttributes":{},
+			"x":-320,
+			"y":2520,
+			"width":460,
+			"height":560
+		},
+		{
+			"id":"1dfb97e966c9da67",
+			"type":"text",
+			"text":"#### 3 questions\n1. According to Simpson (480 reading) embodiment is crucial to decolonization and re building of indigenous identity. How can this ephemeral and spiritual component be integrated in embodied/material work? \n2. How do seeing and being seen relate to both dissociation and physical embodiment?",
+			"styleAttributes":{},
+			"x":937,
+			"y":2602,
+			"width":385,
+			"height":238
+		},
+		{
+			"id":"75897db3e0296122",
+			"type":"text",
+			"text":"### Response\n\nDispute between Six Nations of the Grand River and the Crown \n- Canadian govt. breaking promise to return land\n\nColonialism destroying communities, homelands & spirits, minds, bodies\n\n*Reflection Series*\n- \"enactment of their presence on their home territories\"\n- **\"fluidity between physical and psychic space\"**\n\t-  relationship to indig. body (sacred body but dissociation, physical actions and form of body in gendered spaces) and land (spiritual traditions, physical relationship) rely on these\n- Ojibway: Masks and fabrics bring us closer to in between\n- Body holds sacred selfhood, oppressed \n*Reflection Piece*\n- Fracturing of identity as seen through settler gaze\n- Relationship with settler-kin\n\t- Friend smashes the mirror: destroying the whole construction of identity through being seen\n\t- \"smash through the veneer of colonial identity\"\n\t- Vulnerability of recognizing how settlers and colonized people will have to work in tandem \n- Relational, illogical optimism\n\nDissociation; community reconnects us to body + land\n\"Warrior-like\"- relationship between solid mask and fractured, \"phantom-like\" presence \n\nMy response; how seeing and being seen relate to dissociation and reaffirm physicality. DIssociation; only seeing, or only having mask be seen; not having \"self\" be seen",
+			"styleAttributes":{},
+			"x":240,
+			"y":2560,
+			"width":500,
+			"height":760
+		},
+		{
+			"id":"312e95e5a5747335",
+			"type":"file",
+			"file":"W2024/W2024T1/VISA 401/Ai Weiwei’s ‘Zodiac’ Is a Mystical Memory Tour - The New York Times.pdf",
+			"styleAttributes":{},
+			"x":-320,
+			"y":3240,
+			"width":460,
+			"height":560
+		},
+		{
+			"id":"af6deefd5df131d8",
+			"type":"text",
+			"text":"## Schedule\n\n| **Date** | **Focus**                                     | **Due in class**                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| -------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 09.04.24 | Syllabus                                      |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 09.11.24 | Presentation group 1                          | Presentation, project proposal                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| 09.18.24 | Presentation group 2                          | Artist statement                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| 09.25.24 | Presentation group 3                          | Artist statement                                                                                                                                                                                                                                                                                                                                                                                                                                                                |\n| 10.02.24 | Project 1 critique - Group 1                  | Project 1, for critique                                                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| 10.09.24 | Project 1 critique - Group 2                  | Start project 2 proposal & sketches                                                                                                                                                                                                                                                                                                                                                                                                                                             |\n| 10.16.24 | Presenting project 2, reading discussion      | Reading response (1 page, single space, 12pt.,  & 3 questions) **printed for next class** on either [Burning & Nixon](https://canadianart.ca/features/land-body-reciprocity/?utm_medium=email&utm_campaign=Weekly%20January%2018%202018&utm_content=Weekly%20January%2018%202018+CID_6a53ba8bab604939281825ceb1f9e410&utm_source=E%20Weekly%20Campaign&utm_term=LAND%20BODY%20RECIPROCITY) or [Landreth](https://www.nytimes.com/2024/02/07/arts/ai-weiwei-zodiac-memoir.html). |\n| 10.23.24 | Discussion on project 2                       | Email project 2 (proposal, sketches) to Gu                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| 10.30.24 | Discussion on project 2, reading discussion 2 | Reading response 2 on [Binder](https://www.jstor.org/stable/20447883?)                                                                                                                                                                                                                                                                                                                                                                                                          |\n| 11.06.24 | Discussion on project 2, grant writing        |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.13.24 | No class: fall break                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.20.24 | Discussion on project 2                       | *Gallery visit*                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 11.27.24 | Presentation group 1                          | Project 2, for critique + course evaluation (in class?)                                                                                                                                                                                                                                                                                                                                                                                                                         |\n| 12.04.24 | Presentation group 2                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n| 12.06.24 | LDOC                                          | Portfolio due: including project 1 + sketches + proposal + artist statement, '' for project 2, presentation notes + ppt, and reading responses and gallery visit report                                                                                                                                                                                                                                                                                                         |\n| 12.12.24 | Individual interview/portfolio pickup         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n",
+			"styleAttributes":{},
+			"x":-1360,
+			"y":100,
+			"width":810,
+			"height":665
+		},
+		{
+			"id":"900e4492472ee3b8",
+			"type":"text",
+			"text":"  *Gallery visit*\n\n  1. visiting Vancouver Art Gallery or other galleries in town.\n\n  2. choose one artist work for writing your gallery report ( a. artist concept (paragraph); b. artist techniques (point notes); c. inspiration (paragraph), one-page, single space, font size 12, put your name & course number), and bring it to next class.\n\n 3.  take one photo of artist work that you will write about, and print it out and bring it to class.",
+			"styleAttributes":{},
+			"x":-2040,
+			"y":480,
+			"width":620,
+			"height":240
+		},
+		{
+			"id":"adca130a01748238",
+			"type":"file",
+			"file":"W2024/W2024T1/VISA 401/VISA 401 Artist statement.pdf",
+			"styleAttributes":{},
+			"x":-2300,
+			"y":1680,
+			"width":400,
+			"height":400
+		},
+		{
+			"id":"e51d2547e9439cdb",
+			"type":"text",
+			"text":"> Skin has become inadequate in interfacing with reality. Technology has become the body’s new membrane of existence. (Nam June Paik 1989)\n\n\nThis triptych of installation works envelops the participant. Upon entering the space, one has no choice but to be the projected-upon surface: in order to interact, one is not only the generative material from which the visuals develop, but the medium they are expressed upon. These works are more straightforward than the previous in their interactivity; there is less of a guessing game, once their modus operandi is found, it is known. However, it is their input, the sensory data that they collect, that now asserts itself in the installation space. \nOn a loop, installation 3 switches which camera it uses for its video input. Also on a loop, it gives the viewer brief glances of its own processing; sometimes, the facial detection only, a black screen with the location of the participants eyes, nose, and mouth, boxed by \"face detected confidence: 72%.\" Other times, it will show the raw video, allowing one to see what it sees. Sometimes, the video it shows will not be the video it is tracking; it has multiple points of view. \nInstallation 2 similarly offers brief snippets of itself. For a short second, once every few minutes, it plays back the audio from its surroundings, beginning to form a feedback loop ever-increasing in shrillness until it cuts off again. The visual responds to its own looping audio, becoming crazed before normalizing once more. \n\nThis work is not taking a moralizing stance. I offer the opportunity to interact playfully with these technological systems. But it is not only a game–the jarring cuts to one's own voice or face, shown back honestly to them, before being hidden again behind the interactive particles, remind the participant that in order to respond to them, they must be seen and heard by the system. The surprise is a specific device which makes each instance more evocative and memorable. \n\nI found in previous trials that people love to see their own face–in fact, once they can, they'll fixate on the camera. In showing the video, just for a moment, I feed that desire. But it is fleeting, and unreliable; one may dance in front of one camera only to discover, minutes later, that their movement was being tracked from an entirely different device altogether. As much as these systems reveal about themselves, remember it is on their terms. ",
+			"styleAttributes":{},
+			"x":-1840,
+			"y":1680,
+			"width":740,
+			"height":700
+		}
+	],
+	"edges":[
+		{
+			"id":"c6f7337d6f436171",
+			"styleAttributes":{},
+			"fromNode":"4a1b13d3b1da3084",
+			"fromSide":"right",
+			"toNode":"02f74427df8c1a1e",
+			"toSide":"left"
+		},
+		{
+			"id":"0e73624c16190086",
+			"styleAttributes":{},
+			"fromNode":"4b414daed96bd6fb",
+			"fromSide":"bottom",
+			"toNode":"7ebd7b189bf70ef5",
+			"toSide":"top"
+		},
+		{
+			"id":"d8299928e148340c",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"8458fd38ba9a7796",
+			"toSide":"left"
+		},
+		{
+			"id":"008bc87e24cdf594",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"d8877afd12673d02",
+			"toSide":"left"
+		},
+		{
+			"id":"4d14eea814b40670",
+			"styleAttributes":{},
+			"fromNode":"d8877afd12673d02",
+			"fromSide":"right",
+			"toNode":"62ca79aa77fd78e1",
+			"toSide":"left"
+		},
+		{
+			"id":"2e19c69358d85360",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"a1aabf871e436192",
+			"toSide":"left"
+		},
+		{
+			"id":"95e189760cad1417",
+			"styleAttributes":{},
+			"fromNode":"a1aabf871e436192",
+			"fromSide":"right",
+			"toNode":"a005eaf70d9dc7d2",
+			"toSide":"left"
+		},
+		{
+			"id":"a6222bf27127778e",
+			"styleAttributes":{},
+			"fromNode":"a005eaf70d9dc7d2",
+			"fromSide":"right",
+			"toNode":"8e1dc618d755e497",
+			"toSide":"left"
+		},
+		{
+			"id":"48f614c13ae80cdb",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"daae68257f1e4c62",
+			"toSide":"left"
+		},
+		{
+			"id":"451222b2793a4d2a",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"4739078ee3f28c42",
+			"toSide":"left"
+		},
+		{
+			"id":"1372bb024c271e74",
+			"styleAttributes":{},
+			"fromNode":"7fed47e998e8e9b9",
+			"fromSide":"right",
+			"toNode":"3aa2618043705b6a",
+			"toSide":"left"
+		},
+		{
+			"id":"36a83215ac26908c",
+			"styleAttributes":{},
+			"fromNode":"f640be752d22d76b",
+			"fromSide":"right",
+			"toNode":"1dfb97e966c9da67",
+			"toSide":"left"
+		},
+		{
+			"id":"7d52db52318b751a",
+			"styleAttributes":{},
+			"fromNode":"f640be752d22d76b",
+			"fromSide":"right",
+			"toNode":"75897db3e0296122",
+			"toSide":"left"
+		}
+	],
+	"metadata":{}
 }

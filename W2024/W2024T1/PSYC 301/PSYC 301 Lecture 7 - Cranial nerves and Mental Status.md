@@ -207,7 +207,7 @@ YlbaKKE5: [[PSYC301 Lecture 07 prerecorded - Exam and assessment.pdf]]
 ## Embedded Files
 17d6aa56577d90cfedfdffc12ceeb13b834ad046: [[W2024/W2024T1/PSYC 301/cropped_PSYC301 Lecture 07 prerecorded - Exam and assessment]]
 
-50b4225c848572ef53cbcffad96a1b0aaa84885e: [[W2024 Files/cropped_PSYC301 Lecture 07 prerecorded - Exam and assessment]]
+50b4225c848572ef53cbcffad96a1b0aaa84885e: [[cropped_PSYC301 Lecture 07 prerecorded - Exam and assessment 1]]
 
 %%
 ## Drawing
