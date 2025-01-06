@@ -6,6 +6,7 @@
 | 01.03.25 | 1hr        | 10:00        | 11:00      | Correcting script                         |
 | 01.03.25 | 2hr        | 17:00        | 17:52      | Final tweaks to images, inc. meeting time |
 | 01.05.25 | 15 min     | 21:00        | 21:09      | Editing dates on menu                     |
+| 01.06.25 |            | 16:44        |            |                                           |
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
