@@ -17,15 +17,6 @@ BL Notes 1/3/25
 - [X] Take out guest 1 inaudible 00:03
 - [X] Double check all images “full”
 - [x] Match image spacing to Alan Miyatake image
-
-  
-
 - [X] Move effigy to “certainly pulled out all the stops” 
-
-  
-
 - [ ] *TBD* Add artist image to end if they allow (Elle perez)
-
-  
-
-~~Live @ 3PST/6EST Jan 8~~ Jan 7 at 6AM EST
+~~Live @ 3PST/6EST Jan 8~~ **Jan 7 at 6AM EST** - Scheduled
