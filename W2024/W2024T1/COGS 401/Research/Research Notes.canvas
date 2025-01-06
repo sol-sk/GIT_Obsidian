@@ -587,134 +587,6 @@
       "height": 60
     },
     {
-      "id": "6f79bccfb22b2286",
-      "type": "text",
-      "text": "### Paper",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 11360,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "68221bd9306bdeab",
-      "type": "text",
-      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 11440,
-      "width": 530,
-      "height": 673
-    },
-    {
-      "id": "498244fd7ecd9db5",
-      "type": "text",
-      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
-      "styleAttributes": {},
-      "x": -5190,
-      "y": 10830,
-      "width": 440,
-      "height": 160
-    },
-    {
-      "id": "96031e5e20ab5e53",
-      "type": "text",
-      "text": "More emphasis on explaining the methods for the ANN",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11160,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "e8fec6ae8b532cb9",
-      "type": "text",
-      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11380,
-      "width": 330,
-      "height": 80
-    },
-    {
-      "id": "657b8e3fe46cecee",
-      "type": "text",
-      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
-      "styleAttributes": {},
-      "x": -5700,
-      "y": 11480,
-      "width": 330,
-      "height": 120
-    },
-    {
-      "id": "2cad693b8a9567f4",
-      "type": "text",
-      "text": "- More memorable? \n- More personal experience?",
-      "styleAttributes": {},
-      "x": -5010,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8fd5523b2c14cf00",
-      "type": "text",
-      "text": "### Research Question",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5100,
-      "y": 10750,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "03fd373a93f88735",
-      "type": "text",
-      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
-      "styleAttributes": {},
-      "x": -5060,
-      "y": 12631,
-      "width": 440,
-      "height": 148
-    },
-    {
-      "id": "5f1ec2e06a9b0249",
-      "type": "text",
-      "text": "### Outcome",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5355ff9092c2820d",
-      "type": "text",
-      "text": "### Methodology",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -5450,
-      "y": 11072,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2e4d3e263588a10c",
-      "type": "file",
-      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
-      "styleAttributes": {},
-      "x": -6280,
-      "y": 12410,
-      "width": 1030,
-      "height": 590
-    },
-    {
       "id": "db5b8e6eadd5bb01",
       "type": "text",
       "text": "> The human “I” sees AI (alternative-I) reflected back at them, mistaking its reflective surface of code for a likeness. Indeed, a certain image of AI has emerged in the last several years, what Pasquinelli has referred to as an “alchemic talisman.”",
@@ -893,160 +765,6 @@
       "y": 3960,
       "width": 260,
       "height": 76
-    },
-    {
-      "id": "ef7e111046a623e6",
-      "type": "text",
-      "text": "Genetic, Evolutionary, and Organic art",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 14480,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "2d3483b8298f0163",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 14510,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "a7e71a29f000598d",
-      "type": "text",
-      "text": "+Emergent behavior",
-      "styleAttributes": {},
-      "x": -896,
-      "y": 14580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "dd3d95cf9ac9bf80",
-      "type": "text",
-      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
-      "styleAttributes": {},
-      "x": -546,
-      "y": 14590,
-      "width": 320,
-      "height": 100
-    },
-    {
-      "id": "6bd00e4c2df7f8a0",
-      "type": "text",
-      "text": "> Much of contemporary art, however, is focused elsewhere, for example, the attempt by some critical theorists to elevate the awareness of art’s social context. They see abstractionism situated firmly within the modernist tradition and challenge its asser- tion of the possibility of identifying of grand, unifying “truths.” They question the possibilities of such universal themes and instead assert postmodern perspectives of relativity and diversity. To some of these critics, the work of artists dis- cussed in this section seems somewhat an anachronism—even though it uses the latest theories and tools. They would claim that the search for shapes and forms to express the underlying unity of the universe seems part of an abandoned discourse and not germane to the pressing issues confronting today’s world and art. The debate promises to continue into the future as art struggles to reconcile these different approaches.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=363&selection=0,11,10,85|Information Arts Intersections of Art, Science, and Technology_Wilson, page 363]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 14690,
-      "width": 532,
-      "height": 403
-    },
-    {
-      "id": "3da84e70cd069890",
-      "type": "text",
-      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 14780,
-      "width": 532,
-      "height": 260,
-      "color": "5"
-    },
-    {
-      "id": "f0edec20b1785fa8",
-      "type": "text",
-      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
-      "styleAttributes": {},
-      "x": -40,
-      "y": 14695,
-      "width": 532,
-      "height": 245,
-      "color": "5"
-    },
-    {
-      "id": "77d023904c6630a1",
-      "type": "file",
-      "file": "W2024 Files/mechanical-reproduction_benjamin.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 15280,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "6f5516bc48fb1887",
-      "type": "text",
-      "text": ">  That is to say, in the studio the mechanical equipment has penetrated so deeply into reality that its pure aspect freed from the foreign substance of equipment is the result of a special procedure, namely, the shooting by the specially adjusted camera and the mounting of the shot together with other similar ones. The equipment-free aspect of reality here has become the height of artifice; the sight of immediate reality has become an orchid in the land of technology.\n\n[[mechanical-reproduction_benjamin.pdf#page=13&selection=72,30,88,13|mechanical-reproduction_benjamin, page 13]]",
-      "styleAttributes": {},
-      "x": -600,
-      "y": 15300,
-      "width": 532,
-      "height": 240
-    },
-    {
-      "id": "798f7272ccd196e5",
-      "type": "text",
-      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 14695,
-      "width": 532,
-      "height": 319,
-      "color": "4"
-    },
-    {
-      "id": "5baabd87a33a0cfb",
-      "type": "text",
-      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
-      "styleAttributes": {},
-      "x": -1186,
-      "y": 15360,
-      "width": 532,
-      "height": 120,
-      "color": "3"
-    },
-    {
-      "id": "0f595e42a18eb119",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 15840,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "a3275b18111da8d9",
-      "type": "file",
-      "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
-      "styleAttributes": {},
-      "x": -1638,
-      "y": 16320,
-      "width": 400,
-      "height": 400
-    },
-    {
-      "id": "dd155960cd038a3a",
-      "type": "text",
-      "text": ">  In an unpublished 1977 text that laid the foundation for Satellite Arts, the artists wrote: “Our tech- nological society is in an era of transitional mutation from an industrial age to an electronic age. It is an age where dominant agencies of commu- nication produce the message systems that cultivate the dominant social patterns. They structure the public agenda of existence, priorities, values and relationships. It is these mutating consequences that become forces of acculturation, creating a new symbolic order.”27 To Brecht, technical in- novation, conventionally conceived, was in danger of primarily expanding the distribution of content and thus economic and ideological domina- tion under the guise of progress. He lambasted “the colossal triumph of technology at last to be able to make accessible to the entire world a Vien- nese waltz and a kitchen recipe.”28\n\n[[The-future-is-present_Glahn-Levine.pdf#page=23&selection=71,0,116,0|The-future-is-present_Glahn-Levine, page 23]]",
-      "styleAttributes": {},
-      "x": -1120,
-      "y": 16360,
-      "width": 600,
-      "height": 360
-    },
-    {
-      "id": "7357115970f54ff1",
-      "type": "text",
-      "text": ">  “Since it is primarily production (productive creation) that serves human construction, we must strive to turn the apparatus (instruments) used so far for only reproductive pur- poses into ones that can be used for productive purposes as well.\n\n[[The-future-is-present_Glahn-Levine.pdf#page=24&selection=78,40,87,65|The-future-is-present_Glahn-Levine, page 24]]",
-      "styleAttributes": {},
-      "x": -440,
-      "y": 16420,
-      "width": 480,
-      "height": 200
     },
     {
       "id": "58fddf868d1d1d2f",
@@ -2787,6 +2505,308 @@
       "y": 830,
       "width": 680,
       "height": 1055
+    },
+    {
+      "id": "03fd373a93f88735",
+      "type": "text",
+      "text": "Psychology aspect: could be acknowledged under outcome\n\n**Research question(s)**\nFraming as 2 related research questions: \n1: role of artist (paper)\n2: from presentation, for installation \n\n",
+      "styleAttributes": {},
+      "x": -5060,
+      "y": 12631,
+      "width": 440,
+      "height": 148
+    },
+    {
+      "id": "ef7e111046a623e6",
+      "type": "text",
+      "text": "Genetic, Evolutionary, and Organic art",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 14480,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "2d3483b8298f0163",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/Information Arts Intersections of Art, Science, and Technology_Wilson.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 14510,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a7e71a29f000598d",
+      "type": "text",
+      "text": "+Emergent behavior",
+      "styleAttributes": {},
+      "x": -896,
+      "y": 14580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "dd3d95cf9ac9bf80",
+      "type": "text",
+      "text": "***Yves Amu Klein*** (348-350 of *Info Art*)\n- \"Living sculptures\"\n- Son of YK!",
+      "styleAttributes": {},
+      "x": -546,
+      "y": 14590,
+      "width": 320,
+      "height": 100
+    },
+    {
+      "id": "68221bd9306bdeab",
+      "type": "text",
+      "text": "##### *Historical*\n**Cybernetics**\n- Macy Conferences (1946-1953)\n- Metaphorical representation of the mind and information\n- Early theorizing on ANNs\n\n##### *Contemporary*\n**Early digital art**\n- Ways of visualizing digital systems\n- Performance art → interactive art\n- Framework for interpreting contemporary digital art\n\n**Artworks using ANNs**\n- Amber Frid-Jimenez, static data input\n- Marco Barotti, live data input\n\n##### *Justification*\n**Contribution to cognitive science**\n- Effects of visual metaphor \n- Qualitative experience\n- Generative\n",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 11440,
+      "width": 530,
+      "height": 673
+    },
+    {
+      "id": "6bd00e4c2df7f8a0",
+      "type": "text",
+      "text": "> Much of contemporary art, however, is focused elsewhere, for example, the attempt by some critical theorists to elevate the awareness of art’s social context. They see abstractionism situated firmly within the modernist tradition and challenge its asser- tion of the possibility of identifying of grand, unifying “truths.” They question the possibilities of such universal themes and instead assert postmodern perspectives of relativity and diversity. To some of these critics, the work of artists dis- cussed in this section seems somewhat an anachronism—even though it uses the latest theories and tools. They would claim that the search for shapes and forms to express the underlying unity of the universe seems part of an abandoned discourse and not germane to the pressing issues confronting today’s world and art. The debate promises to continue into the future as art struggles to reconcile these different approaches.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=363&selection=0,11,10,85|Information Arts Intersections of Art, Science, and Technology_Wilson, page 363]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 14690,
+      "width": 532,
+      "height": 403
+    },
+    {
+      "id": "3da84e70cd069890",
+      "type": "text",
+      "text": "> (Ken Rinaldo) With Mark Grossman, he created The Flock, in which an assemblage of robotic arms hanging from the ceiling interact with each other and with viewers via touch tones, and manifest “flocking” behavior, which develops from “awareness of each other and the environment.” In Autopoiesis a network of sound sculptures generate emergent behavior through sound communication with viewers and each other.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=367&selection=4,25,9,33|Information Arts Intersections of Art, Science, and Technology_Wilson, page 367]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 14780,
+      "width": 532,
+      "height": 260,
+      "color": "5"
+    },
+    {
+      "id": "f0edec20b1785fa8",
+      "type": "text",
+      "text": "> With the advent of microcomputers in the late 1970s, some artists became very interested in interactivity. Artists were able to create dynamic works in which the audience functioned as cocreators; the behavior of the work depended on choices made by the viewer. I was one of the early practitioners of this movement and often spoke about the “revolutionary” potential of interactive art for mobilizing audiences.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=368&selection=24,0,26,82|Information Arts Intersections of Art, Science, and Technology_Wilson, page 368]]",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 14695,
+      "width": 532,
+      "height": 245,
+      "color": "5"
+    },
+    {
+      "id": "798f7272ccd196e5",
+      "type": "text",
+      "text": "> The nature of the interactive structure is critical, and the simple menu choice can be a sham with no real choice offered. Artists are now searching for more com- plex forms of interactivity that call on deeper involvement by viewers. (For more discussion of the issue see chapter 7.1, which reviews theories of digital culture and art.) Some artists believe that artificial life and artificial intelligence offer an approach to explore a more interesting kind of interactivity. Artificial life is seen as promising because it allows the artwork itself to have a larger repertoire of behaviors that can generate novel behaviors through evolution, learning, and interactions with viewers.\n\n[[Information Arts Intersections of Art, Science, and Technology_Wilson.pdf#page=369&selection=15,0,23,84|Information Arts Intersections of Art, Science, and Technology_Wilson, page 369]]",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 14695,
+      "width": 532,
+      "height": 319,
+      "color": "4"
+    },
+    {
+      "id": "498244fd7ecd9db5",
+      "type": "text",
+      "text": "## Does representing an artificial neural network (ANNs) as an interactive projection cause people to react/think/___ ?",
+      "styleAttributes": {},
+      "x": -5190,
+      "y": 10830,
+      "width": 440,
+      "height": 160
+    },
+    {
+      "id": "2cad693b8a9567f4",
+      "type": "text",
+      "text": "- More memorable? \n- More personal experience?",
+      "styleAttributes": {},
+      "x": -5010,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8fd5523b2c14cf00",
+      "type": "text",
+      "text": "### Research Question",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 10750,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "77d023904c6630a1",
+      "type": "file",
+      "file": "W2024 Files/mechanical-reproduction_benjamin.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 15280,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "6f5516bc48fb1887",
+      "type": "text",
+      "text": ">  That is to say, in the studio the mechanical equipment has penetrated so deeply into reality that its pure aspect freed from the foreign substance of equipment is the result of a special procedure, namely, the shooting by the specially adjusted camera and the mounting of the shot together with other similar ones. The equipment-free aspect of reality here has become the height of artifice; the sight of immediate reality has become an orchid in the land of technology.\n\n[[mechanical-reproduction_benjamin.pdf#page=13&selection=72,30,88,13|mechanical-reproduction_benjamin, page 13]]",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 15300,
+      "width": 532,
+      "height": 240
+    },
+    {
+      "id": "5baabd87a33a0cfb",
+      "type": "text",
+      "text": "> The adjustment of reality to the masses and of the masses to reality is a process of unlimited scope, as much for thinking as for perception.\n\n[[mechanical-reproduction_benjamin.pdf#page=6&selection=26,77,31,56|mechanical-reproduction_benjamin, page 6]]",
+      "styleAttributes": {},
+      "x": -1186,
+      "y": 15360,
+      "width": 532,
+      "height": 120,
+      "color": "3"
+    },
+    {
+      "id": "0f595e42a18eb119",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The-line_Boyle.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 15840,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "a3275b18111da8d9",
+      "type": "file",
+      "file": "W2024/W2024T1/COGS 401/Research/The-future-is-present_Glahn-Levine.pdf",
+      "styleAttributes": {},
+      "x": -1638,
+      "y": 16320,
+      "width": 400,
+      "height": 400
+    },
+    {
+      "id": "dd155960cd038a3a",
+      "type": "text",
+      "text": ">  In an unpublished 1977 text that laid the foundation for Satellite Arts, the artists wrote: “Our tech- nological society is in an era of transitional mutation from an industrial age to an electronic age. It is an age where dominant agencies of commu- nication produce the message systems that cultivate the dominant social patterns. They structure the public agenda of existence, priorities, values and relationships. It is these mutating consequences that become forces of acculturation, creating a new symbolic order.”27 To Brecht, technical in- novation, conventionally conceived, was in danger of primarily expanding the distribution of content and thus economic and ideological domina- tion under the guise of progress. He lambasted “the colossal triumph of technology at last to be able to make accessible to the entire world a Vien- nese waltz and a kitchen recipe.”28\n\n[[The-future-is-present_Glahn-Levine.pdf#page=23&selection=71,0,116,0|The-future-is-present_Glahn-Levine, page 23]]",
+      "styleAttributes": {},
+      "x": -1120,
+      "y": 16360,
+      "width": 600,
+      "height": 360
+    },
+    {
+      "id": "7357115970f54ff1",
+      "type": "text",
+      "text": ">  “Since it is primarily production (productive creation) that serves human construction, we must strive to turn the apparatus (instruments) used so far for only reproductive pur- poses into ones that can be used for productive purposes as well.\n\n[[The-future-is-present_Glahn-Levine.pdf#page=24&selection=78,40,87,65|The-future-is-present_Glahn-Levine, page 24]]",
+      "styleAttributes": {},
+      "x": -440,
+      "y": 16420,
+      "width": 480,
+      "height": 200
+    },
+    {
+      "id": "6f79bccfb22b2286",
+      "type": "text",
+      "text": "### Paper",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5100,
+      "y": 11360,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "96031e5e20ab5e53",
+      "type": "text",
+      "text": "More emphasis on explaining the methods for the ANN",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11160,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "e8fec6ae8b532cb9",
+      "type": "text",
+      "text": "Hypothesize about outcome:  \nPredict how it will be received/reacted to",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11380,
+      "width": 330,
+      "height": 80
+    },
+    {
+      "id": "657b8e3fe46cecee",
+      "type": "text",
+      "text": "- emphasizing that i'm not testing but creating something \n- focus on outcome (for presentation, not paper)",
+      "styleAttributes": {},
+      "x": -5700,
+      "y": 11480,
+      "width": 330,
+      "height": 120
+    },
+    {
+      "id": "5f1ec2e06a9b0249",
+      "type": "text",
+      "text": "### Outcome",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5355ff9092c2820d",
+      "type": "text",
+      "text": "### Methodology",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -5450,
+      "y": 11072,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2e4d3e263588a10c",
+      "type": "file",
+      "file": "W2024 Files/Skelton - COGS 401 Final Presentation.pdf",
+      "styleAttributes": {},
+      "x": -6280,
+      "y": 12410,
+      "width": 1030,
+      "height": 590
+    },
+    {
+      "id": "6f032a669a790528",
+      "type": "text",
+      "text": "Art theory: Vision and perception\n\n  \n\nBenjamin, W. (1936) “The work of art in the age of mechanical reproduction.” [https://doi.org/10.4324/9781003432272-2](https://doi.org/10.4324/9781003432272-2)\n\n  \n\nCrimp, D., Paul, N., & Thomas, G. (2016). Pictures: S’approprier La Photographie: New York, 1979-2014. Le Point du Jour.\n\n  \n\nGordon, W. J. J., & Kepes, G. (1965). The Metaphorical Way of Knowing. In Education of Vision (pp. 96–103). essay, Studio Vista.\n\n  \n\n---\n\n  \n\nCybernetics\n\n  \n\nHayles, N. K. (1999) How we became posthuman: Virtual bodies in cybernetics, literature, and informatics. University of Chicago Press.\n\n  \n\nIlfeld, E. J. (2012). Contemporary Art and cybernetics: Waves of cybernetic discourse within  \nconceptual, video and New Media Art. Leonardo, 45(1), 57–63.  \n[https://doi.org/10.1162/leon_a_00326](https://doi.org/10.1162/leon_a_00326)\n\n  \n\nPask, G. (1975) The Cybernetics of Human Learning and Performance. Hutchinson.\n\n  \n\nWiener, N. (1965) Cybernetics: Or Control and Communication in the Animal and the Machine. MIT Press, Cambridge, MA.\n\n  \n\n---\n\n  \n\nAI in Art\n\n  \n\nSmith, T. (2024). Modeling Charisma: AI’s Fashion Mirror Stage. InVisible Culture.  \n[https://doi.org/10.47761/494a02f6.a022d87c](https://doi.org/10.47761/494a02f6.a022d87c).\n\n  \n\nCowan, S. (2023, March) “How to See like a Machine | Magazine | Moma.” Museum of Modern Art, www.moma.org/magazine/articles/864. \n\n  \n\nWilson, S. (2002). Information arts: Intersections of art, science, and technology. The MIT Press. \n\n  \n\nPaglen, T. (2024, September). Society of the PSYOP - Journal #147. e-flux Journal. \n\n---\n\n  \n\nAI and Society\n\n  \n\nBoyle, J. (2024). The Line: AI and the Future of Personhood. The MIT Press. [https://doi.org/10.7551/mitpress/15408.001.0001](https://doi.org/10.7551/mitpress/15408.001.0001)\n\n  \n\nKrapp, P. (2024). Computing Legacies: Digital Cultures of Simulation. The MIT Press. [https://doi.org/10.7551/mitpress/15425.001.0001](https://doi.org/10.7551/mitpress/15425.001.0001)\n\n  \n\nFlusser, V., & Ströhl, A. (2005). Vilém Flusser - Writings. University of Minnesota Press.\n\n  \n\nPasquinelli, M. (2024) The Eye of the Master: A Social History of Artificial Intelligence. Verso.\n\n  \n\nThe Center for Complex Network Research at Northeastern University. (2021). Barabasi Lab - Art - About. Barabasi Lab. [https://barabasi.com/art/about](https://barabasi.com/art/about).\n\n  \n\nFrid-Jimenez, A., Babel, M., Coleman, G., Dalton, B., Dolar, M., Dubler, J., Figueres, M.,  \nKleyn, R., Lundqvist, D., Sekulić, D., & Urcuyo, C. (2012). La Lucha sin fin: On  \nCharisma and its persuasive technologies. Jan van Eyck Academie.\n\n  \n\n---\n\n  \n\nPsychology of Perception\n\nButterworth, G. (1992). Self-perception as a foundation for self-knowledge. Psychological  \nInquiry, 3(2), 134–136. https://doi.org/10.1207/s15327965pli0302_11  \n\n  \n\nKhamitov, M., Rotman, J. D., & Piazza, J. (2016). Perceiving the agency of harmful agents: A test of dehumanization versus moral typecasting accounts. Cognition, 146, 33–47.  \nhttps://doi.org/10.1016/j.cognition.2015.09.009\n\n  \n\nWaytz, A., Gray, K., Epley, N., & Wegner, D. M. (2010). Causes and consequences of mind  \nperception. Trends in Cognitive Sciences, 14(8), 383–388. [https://doi.org/10.1016/j.tics.2010.05.006](https://doi.org/10.1016/j.tics.2010.05.006)\n\n  \n\n---\n\nArtworks and Additional Sources\n\nBurns, S. (2024, April 25). Inside the dark vision of Pierre Huyghe. Frieze. [https://www.frieze.com/article/pierre-huyghe-liminal-2024-review](https://www.frieze.com/article/pierre-huyghe-liminal-2024-review)\n\nFrid-Jimenez, A. (2023) Projects: V XXXX. [https://amberfj.com/projects/VXXXX/](https://amberfj.com/projects/VXXXX/) \n\nKluszczynski, W. R. (2010) “Strategies of interactive art.” Journal of Aesthetics & Culture, vol. 2, no. 1, p. 5525, [https://doi.org/10.3402/jac.v2i0.5525](https://doi.org/10.3402/jac.v2i0.5525).\n\nSawon, M. & Banovich, T. (2024) “Postmasters 39 Years.” Postmasters 5.0,  \n[www.postmastersart.com/](http://www.postmastersart.com/).\n\nSim, S. (2021) “The essential works of Nam June Paik.” Artasiapacific,  \n[artasiapacific.com/people/the-essential-works-of-nam-june-paik](http://artasiapacific.com/people/the-essential-works-of-nam-june-paik).\n\nNam june paik. FLUXUSMUSEUM. (2024). https://fluxusmuseum.org/nam-june-paik/\n\nBlackwell, A. F. (2024). Moral Codes: Designing Alternatives to AI. The MIT Press. [https://doi.org/10.7551/mitpress/14872.001.0001](https://doi.org/10.7551/mitpress/14872.001.0001)\n\n  \n\nDeren, M. (1946). An anagram of ideas on art, form and film. Yonkers, N. Y.: Alicat Book Shop Press. \n\n  \n\nKepes, G. (1966). Module, proportion, symmetry, rhythm. G. Braziller.\n\n  \nGlahn, P., & Levine, C. (2024). The Future Is Present: Art, Technology, and the Work of Mobile Image. The MIT Press. [https://doi.org/10.7551/mitpress/14851.001.0001](https://doi.org/10.7551/mitpress/14851.001.0001)",
+      "styleAttributes": {},
+      "x": -4380,
+      "y": 12940,
+      "width": 580,
+      "height": 4840
+    },
+    {
+      "id": "43e00d4348c92fc3",
+      "type": "text",
+      "text": "**Actually read:**\n\nCrimp, D., Paul, N., & Thomas, G. (2016). Pictures: S’approprier La Photographie: New York, 1979-2014. Le Point du Jour.",
+      "styleAttributes": {},
+      "x": -3780,
+      "y": 12980,
+      "width": 620,
+      "height": 100
     }
   ],
   "edges": [
