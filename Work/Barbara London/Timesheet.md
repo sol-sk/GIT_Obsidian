@@ -11,3 +11,21 @@
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
 	- [x] Reupload 5 smaller
+BL Notes 1/3/25
+- if given permission for images: corner exposed (in contrast form folder) goes where Eshe says “corner exposed” 
+- [X] Fix dates for episode releases
+- [X] Take out guest 1 inaudible 00:03
+- [X] Double check all images “full”
+- [x] Match image spacing to Alan Miyatake image
+
+  
+
+- [X] Move effigy to “certainly pulled out all the stops” 
+
+  
+
+- [ ] *TBD* Add artist image to end if they allow (Elle perez)
+
+  
+
+~~Live @ 3PST/6EST Jan 8~~ Jan 7 at 6AM EST
