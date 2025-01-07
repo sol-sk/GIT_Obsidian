@@ -5,4 +5,3 @@ Assessments:
 Monthly short reading responses (3 total)
 Short paper - 02.14.25
 Long paper - 04.08.25
-Final exam 
