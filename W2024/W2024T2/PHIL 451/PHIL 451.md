@@ -6,7 +6,10 @@ Monthly short reading responses (3 total)
 Short paper - 02.14.25
 Long paper - 04.08.25
 
+# 01.07.25 Syllabus/L
+
 Course themes/core concepts
+- *Mind/body problem*
 - Physicalism
 - Mental causation
 	- Mental content/"aboutness"
