@@ -46,3 +46,5 @@ What can't we explain in physical/mechanistic terms?
 	- Many consider the most puzzling aspect
 
 ***What is physicalism?***
+Completeness question: What does it mean to say that *everything* is physical? 
+Condition question: What counts as physical? What are our criteria? 
