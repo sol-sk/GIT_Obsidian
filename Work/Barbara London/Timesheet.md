@@ -7,6 +7,7 @@
 | 01.03.25 | 2hr        | 17:00        | 17:52      | Final tweaks to images, inc. meeting time  |
 | 01.05.25 | 15 min     | 21:00        | 21:09      | Editing dates on menu                      |
 | 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend |
+| 01.07.25 |            | 10:38        |            |                                            |
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
