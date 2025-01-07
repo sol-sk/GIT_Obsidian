@@ -6,7 +6,9 @@ Monthly short reading responses (3 total)
 Short paper - 02.14.25
 Long paper - 04.08.25
 
-# 01.07.25 Syllabus/L
+# 01.07.25 Syllabus/Lecture 1
+[[PHIL451 002 - Lecture 1.pdf]]
+[[PHIL451 Syllabus - (2024-2025 Term 2).pdf]]
 
 Course themes/core concepts
 - *Mind/body problem*
@@ -20,4 +22,6 @@ Course themes/core concepts
 		- Illusionism
 		- Panpsychism
 			- Idealism
+
+
 
