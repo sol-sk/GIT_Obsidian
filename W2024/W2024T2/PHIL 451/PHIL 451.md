@@ -40,4 +40,4 @@ Course themes/core concepts
 - *Content*: aka intentionality, mental representation
 	- How can a mental state represent things other than themselves? 
 	- (What it is that you love, where it is that you go, etc. Some debate about if intentionality is a quality of all mental states or not)
-- *Consciousness*: 
+- *Consciousness*: aka qualia, 
