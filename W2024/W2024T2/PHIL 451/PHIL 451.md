@@ -26,5 +26,5 @@ Course themes/core concepts
 #### Enlightenment
 - Proposition that both terrestrial and astronomical phenomena can be explained by the same laws (physics) → some (inc. Hobbes) conclude that all natural phenomena can be described by mathematical physics; *everything is physical*
 	- Hobbes - first to articulate a computational theory of thought
-- Physicalism/Materialism
+
 
