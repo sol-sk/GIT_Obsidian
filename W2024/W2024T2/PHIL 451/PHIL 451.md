@@ -25,3 +25,5 @@ Course themes/core concepts
 
 
 
+Hobbes - first to articulate a computational theory of thought
+- 
