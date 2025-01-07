@@ -27,8 +27,8 @@ Course themes/core concepts
 **Physicalism/Materialism**
 - Proposition that both terrestrial and astronomical phenomena can be explained by the same laws (physics) → some (inc. Hobbes) conclude that all natural phenomena can be described by mathematical physics; *everything is physical*
 	- Hobbes - first to articulate a computational theory of thought
-**Dualism**
+**Dualism (& broadly, antiphysicalism)**
 - Descartes
-- Scientists/humans (*beings with minds*)'systematically elude physical explanation'
-- 
+- Scientists/humans (*beings with minds*) 'systematically elude physical explanation'
+- Bodies are governed by mechanical laws, minds are not
 
