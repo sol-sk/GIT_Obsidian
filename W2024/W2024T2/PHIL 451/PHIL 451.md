@@ -33,4 +33,5 @@ Course themes/core concepts
 - Bodies are governed by mechanical laws, minds are not
 
 **Physicalist strategies**
-- 
+- *Causation*
+- If our mental states effect the physical world (ie. a thought leads to an, they must be physical
