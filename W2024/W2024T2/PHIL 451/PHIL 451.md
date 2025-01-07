@@ -9,4 +9,12 @@ Long paper - 04.08.25
 Course themes/core concepts
 - Physicalism
 - Mental causation
-- Mental content/abount
+	- Mental content/"aboutness"
+- Consciousness
+	- Antiphysicalism
+		- Dualism
+		- Mysterianism
+		- Illusionism
+		- Panpsychism
+			- Idealism
+
