@@ -24,7 +24,11 @@ Course themes/core concepts
 			- Idealism
 
 #### Enlightenment
+**Physicalism/Materialism**
 - Proposition that both terrestrial and astronomical phenomena can be explained by the same laws (physics) → some (inc. Hobbes) conclude that all natural phenomena can be described by mathematical physics; *everything is physical*
 	- Hobbes - first to articulate a computational theory of thought
-
+**Dualism**
+- Descartes
+- Scientists/humans (*beings with minds*)'systematically elude physical explanation'
+- 
 
