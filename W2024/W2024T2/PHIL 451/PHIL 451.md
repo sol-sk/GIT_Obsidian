@@ -39,4 +39,5 @@ Course themes/core concepts
 **Antiphysicalist strategies**
 - *Content*: Intentionality, mental representation
 	- How can a mental state represent things other than themselves? 
+	- (Wh)
 - *Consciousness*: 
