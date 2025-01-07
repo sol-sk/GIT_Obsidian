@@ -37,7 +37,7 @@ Course themes/core concepts
 - If our mental states affect the physical world (ie. a thought leads to an action), they must be physical
 
 **Antiphysicalist strategies**
-- *Content*: Intentionality, mental representation
+- *Content*: aka intentionality, mental representation
 	- How can a mental state represent things other than themselves? 
-	- (Wh)
+	- (What it is that you love, where it is that you go, etc. Some debate about if intentionality is a quality of all mental states or not)
 - *Consciousness*: 
