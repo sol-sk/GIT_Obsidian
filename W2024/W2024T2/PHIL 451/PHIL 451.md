@@ -32,3 +32,5 @@ Course themes/core concepts
 - Scientists/humans (*beings with minds*) 'systematically elude physical explanation'
 - Bodies are governed by mechanical laws, minds are not
 
+**Physicalist strategies**
+- 
