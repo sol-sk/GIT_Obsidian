@@ -10,3 +10,4 @@ Final Presentations: April 3rd and 8th | 04.03.25 04.08.25
 
 # 01.07.25 Lecture 1
 
+Understanding relationship between brain activity and cognitive processes
