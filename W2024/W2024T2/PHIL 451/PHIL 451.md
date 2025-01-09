@@ -1,3 +1,4 @@
+### [PHIL 451 Canvas Page](https://canvas.ubc.ca/courses/152310)
 
 | PHIL_V 451-002 - Philosophy of Mind | Lecture | Tue Thu <br>11:00 a.m. - 12:30 p.m. \| <br>LASR-Room 104 | Aaron Henry | 2   |
 | ----------------------------------- | ------- | -------------------------------------------------------- | ----------- | --- |
@@ -5,6 +6,7 @@ Assessments:
 Monthly short reading responses (3 total)
 Short paper - 02.14.25
 Long paper - 04.08.25
+
 
 # 01.07.25 Syllabus Lecture 1
 [[PHIL451 002 - Lecture 1.pdf]]
@@ -51,3 +53,4 @@ Condition question: What counts as physical? What are our criteria?
 
 
 # 01.09.25 Lecture 2
+Physicalism: worldview of science
