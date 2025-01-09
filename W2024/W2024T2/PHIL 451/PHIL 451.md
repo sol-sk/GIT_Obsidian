@@ -81,4 +81,4 @@ Two kinds of Identity Physicalism
 		- Example: we come in contact with an alien species, we get along swimmingly, politics, friendships, relationships, now intertwine; then, we do an autopsy and find they have no brain, no physical location for all the emotions they express: do you now discount all emotions they showed as not real? 
 		- Octopi similar: far different brains, but show mentality (thought, emotional (?sort of?) reactions)
 		- [[PHIL451 002 - Lecture 2.pdf#page=14&selection=0,43,2,21|PHIL451 002 - Lecture 2, page 14]]
-		- Relationship between mental and physical is not 
+		- Relationship between mental and physical is not 1:1, other materials/mental states can be associated with things like pain in other creatures
