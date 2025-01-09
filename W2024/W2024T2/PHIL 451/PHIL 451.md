@@ -54,5 +54,5 @@ Condition question: What counts as physical? What are our criteria?
 
 # 01.09.25 Lecture 2
 [[PHIL451 002 - Lecture 2.pdf]]
-
+[[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3; Seager, Theories of Consciousness, pp. 7-13
 Physicalism: worldview of science
