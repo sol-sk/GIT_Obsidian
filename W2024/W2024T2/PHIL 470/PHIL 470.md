@@ -55,11 +55,9 @@ Pressing Yaj.
 **Death**
 > “Now, as this self  (atman)  grows steadily weaker and begins to lose consciousness, these vital functions  (prana)  throng around him. **Taking into himself these particles of light, he descends back into the heart**. When the person connected with sight turns back, the man loses his ability to perceive visible forms.  2   So people say: "He's sinking; he can't see!"—"He's sinking; he can't smell!"—"He's sinking; he can't taste!"—"He's sinking; he can't speak!"—"He's sinking; he can't hear!"—"He's sinking; he can't think!"—"He's sinking; he can't feel a touch!"— "He's sinking; he can't perceive!" Then the top of his heart lights up, **and with that light the self exits through the eye or the head or some other part of the body**. As he is departing, his lifebreath  (prana)  departs with him. **And as his lifebreath departs, all his vital functions  (prana)  depart with it.**”
 > 
-> “It is like this. As a caterpillar, when it comes to the tip of a blade of grass, reaches out to a new foothold and draws itself onto it, so the self  {atman),  after it has knocked down this body and rendered it unconscious, reaches out to a new foothold and draws itself onto it.”
+> “It is like this. As a caterpillar, when it comes to the tip of a blade of grass, reaches out to a new foothold and draws itself onto it, so the self  (atman),  after it has knocked down this body and rendered it unconscious, reaches out to a new foothold and draws itself onto it.”
 > pp. 63-64
 
 *Rebirth*
 - Consciousness is not extinguished
-
-
 
