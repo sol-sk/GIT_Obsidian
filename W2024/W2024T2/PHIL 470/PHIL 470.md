@@ -44,4 +44,6 @@ Pressing Yaj.
 
 **Waking, dreaming, and third state:** *Dreamless sleep, deep sleep* 
 - When the eagle stops flying and perches: *dreamless sleep is alert and watchful*
-- 
+	- Cognitive processing offline but consciousness present, no explicit memory but you can retain lingering feeling
+	- %% is there a distinct kind/state/form of memory for emotion in this way? %%
+	- 
