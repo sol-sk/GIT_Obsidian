@@ -5,10 +5,11 @@ January 23, February 13, March 25
 01.23.25 02.13.25 03.25.25
 Final paper 04.11.25
 
+# 01.07.25 Lecture 1
 # 01.09.25 Lecture 2 
 ~700 BCE, before Greeks
 "first text of world philosophy"
-### Brhadaranyaka 4.3-4.4 (pp.58-68)
+### Brhadaranyaka 4.3-4.4 (pp.58-68), partial recap of Lecture 1
 **Yajnavalkya**
 - Great teacher, sarcastic, irreverent 
 - Poking fun at other priests who he interprets as not knowing the meaning of the text
@@ -28,4 +29,6 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 		- *All experiences leave an impression* - this is why, in asceticism, it is crucial to pay attention to what your mind is drawn to and to cultivate good thoughts
 	- Self ≠ mind 
 - Dream state is handling waking experiences at a more fine-grained level, refined, subtler 
+- The intensity of light, "hyperreal" quality of dreams, brightness of dreams: it is our light of consciousness, the inner light; a necessary/preconditn to *all* experience, incl. consc. 
+
 
