@@ -77,3 +77,5 @@ Two kinds of Identity Physicalism
 		- Argument from parsimony/simplicity
 	- *Reduces* a property to a physical property; a property is nothing but a physical property: metaphysically reduces the experience of pain to a brain state
 	- (skipped slide about reductionism)
+	- *Multiple realizability argument against reductive physicalism*
+		- 
