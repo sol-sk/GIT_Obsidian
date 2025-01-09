@@ -31,13 +31,16 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 - Dream state is handling waking experiences at a more fine-grained level, refined, subtler 
 - The intensity of light, "hyperreal" quality of dreams, brightness of dreams: it is our light of consciousness, the inner light; a necessary/preconditn to *all* experience, incl. consc. 
 
-##### King Janaka
+**King Janaka**
 Offering 1000 cows
 Pressing Yaj. 
-- Stream/flow between waking and sleeping - "fish going back and forth"
+
+- Stream/flow between waking and sleeping - "fish going back and forth," eagle perching
 - Affinity btw. dreaming and memory 
 	- See later: "stream of consc." from psych/phil William James, 19th c. & Freud, modernist literature
 		- Upan. is first place this idea is seen in world literature
 - Made explicit by **Shankara** in *780 CE*–1000 years later–that there is not a distinction between waking/dreaming states; interpenetration, fractal. 
 	- Lucid dreaming, daydreaming, any kind of thought that isn't regarding the here and now is the mind considering its own material 
-- 
+
+**Waking, dreaming, and third state:** *Dreamless sleep, deep sleep* 
+- When the eagle stops flying and perches
