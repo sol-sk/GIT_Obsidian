@@ -59,5 +59,5 @@ Physicalism: worldview of science
 
 "**Entity**" - most generic word for a 'thing' to avoid categorizing 
 All numerical entities are identical to physical entities 
-- Distinction between *particulars*: object, e.g. piece of chalk, which is individual, unrepeatable, and exists in a specific temporal and spatial period, and *properties*: the ways that it is, color, 
+- Distinction between *particulars*: object, e.g. piece of chalk, which is individual, unrepeatable, and exists in a specific temporal and spatial period, and *properties*: the ways that it is, color
 - 
