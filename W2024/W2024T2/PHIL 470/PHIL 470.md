@@ -11,4 +11,7 @@ Final paper 04.11.25
 Yajnavalkya
 - Poking fun at other priests who he interprets as not knowing the meaning of the text
 - Defeats 8 brahmins in debate, including the woman Gargi, who is strongest–tells others not to bother once she's been defeated
-	- Women in Upan.; patriarchal society, but there are components of it (Gargi, Maitreyi), 
+	- Women in Upan.; patriarchal society, but there are components of it (Gargi, Maitreyi-1st wife of Yaj.), who are portrayed as interested in philosophy, intelligent
+- Wives: Maitreyi, Katyayani 
+- Eventually leaves society, ascetic way of life 
+Traditnl ways of life being undermined, questioning of tradntl. rituals → asceticism, rigorous rituals of mind and 
