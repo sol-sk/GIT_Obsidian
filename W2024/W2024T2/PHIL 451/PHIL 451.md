@@ -65,4 +65,4 @@ All numerical entities are identical to physical entities
 - Predication of subject = attribution of a property. *Property is repeatable*. *Particular/subject is not*
 	- Tokens/types: "a a b" = How many letters? 3 tokens, and 2 types. 
 Two kinds of Identity Physicalism
-- Token-Identity Physicalis
+- **Token-Identity Physicalism**
