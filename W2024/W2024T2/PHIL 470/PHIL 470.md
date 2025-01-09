@@ -11,4 +11,4 @@ Final paper 04.11.25
 Yajnavalkya
 - Poking fun at other priests who he interprets as not knowing the meaning of the text
 - Defeats 8 brahmins in debate, including the woman Gargi, who is strongest–tells others not to bother once she's been defeated
-	- Women in Upan.; patriarchal society, but there are components of it (Gargi, Maitreyi)
+	- Women in Upan.; patriarchal society, but there are components of it (Gargi, Maitreyi), 
