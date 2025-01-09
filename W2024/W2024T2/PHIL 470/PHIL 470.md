@@ -78,5 +78,11 @@ What you are is what you do, including your *mental actions*; mind acts before b
 What drives the cycle of life/death/rebirth? *Desire*
 → Buddha works with but rearticulates this
 
-The man whose only desire is his (true) self; his vital functions do not depart: brahman he is and to brahman he goes
+> “Now, a man who does not desire—who is without desires, who is freed from desires, whose desires are fulfilled, whose only desire is his self—his vital functions  (prdna)  do not depart. Brahman  he is, and to  brahman  he goes.”
+
+Liberation requires purification from desire
+We get a taste of it, of ego dissolution, in sleep 
+
+Problem: existence in rebirth cosmology 
+Solution: liberation, which we have some access to but must purify in order to fully access 
 
