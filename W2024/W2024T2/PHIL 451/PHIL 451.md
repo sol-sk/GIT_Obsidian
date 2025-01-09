@@ -70,9 +70,9 @@ Two kinds of Identity Physicalism
 	- Too strong and too weak
 		- Not every concept has to be a physical object
 		- Anti-physicalists can still think all particulars are physical; all particulars are physical, and some have nonphysical properties (*Property dualist* view, of many contemporary dualists - in contrast with Descartes' dualism)
-- **Type-Identity Physicalism**: Properties
+- **Type-Identity Physicalism** (also called **Reductive Physicalism**): Properties
 	- Every property of an object is a physical property 
 	- J.C.C. Smart, 'Sensations and Brain Properties'; the mental property of feeling something, thinking something, is the same as certain physical properties of the brain
 		- e.g. C fiber activation = being in pain, 'neural correlate of pain'
 		- Argument from parsimony/simplicity
-	- 
+	- *Reduces* a property to a physical property; a property is nothing but a physical property; metaphysically reduces the experience of paint
