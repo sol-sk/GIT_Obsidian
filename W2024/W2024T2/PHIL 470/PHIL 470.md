@@ -34,5 +34,8 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 ##### King Janaka
 Offering 1000 cows
 Pressing Yaj. 
-
-"stream of consc." from psych.
+- Stream/flow between waking and sleeping
+- Affinity btw. dreaming and memory 
+	- See later: "stream of consc." from psych/phil William James, 19th c. & Freud, modernist literature
+		- Upan. is first place this idea is seen in world literature
+- Made explicit by Shankara in 
