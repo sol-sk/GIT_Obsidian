@@ -71,5 +71,7 @@ Brahman; state of being, of same nature as consciousness
 > “A man resolves in accordance with his desire, acts in accordance with his resolve, and turns out to be in accordance with his action."
 
 Acts come from *desire*
+What you are is what you do, including your *mental actions*; mind acts before body
 
+→ Buddha rejects caste s
 
