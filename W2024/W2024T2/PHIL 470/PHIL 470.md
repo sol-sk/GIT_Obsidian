@@ -38,4 +38,4 @@ Pressing Yaj.
 - Affinity btw. dreaming and memory 
 	- See later: "stream of consc." from psych/phil William James, 19th c. & Freud, modernist literature
 		- Upan. is first place this idea is seen in world literature
-- Made explicit by Shankara in 
+- Made explicit by Shankara in 780 
