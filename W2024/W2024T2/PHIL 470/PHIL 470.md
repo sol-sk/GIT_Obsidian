@@ -53,3 +53,5 @@ Pressing Yaj.
 > Here a father is not a father, a mother is not a mother, worlds are not worlds, gods are not gods, and Vedas are not Vedas. Here a thief is not a thief, an abortionist is not an abortionist, an outcaste is not an outcaste, a pariah is not a pariah, a recluse is not a recluse, and an ascetic is not an ascetic. Neither the good nor the bad follow him, for he has now passed beyond all sorrows of the heart. p. 60-61
 
 **Death**
+- Sight is first sense to go
+- As his p
