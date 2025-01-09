@@ -16,7 +16,10 @@ Final paper 04.11.25
 	- Women in Upan.; patriarchal society, but there are components of it (Gargi, Maitreyi-1st wife of Yaj.), who are portrayed as interested in philosophy, intelligent
 - Wives: Maitreyi, Katyayani 
 - Eventually leaves society, ascetic way of life 
-Traditnl ways of life being undermined, questioning of tradntl. rituals → asceticism, rigorous rituals of mind and body, to find liberation ("original hippies")→ Buddha arises from this 
+Tradnl ways of life being undermined, questioning of tradnl. rituals → asceticism, rigorous rituals of mind and body, to find liberation ("original hippies")→ Buddha arises from this 
 
-Fire, light; "Sun rises and sets, "
-From outwards to inwards
+"Sun rises and sets, the self is always there"
+- From outwards to inwards
+- The true self shines constant (Fire, light metaphors throughout) - luminosity of true consciousness
+- Dreaming = traveling, change to mode of awareness 
+	- In the dream state, the self is a creator
