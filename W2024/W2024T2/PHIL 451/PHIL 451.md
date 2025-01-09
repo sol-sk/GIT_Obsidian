@@ -69,6 +69,6 @@ Two kinds of Identity Physicalism
 	- All actual particulars are physical objects
 	- Too strong and too weak
 		- Not every concept has to be a physical object
-		- Anti-physicalists can still think all particulars are physical; all particulars are physical, with 
+		- Anti-physicalists can still think all particulars are physical; all particulars are physical, and some have nonphysical properties (*Property dualist* view)
 - **Type-Identity Physicalism**: Properties
 - 
