@@ -78,4 +78,4 @@ Two kinds of Identity Physicalism
 	- *Reduces* a property to a physical property; a property is nothing but a physical property: metaphysically reduces the experience of pain to a brain state
 	- (skipped slide about reductionism)
 	- *Multiple realizability argument against reductive physicalism*
-		- 
+		- example: we come in contact with an alien species, we get along swimmingly, politics, friendships, relationships, now intertwine; then, we do an autopsy and find they have no brain, no physical location for all the emotions they express
