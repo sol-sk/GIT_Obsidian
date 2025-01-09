@@ -57,5 +57,7 @@ Condition question: What counts as physical? What are our criteria?
 [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3; [[Seager_Consciousness and physicalism.pdf|Seager]], Theories of Consciousness, pp. 7-13
 Physicalism: worldview of science
 
-"Entity" - most generic word for a 'thing' to avoid categorizing 
+"**Entity**" - most generic word for a 'thing' to avoid categorizing 
 All numerical entities are identical to physical entities 
+- Distinction between *particulars*: object, e.g. piece of chalk, which is individual, unrepeatable, and exists in a specific temporal and spatial period, and *properties*: the ways that it is, color, 
+- 
