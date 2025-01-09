@@ -73,5 +73,6 @@ Brahman; state of being, of same nature as consciousness
 Acts come from *desire*
 What you are is what you do, including your *mental actions*; mind acts before body
 
-→ Buddha rejects caste s
+→ Buddha rejects caste structure
+
 
