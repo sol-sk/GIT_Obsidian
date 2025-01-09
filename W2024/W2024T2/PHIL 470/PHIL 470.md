@@ -34,9 +34,10 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 ##### King Janaka
 Offering 1000 cows
 Pressing Yaj. 
-- Stream/flow between waking and sleeping
+- Stream/flow between waking and sleeping - "fish going back and forth"
 - Affinity btw. dreaming and memory 
 	- See later: "stream of consc." from psych/phil William James, 19th c. & Freud, modernist literature
 		- Upan. is first place this idea is seen in world literature
-- Made explicit by Shankara in 780 CE–1000 years later–that there is not a distinction between waking/dreaming states; interpenetration, fractal. 
-	- Luci
+- Made explicit by **Shankara** in *780 CE*–1000 years later–that there is not a distinction between waking/dreaming states; interpenetration, fractal. 
+	- Lucid dreaming, daydreaming, any kind of thought that isn't regarding the here and now is the mind considering its own material 
+- 
