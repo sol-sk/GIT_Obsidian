@@ -74,4 +74,5 @@ Two kinds of Identity Physicalism
 	- Every property of an object is a physical property 
 	- J.C.C. Smart, 'Sensations and Brain Properties'; the mental property of feeling something, thinking something, is the same as certain physical properties of the brain
 		- e.g. C fiber activation = being in pain, 'neural correlate of pain'
+		- Argument from parsimony/simplicity
 	- 
