@@ -77,3 +77,6 @@ What you are is what you do, including your *mental actions*; mind acts before b
 
 What drives the cycle of life/death/rebirth? *Desire*
 → Buddha works with but rearticulates this
+
+The man whose only desire is his (true) self; his vital functions do not depart: brahman he is and to brahman he goes
+
