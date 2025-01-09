@@ -75,4 +75,5 @@ Two kinds of Identity Physicalism
 	- J.C.C. Smart, 'Sensations and Brain Properties'; the mental property of feeling something, thinking something, is the same as certain physical properties of the brain
 		- e.g. C fiber activation = being in pain, 'neural correlate of pain'
 		- Argument from parsimony/simplicity
-	- *Reduces* a property to a physical property; a property is nothing but a physical property; metaphysically reduces the experience of paint
+	- *Reduces* a property to a physical property; a property is nothing but a physical property: metaphysically reduces the experience of pain to a brain state
+	- 
