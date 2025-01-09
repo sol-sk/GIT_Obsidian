@@ -63,4 +63,13 @@ Brahman; state of being, of same nature as consciousness
 *Rebirth*
 - Consciousness is not extinguished
 
+> “What a man turns out to be depends on how he acts and on how he conducts himself.”
+
+**Act/action = karma (lit. translation)**
+- The reward/punishment is the *result* of karma
+
+> “A man resolves in accordance with his desire, acts in accordance with his resolve, and turns out to be in accordance with his action."
+
+Acts come from *desire*
+
 
