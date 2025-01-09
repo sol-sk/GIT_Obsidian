@@ -21,8 +21,11 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 "Sun rises and sets, the self is always there"
 - From outwards to inwards
 - The true self shines constant (Fire, light metaphors throughout) - luminosity of true consciousness
+
+**Dreams**
 - Dreaming = traveling, change to mode of awareness 
 	- In the dream state, the self is a creator; dream state is handling the materials of the mind, inc. materials from previous lives
 		- *All experiences leave an impression* - this is why, in asceticism, it is crucial to pay attention to what your mind is drawn to and to cultivate good thoughts
 	- Self ≠ mind 
+- Dream state is handling waking experiences at a more fine-grained level, refined, subtler 
 
