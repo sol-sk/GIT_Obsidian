@@ -43,8 +43,9 @@ Pressing Yaj.
 	- Lucid dreaming, daydreaming, any kind of thought that isn't regarding the here and now is the mind considering its own material 
 
 **Waking, dreaming, and third state:** *Dreamless sleep, deep sleep* 
-- When the eagle stops flying and perches: *dreamless sleep is alert and watchful* → this becomes a debate throughout Indian philosophy, if dreamless sleep is a blackout state or if it is no
-	- Cognitive processing offline but consciousness present, no explicit memory but you can retain lingering feeling
+- When the eagle stops flying and perches: *dreamless sleep is alert and watchful* → this becomes a debate throughout Indian philosophy, if dreamless sleep is a blackout state or if there is consciousness present
+	- Do you make an inference that you were asleep based on how you feel when you wake, or is it necessary that your consciousness is online in order to make that inference 
+		- Cognitive processing offline but consciousness present, no explicit memory but you can retain lingering feeling
 	- %% is there a distinct kind/state/form of memory for emotion in this way? %%
-	- 
-> “22  'Here a father is not a father, a mother is not a mother, worlds are not worlds, gods are not gods, and Vedas are not Vedas. Here a thief is not a thief, an abortionist is not an abortionist, an outcaste is not an outcaste, a pariah is not a pariah, a recluse is not a recluse, and an ascetic is not an ascetic. Neither the good nor the bad follow him, for he has now passed beyond all sorrows of the heart.”
+
+> Here a father is not a father, a mother is not a mother, worlds are not worlds, gods are not gods, and Vedas are not Vedas. Here a thief is not a thief, an abortionist is not an abortionist, an outcaste is not an outcaste, a pariah is not a pariah, a recluse is not a recluse, and an ascetic is not an ascetic. Neither the good nor the bad follow him, for he has now passed beyond all sorrows of the heart.
