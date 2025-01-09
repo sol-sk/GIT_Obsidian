@@ -10,7 +10,7 @@ Final paper 04.11.25
 ~700 BCE, before Greeks
 "first text of world philosophy"
 ### Brhadaranyaka 4.3-4.4 (pp.58-68), partial recap of Lecture 1
-**Yajnavalkya**
+##### Yajnavalkya (abbr. Yaj.)
 - Great teacher, sarcastic, irreverent 
 - Poking fun at other priests who he interprets as not knowing the meaning of the text
 - Defeats 8 brahmins in debate, including the woman Gargi, who is strongest–tells others not to bother once she's been defeated
@@ -31,4 +31,8 @@ Tradnl ways of life being undermined, questioning of tradnl. rituals → ascetic
 - Dream state is handling waking experiences at a more fine-grained level, refined, subtler 
 - The intensity of light, "hyperreal" quality of dreams, brightness of dreams: it is our light of consciousness, the inner light; a necessary/preconditn to *all* experience, incl. consc. 
 
+##### King Janaka
+Offering 1000 cows
+Pressing Yaj. 
 
+"stream of consc." from psych.
