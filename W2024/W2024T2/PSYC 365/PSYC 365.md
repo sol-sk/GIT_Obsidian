@@ -9,7 +9,8 @@ Final Presentations: April 3rd and 8th | 04.03.25 04.08.25
 
 
 # 01.07.25 Lecture 1
-
+[[Class1_365_2025.pdf]]
 Understanding relationship between brain activity and cognitive processes
 
-# 
+# 01.09.25 Lecture 2
+[[Class2_365_2025.pdf]]
