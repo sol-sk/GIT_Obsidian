@@ -71,4 +71,5 @@ Two kinds of Identity Physicalism
 		- Not every concept has to be a physical object
 		- Anti-physicalists can still think all particulars are physical; all particulars are physical, and some have nonphysical properties (*Property dualist* view, of many contemporary dualists - in contrast with Descartes' dualism)
 - **Type-Identity Physicalism**: Properties
-- 
+	- Every property of an object is a physical property 
+	- 
