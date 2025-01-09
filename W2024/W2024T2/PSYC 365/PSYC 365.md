@@ -14,3 +14,5 @@ Understanding relationship between brain activity and cognitive processes
 
 # 01.09.25 Lecture 2
 [[Class2_365_2025.pdf]]
+[[Raff How to read and understand a scientific paper a guide for non-scientists|Raff how to read]]
+[[Cognitive Neuroscience_ A Very Short Introduction-Passingham.pdf|Passingham Ch2]]
