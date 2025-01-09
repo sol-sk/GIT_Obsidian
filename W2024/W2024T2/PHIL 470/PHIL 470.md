@@ -58,6 +58,9 @@ Pressing Yaj.
 > “It is like this. As a caterpillar, when it comes to the tip of a blade of grass, reaches out to a new foothold and draws itself onto it, so the self  (atman),  after it has knocked down this body and rendered it unconscious, reaches out to a new foothold and draws itself onto it.”
 > pp. 63-64
 
+Brahman; state of being, of same nature as consciousness
+
 *Rebirth*
 - Consciousness is not extinguished
+
 
