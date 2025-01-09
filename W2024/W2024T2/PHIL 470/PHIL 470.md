@@ -38,4 +38,5 @@ Pressing Yaj.
 - Affinity btw. dreaming and memory 
 	- See later: "stream of consc." from psych/phil William James, 19th c. & Freud, modernist literature
 		- Upan. is first place this idea is seen in world literature
-- Made explicit by Shankara in 780 
+- Made explicit by Shankara in 780 CE–1000 years later–that there is not a distinction between waking/dreaming states; interpenetration, fractal. 
+	- Luci
