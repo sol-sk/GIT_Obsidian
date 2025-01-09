@@ -43,4 +43,4 @@ Pressing Yaj.
 	- Lucid dreaming, daydreaming, any kind of thought that isn't regarding the here and now is the mind considering its own material 
 
 **Waking, dreaming, and third state:** *Dreamless sleep, deep sleep* 
-- When the eagle stops flying and perches
+- When the eagle stops flying and perches: dreamless sleep is alert and watchful
