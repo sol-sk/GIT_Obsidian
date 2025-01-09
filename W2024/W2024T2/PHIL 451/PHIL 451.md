@@ -66,5 +66,6 @@ All numerical entities are identical to physical entities
 	- Tokens/types: "a a b" = How many letters? 3 tokens, and 2 types. 
 Two kinds of Identity Physicalism
 - **Token-Identity Physicalism**: Particulars
+	- All actual parti
 - **Type-Identity Physicalism**: Properties
 - 
