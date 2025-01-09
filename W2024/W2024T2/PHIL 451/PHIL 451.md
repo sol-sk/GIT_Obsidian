@@ -52,15 +52,17 @@ Completeness question: What does it mean to say that *everything* is physical?
 Condition question: What counts as physical? What are our criteria? 
 
 
-# 01.09.25 Lecture 2
+# 01.09.25 Lecture 2: Physicalism: the Completeness Question
 [[PHIL451 002 - Lecture 2.pdf]]
 [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3; [[Seager_Consciousness and physicalism.pdf|Seager]], Theories of Consciousness, pp. 7-13
 Physicalism: worldview of science
 
-#### Physicalism: numerical identity
+***What does it mean to say everything is physical?***
+#### Physicalism: strict numerical identity, 'Identity Physicalism'
 "**Entity**" - most generic word for a 'thing' to avoid categorizing 
 All numerical entities are identical to physical entities 
 - Metaphysical distinction between *particulars*: object, e.g. piece of chalk, which is individual, unrepeatable, and exists in a specific temporal and spatial period, and *properties*: the ways that it is, color
 - Predication of subject = attribution of a property. *Property is repeatable*. *Particular/subject is not*
 	- Tokens/types: "a a b" = How many letters? 3 tokens, and 2 types. 
-All properties are physical properties
+Two kinds of Identity Physicalism
+- Token-Identity Physicalis
