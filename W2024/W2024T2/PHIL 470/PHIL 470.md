@@ -4,3 +4,7 @@
 January 23, February 13, March 25
 01.23.25 02.13.25 03.25.25
 Final paper 04.11.25
+
+# 01.09.25 Lecture 2 
+~700 BCE, before Greeks
+"first text of world philosophy"
