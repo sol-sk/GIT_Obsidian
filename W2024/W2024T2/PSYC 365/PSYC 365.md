@@ -16,5 +16,3 @@ Understanding relationship between brain activity and cognitive processes
 [[Class2_365_2025.pdf]]
 [[Raff How to read and understand a scientific paper a guide for non-scientists|Raff how to read]]
 [[Cognitive Neuroscience_ A Very Short Introduction-Passingham.pdf|Passingham Ch2]]
-why did we come LOL
-he doesn't post slides till the start of class to make sure ppl come and yk what. i wuoldnt have 
