@@ -53,4 +53,6 @@ Condition question: What counts as physical? What are our criteria?
 
 
 # 01.09.25 Lecture 2
+[[PHIL451 002 - Lecture 2.pdf]]
+
 Physicalism: worldview of science
