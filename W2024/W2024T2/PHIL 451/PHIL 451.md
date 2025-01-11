@@ -17,7 +17,7 @@
 | 02.06.25 | The modal argument (Part 1) Saul Kripke, excerpt from Naming and Necessity Optional: 5 Christopher Hill, “Conceivability, Possibility, and the Mind-Body Problem”                                                                                                                                                                                    |
 | 02.11.25 | The modal argument (Part 2) No new readings                                                                                                                                                                                                                                                                                                          |
 | 02.13.25 | The knowledge argument Frank Jackson, “Epiphenomenal Qualia”, and post-script                                                                                                                                                                                                                                                                        |
-|          | **Short Paper**                                                                                                                                                                                                                                                                                                                                      |
+| 02.14.25 | **Short Paper**                                                                                                                                                                                                                                                                                                                                      |
 | 02.18.25 | Reading week                                                                                                                                                                                                                                                                                                                                         |
 | 02.20.25 | Reading week                                                                                                                                                                                                                                                                                                                                         |
 | 02.25.25 | The zombie argument David Chalmers, “Consciousness and Its Place in Nature,” §§1-3, 6, and 9-10 Physicalist responses to the hard problem                                                                                                                                                                                                            |
@@ -32,12 +32,7 @@
 | 03.27.25 | Might consciousness be the intrinsic nature of the physical? (‘Russellian Monism’) Philip Goff and Sam Coleman “Russellian Monism”; Optional: Hedda Hassel Morch, “The Argument for Panpsychism from Experience of Causation”; Daniel Stoljar, “Two Conceptions of the Physical”                                                                     |
 | 04.01.25 | Might consciousness be all there is? (Monistic idealism) Miri Albahari, “Panpsychism and the Inner-Outer Gap Problem” Miri Albahari, “Is Universal Consciousness Fit for Ground?” Optional: Miri Albahari, “Perennial Idealism: A Mystical Solution to the Mind- Body Problem”                                                                       |
 | 04.03.25 | Catch up and review No new readings                                                                                                                                                                                                                                                                                                                  |
-| 04.08.25 | Catch up and review No new readings                                                                                                                                                                                                                                                                                                                  |
-
-Assessments:
-Monthly short reading responses (3 total)
-Short paper - 02.14.25
-Long paper - 04.08.25
+| 04.08.25 | Long paper                                                                                                                                                                                                                                                                                                                                           |
 
 
 # 01.07.25 Syllabus Lecture 1
@@ -86,8 +81,13 @@ Condition question: What counts as physical? What are our criteria?
 
 # 01.09.25 Lecture 2: Physicalism: the Completeness Question
 [[PHIL451 002 - Lecture 2.pdf]]
-[[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3; [[Seager_Consciousness and physicalism.pdf|Seager]], Theories of Consciousness, pp. 7-13
+
+> [!example] HW
+> [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3 
+> [[Seager_Consciousness and physicalism.pdf|Seager]], Theories of Consciousness, pp. 7-13
 Physicalism: worldview of science
+
+
 
 ***What does it mean to say everything is physical?***
 #### Physicalism: strict numerical identity, 'Identity Physicalism'
