@@ -118,5 +118,5 @@ Solution: liberation, which we have some access to but must purify in order to f
 
 # Lecture 3
 
-> [!example] Title
+> [!example] Title01.10.25
 > Contents
