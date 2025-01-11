@@ -116,8 +116,8 @@ Two kinds of Identity Physicalism
 
 
 > [!example] 01.14.25 HW
-> Montero, “The Body Problem” 
+> [[Montero - (2002) The Body Problem.pdf]]
 > [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)#5.4 Methodological Issues|Stoljar- Physicalism, 5.4]]
 > 
-> Optional: Montero, “Post-physicalism” Arguing for physicalism: the problem of mental causation
+>Optional: Montero, “Post-physicalism” Arguing for physicalism: the problem of mental causation
 
