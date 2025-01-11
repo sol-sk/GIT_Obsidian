@@ -2,36 +2,37 @@
 | ----------------------------------- | ------- | -------------------------------------------------------- | ------------- | --- |
 ### Readings and Assessments
 
-| Week | Date     | Assignment                                     |
-| ---- | -------- | ---------------------------------------------- |
-| 1    | 01.07.25 | Upaniṣads, 28-30, 34-52, 58-71, 171-175.       |
-|      | 01.09.25 |                                                |
-| 2    | 01.14.25 | Upaniṣads, 227-228, 232-247, 268-277, 289-290. |
-|      | 01.16.25 |                                                |
-| 3    | 01.21.25 | How to Lose Yourself, vii-25.                  |
-|      | 01.23.25 | **Quiz 1**                                     |
-| 4    | 01.28.25 | How to Lose Yourself, vii-25.                  |
-|      | 01.30.25 |                                                |
-| 5    | 02.04.25 | How to Lose Yourself, 26-53.                   |
-|      | 02.06.25 |                                                |
-| 6    | 02.11.25 | How to Lose Yourself, 55-121.                  |
-|      | 02.13.25 | **Quiz 2 on Buddha's no-self**                 |
-| 7    | 02.18.25 | MIDTERM BREAK                                  |
-|      | 02.20.25 |                                                |
-| 8    | 02.25.25 |                                                |
-|      | 02.27.25 |                                                |
-| 9    | 03.04.25 |                                                |
-|      | 03.06.25 |                                                |
-| 10   | 03.11.25 |                                                |
-|      | 03.13.25 |                                                |
-| 11   | 03.18.25 |                                                |
-|      | 03.20.25 |                                                |
-| 12   | 03.25.25 | **Quiz 3 on Chan**                             |
-|      | 03.27.25 |                                                |
-| 13   |          |                                                |
-|      |          |                                                |
-| 14   |          |                                                |
-|      | 04.11.25 | **Final Paper**                                |
+| Week | Date     | Assignment                                                                                                                                                                                                                              |
+| ---- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | 01.07.25 | Upaniṣads, 28-30, 34-52, 58-71, 171-175.                                                                                                                                                                                                |
+|      | 01.09.25 |                                                                                                                                                                                                                                         |
+| 2    | 01.14.25 | Upaniṣads, 227-228, 232-247, 268-277, 289-290.                                                                                                                                                                                          |
+|      | 01.16.25 |                                                                                                                                                                                                                                         |
+| 3    | 01.21.25 | How to Lose Yourself, vii-25.                                                                                                                                                                                                           |
+|      | 01.23.25 | **Quiz 1**                                                                                                                                                                                                                              |
+| 4    | 01.28.25 | How to Lose Yourself, vii-25.                                                                                                                                                                                                           |
+|      | 01.30.25 |                                                                                                                                                                                                                                         |
+| 5    | 02.04.25 | How to Lose Yourself, 26-53.                                                                                                                                                                                                            |
+|      | 02.06.25 |                                                                                                                                                                                                                                         |
+| 6    | 02.11.25 | How to Lose Yourself, 55-121.                                                                                                                                                                                                           |
+|      | 02.13.25 | **Quiz 2 on Buddha's no-self**                                                                                                                                                                                                          |
+| 7    | 02.18.25 | MIDTERM BREAK                                                                                                                                                                                                                           |
+|      | 02.20.25 |                                                                                                                                                                                                                                         |
+| 8    | 02.25.25 | How to Lose Yourself, 55-121                                                                                                                                                                                                            |
+|      | 02.27.25 |                                                                                                                                                                                                                                         |
+| 9    | 03.04.25 | Robert H. Sharf, “The Curious Case of the Conscious Corpse: A Medieval Buddhist Thought Experiment” (Canvas) Jing Huang & Jonardon Ganeri, “Is This Me? A Story About Personal Identity from the Mahāprajñāpāramitopadeśa/Dà zhìdù lùn” |
+|      | 03.06.25 |                                                                                                                                                                                                                                         |
+| 10   | 03.11.25 | How to Lose Yourself, 123-195                                                                                                                                                                                                           |
+|      | 03.13.25 |                                                                                                                                                                                                                                         |
+| 11   | 03.18.25 | How to Lose Yourself, 123-195                                                                                                                                                                                                           |
+|      | 03.20.25 |                                                                                                                                                                                                                                         |
+| 12   | 03.25.25 | **Quiz 3 on Chan**                                                                                                                                                                                                                      |
+|      | 03.27.25 | Jonardon Ganeri, Inwardness, ix-50.                                                                                                                                                                                                     |
+| 13   | 04.01.25 | Jonardon Ganeri, Inwardness, 51-101                                                                                                                                                                                                     |
+|      | 04.03.25 |                                                                                                                                                                                                                                         |
+| 14   | 04.08.25 |                                                                                                                                                                                                                                         |
+|      | 04.11.25 | **Final Paper**                                                                                                                                                                                                                         |
+
 
 
 # 01.07.25 Lecture 1
@@ -115,3 +116,7 @@ We get a taste of it, of ego dissolution, in sleep
 Problem: existence in rebirth cosmology 
 Solution: liberation, which we have some access to but must purify in order to fully access 
 
+# Lecture 3
+
+> [!example] Title
+> Contents
