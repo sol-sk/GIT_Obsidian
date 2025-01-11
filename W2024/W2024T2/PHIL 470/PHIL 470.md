@@ -116,7 +116,7 @@ We get a taste of it, of ego dissolution, in sleep
 Problem: existence in rebirth cosmology 
 Solution: liberation, which we have some access to but must purify in order to fully access 
 
-# Lecture 3
+# 01.14.25 Lecture 3
 
-> [!example] Title01.10.25
-> Contents
+> [!example] HW 01.14.25
+> Upaniṣads, 227-228, 232-247, 268-277, 289-290.
