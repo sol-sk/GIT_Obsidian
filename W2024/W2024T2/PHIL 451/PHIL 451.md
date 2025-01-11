@@ -80,14 +80,12 @@ Condition question: What counts as physical? What are our criteria?
 
 
 # 01.09.25 Lecture 2: Physicalism: the Completeness Question
-[[PHIL451 002 - Lecture 2.pdf]]
+#### [[PHIL451 002 - Lecture 2.pdf]]
 
-> [!example] HW
+> [!example] 01.09.25 HW
 > [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)|Stoljar]], “Physicalism” (SEP entry), §§1-3 
 > [[Seager_Consciousness and physicalism.pdf|Seager]], Theories of Consciousness, pp. 7-13
 Physicalism: worldview of science
-
-
 
 ***What does it mean to say everything is physical?***
 #### Physicalism: strict numerical identity, 'Identity Physicalism'
@@ -114,3 +112,12 @@ Two kinds of Identity Physicalism
 		- Octopi similar: far different brains, but show mentality (thought, emotional (?sort of?) reactions)
 		- [[PHIL451 002 - Lecture 2.pdf#page=14&selection=0,43,2,21|PHIL451 002 - Lecture 2, page 14]]
 		- Relationship between mental and physical is not 1:1, other materials/mental states can be associated with things like pain in other creatures
+
+
+
+> [!example] 01.14.25 HW
+> The condition question Montero, 
+> “The Body Problem” Stoljar, “Physicalism (SEP entry), §5.4 
+> 
+> Optional: Montero, “Post-physicalism” Arguing for physicalism: the problem of mental causation
+
