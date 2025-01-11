@@ -116,10 +116,7 @@ Two kinds of Identity Physicalism
 
 
 > [!example] 01.14.25 HW
-> Montero, “The Body Problem” [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)]], “Physicalism (SEP entry), §5.4 
+> Montero, “The Body Problem” 
+> [[Stoljar - Physicalism (Stanford Encyclopedia of Philosophy)]], “Physicalism (SEP entry), §5.4 
 > 
 > Optional: Montero, “Post-physicalism” Arguing for physicalism: the problem of mental causation
-
-```query
-01.10.25
-```
