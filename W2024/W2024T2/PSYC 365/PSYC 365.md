@@ -24,8 +24,8 @@
 | 19  | 03.18.25 | The Hippocampus: From space travel to time travel Passingham Chapter 4; Fernandez- Velasco & Spiers, 2024                           |
 | 20  | 03.20.25 | Episodic memory How to See a Memory                                                                                                 |
 | 21  | 03.25.25 | Rehearsing and retrieving memories Bird et al., 2015                                                                                |
-| 22  | 03.27.25 | Review                                                                                                                              |
-| 23  | 04.01.25 | **Midterm 3**                                                                                                                       |
+| 22  | 03.27.25 | **Midterm 3**                                                                                                                       |
+| 23  | 04.01.25 | Final projects                                                                                                                      |
 | 24  | 04.03.25 | Final projects                                                                                                                      |
 | 25  | 04.08.25 | Final projects                                                                                                                      |
 
