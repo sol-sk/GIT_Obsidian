@@ -13,22 +13,26 @@
 | 10   | 02.06.25 | 02.06.25 | Guest lecture (to be announced) TBD                                                                                                 |          |          |
 | 11   | 02.11.25 | 02.11.25 | Classifying objects Passingham Chap. 2 pg. 58 (Classifying Objects)                                                                 |          |          |
 | 12   | 02.13.25 | 02.13.25 | Predicting Perception Egner, Monti, and Summerfield, 2009 17-21 Feb NO CLASS – Reading Week                                         |          |          |
-| 13   | 02.25.25 | 02.14.25 | Selecting attention Passingham Chap. 3; Videos                                                                                      |          |          |
-| 14   | 02.27.25 | 02.18.25 | Sustaining attention Rosenberg et al., 2016                                                                                         |          |          |
-| 15   | 03.04.25 | 02.20.25 | Emotion, motivation and attention Inman et al., 2023                                                                                |          |          |
-| 16   | 03.06.25 | 02.25.25 | Review                                                                                                                              |          |          |
-| 17   | 03.11.25 | 02.27.25 | **Midterm 2**                                                                                                                       |          |          |
-| 18   | 03.13.25 | 03.04.25 | Reward and attention (& learning) Anderson et al., 2016; 2 Dopamine blogs                                                           |          |          |
-| 19   | 03.18.25 | 03.06.25 | The Hippocampus: From space travel to time travel Passingham Chapter 4; Fernandez- Velasco & Spiers, 2024                           |          |          |
-| 20   | 03.20.25 | 03.11.25 | Episodic memory How to See a Memory                                                                                                 |          |          |
-| 21   | 03.25.25 | 03.13.25 | Rehearsing and retrieving memories Bird et al., 2015                                                                                |          |          |
-| 22   | 03.27.25 | 03.18.25 | **Midterm 3**                                                                                                                       |          |          |
-| 23   | 04.01.25 | 03.20.25 | Final projects                                                                                                                      |          |          |
-| 24   | 04.03.25 | 03.25.25 | Final projects                                                                                                                      |          |          |
-| 25   | 04.08.25 | 03.27.25 | Final projects                                                                                                                      |          |          |
-|      |          | 04.01.25 |                                                                                                                                     |          |          |
-|      |          | 04.03.25 |                                                                                                                                     |          |          |
-|      |          | 04.08.25 |                                                                                                                                     |          |          |
+|      | 02.14.25 |          |                                                                                                                                     |          |          |
+|      | 02.18.25 |          |                                                                                                                                     |          |          |
+|      | 02.20.25 |          |                                                                                                                                     |          |          |
+| 13   | 02.25.25 | 02.25.25 | Selecting attention Passingham Chap. 3; Videos                                                                                      |          |          |
+| 14   | 02.27.25 | 02.27.25 | Sustaining attention Rosenberg et al., 2016                                                                                         |          |          |
+| 15   | 03.04.25 | 03.04.25 | Emotion, motivation and attention Inman et al., 2023                                                                                |          |          |
+| 16   | 03.06.25 | 03.06.25 | Review                                                                                                                              |          |          |
+| 17   | 03.11.25 | 03.11.25 | **Midterm 2**                                                                                                                       |          |          |
+| 18   | 03.13.25 | 03.13.25 | Reward and attention (& learning) Anderson et al., 2016; 2 Dopamine blogs                                                           |          |          |
+| 19   | 03.18.25 | 03.18.25 | The Hippocampus: From space travel to time travel Passingham Chapter 4; Fernandez- Velasco & Spiers, 2024                           |          |          |
+| 20   | 03.20.25 | 03.20.25 | Episodic memory How to See a Memory                                                                                                 |          |          |
+| 21   | 03.25.25 | 03.25.25 | Rehearsing and retrieving memories Bird et al., 2015                                                                                |          |          |
+| 22   | 03.27.25 | 03.27.25 | **Midterm 3**                                                                                                                       |          |          |
+| 23   | 04.01.25 | 04.01.25 | Final projects                                                                                                                      |          |          |
+| 24   | 04.03.25 | 04.03.25 | Final projects                                                                                                                      |          |          |
+| 25   | 04.08.25 | 04.08.25 | Final projects                                                                                                                      |          |          |
+|      |          |          |                                                                                                                                     |          |          |
+|      |          |          |                                                                                                                                     |          |          |
+|      |          |          |                                                                                                                                     |          |          |
+|      |          |          |                                                                                                                                     |          |          |
 
 
 
