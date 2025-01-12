@@ -120,3 +120,7 @@ Solution: liberation, which we have some access to but must purify in order to f
 
 > [!example] HW 01.14.25
 > Upaniṣads, 227-228, 232-247, 268-277, 289-290.
+ [[Upanisads_Olivelle.pdf#page=352&selection=28,0,28,23|Upanisads_Olivelle, page 352]] [[Upanisads_Olivelle.pdf#page=358&selection=19,0,19,14|232-247]]
+
+
+
