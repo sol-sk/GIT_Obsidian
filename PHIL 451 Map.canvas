@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "6988080bb475538c",
+      "type": "text",
+      "text": "**Token Identity Physicalism**",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -180,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e0e0da25bcd8895",
+      "type": "text",
+      "text": "**Stype Identity Physicalism**",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -80,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "97fa00772608c124",
+      "type": "text",
+      "text": "*Property dualists*",
+      "styleAttributes": {},
+      "x": -760,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9ab3137888773a46",
+      "type": "text",
+      "text": "*Substanct dualists*",
+      "styleAttributes": {},
+      "x": -820,
+      "y": -150,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "10850e2518aad861",
+      "type": "text",
+      "text": "# Physicalism",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -460,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "359d85aa4fb15441",
+      "type": "text",
+      "text": "##### Identity Physicalism: 2 types\n",
+      "styleAttributes": {},
+      "x": -340,
+      "y": -260,
+      "width": 300,
+      "height": 80
+    }
+  ],
+  "edges": [
+    {
+      "id": "c450828d778b62b5",
+      "styleAttributes": {},
+      "fromNode": "97fa00772608c124",
+      "fromSide": "right",
+      "toNode": "6988080bb475538c",
+      "toSide": "left",
+      "label": "accept"
+    },
+    {
+      "id": "338b209bee306ee4",
+      "styleAttributes": {},
+      "fromNode": "9ab3137888773a46",
+      "fromSide": "right",
+      "toNode": "6988080bb475538c",
+      "toSide": "left",
+      "label": "reject"
+    }
+  ],
+  "metadata": {}
+}
