@@ -11,32 +11,52 @@
       "height": 60
     },
     {
+      "id": "99464d80494e26d1",
+      "type": "text",
+      "text": "*Multiple realizability argument*",
+      "styleAttributes": {},
+      "x": 720,
+      "y": -280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cb8ff1902e8cc9c7",
+      "type": "text",
+      "text": "**Supervenience Physicalism**\n*aka* **Minimal Physicalism**",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3115c2c112a636ca",
+      "type": "text",
+      "text": "#### **Nonreductive Physicalism**",
+      "styleAttributes": {},
+      "x": 260,
+      "y": -50,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "6988080bb475538c",
+      "type": "text",
+      "text": "**Token Identity Physicalism**",
+      "styleAttributes": {},
+      "x": 410,
+      "y": 490,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "98cec46e6d160547",
       "type": "text",
       "text": "*Property non-identity*",
       "styleAttributes": {},
-      "x": -1080,
-      "y": 310,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "80d2563cb1a85fa1",
-      "type": "text",
-      "text": "*Immaterialism*",
-      "styleAttributes": {},
-      "x": -1080,
-      "y": 220,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9ab3137888773a46",
-      "type": "text",
-      "text": "*Substance dualists*",
-      "styleAttributes": {},
-      "x": -820,
-      "y": 40,
+      "x": -880,
+      "y": -40,
       "width": 260,
       "height": 60
     },
@@ -45,48 +65,28 @@
       "type": "text",
       "text": "*Substantivalism*",
       "styleAttributes": {},
-      "x": -1080,
-      "y": 120,
+      "x": -1240,
+      "y": -40,
       "width": 260,
       "height": 60
     },
     {
-      "id": "3115c2c112a636ca",
+      "id": "80d2563cb1a85fa1",
       "type": "text",
-      "text": "**Nonreductive Physicalism**",
+      "text": "*Immaterialism*",
       "styleAttributes": {},
-      "x": 300,
-      "y": -50,
+      "x": -1240,
+      "y": 65,
       "width": 260,
       "height": 60
     },
     {
-      "id": "08cd0a5bc901678b",
+      "id": "9ab3137888773a46",
       "type": "text",
-      "text": "**(Role) Functionalism**",
+      "text": "#### *Substance dualists*",
       "styleAttributes": {},
-      "x": 510,
-      "y": 70,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "99464d80494e26d1",
-      "type": "text",
-      "text": "*Multiple realizability argument*",
-      "styleAttributes": {},
-      "x": 10,
-      "y": -350,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "6988080bb475538c",
-      "type": "text",
-      "text": "**Token Identity Physicalism**",
-      "styleAttributes": {},
-      "x": 30,
-      "y": 70,
+      "x": -1040,
+      "y": -180,
       "width": 260,
       "height": 60
     },
@@ -95,28 +95,18 @@
       "type": "text",
       "text": "**Type Identity Physicalism**\n*aka* **Reductive Physicalism**",
       "styleAttributes": {},
-      "x": 10,
-      "y": -50,
+      "x": -250,
+      "y": -280,
       "width": 240,
-      "height": 70
-    },
-    {
-      "id": "cb8ff1902e8cc9c7",
-      "type": "text",
-      "text": "**Supervenience Physicalism**\n*aka* **Minimal Physicalism**",
-      "styleAttributes": {},
-      "x": -60,
-      "y": 440,
-      "width": 260,
       "height": 70
     },
     {
       "id": "97fa00772608c124",
       "type": "text",
-      "text": "*Property dualists*",
+      "text": "#### *Property dualists*",
       "styleAttributes": {},
-      "x": -600,
-      "y": 460,
+      "x": -620,
+      "y": 280,
       "width": 260,
       "height": 60
     }
@@ -128,9 +118,8 @@
       "fromNode": "97fa00772608c124",
       "fromSide": "right",
       "toNode": "6988080bb475538c",
-      "toSide": "left",
-      "color": "4",
-      "label": "accept"
+      "toSide": "top",
+      "color": "4"
     },
     {
       "id": "338b209bee306ee4",
@@ -139,36 +128,25 @@
       "fromSide": "right",
       "toNode": "6988080bb475538c",
       "toSide": "left",
-      "color": "1",
-      "label": "reject"
+      "color": "1"
     },
     {
       "id": "0c3cc08ed6f3ab51",
       "styleAttributes": {},
       "fromNode": "99464d80494e26d1",
-      "fromSide": "bottom",
+      "fromSide": "left",
       "toNode": "3115c2c112a636ca",
       "toSide": "top",
-      "color": "4",
-      "label": "for"
+      "color": "4"
     },
     {
       "id": "60771930ac86c102",
       "styleAttributes": {},
       "fromNode": "99464d80494e26d1",
-      "fromSide": "bottom",
+      "fromSide": "left",
       "toNode": "8e0e0da25bcd8895",
       "toSide": "top",
-      "color": "1",
-      "label": "against"
-    },
-    {
-      "id": "4af49cd00cb73fb5",
-      "styleAttributes": {},
-      "fromNode": "3115c2c112a636ca",
-      "fromSide": "bottom",
-      "toNode": "08cd0a5bc901678b",
-      "toSide": "left"
+      "color": "1"
     },
     {
       "id": "4701135ff7f14cfd",
@@ -177,32 +155,97 @@
       "fromSide": "right",
       "toNode": "cb8ff1902e8cc9c7",
       "toSide": "left",
-      "color": "1",
-      "label": "reject"
+      "color": "1"
     },
     {
-      "id": "2c7567eedbd0f0f7",
+      "id": "c2004e92840fd38e",
       "styleAttributes": {},
-      "fromNode": "9ab3137888773a46",
-      "fromSide": "bottom",
+      "fromNode": "97fa00772608c124",
+      "fromSide": "top",
       "toNode": "7652e6986fa5c30d",
-      "toSide": "left"
+      "toSide": "right",
+      "color": "1"
     },
     {
-      "id": "717936c425541d40",
+      "id": "cb88b687fd399e6d",
       "styleAttributes": {},
-      "fromNode": "9ab3137888773a46",
-      "fromSide": "bottom",
-      "toNode": "80d2563cb1a85fa1",
-      "toSide": "left"
-    },
-    {
-      "id": "15aae1821d794be8",
-      "styleAttributes": {},
-      "fromNode": "9ab3137888773a46",
-      "fromSide": "bottom",
+      "fromNode": "97fa00772608c124",
+      "fromSide": "left",
       "toNode": "98cec46e6d160547",
-      "toSide": "right"
+      "toSide": "bottom",
+      "color": "4"
+    },
+    {
+      "id": "3f1a8c72f7dc0047",
+      "styleAttributes": {},
+      "fromNode": "97fa00772608c124",
+      "fromSide": "top",
+      "toNode": "8e0e0da25bcd8895",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "13a6d3644e4c2bdc",
+      "styleAttributes": {},
+      "fromNode": "3115c2c112a636ca",
+      "fromSide": "right",
+      "toNode": "cb8ff1902e8cc9c7",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "66b21a162d70103c",
+      "styleAttributes": {},
+      "fromNode": "3115c2c112a636ca",
+      "fromSide": "left",
+      "toNode": "8e0e0da25bcd8895",
+      "toSide": "bottom",
+      "color": "1"
+    },
+    {
+      "id": "2fab6755ba641b72",
+      "styleAttributes": {},
+      "fromNode": "3115c2c112a636ca",
+      "fromSide": "right",
+      "toNode": "6988080bb475538c",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "4f9254ab529541c6",
+      "styleAttributes": {},
+      "fromNode": "3115c2c112a636ca",
+      "fromSide": "right",
+      "toNode": "98cec46e6d160547",
+      "toSide": "right",
+      "color": "4"
+    },
+    {
+      "id": "f03a4e76bbcc9d14",
+      "styleAttributes": {},
+      "fromNode": "8e0e0da25bcd8895",
+      "fromSide": "right",
+      "toNode": "cb8ff1902e8cc9c7",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "71397a26a1adc630",
+      "styleAttributes": {},
+      "fromNode": "8e0e0da25bcd8895",
+      "fromSide": "right",
+      "toNode": "6988080bb475538c",
+      "toSide": "top",
+      "color": "4"
+    },
+    {
+      "id": "692494e1ca2f9594",
+      "styleAttributes": {},
+      "fromNode": "8e0e0da25bcd8895",
+      "fromSide": "left",
+      "toNode": "98cec46e6d160547",
+      "toSide": "top",
+      "color": "1"
     },
     {
       "id": "063f0d04f2c653ad",
@@ -210,9 +253,8 @@
       "fromNode": "9ab3137888773a46",
       "fromSide": "right",
       "toNode": "8e0e0da25bcd8895",
-      "toSide": "left",
-      "color": "1",
-      "label": "reject"
+      "toSide": "top",
+      "color": "1"
     }
   ],
   "metadata": {}
