@@ -1,46 +1,6 @@
 {
   "nodes": [
     {
-      "id": "6988080bb475538c",
-      "type": "text",
-      "text": "**Token Identity Physicalism**",
-      "styleAttributes": {},
-      "x": -300,
-      "y": -180,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8e0e0da25bcd8895",
-      "type": "text",
-      "text": "**Stype Identity Physicalism**",
-      "styleAttributes": {},
-      "x": -300,
-      "y": -80,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "97fa00772608c124",
-      "type": "text",
-      "text": "*Property dualists*",
-      "styleAttributes": {},
-      "x": -760,
-      "y": -280,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9ab3137888773a46",
-      "type": "text",
-      "text": "*Substanct dualists*",
-      "styleAttributes": {},
-      "x": -820,
-      "y": -150,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "10850e2518aad861",
       "type": "text",
       "text": "# Physicalism",
@@ -51,14 +11,114 @@
       "height": 60
     },
     {
-      "id": "359d85aa4fb15441",
+      "id": "98cec46e6d160547",
       "type": "text",
-      "text": "##### Identity Physicalism: 2 types\n",
+      "text": "*Property non-identity*",
       "styleAttributes": {},
-      "x": -340,
-      "y": -260,
-      "width": 300,
-      "height": 80
+      "x": -1080,
+      "y": 310,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "80d2563cb1a85fa1",
+      "type": "text",
+      "text": "*Immaterialism*",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 220,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9ab3137888773a46",
+      "type": "text",
+      "text": "*Substance dualists*",
+      "styleAttributes": {},
+      "x": -820,
+      "y": 40,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7652e6986fa5c30d",
+      "type": "text",
+      "text": "*Substantivalism*",
+      "styleAttributes": {},
+      "x": -1080,
+      "y": 120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3115c2c112a636ca",
+      "type": "text",
+      "text": "**Nonreductive Physicalism**",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -50,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "08cd0a5bc901678b",
+      "type": "text",
+      "text": "**(Role) Functionalism**",
+      "styleAttributes": {},
+      "x": 510,
+      "y": 70,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "99464d80494e26d1",
+      "type": "text",
+      "text": "*Multiple realizability argument*",
+      "styleAttributes": {},
+      "x": 10,
+      "y": -350,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6988080bb475538c",
+      "type": "text",
+      "text": "**Token Identity Physicalism**",
+      "styleAttributes": {},
+      "x": 30,
+      "y": 70,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e0e0da25bcd8895",
+      "type": "text",
+      "text": "**Type Identity Physicalism**\n*aka* **Reductive Physicalism**",
+      "styleAttributes": {},
+      "x": 10,
+      "y": -50,
+      "width": 240,
+      "height": 70
+    },
+    {
+      "id": "cb8ff1902e8cc9c7",
+      "type": "text",
+      "text": "**Supervenience Physicalism**\n*aka* **Minimal Physicalism**",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 440,
+      "width": 260,
+      "height": 70
+    },
+    {
+      "id": "97fa00772608c124",
+      "type": "text",
+      "text": "*Property dualists*",
+      "styleAttributes": {},
+      "x": -600,
+      "y": 460,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -69,6 +129,7 @@
       "fromSide": "right",
       "toNode": "6988080bb475538c",
       "toSide": "left",
+      "color": "4",
       "label": "accept"
     },
     {
@@ -78,6 +139,79 @@
       "fromSide": "right",
       "toNode": "6988080bb475538c",
       "toSide": "left",
+      "color": "1",
+      "label": "reject"
+    },
+    {
+      "id": "0c3cc08ed6f3ab51",
+      "styleAttributes": {},
+      "fromNode": "99464d80494e26d1",
+      "fromSide": "bottom",
+      "toNode": "3115c2c112a636ca",
+      "toSide": "top",
+      "color": "4",
+      "label": "for"
+    },
+    {
+      "id": "60771930ac86c102",
+      "styleAttributes": {},
+      "fromNode": "99464d80494e26d1",
+      "fromSide": "bottom",
+      "toNode": "8e0e0da25bcd8895",
+      "toSide": "top",
+      "color": "1",
+      "label": "against"
+    },
+    {
+      "id": "4af49cd00cb73fb5",
+      "styleAttributes": {},
+      "fromNode": "3115c2c112a636ca",
+      "fromSide": "bottom",
+      "toNode": "08cd0a5bc901678b",
+      "toSide": "left"
+    },
+    {
+      "id": "4701135ff7f14cfd",
+      "styleAttributes": {},
+      "fromNode": "97fa00772608c124",
+      "fromSide": "right",
+      "toNode": "cb8ff1902e8cc9c7",
+      "toSide": "left",
+      "color": "1",
+      "label": "reject"
+    },
+    {
+      "id": "2c7567eedbd0f0f7",
+      "styleAttributes": {},
+      "fromNode": "9ab3137888773a46",
+      "fromSide": "bottom",
+      "toNode": "7652e6986fa5c30d",
+      "toSide": "left"
+    },
+    {
+      "id": "717936c425541d40",
+      "styleAttributes": {},
+      "fromNode": "9ab3137888773a46",
+      "fromSide": "bottom",
+      "toNode": "80d2563cb1a85fa1",
+      "toSide": "left"
+    },
+    {
+      "id": "15aae1821d794be8",
+      "styleAttributes": {},
+      "fromNode": "9ab3137888773a46",
+      "fromSide": "bottom",
+      "toNode": "98cec46e6d160547",
+      "toSide": "right"
+    },
+    {
+      "id": "063f0d04f2c653ad",
+      "styleAttributes": {},
+      "fromNode": "9ab3137888773a46",
+      "fromSide": "right",
+      "toNode": "8e0e0da25bcd8895",
+      "toSide": "left",
+      "color": "1",
       "label": "reject"
     }
   ],
