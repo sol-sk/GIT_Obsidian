@@ -8,6 +8,7 @@
 | 01.05.25 | 15 min     | 21:00        | 21:09      | Editing dates on menu                       |
 | 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend  |
 | 01.07.25 |            | 10:38        | 11:01      | Final images updates for CFGNY              |
+| 01.18.25 |            | 17:57        |            | Stan Douglas                                |
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
