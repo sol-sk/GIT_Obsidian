@@ -3,6 +3,7 @@
     {
       "id": "b18477415b44486b",
       "type": "group",
+      "styleAttributes": {},
       "x": -1360,
       "y": -290,
       "width": 660,
@@ -40,16 +41,6 @@
       "height": 60
     },
     {
-      "id": "6988080bb475538c",
-      "type": "text",
-      "text": "**Token Identity Physicalism**",
-      "styleAttributes": {},
-      "x": 320,
-      "y": 520,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "8e0e0da25bcd8895",
       "type": "text",
       "text": "**Type Identity Physicalism**\n*aka* **Reductive Physicalism**",
@@ -67,16 +58,6 @@
       "x": 320,
       "y": -280,
       "width": 300,
-      "height": 60
-    },
-    {
-      "id": "99464d80494e26d1",
-      "type": "text",
-      "text": "*Multiple realizability argument*",
-      "styleAttributes": {},
-      "x": 340,
-      "y": -460,
-      "width": 260,
       "height": 60
     },
     {
@@ -116,6 +97,26 @@
       "styleAttributes": {},
       "x": -1110,
       "y": -255,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6988080bb475538c",
+      "type": "text",
+      "text": "**Token Identity Physicalism**",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "99464d80494e26d1",
+      "type": "text",
+      "text": "*Multiple realizability argument*",
+      "styleAttributes": {},
+      "x": 340,
+      "y": -460,
       "width": 260,
       "height": 60
     }
