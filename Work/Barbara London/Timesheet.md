@@ -9,6 +9,7 @@
 | 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend  |
 | 01.07.25 | 15 min     | 10:38        | 11:01      | Final images updates for CFGNY              |
 | 01.18.25 | 1 hr       | 17:57        | 18:45      | Stan Douglas                                |
+|          |            |              |            |                                             |
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
@@ -19,7 +20,7 @@ BL Notes 1/3/25
 - [X] Double check all images “full”
 - [x] Match image spacing to Alan Miyatake image
 - [X] Move effigy to “certainly pulled out all the stops” 
-- [ ] ~~*TBD* Add artist image to end if they allow (Elle perez)~~
+- [x] ~~*TBD* Add artist image to end if they allow (Elle perez)~~
 ~~Live @ 3PST/6EST Jan 8~~ **Jan 7 at 6AM EST** - ~~Scheduled~~ *Posted!*
 
 
