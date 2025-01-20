@@ -10,7 +10,7 @@
 | 01.07.25 | 15 min     | 10:38        | 11:01      | Final images updates for CFGNY              |
 | 01.18.25 | 1 hr       | 17:57        | 18:45      | Stan Douglas                                |
 | 01.20.25 | 15 min     | 12:58        | 13:15      | Page settings                               |
-| 01.20.25 |            | 14:40        |            |                                             |
+| 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY         |
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
