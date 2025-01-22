@@ -1,8 +1,8 @@
-- [x] Presentation 
-
+![[COGS 402 - Notes.canvas|COGS 402 - Notes]]
+- [x] **01.14.25** - Presentation 
 #### Starting out
 [[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]
-Sadie Zeros and Ones
+
 
 
 **For Lacan reading group:**
@@ -12,7 +12,7 @@ Sadie Zeros and Ones
 
 #### Excommunication
 [[excommunication_galloway_thacker_wark.pdf]]
-	Currently reading; at [[excommunication_galloway_thacker_wark.pdf#page=35&selection=0,0,0,1|page 35]]	
+	Currently reading; at [[excommunication_galloway_thacker_wark.pdf#page=84&selection=0,0,0,1|page 84]]	
 
 #### Donna Haraway
 [[cyborg-manifesto_haraway.pdf]]

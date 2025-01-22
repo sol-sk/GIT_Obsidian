@@ -1,0 +1,46 @@
+{
+  "nodes": [
+    {
+      "id": "fa0bd652b02ea547",
+      "type": "text",
+      "text": "# Lacan Reading Group",
+      "styleAttributes": {},
+      "x": -540,
+      "y": -360,
+      "width": 410,
+      "height": 60
+    },
+    {
+      "id": "adef39624b16a44f",
+      "type": "text",
+      "text": "#### [[1_JAM_What is the Real_LI 43_44.pdf|1. Jacques-Alain Miller What is the Real]]",
+      "styleAttributes": {},
+      "x": -510,
+      "y": -280,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "8f7840c645169e37",
+      "type": "text",
+      "text": "### Excommunication\n[[excommunication_galloway_thacker_wark.pdf]]",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -340,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "314d4496ce82205b",
+      "type": "text",
+      "text": "### Textile - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -340,
+      "width": 260,
+      "height": 140
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
