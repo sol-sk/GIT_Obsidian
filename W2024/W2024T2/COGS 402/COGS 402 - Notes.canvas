@@ -3,32 +3,12 @@
     {
       "id": "fa0bd652b02ea547",
       "type": "text",
-      "text": "# Lacan Reading Group",
+      "text": "#### Lacan Reading Group",
       "styleAttributes": {},
       "x": -540,
       "y": -360,
       "width": 410,
-      "height": 60
-    },
-    {
-      "id": "d031d59807f14908",
-      "type": "text",
-      "text": "#### Currently Reading",
-      "styleAttributes": {},
-      "x": 860,
-      "y": -480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9407c1c9128bfaeb",
-      "type": "text",
-      "text": "#### To Read\n",
-      "styleAttributes": {},
-      "x": 1360,
-      "y": -480,
-      "width": 260,
-      "height": 60
+      "height": 80
     },
     {
       "id": "8f7840c645169e37",
@@ -39,16 +19,6 @@
       "y": -390,
       "width": 260,
       "height": 140
-    },
-    {
-      "id": "314d4496ce82205b",
-      "type": "text",
-      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "styleAttributes": {},
-      "x": 900,
-      "y": -170,
-      "width": 300,
-      "height": 160
     },
     {
       "id": "e4b13f7339a1fe06",
@@ -63,22 +33,22 @@
     {
       "id": "202f0933998f3d8e",
       "type": "text",
-      "text": "[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "text": "#### *What is the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
       "styleAttributes": {},
       "x": -510,
       "y": -80,
       "width": 380,
-      "height": 80
+      "height": 100
     },
     {
       "id": "eead0fd1ab0983c1",
       "type": "text",
-      "text": "[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "text": "#### *Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
       "styleAttributes": {},
       "x": -510,
       "y": -200,
       "width": 380,
-      "height": 80
+      "height": 100
     },
     {
       "id": "f95584e975d09f08",
@@ -91,14 +61,24 @@
       "height": 120
     },
     {
-      "id": "5787bdb56435307e",
+      "id": "adef39624b16a44f",
       "type": "text",
-      "text": "#### Read",
+      "text": "#### *What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
       "styleAttributes": {},
-      "x": 290,
-      "y": -480,
-      "width": 260,
-      "height": 60
+      "x": 400,
+      "y": -250,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "314d4496ce82205b",
+      "type": "text",
+      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "styleAttributes": {},
+      "x": 400,
+      "y": -120,
+      "width": 300,
+      "height": 160
     },
     {
       "id": "a032223d5f741c7c",
@@ -106,27 +86,37 @@
       "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
       "styleAttributes": {},
       "x": 900,
-      "y": 40,
+      "y": -220,
       "width": 260,
       "height": 120
     },
     {
-      "id": "adef39624b16a44f",
+      "id": "5787bdb56435307e",
       "type": "text",
-      "text": "#### [[1_JAM_What is the Real_LI 43_44.pdf|1. Jacques-Alain Miller What is the Real]]",
+      "text": "#### Read",
       "styleAttributes": {},
-      "x": 320,
-      "y": -250,
-      "width": 380,
+      "x": 400,
+      "y": -480,
+      "width": 260,
       "height": 60
     },
     {
-      "id": "221582ec780489b8",
+      "id": "d031d59807f14908",
       "type": "text",
-      "text": "%%\"sewing chatGPT a jacket\"%%",
+      "text": "#### Currently Reading",
       "styleAttributes": {},
-      "x": -740,
-      "y": 60,
+      "x": 900,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9407c1c9128bfaeb",
+      "type": "text",
+      "text": "#### To Read\n",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": -480,
       "width": 260,
       "height": 60
     }
