@@ -11,16 +11,6 @@
       "height": 60
     },
     {
-      "id": "adef39624b16a44f",
-      "type": "text",
-      "text": "#### [[1_JAM_What is the Real_LI 43_44.pdf|1. Jacques-Alain Miller What is the Real]]",
-      "styleAttributes": {},
-      "x": -510,
-      "y": -280,
-      "width": 380,
-      "height": 60
-    },
-    {
       "id": "d031d59807f14908",
       "type": "text",
       "text": "#### Currently Reading",
@@ -119,6 +109,16 @@
       "y": 40,
       "width": 260,
       "height": 120
+    },
+    {
+      "id": "adef39624b16a44f",
+      "type": "text",
+      "text": "#### [[1_JAM_What is the Real_LI 43_44.pdf|1. Jacques-Alain Miller What is the Real]]",
+      "styleAttributes": {},
+      "x": 320,
+      "y": -250,
+      "width": 380,
+      "height": 60
     }
   ],
   "edges": [],
