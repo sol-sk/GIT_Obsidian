@@ -21,24 +21,104 @@
       "height": 60
     },
     {
+      "id": "d031d59807f14908",
+      "type": "text",
+      "text": "#### Currently Reading",
+      "styleAttributes": {},
+      "x": 860,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9407c1c9128bfaeb",
+      "type": "text",
+      "text": "#### To Read\n",
+      "styleAttributes": {},
+      "x": 1360,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "8f7840c645169e37",
       "type": "text",
-      "text": "### Excommunication\n[[excommunication_galloway_thacker_wark.pdf]]",
+      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
       "styleAttributes": {},
-      "x": 40,
-      "y": -340,
+      "x": 900,
+      "y": -390,
       "width": 260,
-      "height": 100
+      "height": 150
     },
     {
       "id": "314d4496ce82205b",
       "type": "text",
-      "text": "### Textile - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
       "styleAttributes": {},
-      "x": 460,
-      "y": -340,
+      "x": 900,
+      "y": -170,
+      "width": 300,
+      "height": 160
+    },
+    {
+      "id": "e4b13f7339a1fe06",
+      "type": "text",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": -390,
       "width": 260,
-      "height": 140
+      "height": 100
+    },
+    {
+      "id": "202f0933998f3d8e",
+      "type": "text",
+      "text": "[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "styleAttributes": {},
+      "x": -510,
+      "y": -80,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "eead0fd1ab0983c1",
+      "type": "text",
+      "text": "[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "styleAttributes": {},
+      "x": -510,
+      "y": -200,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "f95584e975d09f08",
+      "type": "text",
+      "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
+      "styleAttributes": {},
+      "x": 400,
+      "y": -390,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "5787bdb56435307e",
+      "type": "text",
+      "text": "#### Read",
+      "styleAttributes": {},
+      "x": 290,
+      "y": -480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a032223d5f741c7c",
+      "type": "text",
+      "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
+      "styleAttributes": {},
+      "x": 900,
+      "y": 40,
+      "width": 260,
+      "height": 120
     }
   ],
   "edges": [],
