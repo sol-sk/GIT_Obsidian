@@ -3,12 +3,12 @@
     {
       "id": "fa0bd652b02ea547",
       "type": "text",
-      "text": "#### Lacan Reading Group",
+      "text": "## Lacan Reading Group",
       "styleAttributes": {},
-      "x": -540,
-      "y": -360,
-      "width": 410,
-      "height": 80
+      "x": -510,
+      "y": -340,
+      "width": 380,
+      "height": 60
     },
     {
       "id": "8f7840c645169e37",
@@ -31,26 +31,6 @@
       "height": 100
     },
     {
-      "id": "202f0933998f3d8e",
-      "type": "text",
-      "text": "#### *What is the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
-      "styleAttributes": {},
-      "x": -510,
-      "y": -80,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "eead0fd1ab0983c1",
-      "type": "text",
-      "text": "#### *Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
-      "styleAttributes": {},
-      "x": -510,
-      "y": -200,
-      "width": 380,
-      "height": 100
-    },
-    {
       "id": "f95584e975d09f08",
       "type": "text",
       "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
@@ -63,7 +43,7 @@
     {
       "id": "adef39624b16a44f",
       "type": "text",
-      "text": "#### *What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
+      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
       "styleAttributes": {},
       "x": 400,
       "y": -250,
@@ -93,7 +73,7 @@
     {
       "id": "5787bdb56435307e",
       "type": "text",
-      "text": "#### Read",
+      "text": "## Read",
       "styleAttributes": {},
       "x": 400,
       "y": -480,
@@ -103,7 +83,7 @@
     {
       "id": "d031d59807f14908",
       "type": "text",
-      "text": "#### Currently Reading",
+      "text": "## Currently Reading",
       "styleAttributes": {},
       "x": 900,
       "y": -480,
@@ -113,12 +93,32 @@
     {
       "id": "9407c1c9128bfaeb",
       "type": "text",
-      "text": "#### To Read\n",
+      "text": "## To Read\n",
       "styleAttributes": {},
       "x": 1420,
       "y": -480,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "eead0fd1ab0983c1",
+      "type": "text",
+      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "styleAttributes": {},
+      "x": -510,
+      "y": -240,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "202f0933998f3d8e",
+      "type": "text",
+      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "styleAttributes": {},
+      "x": -510,
+      "y": -120,
+      "width": 380,
+      "height": 100
     }
   ],
   "edges": [],
