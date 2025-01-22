@@ -119,6 +119,16 @@
       "y": -250,
       "width": 380,
       "height": 60
+    },
+    {
+      "id": "221582ec780489b8",
+      "type": "text",
+      "text": "%%\"sewing chatGPT a jacket\"%%",
+      "styleAttributes": {},
+      "x": -740,
+      "y": 60,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [],
