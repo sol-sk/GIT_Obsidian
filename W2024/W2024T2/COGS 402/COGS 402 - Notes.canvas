@@ -5,9 +5,39 @@
       "type": "text",
       "text": "## Lacan Reading Group",
       "styleAttributes": {},
-      "x": -510,
-      "y": -340,
+      "x": -480,
+      "y": -920,
       "width": 380,
+      "height": 60
+    },
+    {
+      "id": "eead0fd1ab0983c1",
+      "type": "text",
+      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -820,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "202f0933998f3d8e",
+      "type": "text",
+      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -700,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "d031d59807f14908",
+      "type": "text",
+      "text": "## Currently Reading",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -483,
+      "width": 260,
       "height": 60
     },
     {
@@ -15,18 +45,58 @@
       "type": "text",
       "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
       "styleAttributes": {},
-      "x": 900,
-      "y": -390,
+      "x": 760,
+      "y": -393,
       "width": 260,
       "height": 140
     },
     {
-      "id": "f95584e975d09f08",
+      "id": "a032223d5f741c7c",
       "type": "text",
-      "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
+      "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
       "styleAttributes": {},
-      "x": 400,
-      "y": -390,
+      "x": 760,
+      "y": -223,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "e4b13f7339a1fe06",
+      "type": "text",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -63,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "9407c1c9128bfaeb",
+      "type": "text",
+      "text": "## To Read\n",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -483,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5787bdb56435307e",
+      "type": "text",
+      "text": "## Read",
+      "styleAttributes": {},
+      "x": -120,
+      "y": -483,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5cf6bcf1ed341fa1",
+      "type": "text",
+      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 57,
       "width": 300,
       "height": 120
     },
@@ -35,7 +105,7 @@
       "type": "text",
       "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
       "styleAttributes": {},
-      "x": 400,
+      "x": -120,
       "y": -250,
       "width": 300,
       "height": 100
@@ -45,90 +115,30 @@
       "type": "text",
       "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
       "styleAttributes": {},
-      "x": 400,
-      "y": -120,
+      "x": -120,
+      "y": -127,
       "width": 300,
       "height": 160
     },
     {
-      "id": "a032223d5f741c7c",
+      "id": "f95584e975d09f08",
       "type": "text",
-      "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
+      "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
       "styleAttributes": {},
-      "x": 900,
-      "y": -220,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "5787bdb56435307e",
-      "type": "text",
-      "text": "## Read",
-      "styleAttributes": {},
-      "x": 400,
-      "y": -480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "d031d59807f14908",
-      "type": "text",
-      "text": "## Currently Reading",
-      "styleAttributes": {},
-      "x": 900,
-      "y": -480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9407c1c9128bfaeb",
-      "type": "text",
-      "text": "## To Read\n",
-      "styleAttributes": {},
-      "x": 1420,
-      "y": -480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "eead0fd1ab0983c1",
-      "type": "text",
-      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
-      "styleAttributes": {},
-      "x": -510,
-      "y": -240,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "202f0933998f3d8e",
-      "type": "text",
-      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
-      "styleAttributes": {},
-      "x": -510,
-      "y": -120,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "5cf6bcf1ed341fa1",
-      "type": "text",
-      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
-      "styleAttributes": {},
-      "x": 400,
-      "y": 100,
+      "x": -120,
+      "y": -393,
       "width": 300,
       "height": 120
     },
     {
-      "id": "e4b13f7339a1fe06",
+      "id": "8a47c5d2acf02b60",
       "type": "text",
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
+      "text": "#### Highlights: \n",
       "styleAttributes": {},
-      "x": 900,
-      "y": -60,
-      "width": 260,
-      "height": 100
+      "x": 140,
+      "y": 40,
+      "width": 680,
+      "height": 60
     }
   ],
   "edges": [],
