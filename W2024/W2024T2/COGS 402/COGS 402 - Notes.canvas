@@ -133,14 +133,123 @@
     {
       "id": "8a47c5d2acf02b60",
       "type": "text",
-      "text": "#### Highlights: \n",
+      "text": "**Homophilia = basis of network science**\n",
       "styleAttributes": {},
-      "x": 140,
-      "y": 40,
-      "width": 680,
+      "x": 640,
+      "y": 160,
+      "width": 380,
+      "height": 80
+    },
+    {
+      "id": "31743dd0955acab6",
+      "type": "text",
+      "text": ">  Homophily reveals and creates boundaries within theoretically flat and diffuse networks; it distinguishes and discriminates between allegedly equal nodes: it is a tool for discovering bias and inequality and for perpetuating it in the name of “comfort,” predictability, and common sense. \n\n[[Pattern-Discrimination.pdf#page=76&selection=7,37,13,57|Pattern-Discrimination, page 76]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 592,
+      "width": 460,
+      "height": 174
+    },
+    {
+      "id": "c6b8234c2d63e608",
+      "type": "text",
+      "text": "> Crucially, these algorithms perpetuate the discrimination they “find.” They are not simply descriptive but also prescriptive and per- formative in all senses of that word. Capture systems, as Phil Agre theorized in 1994, reshape the activities they model or “discover.” Through a metaphor of human activity as language, they impose a normative “grammar of action” as they move from analyzing captured data to building an epistemological model of the captured activity (364)\n\n[[Pattern-Discrimination.pdf#page=80&selection=2,0,11,14|Pattern-Discrimination, page 80]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 806,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "944984bfda1ddb7b",
+      "type": "text",
+      "text": "> What we understand to be “natural” or “essential” is actually “manufactured through a sustained set of acts, positioned through the gendered stylization of the body . . . what we take to be an ‘internal’ feature of ourselves is one that we anticipate and produce through certain bodily acts, at an extreme, an hallucinatory effect of naturalized gestures” (Butler 1990, xv)\n\n[[Pattern-Discrimination.pdf#page=80&selection=33,31,39,66|Pattern-Discrimination, page 80]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1123,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "a997bb75198d1b9f",
+      "type": "text",
+      "text": "> According to the acclaimed network scientist and author Albert-László Barabási, network science obviates the need for human psychology: “In the past, if you wanted to understand what humans do and why they do it, you became a card-carrying psychologist. Today you may want to obtain a degree in computer science . . . .” This is because network science, combined with “increasingly penetrating digital technol- ogies,” places us in “an immense research laboratory that, in size, complexity, and detail, surpasses everything that science has en- countered before.” This lab reveals “the rhythms of life as evidence of a deeper order in human behavior, one that can be explored, predicted, and no doubt exploited” (Barabási 2010, 11). Network science unravels a vast collective nonconscious, encased within the fishbowl of digital media.3 It is the bastard child of psychoanalysis: there are no accidents, no innocent slips of the tongue. Each action is part of a larger pattern/symptom. The goal: to answer that unan- swerable question, what do (wo)men want?\n\n[[Pattern-Discrimination.pdf#page=83&annotation=691R|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1389,
+      "width": 460,
+      "height": 508
+    },
+    {
+      "id": "cbfd40ba75b810b1",
+      "type": "text",
+      "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1937,
+      "width": 460,
+      "height": 445
+    },
+    {
+      "id": "5bec7d156f370bca",
+      "type": "text",
+      "text": "Network science is response to globalization ",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 1643,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "59a7d29ddf5c74a6",
+      "type": "text",
+      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 2108,
+      "width": 460,
+      "height": 148
+    },
+    {
+      "id": "55cd88ca74d7f051",
+      "type": "text",
+      "text": ">  network science models not the real world but rather the initial representation and truth is what reproduces this abstraction.\n\n[[Pattern-Discrimination.pdf#page=84&selection=51,6,52,69|Pattern-Discrimination, page 84]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2440,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "c298cca9a92d8d48",
+      "type": "text",
+      "text": "> As the turn to game theory reveals, a market-based logic perme- ates network science models \n\n[[Pattern-Discrimination.pdf#page=86&selection=15,0,17,28|Pattern-Discrimination, page 86]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2799f47c412fb8e0",
+      "type": "text",
+      "text": "> Embedded, then, in the very dynamics of network science is the presumption that there can be no neighbors without common cultural traits. \n\n[[Pattern-Discrimination.pdf#page=94&selection=27,0,29,17|Pattern-Discrimination, page 94]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2700,
+      "width": 260,
       "height": 60
     }
   ],
-  "edges": [],
+  "edges": [
+    {
+      "id": "7a8fbd1f3afa21c8",
+      "styleAttributes": {},
+      "fromNode": "cbfd40ba75b810b1",
+      "fromSide": "right",
+      "toNode": "59a7d29ddf5c74a6",
+      "toSide": "left"
+    }
+  ],
   "metadata": {}
 }
