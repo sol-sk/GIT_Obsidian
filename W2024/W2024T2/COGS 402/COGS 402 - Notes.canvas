@@ -10,6 +10,15 @@
       "label": "Annotations"
     },
     {
+      "id": "028caea1d6cc123d",
+      "type": "text",
+      "text": "[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "x": 1344,
+      "y": 3328,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "fa0bd652b02ea547",
       "type": "text",
       "text": "## Lacan Reading Group",
@@ -434,8 +443,8 @@
       "type": "text",
       "text": "> We tar- get the Achilles heel of media theory, the one aspect of media- tion that is so hard to accept, the insufficiency of mediation.\n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=3,53,8,1|excommunication_galloway_thacker_wark, page 17]]",
       "styleAttributes": {},
-      "x": 710,
-      "y": 2973,
+      "x": -280,
+      "y": 3806,
       "width": 460,
       "height": 121
     },
@@ -444,8 +453,8 @@
       "type": "text",
       "text": "> ere are mediative situations in which heresy, exile, or ban- ishment carry the day, not repetition, communion, or integra- tion. \u0017ere are certain kinds of messages that state there will be no more messages. Why? \u0017e reasons may vary, from the para- doxical lyricism of the ineffable (“it can’t be put into words”), to the refusal to engage (“I prefer not to”), to the contentiousness of apathy (“some things aren’t worth saying”), to the enigma of silence (and its impossibility). Hence for every communication there is a correlative *excom- munication.* \n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=32,1,47,2|excommunication_galloway_thacker_wark, page 17]]",
       "styleAttributes": {},
-      "x": 710,
-      "y": 3134,
+      "x": -280,
+      "y": 3967,
       "width": 460,
       "height": 298
     },
@@ -454,18 +463,20 @@
       "type": "text",
       "text": "> Jean Baudrillard notes that all communication involves a form of going outside oneself,\n\n[[excommunication_galloway_thacker_wark.pdf#page=21&selection=32,0,33,25|excommunication_galloway_thacker_wark, page 21]]",
       "styleAttributes": {},
-      "x": 710,
-      "y": 3472,
+      "x": -280,
+      "y": 4305,
       "width": 460,
       "height": 95
     },
     {
-      "id": "735127b5d6a98a95",
+      "id": "6761936b46499ceb",
       "type": "text",
-      "text": "#### The Furies",
-      "styleAttributes": {},
-      "x": 2070,
-      "y": 3004,
+      "text": "#### Hermes",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 430,
+      "y": 2973,
       "width": 260,
       "height": 60
     },
@@ -473,19 +484,23 @@
       "id": "a927cb8145bb5d73",
       "type": "text",
       "text": "#### Iris",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 3004,
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 810,
+      "y": 2973,
       "width": 260,
       "height": 60
     },
     {
-      "id": "6761936b46499ceb",
+      "id": "735127b5d6a98a95",
       "type": "text",
-      "text": "#### Hermes",
-      "styleAttributes": {},
-      "x": 1340,
-      "y": 3004,
+      "text": "#### The Furies",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 1160,
+      "y": 2973,
       "width": 260,
       "height": 60
     },
@@ -493,11 +508,219 @@
       "id": "2a1d050854f37e02",
       "type": "text",
       "text": "#### Aphrodite",
-      "styleAttributes": {},
-      "x": 2430,
-      "y": 3004,
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 1520,
+      "y": 2973,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "ada27d1e8bbb159b",
+      "type": "text",
+      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 810,
+      "y": 3080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "12aae98c11e29008",
+      "type": "text",
+      "text": "> Jacques Derrida famously called Hermes the “signifier god”; indeed as inventor of writing, Hermes is a key figure in any theory of mediation, producing as he does much of what we label the critical tradition\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=11,15,14,39|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 430,
+      "y": 3080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "29aefb30fb9d47ce",
+      "type": "text",
+      "text": "> Taken together Iris and Hermes encompass the canonical media universe we have already described above: the universe of devices and determi- nacy, a universe in which media are either clear or complicated, either local or remote, either familiar or strange\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=21,43,25,50|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 3280,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "bc5135992efe5d12",
+      "type": "text",
+      "text": "> \u0017e Fury model is useful because it allows us to deal with complex systems like swarms, rhizomes, assemblages, and networks—the various modes of mediation that have achieved a new level of prominence today at the turn of the new mil- lennium.\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=30,11,34,8|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 1160,
+      "y": 3080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ff413d5f39131acd",
+      "type": "text",
+      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 3080,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6a475035d909e54f",
+      "type": "text",
+      "text": "### Galloway",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3130,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "ab82c84d8e980043",
+      "type": "text",
+      "text": "### Thacker",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3288,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "a24e9648d399dade",
+      "type": "text",
+      "text": "### Wark",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3465,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "436dde4238945f99",
+      "type": "text",
+      "text": "> Evoking the surging poetics of the swarm, Wark proposes a political heresy, one that will deviate from both traditional media theory and the traditional le\u001d: a post-hermeneutic marx- ism, or “marxism of the swarm.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=16,0,19,31|excommunication_galloway_thacker_wark, page 26]]",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 3360,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "eba3f701e8d74803",
+      "type": "text",
+      "text": ">  But, as Wark suggests, what if heresy were necessary to communication theory? And what if communication served as a central concept for thinking about the Judeo-Christian inher- itance in the West?\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=33,4,36,19|excommunication_galloway_thacker_wark, page 26]]",
+      "styleAttributes": {},
+      "x": 1180,
+      "y": 3450,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "a1bca9f5100f1d05",
+      "type": "text",
+      "text": "> , \u0017acker suggests that communication o\u001den shi\u001ds from an epistemological register (a connection between two points in a single, shared reality) to an ontological regis- ter (a disconnection between the natural and the supernatural, or the earthly and the divine). Media are thus “haunted” when they affirmatively span different ontological orders. Media are “weird” when they negatively mediate between two ontological orders.\n\n[[excommunication_galloway_thacker_wark.pdf#page=25&selection=30,15,45,7|excommunication_galloway_thacker_wark, page 25]]",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 3360,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "b5aaf1f67a50c076",
+      "type": "text",
+      "text": "Galloway’s chapter is to tackle theories of mediation from the perspective of human experience, \u0017  \u0017 ",
+      "styleAttributes": {},
+      "x": 1650,
+      "y": 3250,
+      "width": 324,
+      "height": 76
+    },
+    {
+      "id": "e6582685a75089d4",
+      "type": "text",
+      "text": "Galloway’s chapter dis- cusses the mediations of this world, as either hermeneutics, the illumination of iridescence, or the complexities of the swarm; ",
+      "styleAttributes": {},
+      "x": 1650,
+      "y": 3366,
+      "width": 324,
+      "height": 129
+    },
+    {
+      "id": "9a77dcf1b16ddd3a",
+      "type": "text",
+      "text": "For Galloway it is a question of distinguishing between text, image, and system;",
+      "styleAttributes": {},
+      "x": 1650,
+      "y": 3535,
+      "width": 324,
+      "height": 76
+    },
+    {
+      "id": "bf39742137320414",
+      "type": "text",
+      "text": "Thacker’s chapter reverses the terms, starting not from the human but from the nonhuman, from the perspec- tive of what Lovecra\u001d called “cosmic outsideness.”",
+      "styleAttributes": {},
+      "x": 2037,
+      "y": 3250,
+      "width": 324,
+      "height": 102
+    },
+    {
+      "id": "3b06e1789f80a039",
+      "type": "text",
+      "text": "acker’s chapter, by contrast, discusses mediations not of this world, when mediation arises between two different ontological orders; ",
+      "styleAttributes": {},
+      "x": 2037,
+      "y": 3392,
+      "width": 324,
+      "height": 102
+    },
+    {
+      "id": "3342f59833473be5",
+      "type": "text",
+      "text": " for \u0017acker between the haunted and the weird, the artifact and the thing;",
+      "styleAttributes": {},
+      "x": 2037,
+      "y": 3534,
+      "width": 324,
+      "height": 50
+    },
+    {
+      "id": "99c5b4f010e94d4e",
+      "type": "text",
+      "text": "Wark con- tinues into the great outside, exploring how alien or inhuman mediation fuses back with the human.",
+      "styleAttributes": {},
+      "x": 2436,
+      "y": 3250,
+      "width": 324,
+      "height": 76
+    },
+    {
+      "id": "9352526e5d94206b",
+      "type": "text",
+      "text": "Wark’s chapter deals with both extremes, dealing at once with orgies and swarming poetics, the sacred and the heretical, in order to arrive at something akin to a pantheist universe of passions.",
+      "styleAttributes": {},
+      "x": 2436,
+      "y": 3366,
+      "width": 324,
+      "height": 129
+    },
+    {
+      "id": "24c133d506dd92f5",
+      "type": "text",
+      "text": " for Wark the disintegra- tion and reorganization of these many ingredients into a new arrangement of freedom.",
+      "styleAttributes": {},
+      "x": 2436,
+      "y": 3535,
+      "width": 324,
+      "height": 76
     }
   ],
   "edges": [
@@ -532,6 +755,22 @@
       "fromSide": "right",
       "toNode": "8a47c5d2acf02b60",
       "toSide": "left"
+    },
+    {
+      "id": "5fe9c42b65dbe8f3",
+      "styleAttributes": {},
+      "fromNode": "12aae98c11e29008",
+      "fromSide": "bottom",
+      "toNode": "29aefb30fb9d47ce",
+      "toSide": "top"
+    },
+    {
+      "id": "94976e65e16b8bce",
+      "styleAttributes": {},
+      "fromNode": "ada27d1e8bbb159b",
+      "fromSide": "bottom",
+      "toNode": "29aefb30fb9d47ce",
+      "toSide": "top"
     }
   ],
   "metadata": {}
