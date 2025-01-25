@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "dd9ae97423303c4d",
+      "type": "group",
+      "x": -700,
+      "y": 520,
+      "width": 4540,
+      "height": 5080,
+      "label": "Annotations"
+    },
+    {
       "id": "fa0bd652b02ea547",
       "type": "text",
       "text": "## Lacan Reading Group",
@@ -81,66 +90,6 @@
       "height": 60
     },
     {
-      "id": "5787bdb56435307e",
-      "type": "text",
-      "text": "## Read",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -483,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "5cf6bcf1ed341fa1",
-      "type": "text",
-      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
-      "styleAttributes": {},
-      "x": -120,
-      "y": 57,
-      "width": 300,
-      "height": 120
-    },
-    {
-      "id": "adef39624b16a44f",
-      "type": "text",
-      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -250,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "314d4496ce82205b",
-      "type": "text",
-      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -127,
-      "width": 300,
-      "height": 160
-    },
-    {
-      "id": "f95584e975d09f08",
-      "type": "text",
-      "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
-      "styleAttributes": {},
-      "x": -120,
-      "y": -393,
-      "width": 300,
-      "height": 120
-    },
-    {
-      "id": "8a47c5d2acf02b60",
-      "type": "text",
-      "text": "**Homophilia = basis of network science**\n",
-      "styleAttributes": {},
-      "x": 640,
-      "y": 160,
-      "width": 380,
-      "height": 80
-    },
-    {
       "id": "31743dd0955acab6",
       "type": "text",
       "text": ">  Homophily reveals and creates boundaries within theoretically flat and diffuse networks; it distinguishes and discriminates between allegedly equal nodes: it is a tool for discovering bias and inequality and for perpetuating it in the name of “comfort,” predictability, and common sense. \n\n[[Pattern-Discrimination.pdf#page=76&selection=7,37,13,57|Pattern-Discrimination, page 76]]",
@@ -181,42 +130,42 @@
       "height": 508
     },
     {
-      "id": "cbfd40ba75b810b1",
+      "id": "1aaed3ebecdfbd25",
       "type": "text",
-      "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "text": "**Barabasi Lab**",
       "styleAttributes": {},
-      "x": -280,
-      "y": 1937,
-      "width": 460,
-      "height": 445
-    },
-    {
-      "id": "5bec7d156f370bca",
-      "type": "text",
-      "text": "Network science is response to globalization ",
-      "styleAttributes": {},
-      "x": 280,
-      "y": 1643,
+      "x": 320,
+      "y": 1380,
       "width": 260,
       "height": 60
     },
     {
-      "id": "59a7d29ddf5c74a6",
+      "id": "8a47c5d2acf02b60",
       "type": "text",
-      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "text": "**Homophilia = basis of network science**\n",
       "styleAttributes": {},
       "x": 260,
-      "y": 2108,
-      "width": 460,
-      "height": 148
+      "y": 632,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "5cf6bcf1ed341fa1",
+      "type": "text",
+      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 532,
+      "width": 300,
+      "height": 120
     },
     {
       "id": "55cd88ca74d7f051",
       "type": "text",
       "text": ">  network science models not the real world but rather the initial representation and truth is what reproduces this abstraction.\n\n[[Pattern-Discrimination.pdf#page=84&selection=51,6,52,69|Pattern-Discrimination, page 84]]",
       "styleAttributes": {},
-      "x": -280,
-      "y": 2440,
+      "x": 710,
+      "y": 1095,
       "width": 460,
       "height": 121
     },
@@ -225,18 +174,188 @@
       "type": "text",
       "text": "> As the turn to game theory reveals, a market-based logic perme- ates network science models \n\n[[Pattern-Discrimination.pdf#page=86&selection=15,0,17,28|Pattern-Discrimination, page 86]]",
       "styleAttributes": {},
-      "x": -280,
-      "y": 2620,
-      "width": 260,
-      "height": 60
+      "x": 710,
+      "y": 1256,
+      "width": 460,
+      "height": 95
     },
     {
       "id": "2799f47c412fb8e0",
       "type": "text",
       "text": "> Embedded, then, in the very dynamics of network science is the presumption that there can be no neighbors without common cultural traits. \n\n[[Pattern-Discrimination.pdf#page=94&selection=27,0,29,17|Pattern-Discrimination, page 94]]",
       "styleAttributes": {},
-      "x": -280,
-      "y": 2700,
+      "x": 710,
+      "y": 1391,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "aad6faac7d8ef438",
+      "type": "text",
+      "text": "> As Sara Ahmed has argued in The Cultural Politics of Emotion, “love of the same” is never innocent: white supremacist love, for instance, is based on a hatred of others (Ahmed 2004). The movement away from others, which grounds models of homophily, reveals the extent to which hatred precedes homophily. The hatred that networks foster, then, should surprise no one. Hatred, Ahmed stresses, organizes bodies. It is an emo- tional “investment” that makes certain bodies responsible for pain or injury. It organizes by bringing things and bodies together— by linking certain figures together so they become a common threat, an X to “our” O. Hate transforms the particular into the general: it transforms individuals into types so they become a common threat (I hate you because you are Y)\n\n[[Pattern-Discrimination.pdf#page=99&selection=29,23,51,30|Pattern-Discrimination, page 99]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1552,
+      "width": 460,
+      "height": 403
+    },
+    {
+      "id": "cbfd40ba75b810b1",
+      "type": "text",
+      "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 592,
+      "width": 460,
+      "height": 445
+    },
+    {
+      "id": "fdc4573e7c5c2683",
+      "type": "text",
+      "text": "> Vi Hart\n\n[[Pattern-Discrimination.pdf#page=100&annotation=791R|Pattern-Discrimination, page 100]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 592,
+      "width": 460,
+      "height": 69
+    },
+    {
+      "id": "66a7e46bb0bddf73",
+      "type": "text",
+      "text": "> In contrast to most computational identity systems that incorrectly reify identity categories by implementing them as simple data fields ... he has developed the AIR (Advanced Identity Representation) project to produce “computational models of subjective identity phenomena related to categorization such as specific forms of marginalization that are overlooked in engi- neering” (Harrell 2013, 1).\n\n[[Pattern-Discrimination.pdf#page=101&selection=27,9,50,27|Pattern-Discrimination, page 101]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 701,
+      "width": 460,
+      "height": 253
+    },
+    {
+      "id": "6f90a41f3dcdae47",
+      "type": "text",
+      "text": "> Harrell’s work most critically engages the creativity embedded within artificial intelligence. Phantasmal Media: An Approach to Imagination, Computation, and Expression (2013), drawn from his work with Define Me and GRIOT, groundbreaking social networking and expressive A.I. projects, asks: can A.I. have the same impact as great literature,\n\n[[Pattern-Discrimination.pdf#page=102&selection=7,0,19,20|Pattern-Discrimination, page 102]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 994,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "8c0ee2af90a46309",
+      "type": "text",
+      "text": "> The various turns toward “less coarse” and “static” concepts such as nonhuman allure (themselves inspired by networks and new media), not to mention the embrace of an instrumentalist technological logic that demeans critical analysis and celebrates digital tinkering, are oddly contradictory and self-defeating.\n\n[[Pattern-Discrimination.pdf#page=103&selection=52,10,59,10|Pattern-Discrimination, page 103]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 1260,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "abdfbbb459bb760c",
+      "type": "text",
+      "text": "> Ahmed views queerness as an inability to be comfortable in certain norms: To feel uncomfortable is precisely to be affected by that which persists in the shaping of bodies and lives. Discom- fort is hence not about assimilation or resistance, but about inhabiting norms differently. The inhabitance is gen- erative or productive insofar as it does not end with the failure of norms to be secured, but with the possibilities of living that do not “follow” those norms through. (em- phasis in original, 155).\n\n[[Pattern-Discrimination.pdf#page=103&selection=17,51,32,25|Pattern-Discrimination, page 103]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 1500,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "5bec7d156f370bca",
+      "type": "text",
+      "text": "Network science is response to globalization ",
+      "styleAttributes": {},
+      "x": 320,
+      "y": 1609,
+      "width": 260,
+      "height": 71
+    },
+    {
+      "id": "59a7d29ddf5c74a6",
+      "type": "text",
+      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 658,
+      "width": 460,
+      "height": 148
+    },
+    {
+      "id": "f95584e975d09f08",
+      "type": "text",
+      "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
+      "styleAttributes": {},
+      "x": -640,
+      "y": 2130,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "adef39624b16a44f",
+      "type": "text",
+      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
+      "styleAttributes": {},
+      "x": -640,
+      "y": 3240,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "314d4496ce82205b",
+      "type": "text",
+      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "styleAttributes": {},
+      "x": -640,
+      "y": 3363,
+      "width": 300,
+      "height": 160
+    },
+    {
+      "id": "a7ea64ed037e349e",
+      "type": "text",
+      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b6a73117981e19c3",
+      "type": "text",
+      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[Sontag-Against+Interpretation.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8c6b66597ae1ff0e",
+      "type": "text",
+      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f3417c5294e39919",
+      "type": "text",
+      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2680,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "45e5c5cacff1fac9",
+      "type": "text",
+      "text": "> What is needed, first, is more attention to form in art. \n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 2760,
       "width": 260,
       "height": 60
     }
@@ -248,6 +367,30 @@
       "fromNode": "cbfd40ba75b810b1",
       "fromSide": "right",
       "toNode": "59a7d29ddf5c74a6",
+      "toSide": "left"
+    },
+    {
+      "id": "20d185f2d43f89f0",
+      "styleAttributes": {},
+      "fromNode": "a997bb75198d1b9f",
+      "fromSide": "right",
+      "toNode": "5bec7d156f370bca",
+      "toSide": "left"
+    },
+    {
+      "id": "e5382c9592dadad4",
+      "styleAttributes": {},
+      "fromNode": "a997bb75198d1b9f",
+      "fromSide": "right",
+      "toNode": "1aaed3ebecdfbd25",
+      "toSide": "left"
+    },
+    {
+      "id": "099eb7d66c0d1e27",
+      "styleAttributes": {},
+      "fromNode": "31743dd0955acab6",
+      "fromSide": "right",
+      "toNode": "8a47c5d2acf02b60",
       "toSide": "left"
     }
   ],
