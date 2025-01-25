@@ -50,16 +50,6 @@
       "height": 60
     },
     {
-      "id": "8f7840c645169e37",
-      "type": "text",
-      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -393,
-      "width": 260,
-      "height": 140
-    },
-    {
       "id": "a032223d5f741c7c",
       "type": "text",
       "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
@@ -153,7 +143,9 @@
       "id": "5cf6bcf1ed341fa1",
       "type": "text",
       "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
-      "styleAttributes": {},
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
       "x": -680,
       "y": 532,
       "width": 300,
@@ -280,11 +272,83 @@
       "height": 148
     },
     {
+      "id": "8c6b66597ae1ff0e",
+      "type": "text",
+      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2190,
+      "width": 460,
+      "height": 174
+    },
+    {
+      "id": "a7ea64ed037e349e",
+      "type": "text",
+      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2404,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "f3417c5294e39919",
+      "type": "text",
+      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 2507,
+      "width": 460,
+      "height": 319
+    },
+    {
+      "id": "b6a73117981e19c3",
+      "type": "text",
+      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[Sontag-Against+Interpretation.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 2190,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "45e5c5cacff1fac9",
+      "type": "text",
+      "text": "> What is needed, first, is more attention to form in art. \n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2190,
+      "width": 460,
+      "height": 69
+    },
+    {
+      "id": "eb6f5d8ebf618270",
+      "type": "text",
+      "text": "> hat we decidedly do not need now is further to assimilate Art into Thought, or (worse yet) Art into Culture. Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. T\n\n[[Sontag-Against+Interpretation.pdf#page=5&selection=95,9,98,35|Sontag-Against+Interpretation, page 5]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2299,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "58cde369539b5bbf",
+      "type": "text",
+      "text": "> **In place of a hermeneutics we need an erotics of art.**\n\n**[[Sontag-Against+Interpretation.pdf#page=5&selection=142,0,142,53|Sontag-Against+Interpretation, page 5]]**",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2486,
+      "width": 460,
+      "height": 69
+    },
+    {
       "id": "f95584e975d09f08",
       "type": "text",
       "text": "### *Against Interpretation*, Sontag\n[[Sontag-Against+Interpretation.pdf]]",
-      "styleAttributes": {},
-      "x": -640,
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
       "y": 2130,
       "width": 300,
       "height": 120
@@ -293,9 +357,11 @@
       "id": "adef39624b16a44f",
       "type": "text",
       "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
-      "styleAttributes": {},
-      "x": -640,
-      "y": 3240,
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 4400,
       "width": 300,
       "height": 100
     },
@@ -303,59 +369,133 @@
       "id": "314d4496ce82205b",
       "type": "text",
       "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "styleAttributes": {},
-      "x": -640,
-      "y": 3363,
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 4523,
       "width": 300,
       "height": 160
     },
     {
-      "id": "a7ea64ed037e349e",
+      "id": "8f7840c645169e37",
       "type": "text",
-      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
+      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 2920,
+      "width": 300,
+      "height": 140
+    },
+    {
+      "id": "5bb35f095e866bbe",
+      "type": "text",
+      "text": "> Media are transformative. \u0017ey affect conditions of possibility in general. Mediation does not merely add some- thing to the existing list of topics that scholars study. It changes the practice of study itself\n\n[[excommunication_galloway_thacker_wark.pdf#page=8&selection=16,15,19,28|excommunication_galloway_thacker_wark, page 8]]",
       "styleAttributes": {},
-      "x": -320,
-      "y": 2480,
+      "x": -280,
+      "y": 2973,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "c886294f45fe919e",
+      "type": "text",
+      "text": "> **In this way, media force us to think less about things like send- ers and receivers, and more about questions of channels and protocols. Less about encoding and decoding, and more about context and environment.**\n\n**[[excommunication_galloway_thacker_wark.pdf#page=9&selection=29,0,32,24|excommunication_galloway_thacker_wark, page 9]]**",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3160,
+      "width": 460,
+      "height": 148
+    },
+    {
+      "id": "a8a737f44640f0f2",
+      "type": "text",
+      "text": "> So perhaps even the great advocate for the pleasures of the text enjoyed another kind of pleasure, the pleasure of the database, which is not so much a text as a media machine for making texts. \n\n[[excommunication_galloway_thacker_wark.pdf#page=10&selection=47,28,50,32|excommunication_galloway_thacker_wark, page 10]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3348,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "4cf5ff0ed37eaca4",
+      "type": "text",
+      "text": "> In this way we want to argue that media theory is not a new link in the grand chain of critical theory, literary criticism, cul- tural studies, or visual culture. Rather, it exits the chain entirely, turning ninety degrees away from these disciplines. Moving orthogonally, media theory intersects art theory, screen theory, science studies, the history of technology, and many other fields.\n\n[[excommunication_galloway_thacker_wark.pdf#page=13&selection=16,0,22,6|excommunication_galloway_thacker_wark, page 13]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3535,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "8f7a7a8df80dbf35",
+      "type": "text",
+      "text": "> We tar- get the Achilles heel of media theory, the one aspect of media- tion that is so hard to accept, the insufficiency of mediation.\n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=3,53,8,1|excommunication_galloway_thacker_wark, page 17]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 2973,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "9bf8f3ed9594d086",
+      "type": "text",
+      "text": "> ere are mediative situations in which heresy, exile, or ban- ishment carry the day, not repetition, communion, or integra- tion. \u0017ere are certain kinds of messages that state there will be no more messages. Why? \u0017e reasons may vary, from the para- doxical lyricism of the ineffable (“it can’t be put into words”), to the refusal to engage (“I prefer not to”), to the contentiousness of apathy (“some things aren’t worth saying”), to the enigma of silence (and its impossibility). Hence for every communication there is a correlative *excom- munication.* \n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=32,1,47,2|excommunication_galloway_thacker_wark, page 17]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 3134,
+      "width": 460,
+      "height": 298
+    },
+    {
+      "id": "a3a6f262b905e40c",
+      "type": "text",
+      "text": "> Jean Baudrillard notes that all communication involves a form of going outside oneself,\n\n[[excommunication_galloway_thacker_wark.pdf#page=21&selection=32,0,33,25|excommunication_galloway_thacker_wark, page 21]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 3472,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "735127b5d6a98a95",
+      "type": "text",
+      "text": "#### The Furies",
+      "styleAttributes": {},
+      "x": 2070,
+      "y": 3004,
       "width": 260,
       "height": 60
     },
     {
-      "id": "b6a73117981e19c3",
+      "id": "a927cb8145bb5d73",
       "type": "text",
-      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[Sontag-Against+Interpretation.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
+      "text": "#### Iris",
       "styleAttributes": {},
-      "x": -320,
-      "y": 2580,
+      "x": 1720,
+      "y": 3004,
       "width": 260,
       "height": 60
     },
     {
-      "id": "8c6b66597ae1ff0e",
+      "id": "6761936b46499ceb",
       "type": "text",
-      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[Sontag-Against+Interpretation.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
+      "text": "#### Hermes",
       "styleAttributes": {},
-      "x": -320,
-      "y": 2380,
+      "x": 1340,
+      "y": 3004,
       "width": 260,
       "height": 60
     },
     {
-      "id": "f3417c5294e39919",
+      "id": "2a1d050854f37e02",
       "type": "text",
-      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
+      "text": "#### Aphrodite",
       "styleAttributes": {},
-      "x": -320,
-      "y": 2680,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "45e5c5cacff1fac9",
-      "type": "text",
-      "text": "> What is needed, first, is more attention to form in art. \n\n[[Sontag-Against+Interpretation.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
-      "styleAttributes": {},
-      "x": -320,
-      "y": 2760,
+      "x": 2430,
+      "y": 3004,
       "width": 260,
       "height": 60
     }
