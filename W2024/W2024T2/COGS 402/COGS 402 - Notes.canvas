@@ -6,7 +6,7 @@
       "x": -700,
       "y": 520,
       "width": 5740,
-      "height": 5080,
+      "height": 5560,
       "label": "Excerpts"
     },
     {
@@ -508,7 +508,7 @@
       "x": -680,
       "y": 5243,
       "width": 300,
-      "height": 160
+      "height": 177
     },
     {
       "id": "99c5b4f010e94d4e",
@@ -823,6 +823,39 @@
       "width": 260,
       "height": 61,
       "color": "3"
+    },
+    {
+      "id": "96eadecbad7bdead",
+      "type": "text",
+      "text": "### *Neuromancer*, Gibson",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 5720,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "f3fbea69a2817bee",
+      "type": "text",
+      "text": "**Xenocommunication**",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 2913,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "190586fe6d277a97",
+      "type": "text",
+      "text": "**Homophily**",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1867,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -881,6 +914,14 @@
       "fromSide": "bottom",
       "toNode": "30c847463222ca9b",
       "toSide": "top"
+    },
+    {
+      "id": "c50fa4637a74e86d",
+      "styleAttributes": {},
+      "fromNode": "f3fbea69a2817bee",
+      "fromSide": "top",
+      "toNode": "190586fe6d277a97",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
