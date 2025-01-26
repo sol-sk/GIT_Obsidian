@@ -7,7 +7,7 @@
       "x": -700,
       "y": 520,
       "width": 5740,
-      "height": 6360,
+      "height": 8480,
       "label": "Excerpts"
     },
     {
@@ -871,6 +871,70 @@
       "y": 592,
       "width": 460,
       "height": 445
+    },
+    {
+      "id": "3277f55b7c2d5408",
+      "type": "text",
+      "text": "#### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[Substack](https://substack.com/@lineofbeauty)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 7040,
+      "width": 300,
+      "height": 129
+    },
+    {
+      "id": "32e6cb1016a3f6ac",
+      "type": "text",
+      "text": "> \"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, pureless intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify.\"",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 7105,
+      "width": 520,
+      "height": 129
+    },
+    {
+      "id": "a7a173c45fd66404",
+      "type": "text",
+      "text": "### \"You are not an angel\", Moran\nhttps://www.tandfonline.com/doi/full/10.1080/14790726.2024.2334955\n",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 7320,
+      "width": 300,
+      "height": 98
+    },
+    {
+      "id": "00397765a2a66cba",
+      "type": "text",
+      "text": "> The hybrid Platonic-Aristotelian theory that Aquinas develops presents us with an instructive alternative: mindedness as _freedom from material limitation_. There are two dimensions to this freedom, which correspond to the two core faculties of mind: intellect and will.\n> ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 7289,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "0d9a2eed74814ebb",
+      "type": "text",
+      "text": "\n> The first dimension of freedom belongs to the intellect, the capacity to understand not simply the particularities of the world that confront us–which we encounter in the stream of our own consciousness–but to grasp _any_ intelligible reality whatsoever. In this way, we stand apart from the individual encounters with the world that our senses–and even our imaginative capacities–afford. At the same time, the part of the world we access through our minds is really _there_, not just as a realm of mental concepts, but as the structuring nature of reality. The existence of such natures in our minds when they are understood is, for Aquinas, a sign of our freedom from material constraint. Think, by contrast, of the image of the mind as a wax tablet receiving impressions from what we encounter[5]. If our minds were simply stamped by the world, we would have access only to the surfaces of things, the aspects communicated via the senses.\n> ",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 7176,
+      "width": 520,
+      "height": 367
+    },
+    {
+      "id": "c813baf75e18272d",
+      "type": "text",
+      "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 7576,
+      "width": 520,
+      "height": 260
     }
   ],
   "edges": [
@@ -937,6 +1001,22 @@
       "fromSide": "top",
       "toNode": "190586fe6d277a97",
       "toSide": "bottom"
+    },
+    {
+      "id": "422d58f0dc8f8ab0",
+      "styleAttributes": {},
+      "fromNode": "00397765a2a66cba",
+      "fromSide": "right",
+      "toNode": "0d9a2eed74814ebb",
+      "toSide": "left"
+    },
+    {
+      "id": "89c9961a3fac3b8e",
+      "styleAttributes": {},
+      "fromNode": "00397765a2a66cba",
+      "fromSide": "right",
+      "toNode": "c813baf75e18272d",
+      "toSide": "left"
     }
   ],
   "metadata": {}
