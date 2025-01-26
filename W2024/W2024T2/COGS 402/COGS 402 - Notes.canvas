@@ -947,16 +947,49 @@
       "height": 98
     },
     {
+      "id": "141504f8444f6d0e",
+      "type": "text",
+      "text": "#### *Hormonal Fog*, (2017), Candice Lin and Patrick Staff\n##### Hacked fog machine, dried herbs, herbal tincture, wood, plastic, miscellaneous hardware",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "border": "dashed"
+      },
+      "x": -680,
+      "y": 7725,
+      "width": 300,
+      "height": 215
+    },
+    {
       "id": "537d989b4c772938",
       "type": "text",
       "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
       "styleAttributes": {
         "shape": "predefined-process"
       },
-      "x": -680,
-      "y": 7940,
+      "x": -580,
+      "y": 7980,
       "width": 300,
-      "height": 100
+      "height": 120
+    },
+    {
+      "id": "3cf3f80a20d8fc8f",
+      "type": "text",
+      "text": "**Can you explain overfitting?**\nDeepseek:\n\"It's also important to mention why it happens: the model has more\nparameters than needed, leading to overcomplication and noise in the\nweights.\"",
+      "styleAttributes": {},
+      "x": -2780,
+      "y": 8000,
+      "width": 260,
+      "height": 180
+    },
+    {
+      "id": "79727ec1ac844e4d",
+      "type": "text",
+      "text": "### 6. **How to Avoid Overfitting**\nTo prevent overfitting, you can take several steps:\n\n#### a) **Regularization Techniques**:\n- **Dropout**: Randomly remove units from the network during training.\n- **Weight Decay (L2 Regularization)**: Add a small penalty to the weights\nduring training to encourage smaller weight values.\n- **L1 Regularization**: Apply an absolute penalty on the weights.\n\n#### b) **Data Augmentation**:\nIf you have limited data, augment the dataset by adding variations of the\nexisting data (e.g., rotating or flipping images).\n\n#### c) **Early Stopping**:\nStop training the model when validation performance stops improving.\n\n#### d) **Model Ensembling**:\nCombine predictions from multiple models to improve generalization.",
+      "styleAttributes": {},
+      "x": -2640,
+      "y": 8200,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
