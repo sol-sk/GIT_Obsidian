@@ -6,7 +6,7 @@
       "x": -700,
       "y": 520,
       "width": 5740,
-      "height": 5560,
+      "height": 6360,
       "label": "Excerpts"
     },
     {
@@ -68,16 +68,6 @@
       "y": -223,
       "width": 260,
       "height": 120
-    },
-    {
-      "id": "e4b13f7339a1fe06",
-      "type": "text",
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -63,
-      "width": 260,
-      "height": 100
     },
     {
       "id": "9407c1c9128bfaeb",
@@ -856,6 +846,16 @@
       "y": 1867,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "e4b13f7339a1fe06",
+      "type": "text",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 6000,
+      "width": 260,
+      "height": 100
     }
   ],
   "edges": [
