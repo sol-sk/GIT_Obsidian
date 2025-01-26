@@ -5,3 +5,19 @@ Turing test based on an "old parlor game" where a man had to "pass" in conversat
 [[zeros-and-ones_plant.pdf#page=100&annotation=15762R|zeros-and-ones_plant, page 100]]
 
 Machine hallucinations
+
+Love of the same 
+
+Transsexual dualism
+
+Discrimination
+
+Overfitting
+
+Networks
+
+Against interpretation
+
+Without meaning, without discursion ("You are not an angel", Moran)
+
+"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, pureless intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify."
