@@ -935,6 +935,16 @@
       "y": 7576,
       "width": 520,
       "height": 260
+    },
+    {
+      "id": "2ce85f9577381306",
+      "type": "text",
+      "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is capable neither of discursive thought nor of understanding, since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 7176,
+      "width": 520,
+      "height": 234
     }
   ],
   "edges": [
