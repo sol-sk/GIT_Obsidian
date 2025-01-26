@@ -1,2 +1,2 @@
 ### *Against Interpretation*, Sontag
-[[Sontag-Against+Interpretation.pdf]]
+[[against-interpretation_sontag.pdf]]
