@@ -504,18 +504,6 @@
       "color": "2"
     },
     {
-      "id": "96eadecbad7bdead",
-      "type": "text",
-      "text": "### *Neuromancer*, Gibson",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 5720,
-      "width": 300,
-      "height": 60
-    },
-    {
       "id": "f3fbea69a2817bee",
       "type": "text",
       "text": "**Xenocommunication**",
@@ -525,18 +513,6 @@
       "width": 260,
       "height": 60,
       "color": "6"
-    },
-    {
-      "id": "e4b13f7339a1fe06",
-      "type": "text",
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]\n*Progress*: 1-32, 90-121",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 5520,
-      "width": 300,
-      "height": 98
     },
     {
       "id": "e6582685a75089d4",
@@ -863,14 +839,38 @@
       "height": 319
     },
     {
-      "id": "688476f18d723080",
-      "type": "file",
-      "file": "W2024 Files/Pasted image 20250126121534.png",
+      "id": "96eadecbad7bdead",
+      "type": "text",
+      "text": "### *Neuromancer*, Gibson",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 6760,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "e4b13f7339a1fe06",
+      "type": "text",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]\n*Progress*: 1-32, 90-121",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 5860,
+      "width": 300,
+      "height": 98
+    },
+    {
+      "id": "ca55db9810324e6f",
+      "type": "text",
+      "text": "> It has always been said that “‘computing ma- chines can only carry out the purposes that they are instructed to do. This is certainly true,” writes Turing, “in the sense thatif they do something other than what they were instructed then they have just made some mistake.” But one man’s mistake might well be a most intelligent move for a machine. And how would their masters tell the difference between failures to carry out instructions and refusals to be bound by them? Perfection never guarantees success. On the contrary, **“the more it schizophrenizes, the better it works.” And for wayward systems like the rebel replicants, identity is easy to simulate and merely one of many programs to be run.**\n\n[[zeros-and-ones_plant.pdf#page=100&annotation=15762R|zeros-and-ones_plant, page 100]]",
       "styleAttributes": {},
-      "x": -200,
-      "y": 5520,
-      "width": 278,
-      "height": 400
+      "x": -280,
+      "y": 5909,
+      "width": 520,
+      "height": 320
     }
   ],
   "edges": [
@@ -937,14 +937,6 @@
       "fromSide": "top",
       "toNode": "190586fe6d277a97",
       "toSide": "bottom"
-    },
-    {
-      "id": "235cbd1cfda28acc",
-      "styleAttributes": {},
-      "fromNode": "e4b13f7339a1fe06",
-      "fromSide": "right",
-      "toNode": "688476f18d723080",
-      "toSide": "left"
     }
   ],
   "metadata": {}
