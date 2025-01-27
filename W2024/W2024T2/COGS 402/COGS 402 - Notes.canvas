@@ -990,18 +990,6 @@
       "height": 215
     },
     {
-      "id": "537d989b4c772938",
-      "type": "text",
-      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -580,
-      "y": 7980,
-      "width": 300,
-      "height": 120
-    },
-    {
       "id": "4f27b5964ccf6df1",
       "type": "text",
       "text": "### \"Queer Phenomenology,\" Ahmed",
@@ -1022,12 +1010,94 @@
       "height": 80
     },
     {
+      "id": "ecc057c8a1ee22f4",
+      "type": "text",
+      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
+      "styleAttributes": {},
+      "x": -450,
+      "y": 8590,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "75f3360d5d6c8467",
+      "type": "text",
+      "text": "- [ ] Create work using these\n- [ ] Formal analysis of images\n- [ ] Art historical \n- [ ] Theoretical \n\nBring in other artists? ",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 8680,
+      "width": 260,
+      "height": 158
+    },
+    {
+      "id": "5df912368b240d33",
+      "type": "text",
+      "text": "What happens and what can be extracted ",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 8650,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "b046fadb6787d94a",
+      "type": "text",
+      "text": "Disrupting normative operation",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 8729,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f7559d9f55d0912a",
+      "type": "text",
+      "text": "Creating something new out of obfuscation",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 8800,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "571bbff281320042",
+      "type": "text",
+      "text": "[[Unfitting Art and Labour from Conceptualisation to AI The Nordic Journal of Aesthetics]]",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 8820,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "537d989b4c772938",
+      "type": "text",
+      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -580,
+      "y": 7980,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "8b1f4272fda28073",
+      "type": "link",
+      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
+      "x": -100,
+      "y": 8050,
+      "width": 400,
+      "height": 400
+    },
+    {
       "id": "7969a4f1f7e5ce75",
       "type": "text",
       "text": "Nightshade/obfuscations/viruses",
       "styleAttributes": {},
-      "x": -320,
-      "y": 8450,
+      "x": -240,
+      "y": 8510,
       "width": 280,
       "height": 70
     },
@@ -1036,21 +1106,10 @@
       "type": "text",
       "text": "Wark/furious/hacking",
       "styleAttributes": {},
-      "x": -100,
-      "y": 8560,
+      "x": 120,
+      "y": 8515,
       "width": 280,
       "height": 60
-    },
-    {
-      "id": "ecc057c8a1ee22f4",
-      "type": "text",
-      "text": "Artistic experiment w/ his tech",
-      "styleAttributes": {},
-      "x": -450,
-      "y": 8590,
-      "width": 260,
-      "height": 60,
-      "color": "1"
     }
   ],
   "edges": [
@@ -1146,7 +1205,7 @@
       "id": "c037f45cbdeec161",
       "styleAttributes": {},
       "fromNode": "7969a4f1f7e5ce75",
-      "fromSide": "bottom",
+      "fromSide": "right",
       "toNode": "21809d48c0e16b6d",
       "toSide": "left"
     },
@@ -1156,6 +1215,30 @@
       "fromNode": "fdf1f4fefff7b0b4",
       "fromSide": "bottom",
       "toNode": "ecc057c8a1ee22f4",
+      "toSide": "left"
+    },
+    {
+      "id": "8cd087a4dbf3096a",
+      "styleAttributes": {},
+      "fromNode": "ecc057c8a1ee22f4",
+      "fromSide": "bottom",
+      "toNode": "75f3360d5d6c8467",
+      "toSide": "left"
+    },
+    {
+      "id": "29dede60645457d5",
+      "styleAttributes": {},
+      "fromNode": "75f3360d5d6c8467",
+      "fromSide": "right",
+      "toNode": "5df912368b240d33",
+      "toSide": "left"
+    },
+    {
+      "id": "fd4a5e8fd2b0d393",
+      "styleAttributes": {},
+      "fromNode": "fdf1f4fefff7b0b4",
+      "fromSide": "right",
+      "toNode": "8b1f4272fda28073",
       "toSide": "left"
     }
   ],
