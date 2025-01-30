@@ -1139,18 +1139,28 @@
       "styleAttributes": {},
       "x": 8980,
       "y": 1240,
-      "width": 260,
-      "height": 140
+      "width": 340,
+      "height": 98
     },
     {
       "id": "c36e2066e86467c2",
       "type": "text",
-      "text": "*Gego Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected",
+      "text": "Gego *Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected\n- Rejected label \"sculpture\"",
       "styleAttributes": {},
       "x": 8980,
-      "y": 1400,
-      "width": 320,
+      "y": 1360,
+      "width": 340,
       "height": 140
+    },
+    {
+      "id": "163072760ed43533",
+      "type": "text",
+      "text": "Trockel, *Untitled*, 1993, 1986, 1986\n- Questioning preeminence of painting (masculine, dominant)\n- Abstraction in craft\n- Knitted plaid\n- Moth eaten knit, turned to silkscreen --Fontana ",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1520,
+      "width": 340,
+      "height": 200
     }
   ],
   "edges": [
