@@ -1111,6 +1111,46 @@
       "y": -223,
       "width": 460,
       "height": 531
+    },
+    {
+      "id": "b961f9fc8a1cf41c",
+      "type": "text",
+      "text": "### Notes from *Woven Histories*, Lynn Cooke",
+      "styleAttributes": {},
+      "x": 9040,
+      "y": 1140,
+      "width": 400,
+      "height": 60
+    },
+    {
+      "id": "d153ffeede7dce36",
+      "type": "text",
+      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
+      "styleAttributes": {},
+      "x": 9480,
+      "y": 1120,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "8f764975653709f6",
+      "type": "text",
+      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1240,
+      "width": 260,
+      "height": 140
+    },
+    {
+      "id": "c36e2066e86467c2",
+      "type": "text",
+      "text": "*Gego Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1400,
+      "width": 320,
+      "height": 140
     }
   ],
   "edges": [

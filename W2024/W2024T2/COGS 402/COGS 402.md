@@ -17,4 +17,4 @@
 
 #### Zeros and Ones
 [[zeros-and-ones_plant.pdf]]
-- Read 31 sections of 
+- Read 31/74 sections 
