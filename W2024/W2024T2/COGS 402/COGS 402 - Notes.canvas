@@ -1270,6 +1270,36 @@
       "y": 208,
       "width": 260,
       "height": 100
+    },
+    {
+      "id": "2fc3c495074f501e",
+      "type": "text",
+      "text": "Why not include the Mesoamerican/Indigenous works that were inspiration to Albers?\n- Artist's (specific, identifiable) hand in work\n- Not including historical/reference",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1940,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "4cdb0165cdfc0faa",
+      "type": "text",
+      "text": "Ulrike Mueller, *Hinges*, 2023",
+      "styleAttributes": {},
+      "x": 9780,
+      "y": 1620,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "8882d8deec8decd1",
+      "type": "text",
+      "text": "Modernist * abstraction (not modern)\n\n- Classic abstraction = geometric",
+      "styleAttributes": {},
+      "x": 9380,
+      "y": 1940,
+      "width": 360,
+      "height": 71
     }
   ],
   "edges": [
