@@ -1174,12 +1174,42 @@
     {
       "id": "aa32e53fce1a5b17",
       "type": "text",
-      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread",
+      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
       "styleAttributes": {},
       "x": 9380,
       "y": 1240,
       "width": 360,
       "height": 98
+    },
+    {
+      "id": "a10669e0590858ad",
+      "type": "text",
+      "text": "Eva Hesse, Hicks ",
+      "styleAttributes": {},
+      "x": 9380,
+      "y": 1360,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "47bc03b7e5c105d8",
+      "type": "text",
+      "text": "Agnes Martin, Lenore Tawney\n- Knew, influenced each other",
+      "styleAttributes": {},
+      "x": 9380,
+      "y": 1440,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "9db747c6424d2f38",
+      "type": "text",
+      "text": "**Grid**\n- Schulz: Weaving based on chip- commission from Intel; trying to attract female workforce",
+      "styleAttributes": {},
+      "x": 9380,
+      "y": 1540,
+      "width": 360,
+      "height": 180
     }
   ],
   "edges": [
@@ -1310,6 +1340,14 @@
       "fromSide": "right",
       "toNode": "8b1f4272fda28073",
       "toSide": "left"
+    },
+    {
+      "id": "f6f9a8e622600b08",
+      "styleAttributes": {},
+      "fromNode": "aa32e53fce1a5b17",
+      "fromSide": "bottom",
+      "toNode": "a10669e0590858ad",
+      "toSide": "top"
     }
   ],
   "metadata": {}
