@@ -26,7 +26,7 @@
       "type": "group",
       "x": 8960,
       "y": 1100,
-      "width": 800,
+      "width": 1300,
       "height": 640,
       "label": "Lynne Cooke Lecture"
     },
@@ -1132,16 +1132,6 @@
       "height": 80
     },
     {
-      "id": "d153ffeede7dce36",
-      "type": "text",
-      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
-      "styleAttributes": {},
-      "x": 9480,
-      "y": 1120,
-      "width": 260,
-      "height": 100
-    },
-    {
       "id": "8f764975653709f6",
       "type": "text",
       "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
@@ -1209,7 +1199,47 @@
       "x": 9380,
       "y": 1540,
       "width": 360,
-      "height": 180
+      "height": 124
+    },
+    {
+      "id": "b98c1c89cf4a9901",
+      "type": "text",
+      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
+      "styleAttributes": {},
+      "x": 9780,
+      "y": 1240,
+      "width": 360,
+      "height": 150
+    },
+    {
+      "id": "d153ffeede7dce36",
+      "type": "text",
+      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
+      "styleAttributes": {},
+      "x": 9480,
+      "y": 1153,
+      "width": 320,
+      "height": 55
+    },
+    {
+      "id": "b2499212548e787b",
+      "type": "text",
+      "text": "Semiotics of dress & construction of identity \n\n→ Post 60s/70s gay liberation, black power: Subcultural identificaiton",
+      "styleAttributes": {},
+      "x": 9780,
+      "y": 1420,
+      "width": 360,
+      "height": 100
+    },
+    {
+      "id": "ab33215e79f858b7",
+      "type": "text",
+      "text": "Not discussed in lecture, but other section on labor issues",
+      "styleAttributes": {},
+      "x": 9830,
+      "y": 1542,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -1347,6 +1377,43 @@
       "fromNode": "aa32e53fce1a5b17",
       "fromSide": "bottom",
       "toNode": "a10669e0590858ad",
+      "toSide": "top"
+    },
+    {
+      "id": "994aab23659cf7b0",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "9db747c6424d2f38",
+      "fromSide": "right",
+      "toNode": "b98c1c89cf4a9901",
+      "toSide": "left"
+    },
+    {
+      "id": "04ebd764677a7dac",
+      "styleAttributes": {},
+      "fromNode": "163072760ed43533",
+      "fromSide": "top",
+      "toNode": "c36e2066e86467c2",
+      "toSide": "bottom",
+      "toEnd": "none"
+    },
+    {
+      "id": "d698af85d79986c3",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "fromNode": "163072760ed43533",
+      "fromSide": "right",
+      "toNode": "aa32e53fce1a5b17",
+      "toSide": "left"
+    },
+    {
+      "id": "f7f05754b2da9f19",
+      "styleAttributes": {},
+      "fromNode": "47bc03b7e5c105d8",
+      "fromSide": "bottom",
+      "toNode": "9db747c6424d2f38",
       "toSide": "top"
     }
   ],
