@@ -11,6 +11,16 @@
       "label": "Excerpts"
     },
     {
+      "id": "af1af642603e60f5",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 8960,
+      "y": 1100,
+      "width": 1200,
+      "height": 1000,
+      "label": "Lynne Cooke Lecture"
+    },
+    {
       "id": "1d6dddcd1ab4f0c8",
       "type": "group",
       "styleAttributes": {},
@@ -20,15 +30,6 @@
       "height": 1040,
       "color": "5",
       "label": "Galloway"
-    },
-    {
-      "id": "af1af642603e60f5",
-      "type": "group",
-      "x": 8960,
-      "y": 1100,
-      "width": 1200,
-      "height": 1000,
-      "label": "Lynne Cooke Lecture"
     },
     {
       "id": "fa0bd652b02ea547",
@@ -1122,54 +1123,64 @@
       "height": 531
     },
     {
-      "id": "b961f9fc8a1cf41c",
+      "id": "6c34d4e7dd3802fc",
       "type": "text",
-      "text": "### Notes from *Woven Histories*, Lynne Cooke",
+      "text": "*Collaboration* in reference to working with AI (from; https://www.metacreation.net/team)",
       "styleAttributes": {},
-      "x": 9040,
-      "y": 1140,
-      "width": 400,
+      "x": 1470,
+      "y": 208,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "f363970240d540b1",
+      "type": "text",
+      "text": "#### Q&A",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1760,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "b2a93daa2629c7fe",
+      "type": "text",
+      "text": "\"The argument is made in the gallery\" (re: what do you enjoy about curating now)",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1840,
+      "width": 360,
       "height": 80
     },
     {
-      "id": "8f764975653709f6",
+      "id": "2fc3c495074f501e",
       "type": "text",
-      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
+      "text": "Why not include the Mesoamerican/Indigenous works that were inspiration to Albers?\n- Artist's (specific, identifiable) hand in work\n- Not including historical/reference",
       "styleAttributes": {},
       "x": 8980,
-      "y": 1240,
+      "y": 1940,
       "width": 360,
-      "height": 98
+      "height": 120
     },
     {
-      "id": "c36e2066e86467c2",
+      "id": "4cdb0165cdfc0faa",
       "type": "text",
-      "text": "Gego *Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected\n- Rejected label \"sculpture\"",
+      "text": "Ulrike Mueller, *Hinges*, 2023",
       "styleAttributes": {},
-      "x": 8980,
-      "y": 1360,
+      "x": 9780,
+      "y": 1620,
       "width": 360,
-      "height": 140
+      "height": 60
     },
     {
-      "id": "163072760ed43533",
+      "id": "8882d8deec8decd1",
       "type": "text",
-      "text": "Trockel, *Untitled*, 1993, 1986, 1986\n- Questioning preeminence of painting (masculine, dominant)\n- Abstraction in craft\n- Knitted plaid\n- Moth eaten knit, turned to silkscreen --Fontana ",
-      "styleAttributes": {},
-      "x": 8980,
-      "y": 1520,
-      "width": 360,
-      "height": 200
-    },
-    {
-      "id": "aa32e53fce1a5b17",
-      "type": "text",
-      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
+      "text": "Modernist * abstraction (not modern)\n\n- Classic abstraction = geometric",
       "styleAttributes": {},
       "x": 9380,
-      "y": 1240,
+      "y": 1940,
       "width": 360,
-      "height": 98
+      "height": 71
     },
     {
       "id": "a10669e0590858ad",
@@ -1202,26 +1213,6 @@
       "height": 124
     },
     {
-      "id": "b98c1c89cf4a9901",
-      "type": "text",
-      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
-      "styleAttributes": {},
-      "x": 9780,
-      "y": 1240,
-      "width": 360,
-      "height": 150
-    },
-    {
-      "id": "d153ffeede7dce36",
-      "type": "text",
-      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
-      "styleAttributes": {},
-      "x": 9480,
-      "y": 1153,
-      "width": 320,
-      "height": 55
-    },
-    {
       "id": "ab33215e79f858b7",
       "type": "text",
       "text": "Not discussed in lecture, but other section on labor issues",
@@ -1242,64 +1233,74 @@
       "height": 100
     },
     {
-      "id": "f363970240d540b1",
+      "id": "b961f9fc8a1cf41c",
       "type": "text",
-      "text": "#### Q&A",
+      "text": "### Notes from *Woven Histories*, Lynne Cooke",
       "styleAttributes": {},
-      "x": 8980,
-      "y": 1760,
-      "width": 140,
-      "height": 60
-    },
-    {
-      "id": "b2a93daa2629c7fe",
-      "type": "text",
-      "text": "\"The argument is made in the gallery\" (re: what do you enjoy about curating now)",
-      "styleAttributes": {},
-      "x": 8980,
-      "y": 1840,
-      "width": 360,
+      "x": 9040,
+      "y": 1140,
+      "width": 400,
       "height": 80
     },
     {
-      "id": "6c34d4e7dd3802fc",
+      "id": "8f764975653709f6",
       "type": "text",
-      "text": "*Collaboration* in reference to working with AI (from; https://www.metacreation.net/team)",
-      "styleAttributes": {},
-      "x": 1470,
-      "y": 208,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "2fc3c495074f501e",
-      "type": "text",
-      "text": "Why not include the Mesoamerican/Indigenous works that were inspiration to Albers?\n- Artist's (specific, identifiable) hand in work\n- Not including historical/reference",
+      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
       "styleAttributes": {},
       "x": 8980,
-      "y": 1940,
+      "y": 1240,
       "width": 360,
-      "height": 120
+      "height": 98
     },
     {
-      "id": "4cdb0165cdfc0faa",
+      "id": "aa32e53fce1a5b17",
       "type": "text",
-      "text": "Ulrike Mueller, *Hinges*, 2023",
-      "styleAttributes": {},
-      "x": 9780,
-      "y": 1620,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "8882d8deec8decd1",
-      "type": "text",
-      "text": "Modernist * abstraction (not modern)\n\n- Classic abstraction = geometric",
+      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
       "styleAttributes": {},
       "x": 9380,
-      "y": 1940,
+      "y": 1240,
       "width": 360,
-      "height": 71
+      "height": 98
+    },
+    {
+      "id": "c36e2066e86467c2",
+      "type": "text",
+      "text": "Gego *Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected\n- Rejected label \"sculpture\"",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1360,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "163072760ed43533",
+      "type": "text",
+      "text": "Trockel, *Untitled*, 1993, 1986, 1986\n- Questioning preeminence of painting (masculine, dominant)\n- Abstraction in craft\n- Knitted plaid\n- Moth eaten knit, turned to silkscreen --Fontana ",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1520,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "b98c1c89cf4a9901",
+      "type": "text",
+      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
+      "styleAttributes": {},
+      "x": 9780,
+      "y": 1240,
+      "width": 360,
+      "height": 150
+    },
+    {
+      "id": "d153ffeede7dce36",
+      "type": "text",
+      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
+      "styleAttributes": {},
+      "x": 9480,
+      "y": 1153,
+      "width": 320,
+      "height": 55
     }
   ],
   "edges": [
