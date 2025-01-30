@@ -1194,7 +1194,7 @@
     {
       "id": "9db747c6424d2f38",
       "type": "text",
-      "text": "**Grid**\n- Schulz: Weaving based on chip- commission from Intel; trying to attract female workforce",
+      "text": "**Grid**\n- Schulz: Weaving based on chip- commission from Intel; trying to attract female workforce, building on Navajo land",
       "styleAttributes": {},
       "x": 9380,
       "y": 1540,
@@ -1264,12 +1264,12 @@
     {
       "id": "6c34d4e7dd3802fc",
       "type": "text",
-      "text": "*Collaboration* in reference to working with AI",
+      "text": "*Collaboration* in reference to working with AI (from; https://www.metacreation.net/team)",
       "styleAttributes": {},
-      "x": 1200,
-      "y": 8320,
+      "x": 1470,
+      "y": 208,
       "width": 260,
-      "height": 60
+      "height": 100
     }
   ],
   "edges": [
