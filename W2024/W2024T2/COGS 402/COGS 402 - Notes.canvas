@@ -26,8 +26,8 @@
       "type": "group",
       "x": 8960,
       "y": 1100,
-      "width": 1300,
-      "height": 640,
+      "width": 1200,
+      "height": 1000,
       "label": "Lynne Cooke Lecture"
     },
     {
@@ -1222,22 +1222,52 @@
       "height": 55
     },
     {
+      "id": "ab33215e79f858b7",
+      "type": "text",
+      "text": "Not discussed in lecture, but other section on labor issues",
+      "styleAttributes": {},
+      "x": 9780,
+      "y": 1540,
+      "width": 360,
+      "height": 62
+    },
+    {
       "id": "b2499212548e787b",
       "type": "text",
       "text": "Semiotics of dress & construction of identity \n\n→ Post 60s/70s gay liberation, black power: Subcultural identificaiton",
       "styleAttributes": {},
       "x": 9780,
-      "y": 1420,
+      "y": 1418,
       "width": 360,
       "height": 100
     },
     {
-      "id": "ab33215e79f858b7",
+      "id": "f363970240d540b1",
       "type": "text",
-      "text": "Not discussed in lecture, but other section on labor issues",
+      "text": "#### Q&A",
       "styleAttributes": {},
-      "x": 9830,
-      "y": 1542,
+      "x": 8980,
+      "y": 1760,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "b2a93daa2629c7fe",
+      "type": "text",
+      "text": "\"The argument is made in the gallery\" (re: what do you enjoy about curating now)",
+      "styleAttributes": {},
+      "x": 8980,
+      "y": 1840,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "6c34d4e7dd3802fc",
+      "type": "text",
+      "text": "*Collaboration* in reference to working with AI",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 8320,
       "width": 260,
       "height": 60
     }
