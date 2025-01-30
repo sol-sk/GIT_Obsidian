@@ -22,6 +22,15 @@
       "label": "Galloway"
     },
     {
+      "id": "af1af642603e60f5",
+      "type": "group",
+      "x": 8960,
+      "y": 1100,
+      "width": 800,
+      "height": 640,
+      "label": "Lynne Cooke Lecture"
+    },
+    {
       "id": "fa0bd652b02ea547",
       "type": "text",
       "text": "## Lacan Reading Group",
@@ -1115,12 +1124,12 @@
     {
       "id": "b961f9fc8a1cf41c",
       "type": "text",
-      "text": "### Notes from *Woven Histories*, Lynn Cooke",
+      "text": "### Notes from *Woven Histories*, Lynne Cooke",
       "styleAttributes": {},
       "x": 9040,
       "y": 1140,
       "width": 400,
-      "height": 60
+      "height": 80
     },
     {
       "id": "d153ffeede7dce36",
@@ -1139,7 +1148,7 @@
       "styleAttributes": {},
       "x": 8980,
       "y": 1240,
-      "width": 340,
+      "width": 360,
       "height": 98
     },
     {
@@ -1149,7 +1158,7 @@
       "styleAttributes": {},
       "x": 8980,
       "y": 1360,
-      "width": 340,
+      "width": 360,
       "height": 140
     },
     {
@@ -1159,8 +1168,18 @@
       "styleAttributes": {},
       "x": 8980,
       "y": 1520,
-      "width": 340,
+      "width": 360,
       "height": 200
+    },
+    {
+      "id": "aa32e53fce1a5b17",
+      "type": "text",
+      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread",
+      "styleAttributes": {},
+      "x": 9380,
+      "y": 1240,
+      "width": 360,
+      "height": 98
     }
   ],
   "edges": [
