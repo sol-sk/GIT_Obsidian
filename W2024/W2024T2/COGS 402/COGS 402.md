@@ -22,4 +22,7 @@
 
 Timesheet:
 - 01.31.25
+	- Started outline for paper 
+	- Read through paper from art history journal, annotated for style/formatting reference
+	- Tried to download glaze + nightshade, unsuccessfully 
 	- 
