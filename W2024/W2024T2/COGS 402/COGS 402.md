@@ -19,3 +19,7 @@
 #### Zeros and Ones
 [[zeros-and-ones_plant.pdf]]
 - Read 31/74 sections 
+
+Timesheet:
+- 01.31.25
+	- 
