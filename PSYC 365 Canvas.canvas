@@ -238,6 +238,67 @@
       "y": 2060,
       "width": 300,
       "height": 100
+    },
+    {
+      "id": "3c0201ca53ece704",
+      "type": "text",
+      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
+      "styleAttributes": {},
+      "x": 540,
+      "y": 2188,
+      "width": 260,
+      "height": 204
+    },
+    {
+      "id": "52a4d959c7fc2ef7",
+      "type": "text",
+      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 2362,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "a038cfb4758cf553",
+      "type": "text",
+      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 2158,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "4be4cceddaa70020",
+      "type": "text",
+      "text": "** Check if correct",
+      "styleAttributes": {},
+      "x": 1120,
+      "y": 2080,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "e8f42e3eb8d62261",
+      "type": "text",
+      "text": "LOC = IDing obj. ",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2290,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "8053bc20107f8402",
+      "type": "text",
+      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 2350,
+      "width": 260,
+      "height": 296
     }
   ],
   "edges": [
@@ -304,6 +365,46 @@
       "fromSide": "right",
       "toNode": "8d54b99ec61f095e",
       "toSide": "left"
+    },
+    {
+      "id": "a0f16663cbac256b",
+      "styleAttributes": {},
+      "fromNode": "90da43c1b20936e0",
+      "fromSide": "bottom",
+      "toNode": "3c0201ca53ece704",
+      "toSide": "left"
+    },
+    {
+      "id": "9dc3ee0a457cef11",
+      "styleAttributes": {},
+      "fromNode": "8e497a75399e7ba4",
+      "fromSide": "right",
+      "toNode": "e8f42e3eb8d62261",
+      "toSide": "left"
+    },
+    {
+      "id": "12d48caa22d4c0e0",
+      "styleAttributes": {},
+      "fromNode": "3c0201ca53ece704",
+      "fromSide": "right",
+      "toNode": "a038cfb4758cf553",
+      "toSide": "left"
+    },
+    {
+      "id": "8807af29a85bec81",
+      "styleAttributes": {},
+      "fromNode": "3c0201ca53ece704",
+      "fromSide": "right",
+      "toNode": "52a4d959c7fc2ef7",
+      "toSide": "left"
+    },
+    {
+      "id": "3cd4621034f25d99",
+      "styleAttributes": {},
+      "fromNode": "8e497a75399e7ba4",
+      "fromSide": "bottom",
+      "toNode": "8053bc20107f8402",
+      "toSide": "top"
     }
   ],
   "metadata": {}
