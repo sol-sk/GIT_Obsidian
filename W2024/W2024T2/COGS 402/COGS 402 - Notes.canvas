@@ -1425,12 +1425,32 @@
     {
       "id": "12e1f09a263a30bf",
       "type": "text",
-      "text": "Theorists feeding into same ideological conception of artwork that enab",
+      "text": "(analytical) Theorists feeding into same ideological conception of artwork that enables GAI?",
       "styleAttributes": {},
       "x": 2340,
-      "y": 1880,
+      "y": 1927,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "e9f48e19b877319a",
+      "type": "text",
+      "text": "**Hermeneutics as \"probing content\" to unearth some deeper, truer meaning**",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 2427,
       "width": 260,
       "height": 80
+    },
+    {
+      "id": "4cd2a40daed5d0c9",
+      "type": "text",
+      "text": "Can you even do hermeneutic interpretation of generated images if there is no latent 'meaning'?",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 2260,
+      "width": 260,
+      "height": 102
     }
   ],
   "edges": [
@@ -1662,6 +1682,38 @@
       "fromSide": "right",
       "toNode": "d6cf716481826a6a",
       "toSide": "left"
+    },
+    {
+      "id": "4975f0ed2c89fce2",
+      "styleAttributes": {},
+      "fromNode": "d6cf716481826a6a",
+      "fromSide": "right",
+      "toNode": "12e1f09a263a30bf",
+      "toSide": "left"
+    },
+    {
+      "id": "a0d6d42f242b4bb0",
+      "styleAttributes": {},
+      "fromNode": "a7ea64ed037e349e",
+      "fromSide": "right",
+      "toNode": "e9f48e19b877319a",
+      "toSide": "left"
+    },
+    {
+      "id": "ce3ad3df1382b62e",
+      "styleAttributes": {},
+      "fromNode": "e9f48e19b877319a",
+      "fromSide": "right",
+      "toNode": "b6a73117981e19c3",
+      "toSide": "left"
+    },
+    {
+      "id": "1819356b1360bc0f",
+      "styleAttributes": {},
+      "fromNode": "e9f48e19b877319a",
+      "fromSide": "top",
+      "toNode": "4cd2a40daed5d0c9",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
