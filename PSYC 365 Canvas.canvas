@@ -1,6 +1,15 @@
 {
   "nodes": [
     {
+      "id": "bc33b64437a030a2",
+      "type": "group",
+      "x": -520,
+      "y": -340,
+      "width": 2339,
+      "height": 1936,
+      "label": "Studying the Brain"
+    },
+    {
       "id": "ef6ccd14871cc654",
       "type": "text",
       "text": "Lesion studies:\n- causal \n- behaviors & cogn. processes",
@@ -61,16 +70,6 @@
       "height": 180
     },
     {
-      "id": "274630e3133431ab",
-      "type": "text",
-      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 49,
-      "width": 260,
-      "height": 333
-    },
-    {
       "id": "eb4c88ca83138caa",
       "type": "text",
       "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
@@ -101,16 +100,6 @@
       "height": 120
     },
     {
-      "id": "3cc2c3c0a9a96bc2",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
-      "styleAttributes": {},
-      "x": -200,
-      "y": 428,
-      "width": 399,
-      "height": 202
-    },
-    {
       "id": "eb98624574c9f380",
       "type": "text",
       "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
@@ -131,34 +120,124 @@
       "height": 99
     },
     {
-      "id": "d4d6d750112884fb",
-      "type": "text",
-      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 1060,
-      "width": 260,
-      "height": 149
-    },
-    {
       "id": "4e54c9a4502b3dc3",
       "type": "text",
       "text": "1) Encoding: Standard, \"brain mapping → use stim or exp. task and measure activity\"\n2) Decoding: Look at brain act. and predict what stim/cogn. prcs produced it\n ",
       "styleAttributes": {},
       "x": 760,
       "y": 1260,
-      "width": 260,
+      "width": 320,
       "height": 160
+    },
+    {
+      "id": "d4d6d750112884fb",
+      "type": "text",
+      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1080,
+      "width": 320,
+      "height": 96
+    },
+    {
+      "id": "8d54b99ec61f095e",
+      "type": "text",
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 1420,
+      "width": 520,
+      "height": 156
     },
     {
       "id": "5626bf81ea0feefe",
       "type": "text",
-      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds. ",
+      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
       "styleAttributes": {},
-      "x": 1100,
-      "y": 1200,
+      "x": 1280,
+      "y": 1130,
+      "width": 520,
+      "height": 224
+    },
+    {
+      "id": "274630e3133431ab",
+      "type": "text",
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 121,
+      "width": 520,
+      "height": 218
+    },
+    {
+      "id": "3cc2c3c0a9a96bc2",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
+      "styleAttributes": {},
+      "x": -499,
+      "y": 427,
+      "width": 817,
+      "height": 413
+    },
+    {
+      "id": "fc8356fdb4b4318c",
+      "type": "text",
+      "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 928,
       "width": 260,
-      "height": 160
+      "height": 200
+    },
+    {
+      "id": "8b5b2233c824dc99",
+      "type": "text",
+      "text": "Vision",
+      "styleAttributes": {},
+      "x": -220,
+      "y": 1860,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e497a75399e7ba4",
+      "type": "text",
+      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 2060,
+      "width": 260,
+      "height": 256
+    },
+    {
+      "id": "6bb2fe2befba6dbc",
+      "type": "text",
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 1980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a22fa3239eae5eda",
+      "type": "text",
+      "text": "Contralateral/ipsilateral: nasal retina = contra, temporal = ipsi",
+      "styleAttributes": {},
+      "x": -420,
+      "y": 1980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "90da43c1b20936e0",
+      "type": "text",
+      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 2060,
+      "width": 300,
+      "height": 100
     }
   ],
   "edges": [
@@ -216,6 +295,14 @@
       "fromNode": "4e54c9a4502b3dc3",
       "fromSide": "right",
       "toNode": "5626bf81ea0feefe",
+      "toSide": "left"
+    },
+    {
+      "id": "4ea69d0b94b5a1b7",
+      "styleAttributes": {},
+      "fromNode": "4e54c9a4502b3dc3",
+      "fromSide": "right",
+      "toNode": "8d54b99ec61f095e",
       "toSide": "left"
     }
   ],
