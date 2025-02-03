@@ -53,22 +53,112 @@
     {
       "id": "149112c8b79929e8",
       "type": "text",
-      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. ",
+      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
       "styleAttributes": {},
       "x": 380,
       "y": 140,
       "width": 260,
-      "height": 151
+      "height": 180
     },
     {
       "id": "274630e3133431ab",
       "type": "text",
-      "text": "Event-related potentials (ERPs)\n- ",
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
       "styleAttributes": {},
-      "x": 720,
-      "y": 180,
+      "x": 760,
+      "y": 49,
       "width": 260,
-      "height": 60
+      "height": 333
+    },
+    {
+      "id": "eb4c88ca83138caa",
+      "type": "text",
+      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 580,
+      "width": 260,
+      "height": 99
+    },
+    {
+      "id": "3e2080c6f6ef17a8",
+      "type": "text",
+      "text": "MEG:\n- Pop. of neurons\n- Good temporal res\n- Magnetic fluctuations caused by electrical activity\n- Better spatial res since signal not distorted",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 355,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "4add580745375d7a",
+      "type": "text",
+      "text": "PET:\n- Tracers, invasive\n- Poor temporal res.",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 720,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "3cc2c3c0a9a96bc2",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
+      "styleAttributes": {},
+      "x": -200,
+      "y": 428,
+      "width": 399,
+      "height": 202
+    },
+    {
+      "id": "eb98624574c9f380",
+      "type": "text",
+      "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 880,
+      "width": 260,
+      "height": 178
+    },
+    {
+      "id": "70c1126eda36aa33",
+      "type": "text",
+      "text": "fMRI: \n- Diff in activity btwn groups\n- Measures BOLD",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 1080,
+      "width": 260,
+      "height": 99
+    },
+    {
+      "id": "d4d6d750112884fb",
+      "type": "text",
+      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1060,
+      "width": 260,
+      "height": 149
+    },
+    {
+      "id": "4e54c9a4502b3dc3",
+      "type": "text",
+      "text": "1) Encoding: Standard, \"brain mapping → use stim or exp. task and measure activity\"\n2) Decoding: Look at brain act. and predict what stim/cogn. prcs produced it\n ",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1260,
+      "width": 260,
+      "height": 160
+    },
+    {
+      "id": "5626bf81ea0feefe",
+      "type": "text",
+      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds. ",
+      "styleAttributes": {},
+      "x": 1100,
+      "y": 1200,
+      "width": 260,
+      "height": 160
     }
   ],
   "edges": [
@@ -97,19 +187,35 @@
       "toSide": "left"
     },
     {
-      "id": "33593c70eb011b88",
-      "styleAttributes": {},
-      "fromNode": "88fb75496a6985d7",
-      "fromSide": "right",
-      "toNode": "149112c8b79929e8",
-      "toSide": "left"
-    },
-    {
       "id": "0df1b82a461c6948",
       "styleAttributes": {},
       "fromNode": "149112c8b79929e8",
       "fromSide": "right",
       "toNode": "274630e3133431ab",
+      "toSide": "left"
+    },
+    {
+      "id": "94d982c5bec23587",
+      "styleAttributes": {},
+      "fromNode": "70c1126eda36aa33",
+      "fromSide": "right",
+      "toNode": "d4d6d750112884fb",
+      "toSide": "left"
+    },
+    {
+      "id": "538b83ab4e261ca6",
+      "styleAttributes": {},
+      "fromNode": "70c1126eda36aa33",
+      "fromSide": "bottom",
+      "toNode": "4e54c9a4502b3dc3",
+      "toSide": "left"
+    },
+    {
+      "id": "53214d3efe6d671a",
+      "styleAttributes": {},
+      "fromNode": "4e54c9a4502b3dc3",
+      "fromSide": "right",
+      "toNode": "5626bf81ea0feefe",
       "toSide": "left"
     }
   ],
