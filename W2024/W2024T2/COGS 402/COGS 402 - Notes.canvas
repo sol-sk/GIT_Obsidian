@@ -7,7 +7,7 @@
       "x": -700,
       "y": 520,
       "width": 13820,
-      "height": 8480,
+      "height": 10520,
       "label": "Excerpts"
     },
     {
@@ -1471,6 +1471,46 @@
       "y": 1320,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "54a01e8f08f68df8",
+      "type": "text",
+      "text": "Can't download </3 ",
+      "styleAttributes": {},
+      "x": 3310,
+      "y": 1290,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cd5e9483c30a4f12",
+      "type": "text",
+      "text": "### Before Pictures Crimp\nLast chapter",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 9080,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "682153899fc68a15",
+      "type": "text",
+      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
+      "styleAttributes": {},
+      "x": 3280,
+      "y": 1420,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "95a5c00abffa946a",
+      "type": "text",
+      "text": "** Context dependent work that is necessary ",
+      "styleAttributes": {},
+      "x": 3280,
+      "y": 1540,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -1734,6 +1774,14 @@
       "fromSide": "top",
       "toNode": "4cd2a40daed5d0c9",
       "toSide": "bottom"
+    },
+    {
+      "id": "3835d22bae2841d9",
+      "styleAttributes": {},
+      "fromNode": "682153899fc68a15",
+      "fromSide": "bottom",
+      "toNode": "95a5c00abffa946a",
+      "toSide": "top"
     }
   ],
   "metadata": {}
