@@ -190,16 +190,6 @@
       "height": 200
     },
     {
-      "id": "8b5b2233c824dc99",
-      "type": "text",
-      "text": "Vision",
-      "styleAttributes": {},
-      "x": -220,
-      "y": 1860,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "8e497a75399e7ba4",
       "type": "text",
       "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
@@ -220,67 +210,6 @@
       "height": 60
     },
     {
-      "id": "a22fa3239eae5eda",
-      "type": "text",
-      "text": "Contralateral/ipsilateral: nasal retina = contra, temporal = ipsi",
-      "styleAttributes": {},
-      "x": -420,
-      "y": 1980,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "90da43c1b20936e0",
-      "type": "text",
-      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
-      "styleAttributes": {},
-      "x": 240,
-      "y": 2060,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "3c0201ca53ece704",
-      "type": "text",
-      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
-      "styleAttributes": {},
-      "x": 540,
-      "y": 2188,
-      "width": 260,
-      "height": 204
-    },
-    {
-      "id": "52a4d959c7fc2ef7",
-      "type": "text",
-      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
-      "styleAttributes": {},
-      "x": 920,
-      "y": 2362,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "a038cfb4758cf553",
-      "type": "text",
-      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
-      "styleAttributes": {},
-      "x": 920,
-      "y": 2158,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "4be4cceddaa70020",
-      "type": "text",
-      "text": "** Check if correct",
-      "styleAttributes": {},
-      "x": 1120,
-      "y": 2080,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
       "id": "e8f42e3eb8d62261",
       "type": "text",
       "text": "LOC = IDing obj. ",
@@ -299,6 +228,136 @@
       "y": 2350,
       "width": 260,
       "height": 296
+    },
+    {
+      "id": "a038cfb4758cf553",
+      "type": "text",
+      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 2138,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "4be4cceddaa70020",
+      "type": "text",
+      "text": "** Check if correct",
+      "styleAttributes": {},
+      "x": 1200,
+      "y": 2060,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "52a4d959c7fc2ef7",
+      "type": "text",
+      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 2342,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "438546c185e63f58",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "x": -480,
+      "y": 1980,
+      "width": 391,
+      "height": 400
+    },
+    {
+      "id": "3c0201ca53ece704",
+      "type": "text",
+      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
+      "styleAttributes": {},
+      "x": 620,
+      "y": 2176,
+      "width": 260,
+      "height": 204
+    },
+    {
+      "id": "90da43c1b20936e0",
+      "type": "text",
+      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2076,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "3ffcd312a5f87e67",
+      "type": "text",
+      "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2402,
+      "width": 410,
+      "height": 347
+    },
+    {
+      "id": "807b4f1bb6c92d3d",
+      "type": "text",
+      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
+      "styleAttributes": {},
+      "x": -40,
+      "y": 2780,
+      "width": 260,
+      "height": 154
+    },
+    {
+      "id": "fe040844129829f7",
+      "type": "text",
+      "text": "Size invariance: recognize obj. when diff size (perspective)",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "773a44c709838458",
+      "type": "text",
+      "text": "Viewpoint invariance: recognize obj. from diff POV",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2874,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c836baff3953daa3",
+      "type": "text",
+      "text": "V1 neurons see obj. from just 1 view, higher order reg. collect info, match to mental representations of obj. from prior/childhood exp. ",
+      "styleAttributes": {},
+      "x": 310,
+      "y": 2960,
+      "width": 260,
+      "height": 129
+    },
+    {
+      "id": "3749b1bef816fd0a",
+      "type": "text",
+      "text": "Adaptive suppression: \n- Size inv.: If size inv., neurons should treat diff sizes of obj. as same → suppression of hemodynamic response\n\t- Not size inv. → no suppression",
+      "styleAttributes": {},
+      "x": 680,
+      "y": 2780,
+      "width": 260,
+      "height": 230
+    },
+    {
+      "id": "e508211250760542",
+      "type": "text",
+      "text": "Early visual areas ie V1",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 2780,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -405,6 +464,54 @@
       "fromSide": "bottom",
       "toNode": "8053bc20107f8402",
       "toSide": "top"
+    },
+    {
+      "id": "ce4c328f113e32f9",
+      "styleAttributes": {},
+      "fromNode": "8053bc20107f8402",
+      "fromSide": "right",
+      "toNode": "3ffcd312a5f87e67",
+      "toSide": "left"
+    },
+    {
+      "id": "62cf5d963783f7f7",
+      "styleAttributes": {},
+      "fromNode": "807b4f1bb6c92d3d",
+      "fromSide": "right",
+      "toNode": "fe040844129829f7",
+      "toSide": "left"
+    },
+    {
+      "id": "ea2e069874d35c08",
+      "styleAttributes": {},
+      "fromNode": "807b4f1bb6c92d3d",
+      "fromSide": "right",
+      "toNode": "773a44c709838458",
+      "toSide": "left"
+    },
+    {
+      "id": "172a698b6acf1a48",
+      "styleAttributes": {},
+      "fromNode": "fe040844129829f7",
+      "fromSide": "right",
+      "toNode": "3749b1bef816fd0a",
+      "toSide": "left"
+    },
+    {
+      "id": "9a9248bc5a70b2fc",
+      "styleAttributes": {},
+      "fromNode": "773a44c709838458",
+      "fromSide": "right",
+      "toNode": "3749b1bef816fd0a",
+      "toSide": "left"
+    },
+    {
+      "id": "9eb703b27e19a852",
+      "styleAttributes": {},
+      "fromNode": "3749b1bef816fd0a",
+      "fromSide": "right",
+      "toNode": "e508211250760542",
+      "toSide": "left"
     }
   ],
   "metadata": {}
