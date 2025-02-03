@@ -1013,17 +1013,6 @@
       "color": "6"
     },
     {
-      "id": "f3fbea69a2817bee",
-      "type": "text",
-      "text": "**Xenocommunication**",
-      "styleAttributes": {},
-      "x": 1340,
-      "y": 2913,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
       "id": "b6a73117981e19c3",
       "type": "text",
       "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[against-interpretation_sontag.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
@@ -1343,16 +1332,6 @@
       "height": 129
     },
     {
-      "id": "f89ecbbc02b54f20",
-      "type": "text",
-      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
-      "styleAttributes": {},
-      "x": 3310,
-      "y": 950,
-      "width": 440,
-      "height": 325
-    },
-    {
       "id": "c46e7e2feede00e7",
       "type": "text",
       "text": "## Glaze",
@@ -1371,6 +1350,87 @@
       "y": 740,
       "width": 330,
       "height": 65
+    },
+    {
+      "id": "f89ecbbc02b54f20",
+      "type": "text",
+      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
+      "styleAttributes": {},
+      "x": 3310,
+      "y": 920,
+      "width": 440,
+      "height": 325
+    },
+    {
+      "id": "2b5cc30c1651fbd1",
+      "type": "text",
+      "text": "**Capitalist logic**",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1422,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5879022193aefcd0",
+      "type": "text",
+      "text": "Hatred → homophily",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1724,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f3fbea69a2817bee",
+      "type": "text",
+      "text": "**Xenocommunication**",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 2900,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "553a38b687f74d2f",
+      "type": "text",
+      "text": "**Queerness = inhabiting norms differently → generative**",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": 1540,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "284b359b01e836fc",
+      "type": "text",
+      "text": "Nonhuman",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 1492,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d6cf716481826a6a",
+      "type": "text",
+      "text": "**Art as content; Image generators** ",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 1980,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "12e1f09a263a30bf",
+      "type": "text",
+      "text": "Theorists feeding into same ideological conception of artwork that enab",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1880,
+      "width": 260,
+      "height": 80
     }
   ],
   "edges": [
@@ -1553,6 +1613,54 @@
       "fromNode": "7a7e33aea271a620",
       "fromSide": "right",
       "toNode": "756524577343fe4c",
+      "toSide": "left"
+    },
+    {
+      "id": "6313b9da3cd8994f",
+      "styleAttributes": {},
+      "fromNode": "aad6faac7d8ef438",
+      "fromSide": "right",
+      "toNode": "5879022193aefcd0",
+      "toSide": "left"
+    },
+    {
+      "id": "86f9518fd37db4ce",
+      "styleAttributes": {},
+      "fromNode": "5879022193aefcd0",
+      "fromSide": "bottom",
+      "toNode": "190586fe6d277a97",
+      "toSide": "top"
+    },
+    {
+      "id": "90b12371235193f0",
+      "styleAttributes": {},
+      "fromNode": "284b359b01e836fc",
+      "fromSide": "bottom",
+      "toNode": "f3fbea69a2817bee",
+      "toSide": "top"
+    },
+    {
+      "id": "81472c60fe28fd2d",
+      "styleAttributes": {},
+      "fromNode": "8c0ee2af90a46309",
+      "fromSide": "left",
+      "toNode": "284b359b01e836fc",
+      "toSide": "top"
+    },
+    {
+      "id": "abaaf522cef032ad",
+      "styleAttributes": {},
+      "fromNode": "58cde369539b5bbf",
+      "fromSide": "bottom",
+      "toNode": "2a1d050854f37e02",
+      "toSide": "top"
+    },
+    {
+      "id": "2d2414feed69ef2c",
+      "styleAttributes": {},
+      "fromNode": "b6a73117981e19c3",
+      "fromSide": "right",
+      "toNode": "d6cf716481826a6a",
       "toSide": "left"
     }
   ],
