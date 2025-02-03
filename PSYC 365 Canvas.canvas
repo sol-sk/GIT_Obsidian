@@ -1,0 +1,117 @@
+{
+  "nodes": [
+    {
+      "id": "ef6ccd14871cc654",
+      "type": "text",
+      "text": "Lesion studies:\n- causal \n- behaviors & cogn. processes",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -320,
+      "width": 260,
+      "height": 125
+    },
+    {
+      "id": "ad8a03fca1847400",
+      "type": "text",
+      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -318,
+      "width": 260,
+      "height": 122
+    },
+    {
+      "id": "75f367c0d68d68e3",
+      "type": "text",
+      "text": "Neuromodulation - TMS & TES: \n- Inhibiting/exciting neurons \n- Causal \n- behaviors & cogn. processes",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -80,
+      "width": 260,
+      "height": 154
+    },
+    {
+      "id": "01023f319a1a824d",
+      "type": "text",
+      "text": "2 kinds of \"mechanistic insight\"\n- Populations (focal lesions w/ TMS/TES) \n- Networks (network mapping)",
+      "styleAttributes": {},
+      "x": 60,
+      "y": -80,
+      "width": 260,
+      "height": 151
+    },
+    {
+      "id": "88fb75496a6985d7",
+      "type": "text",
+      "text": "Kinds of brain scans: \n- EEG\n- MEG\n- ECoG/Stero EEG\n- PET\n- MRI/DTI\n- fMRI",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 140,
+      "width": 260,
+      "height": 215
+    },
+    {
+      "id": "149112c8b79929e8",
+      "type": "text",
+      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. ",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 140,
+      "width": 260,
+      "height": 151
+    },
+    {
+      "id": "274630e3133431ab",
+      "type": "text",
+      "text": "Event-related potentials (ERPs)\n- ",
+      "styleAttributes": {},
+      "x": 720,
+      "y": 180,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "8cbb8bcf90f8e1ea",
+      "styleAttributes": {},
+      "fromNode": "ef6ccd14871cc654",
+      "fromSide": "right",
+      "toNode": "ad8a03fca1847400",
+      "toSide": "left"
+    },
+    {
+      "id": "adb7c78a7ce17dae",
+      "styleAttributes": {},
+      "fromNode": "ad8a03fca1847400",
+      "fromSide": "bottom",
+      "toNode": "01023f319a1a824d",
+      "toSide": "top"
+    },
+    {
+      "id": "ad51b373fe01c606",
+      "styleAttributes": {},
+      "fromNode": "75f367c0d68d68e3",
+      "fromSide": "right",
+      "toNode": "01023f319a1a824d",
+      "toSide": "left"
+    },
+    {
+      "id": "33593c70eb011b88",
+      "styleAttributes": {},
+      "fromNode": "88fb75496a6985d7",
+      "fromSide": "right",
+      "toNode": "149112c8b79929e8",
+      "toSide": "left"
+    },
+    {
+      "id": "0df1b82a461c6948",
+      "styleAttributes": {},
+      "fromNode": "149112c8b79929e8",
+      "fromSide": "right",
+      "toNode": "274630e3133431ab",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {}
+}
