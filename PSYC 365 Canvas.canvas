@@ -71,24 +71,34 @@
       "height": 154
     },
     {
-      "id": "274630e3133431ab",
+      "id": "01023f319a1a824d",
       "type": "text",
-      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
+      "text": "2 kinds of \"mechanistic insight\"\n- Populations (focal lesions w/ TMS/TES) \n- Networks (network mapping)",
       "styleAttributes": {},
-      "x": 760,
-      "y": 121,
-      "width": 520,
-      "height": 218
+      "x": 320,
+      "y": -80,
+      "width": 260,
+      "height": 151
     },
     {
-      "id": "8d54b99ec61f095e",
+      "id": "6bb2fe2befba6dbc",
       "type": "text",
-      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
       "styleAttributes": {},
-      "x": 1280,
-      "y": 1420,
-      "width": 520,
-      "height": 156
+      "x": 299,
+      "y": 1780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "438546c185e63f58",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "styleAttributes": {},
+      "x": -141,
+      "y": 1780,
+      "width": 391,
+      "height": 400
     },
     {
       "id": "5626bf81ea0feefe",
@@ -141,16 +151,6 @@
       "height": 99
     },
     {
-      "id": "01023f319a1a824d",
-      "type": "text",
-      "text": "2 kinds of \"mechanistic insight\"\n- Populations (focal lesions w/ TMS/TES) \n- Networks (network mapping)",
-      "styleAttributes": {},
-      "x": 320,
-      "y": -80,
-      "width": 260,
-      "height": 151
-    },
-    {
       "id": "149112c8b79929e8",
       "type": "text",
       "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
@@ -181,24 +181,34 @@
       "height": 200
     },
     {
-      "id": "6bb2fe2befba6dbc",
+      "id": "d4d6d750112884fb",
       "type": "text",
-      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
       "styleAttributes": {},
-      "x": 299,
-      "y": 1780,
-      "width": 260,
-      "height": 60
+      "x": 760,
+      "y": 1080,
+      "width": 320,
+      "height": 96
     },
     {
-      "id": "438546c185e63f58",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "id": "3749b1bef816fd0a",
+      "type": "text",
+      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
       "styleAttributes": {},
-      "x": -141,
-      "y": 1780,
-      "width": 391,
-      "height": 400
+      "x": 999,
+      "y": 2580,
+      "width": 380,
+      "height": 289
+    },
+    {
+      "id": "274630e3133431ab",
+      "type": "text",
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 121,
+      "width": 520,
+      "height": 218
     },
     {
       "id": "4e54c9a4502b3dc3",
@@ -209,16 +219,6 @@
       "y": 1260,
       "width": 320,
       "height": 160
-    },
-    {
-      "id": "d4d6d750112884fb",
-      "type": "text",
-      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 1080,
-      "width": 320,
-      "height": 96
     },
     {
       "id": "90da43c1b20936e0",
@@ -301,6 +301,16 @@
       "height": 256
     },
     {
+      "id": "8d54b99ec61f095e",
+      "type": "text",
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 1420,
+      "width": 520,
+      "height": 156
+    },
+    {
       "id": "807b4f1bb6c92d3d",
       "type": "text",
       "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
@@ -350,16 +360,6 @@
       "width": 260,
       "height": 60,
       "color": "1"
-    },
-    {
-      "id": "3749b1bef816fd0a",
-      "type": "text",
-      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
-      "styleAttributes": {},
-      "x": 999,
-      "y": 2580,
-      "width": 380,
-      "height": 289
     },
     {
       "id": "e508211250760542",
