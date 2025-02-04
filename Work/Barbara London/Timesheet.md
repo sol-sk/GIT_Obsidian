@@ -12,7 +12,9 @@
 | 01.20.25 | 30 min     | 12:58        | 13:15      | Page settings                               |
 | 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY         |
 | 01.22.25 | 15 min     |              |            | Updating audio links                        |
-| 02.03.25 | 1 hr       | 17:02        | 17:40      |                                             |
+| 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript  |
+|          |            |              |            | TODO: Links, image captions                 |
+
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
 - [x] Hammer museum images - some repeats
