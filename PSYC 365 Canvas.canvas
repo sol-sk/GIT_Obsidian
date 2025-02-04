@@ -421,6 +421,16 @@
       "y": 1740,
       "width": 720,
       "height": 2075
+    },
+    {
+      "id": "f1e6e9121982dea9",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 2660,
+      "y": 2580,
+      "width": 660,
+      "height": 880
     }
   ],
   "edges": [
