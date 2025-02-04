@@ -1511,6 +1511,74 @@
       "y": 1420,
       "width": 260,
       "height": 80
+    },
+    {
+      "id": "4fa73b11e6319d1b",
+      "type": "text",
+      "text": "  \n  \n\n\n\n  \n\n\n\n  \n\n“It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” \n\n  \n\n“A spokesperson for Open A.I. recently described data poison as a “type of abuse.””\n\n  \n\n“I came into it not so much thinking about economics as I was just seeing people that I respected and had affinity for be severely harmed by some of this technology. In whatever way that they can be protected that’s ultimately the goal. In that scenario, the outcome would be licensing so that they can actually maintain a livelihood and maintain the vibrancy of that industry.”\n\n  \n“Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point. It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 8191,
+      "width": 480,
+      "height": 598
+    },
+    {
+      "id": "01e10c8f13a95474",
+      "type": "text",
+      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8230,
+      "width": 480,
+      "height": 50
+    },
+    {
+      "id": "d663d969ca5accf9",
+      "type": "text",
+      "text": "> “Poison is sort of a technical term in the research community. Basically it means manipulating training data in such a way to get A.I. models to do something perhaps unexpected, perhaps more to your goals, than the original trainers intended to.”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8350,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "039442a561c5ecb9",
+      "type": "text",
+      "text": "> “Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models).”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8575,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "082f1b8afb6577e0",
+      "type": "link",
+      "url": "https://finance.yahoo.com/news/sam-altman-says-losing-money-080700756.html",
+      "x": 1720,
+      "y": 8465,
+      "width": 400,
+      "height": 221
+    },
+    {
+      "id": "2809be8f71c244ef",
+      "type": "text",
+      "text": "##### Is AI even profitable?",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 8350,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fb5c594c939676a4",
+      "type": "link",
+      "url": "https://www.wsj.com/articles/its-time-for-ai-to-start-making-money-for-businesses-can-it-b476c754",
+      "x": 1720,
+      "y": 8704,
+      "width": 400,
+      "height": 221
     }
   ],
   "edges": [
@@ -1781,6 +1849,30 @@
       "fromNode": "682153899fc68a15",
       "fromSide": "bottom",
       "toNode": "95a5c00abffa946a",
+      "toSide": "top"
+    },
+    {
+      "id": "484803c8e058d22f",
+      "styleAttributes": {},
+      "fromNode": "8b1f4272fda28073",
+      "fromSide": "right",
+      "toNode": "4fa73b11e6319d1b",
+      "toSide": "left"
+    },
+    {
+      "id": "63e0fd160ac5188e",
+      "styleAttributes": {},
+      "fromNode": "4fa73b11e6319d1b",
+      "fromSide": "right",
+      "toNode": "2809be8f71c244ef",
+      "toSide": "left"
+    },
+    {
+      "id": "e4b6ce04791c84a9",
+      "styleAttributes": {},
+      "fromNode": "2809be8f71c244ef",
+      "fromSide": "bottom",
+      "toNode": "082f1b8afb6577e0",
       "toSide": "top"
     }
   ],
