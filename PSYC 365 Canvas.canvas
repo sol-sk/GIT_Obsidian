@@ -71,16 +71,6 @@
       "height": 154
     },
     {
-      "id": "01023f319a1a824d",
-      "type": "text",
-      "text": "2 kinds of \"mechanistic insight\"\n- Populations (focal lesions w/ TMS/TES) \n- Networks (network mapping)",
-      "styleAttributes": {},
-      "x": 320,
-      "y": -80,
-      "width": 260,
-      "height": 151
-    },
-    {
       "id": "6bb2fe2befba6dbc",
       "type": "text",
       "text": "Light → lens → retina → optic nerve → LGN → V1",
@@ -431,6 +421,16 @@
       "y": 3800,
       "width": 660,
       "height": 880
+    },
+    {
+      "id": "01023f319a1a824d",
+      "type": "text",
+      "text": "2 kinds of \"mechanistic insight\": \n- What is captured by mechanism (cell, population, network)\n- Ability of each method to record role (purely observational, manipulate process/task, manipulate brain)",
+      "styleAttributes": {},
+      "x": 290,
+      "y": -92,
+      "width": 320,
+      "height": 178
     }
   ],
   "edges": [
