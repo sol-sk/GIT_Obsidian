@@ -31,36 +31,6 @@
       "height": 215
     },
     {
-      "id": "4add580745375d7a",
-      "type": "text",
-      "text": "PET:\n- Tracers, invasive\n- Poor temporal res.",
-      "styleAttributes": {},
-      "x": 380,
-      "y": 720,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "eb98624574c9f380",
-      "type": "text",
-      "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
-      "styleAttributes": {},
-      "x": 380,
-      "y": 880,
-      "width": 260,
-      "height": 178
-    },
-    {
-      "id": "70c1126eda36aa33",
-      "type": "text",
-      "text": "fMRI: \n- Diff in activity btwn groups\n- Measures BOLD",
-      "styleAttributes": {},
-      "x": 380,
-      "y": 1080,
-      "width": 260,
-      "height": 99
-    },
-    {
       "id": "fc8356fdb4b4318c",
       "type": "text",
       "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
@@ -99,6 +69,76 @@
       "y": -80,
       "width": 260,
       "height": 154
+    },
+    {
+      "id": "274630e3133431ab",
+      "type": "text",
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 121,
+      "width": 520,
+      "height": 218
+    },
+    {
+      "id": "8d54b99ec61f095e",
+      "type": "text",
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 1420,
+      "width": 520,
+      "height": 156
+    },
+    {
+      "id": "5626bf81ea0feefe",
+      "type": "text",
+      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 1130,
+      "width": 520,
+      "height": 224
+    },
+    {
+      "id": "3cc2c3c0a9a96bc2",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
+      "styleAttributes": {},
+      "x": 729,
+      "y": 427,
+      "width": 991,
+      "height": 501
+    },
+    {
+      "id": "4add580745375d7a",
+      "type": "text",
+      "text": "PET:\n- Tracers, invasive\n- Poor temporal res.",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 720,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "eb98624574c9f380",
+      "type": "text",
+      "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 880,
+      "width": 260,
+      "height": 178
+    },
+    {
+      "id": "70c1126eda36aa33",
+      "type": "text",
+      "text": "fMRI: \n- Diff in activity btwn groups\n- Measures BOLD",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 1080,
+      "width": 260,
+      "height": 99
     },
     {
       "id": "01023f319a1a824d",
@@ -141,6 +181,26 @@
       "height": 200
     },
     {
+      "id": "6bb2fe2befba6dbc",
+      "type": "text",
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "styleAttributes": {},
+      "x": 299,
+      "y": 1780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "438546c185e63f58",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "styleAttributes": {},
+      "x": -141,
+      "y": 1780,
+      "width": 391,
+      "height": 400
+    },
+    {
       "id": "4e54c9a4502b3dc3",
       "type": "text",
       "text": "1) Encoding: Standard, \"brain mapping → use stim or exp. task and measure activity\"\n2) Decoding: Look at brain act. and predict what stim/cogn. prcs produced it\n ",
@@ -159,16 +219,6 @@
       "y": 1080,
       "width": 320,
       "height": 96
-    },
-    {
-      "id": "274630e3133431ab",
-      "type": "text",
-      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 121,
-      "width": 520,
-      "height": 218
     },
     {
       "id": "90da43c1b20936e0",
@@ -221,6 +271,36 @@
       "height": 204
     },
     {
+      "id": "fe040844129829f7",
+      "type": "text",
+      "text": "Size invariance: recognize obj. when diff size (perspective)",
+      "styleAttributes": {},
+      "x": 649,
+      "y": 2580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "773a44c709838458",
+      "type": "text",
+      "text": "Viewpoint invariance: recognize obj. from diff POV",
+      "styleAttributes": {},
+      "x": 649,
+      "y": 2695,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e497a75399e7ba4",
+      "type": "text",
+      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
+      "styleAttributes": {},
+      "x": 299,
+      "y": 1860,
+      "width": 260,
+      "height": 256
+    },
+    {
       "id": "807b4f1bb6c92d3d",
       "type": "text",
       "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
@@ -247,26 +327,6 @@
       "styleAttributes": {},
       "x": 299,
       "y": 3060,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fe040844129829f7",
-      "type": "text",
-      "text": "Size invariance: recognize obj. when diff size (perspective)",
-      "styleAttributes": {},
-      "x": 649,
-      "y": 2580,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "773a44c709838458",
-      "type": "text",
-      "text": "Viewpoint invariance: recognize obj. from diff POV",
-      "styleAttributes": {},
-      "x": 649,
-      "y": 2695,
       "width": 260,
       "height": 60
     },
@@ -322,66 +382,6 @@
       "height": 103
     },
     {
-      "id": "6bb2fe2befba6dbc",
-      "type": "text",
-      "text": "Light → lens → retina → optic nerve → LGN → V1",
-      "styleAttributes": {},
-      "x": 299,
-      "y": 1780,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "438546c185e63f58",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
-      "styleAttributes": {},
-      "x": -141,
-      "y": 1780,
-      "width": 391,
-      "height": 400
-    },
-    {
-      "id": "8e497a75399e7ba4",
-      "type": "text",
-      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
-      "styleAttributes": {},
-      "x": 299,
-      "y": 1860,
-      "width": 260,
-      "height": 256
-    },
-    {
-      "id": "8d54b99ec61f095e",
-      "type": "text",
-      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": 1420,
-      "width": 520,
-      "height": 156
-    },
-    {
-      "id": "5626bf81ea0feefe",
-      "type": "text",
-      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": 1130,
-      "width": 520,
-      "height": 224
-    },
-    {
-      "id": "3cc2c3c0a9a96bc2",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
-      "styleAttributes": {},
-      "x": 729,
-      "y": 427,
-      "width": 991,
-      "height": 501
-    },
-    {
       "id": "a038cfb4758cf553",
       "type": "text",
       "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
@@ -411,16 +411,6 @@
       "width": 260,
       "height": 60,
       "color": "1"
-    },
-    {
-      "id": "0bfe5850b04fb72f",
-      "type": "text",
-      "text": "Faces",
-      "styleAttributes": {},
-      "x": 2180,
-      "y": 1800,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "91974b28b540693c",
