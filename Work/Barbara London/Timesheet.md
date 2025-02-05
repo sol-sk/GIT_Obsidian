@@ -13,7 +13,7 @@
 | 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY         |
 | 01.22.25 | 15 min     |              |            | Updating audio links                        |
 | 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript  |
-|          |            |              |            | TODO: Links, image captions                 |
+| 02.04.25 | 1 hr       | 20:30        | 21:39      | Links, image captions, formatting           |
 |          |            |              |            |                                             |
 
 **Notes**
