@@ -302,26 +302,6 @@
       "height": 100
     },
     {
-      "id": "01e10c8f13a95474",
-      "type": "text",
-      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8230,
-      "width": 480,
-      "height": 50
-    },
-    {
-      "id": "d663d969ca5accf9",
-      "type": "text",
-      "text": "> “Poison is sort of a technical term in the research community. Basically it means manipulating training data in such a way to get A.I. models to do something perhaps unexpected, perhaps more to your goals, than the original trainers intended to.”",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8350,
-      "width": 480,
-      "height": 129
-    },
-    {
       "id": "cbfd40ba75b810b1",
       "type": "text",
       "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
@@ -392,36 +372,6 @@
       "y": 1391,
       "width": 460,
       "height": 121
-    },
-    {
-      "id": "039442a561c5ecb9",
-      "type": "text",
-      "text": "> “Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models).”",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8575,
-      "width": 480,
-      "height": 129
-    },
-    {
-      "id": "082f1b8afb6577e0",
-      "type": "link",
-      "url": "https://finance.yahoo.com/news/sam-altman-says-losing-money-080700756.html",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8465,
-      "width": 400,
-      "height": 221
-    },
-    {
-      "id": "2809be8f71c244ef",
-      "type": "text",
-      "text": "##### Is AI even profitable?",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8350,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "944984bfda1ddb7b",
@@ -620,18 +570,6 @@
       "height": 69
     },
     {
-      "id": "96eadecbad7bdead",
-      "type": "text",
-      "text": "### *Neuromancer*, Gibson",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 6760,
-      "width": 300,
-      "height": 60
-    },
-    {
       "id": "3342f59833473be5",
       "type": "text",
       "text": ">  for \u0017acker between the haunted and the weird, the artifact and the thing;\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
@@ -708,26 +646,6 @@
       "width": 324,
       "height": 174,
       "color": "6"
-    },
-    {
-      "id": "4fa73b11e6319d1b",
-      "type": "text",
-      "text": "  \n  \n\n\n\n  \n\n\n\n  \n\n“It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” \n\n  \n\n“A spokesperson for Open A.I. recently described data poison as a “type of abuse.””\n\n  \n\n“I came into it not so much thinking about economics as I was just seeing people that I respected and had affinity for be severely harmed by some of this technology. In whatever way that they can be protected that’s ultimately the goal. In that scenario, the outcome would be licensing so that they can actually maintain a livelihood and maintain the vibrancy of that industry.”\n\n  \n“Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point. It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 8191,
-      "width": 480,
-      "height": 598
-    },
-    {
-      "id": "fb5c594c939676a4",
-      "type": "link",
-      "url": "https://www.wsj.com/articles/its-time-for-ai-to-start-making-money-for-businesses-can-it-b476c754",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8704,
-      "width": 400,
-      "height": 221
     },
     {
       "id": "5bec7d156f370bca",
@@ -909,69 +827,6 @@
       "height": 80
     },
     {
-      "id": "4f27b5964ccf6df1",
-      "type": "text",
-      "text": "### \"Queer Phenomenology,\" Ahmed",
-      "styleAttributes": {},
-      "x": -680,
-      "y": 8260,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "fdf1f4fefff7b0b4",
-      "type": "text",
-      "text": "### Freakonomics interview w Ben Zhao ",
-      "styleAttributes": {},
-      "x": -680,
-      "y": 8480,
-      "width": 300,
-      "height": 80
-    },
-    {
-      "id": "21809d48c0e16b6d",
-      "type": "text",
-      "text": "Wark/furious/hacking",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 8515,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "537d989b4c772938",
-      "type": "text",
-      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -580,
-      "y": 7980,
-      "width": 300,
-      "height": 120
-    },
-    {
-      "id": "f7559d9f55d0912a",
-      "type": "text",
-      "text": "Creating something new out of obfuscation",
-      "styleAttributes": {},
-      "x": 100,
-      "y": 8800,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ecc057c8a1ee22f4",
-      "type": "text",
-      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
-      "styleAttributes": {},
-      "x": -450,
-      "y": 8590,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
       "id": "fe122354eed81aa9",
       "type": "text",
       "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
@@ -1002,36 +857,6 @@
       "width": 324,
       "height": 60,
       "color": "5"
-    },
-    {
-      "id": "5df912368b240d33",
-      "type": "text",
-      "text": "What happens and what can be extracted ",
-      "styleAttributes": {},
-      "x": 100,
-      "y": 8650,
-      "width": 200,
-      "height": 60
-    },
-    {
-      "id": "8b1f4272fda28073",
-      "type": "link",
-      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
-      "styleAttributes": {},
-      "x": -100,
-      "y": 8310,
-      "width": 400,
-      "height": 140
-    },
-    {
-      "id": "7969a4f1f7e5ce75",
-      "type": "text",
-      "text": "Nightshade/obfuscations/viruses",
-      "styleAttributes": {},
-      "x": -240,
-      "y": 8510,
-      "width": 280,
-      "height": 70
     },
     {
       "id": "a8a737f44640f0f2",
@@ -1128,46 +953,6 @@
       "width": 324,
       "height": 200,
       "color": "4"
-    },
-    {
-      "id": "2ce85f9577381306",
-      "type": "text",
-      "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is **capable neither of discursive thought nor of understanding,** since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
-      "styleAttributes": {},
-      "x": 920,
-      "y": 7176,
-      "width": 520,
-      "height": 240
-    },
-    {
-      "id": "b046fadb6787d94a",
-      "type": "text",
-      "text": "Disrupting normative operation",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 8729,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "75f3360d5d6c8467",
-      "type": "text",
-      "text": "- [ ] Create work using these\n- [ ] Formal analysis of images\n- [ ] Art historical \n- [ ] Theoretical \n\nBring in other artists? ",
-      "styleAttributes": {},
-      "x": -230,
-      "y": 8680,
-      "width": 260,
-      "height": 158
-    },
-    {
-      "id": "571bbff281320042",
-      "type": "text",
-      "text": "[[Unfitting Art and Labour from Conceptualisation to AI The Nordic Journal of Aesthetics]]",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 8820,
-      "width": 260,
-      "height": 100
     },
     {
       "id": "e960a14f02fe97e9",
@@ -1506,19 +1291,6 @@
       "height": 60
     },
     {
-      "id": "141504f8444f6d0e",
-      "type": "text",
-      "text": "#### *Hormonal Fog*, (2017), Candice Lin and Patrick Staff\n##### Hacked fog machine, dried herbs, herbal tincture, wood, plastic, miscellaneous hardware",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "border": "dashed"
-      },
-      "x": -680,
-      "y": 7725,
-      "width": 300,
-      "height": 215
-    },
-    {
       "id": "c813baf75e18272d",
       "type": "text",
       "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
@@ -1537,18 +1309,6 @@
       "y": 7176,
       "width": 520,
       "height": 367
-    },
-    {
-      "id": "a7a173c45fd66404",
-      "type": "text",
-      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 7320,
-      "width": 300,
-      "height": 120
     },
     {
       "id": "32e6cb1016a3f6ac",
@@ -1591,6 +1351,256 @@
       "y": 6940,
       "width": 260,
       "height": 40
+    },
+    {
+      "id": "2ce85f9577381306",
+      "type": "text",
+      "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is **capable neither of discursive thought nor of understanding,** since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
+      "styleAttributes": {},
+      "x": 920,
+      "y": 7176,
+      "width": 520,
+      "height": 240
+    },
+    {
+      "id": "96eadecbad7bdead",
+      "type": "text",
+      "text": "### *Neuromancer*, Gibson",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 6760,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "4fa73b11e6319d1b",
+      "type": "text",
+      "text": "  \n  \n\n\n\n  \n\n\n\n  \n\n“It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” \n\n  \n\n“A spokesperson for Open A.I. recently described data poison as a “type of abuse.””\n\n  \n\n“I came into it not so much thinking about economics as I was just seeing people that I respected and had affinity for be severely harmed by some of this technology. In whatever way that they can be protected that’s ultimately the goal. In that scenario, the outcome would be licensing so that they can actually maintain a livelihood and maintain the vibrancy of that industry.”\n\n  \n“Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point. It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
+      "styleAttributes": {},
+      "x": 1020,
+      "y": 8191,
+      "width": 480,
+      "height": 598
+    },
+    {
+      "id": "01e10c8f13a95474",
+      "type": "text",
+      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8230,
+      "width": 480,
+      "height": 50
+    },
+    {
+      "id": "4f27b5964ccf6df1",
+      "type": "text",
+      "text": "### \"Queer Phenomenology,\" Ahmed",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 8260,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "8b1f4272fda28073",
+      "type": "link",
+      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 8310,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "d663d969ca5accf9",
+      "type": "text",
+      "text": "> “Poison is sort of a technical term in the research community. Basically it means manipulating training data in such a way to get A.I. models to do something perhaps unexpected, perhaps more to your goals, than the original trainers intended to.”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8350,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "2809be8f71c244ef",
+      "type": "text",
+      "text": "##### Is AI even profitable?",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 8350,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "082f1b8afb6577e0",
+      "type": "link",
+      "url": "https://finance.yahoo.com/news/sam-altman-says-losing-money-080700756.html",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 8465,
+      "width": 400,
+      "height": 221
+    },
+    {
+      "id": "fdf1f4fefff7b0b4",
+      "type": "text",
+      "text": "### Freakonomics interview w Ben Zhao ",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 8480,
+      "width": 300,
+      "height": 80
+    },
+    {
+      "id": "21809d48c0e16b6d",
+      "type": "text",
+      "text": "Wark/furious/hacking",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 8515,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "7969a4f1f7e5ce75",
+      "type": "text",
+      "text": "Nightshade/obfuscations/viruses",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 8510,
+      "width": 280,
+      "height": 70
+    },
+    {
+      "id": "039442a561c5ecb9",
+      "type": "text",
+      "text": "> “Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models).”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8575,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "ecc057c8a1ee22f4",
+      "type": "text",
+      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
+      "styleAttributes": {},
+      "x": -450,
+      "y": 8590,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "5df912368b240d33",
+      "type": "text",
+      "text": "What happens and what can be extracted ",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 8650,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "fb5c594c939676a4",
+      "type": "link",
+      "url": "https://www.wsj.com/articles/its-time-for-ai-to-start-making-money-for-businesses-can-it-b476c754",
+      "styleAttributes": {},
+      "x": 1720,
+      "y": 8704,
+      "width": 400,
+      "height": 221
+    },
+    {
+      "id": "75f3360d5d6c8467",
+      "type": "text",
+      "text": "- [ ] Create work using these\n- [ ] Formal analysis of images\n- [ ] Art historical \n- [ ] Theoretical \n\nBring in other artists? ",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 8680,
+      "width": 260,
+      "height": 158
+    },
+    {
+      "id": "b046fadb6787d94a",
+      "type": "text",
+      "text": "Disrupting normative operation",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 8729,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f7559d9f55d0912a",
+      "type": "text",
+      "text": "Creating something new out of obfuscation",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 8800,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "571bbff281320042",
+      "type": "text",
+      "text": "[[Unfitting Art and Labour from Conceptualisation to AI The Nordic Journal of Aesthetics]]",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 8820,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "537d989b4c772938",
+      "type": "text",
+      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -1180,
+      "y": 7984,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "141504f8444f6d0e",
+      "type": "text",
+      "text": "#### *Hormonal Fog*, (2017), Candice Lin and Patrick Staff\n##### Hacked fog machine, dried herbs, herbal tincture, wood, plastic, miscellaneous hardware",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "border": "dashed"
+      },
+      "x": -1280,
+      "y": 7729,
+      "width": 300,
+      "height": 215
+    },
+    {
+      "id": "a7a173c45fd66404",
+      "type": "text",
+      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 7884,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "7d2d096fc0e18251",
+      "type": "text",
+      "text": "> The Iranian poet Kaveh Akbar says that, in the face of the ‘raw over- whelm of meaningless language’, poetry’s task is ‘to slow down our metabolization of language, to become aware of it entering us’ (Akbar 2022, xvi–xvii). I want you to savour words like that, noticing them as something diﬀerent from yourselves.\n\n[[You are not an angel a letter to my students .pdf#page=5&annotation=447R|You are not an angel a letter to my students , page 5]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 7864,
+      "width": 520,
+      "height": 173
     }
   ],
   "edges": [
