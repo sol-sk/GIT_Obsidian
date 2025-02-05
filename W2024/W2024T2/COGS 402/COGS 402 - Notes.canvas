@@ -620,18 +620,6 @@
       "height": 69
     },
     {
-      "id": "3277f55b7c2d5408",
-      "type": "text",
-      "text": "#### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[Substack](https://substack.com/@lineofbeauty)",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 7040,
-      "width": 300,
-      "height": 129
-    },
-    {
       "id": "96eadecbad7bdead",
       "type": "text",
       "text": "### *Neuromancer*, Gibson",
@@ -1142,19 +1130,6 @@
       "color": "4"
     },
     {
-      "id": "141504f8444f6d0e",
-      "type": "text",
-      "text": "#### *Hormonal Fog*, (2017), Candice Lin and Patrick Staff\n##### Hacked fog machine, dried herbs, herbal tincture, wood, plastic, miscellaneous hardware",
-      "styleAttributes": {
-        "shape": "predefined-process",
-        "border": "dashed"
-      },
-      "x": -680,
-      "y": 7725,
-      "width": 300,
-      "height": 215
-    },
-    {
       "id": "2ce85f9577381306",
       "type": "text",
       "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is **capable neither of discursive thought nor of understanding,** since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
@@ -1193,38 +1168,6 @@
       "y": 8820,
       "width": 260,
       "height": 100
-    },
-    {
-      "id": "c813baf75e18272d",
-      "type": "text",
-      "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
-      "styleAttributes": {},
-      "x": 360,
-      "y": 7576,
-      "width": 520,
-      "height": 260
-    },
-    {
-      "id": "0d9a2eed74814ebb",
-      "type": "text",
-      "text": "\n> The first dimension of freedom belongs to the intellect, the capacity to understand not simply the particularities of the world that confront us–which we encounter in the stream of our own consciousness–but to grasp _any_ intelligible reality whatsoever. In this way, we stand apart from the individual encounters with the world that our senses–and even our imaginative capacities–afford. At the same time, the part of the world we access through our minds is really _there_, not just as a realm of mental concepts, but as the structuring nature of reality. The existence of such natures in our minds when they are understood is, for Aquinas, a sign of our freedom from material constraint. Think, by contrast, of the image of the mind as a wax tablet receiving impressions from what we encounter[5]. If our minds were simply stamped by the world, we would have access only to the surfaces of things, the aspects communicated via the senses.\n> ",
-      "styleAttributes": {},
-      "x": 360,
-      "y": 7176,
-      "width": 520,
-      "height": 367
-    },
-    {
-      "id": "a7a173c45fd66404",
-      "type": "text",
-      "text": "### \"You are not an angel\", Moran\nhttps://www.tandfonline.com/doi/full/10.1080/14790726.2024.2334955\n",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 7320,
-      "width": 300,
-      "height": 98
     },
     {
       "id": "e960a14f02fe97e9",
@@ -1273,16 +1216,6 @@
       "color": "5"
     },
     {
-      "id": "32e6cb1016a3f6ac",
-      "type": "text",
-      "text": "> \"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, pureless intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify.\"",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 7105,
-      "width": 520,
-      "height": 129
-    },
-    {
       "id": "ca55db9810324e6f",
       "type": "text",
       "text": "> It has always been said that “‘computing ma- chines can only carry out the purposes that they are instructed to do. This is certainly true,” writes Turing, “in the sense thatif they do something other than what they were instructed then they have just made some mistake.” But one man’s mistake might well be a most intelligent move for a machine. And how would their masters tell the difference between failures to carry out instructions and refusals to be bound by them? Perfection never guarantees success. On the contrary, **“the more it schizophrenizes, the better it works.” And for wayward systems like the rebel replicants, identity is easy to simulate and merely one of many programs to be run.**\n\n[[zeros-and-ones_plant.pdf#page=100&annotation=15762R|zeros-and-ones_plant, page 100]]",
@@ -1291,16 +1224,6 @@
       "y": 5909,
       "width": 520,
       "height": 320
-    },
-    {
-      "id": "00397765a2a66cba",
-      "type": "text",
-      "text": "> The hybrid Platonic-Aristotelian theory that Aquinas develops presents us with an instructive alternative: mindedness as _freedom from material limitation_. There are two dimensions to this freedom, which correspond to the two core faculties of mind: intellect and will.\n> ",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 7289,
-      "width": 520,
-      "height": 140
     },
     {
       "id": "756524577343fe4c",
@@ -1581,6 +1504,93 @@
       "y": 640,
       "width": 260,
       "height": 60
+    },
+    {
+      "id": "141504f8444f6d0e",
+      "type": "text",
+      "text": "#### *Hormonal Fog*, (2017), Candice Lin and Patrick Staff\n##### Hacked fog machine, dried herbs, herbal tincture, wood, plastic, miscellaneous hardware",
+      "styleAttributes": {
+        "shape": "predefined-process",
+        "border": "dashed"
+      },
+      "x": -680,
+      "y": 7725,
+      "width": 300,
+      "height": 215
+    },
+    {
+      "id": "c813baf75e18272d",
+      "type": "text",
+      "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 7576,
+      "width": 520,
+      "height": 260
+    },
+    {
+      "id": "0d9a2eed74814ebb",
+      "type": "text",
+      "text": "\n> The first dimension of freedom belongs to the intellect, the capacity to understand not simply the particularities of the world that confront us–which we encounter in the stream of our own consciousness–but to grasp _any_ intelligible reality whatsoever. In this way, we stand apart from the individual encounters with the world that our senses–and even our imaginative capacities–afford. At the same time, the part of the world we access through our minds is really _there_, not just as a realm of mental concepts, but as the structuring nature of reality. The existence of such natures in our minds when they are understood is, for Aquinas, a sign of our freedom from material constraint. Think, by contrast, of the image of the mind as a wax tablet receiving impressions from what we encounter[5]. If our minds were simply stamped by the world, we would have access only to the surfaces of things, the aspects communicated via the senses.\n> ",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 7176,
+      "width": 520,
+      "height": 367
+    },
+    {
+      "id": "a7a173c45fd66404",
+      "type": "text",
+      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 7320,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "32e6cb1016a3f6ac",
+      "type": "text",
+      "text": "> \"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, purely intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify.\"",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 7105,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "00397765a2a66cba",
+      "type": "text",
+      "text": "> The hybrid Platonic-Aristotelian theory that Aquinas develops presents us with an instructive alternative: mindedness as _freedom from material limitation_. There are two dimensions to this freedom, which correspond to the two core faculties of mind: intellect and will.\n> ",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 7289,
+      "width": 520,
+      "height": 140
+    },
+    {
+      "id": "3277f55b7c2d5408",
+      "type": "text",
+      "text": "#### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[Substack](https://substack.com/home/post/p-153722363?selection=440e1467-e7fd-45d6-94c4-651991915ceb#:~:text=Right%20from%20the%20start%20of%20the%20class%2C%20I%20confessed%20to%20being%20an%20AI%20skeptic%20(at%20least%20concerning%20the%20technological%20paradigms%20for%20AI%20that%20are%20most%20prominent%20now)%3B%20but%20I%20also%20shared%20my%20worry%20that%20my%20views%20were%20driven%20by%20prejudice%2C%20specifically%2C%20the%20prejudice%20that%20only%20human%20beings%20or%20creatures%20suitably%20similar%20to%20us%20can%20have%20minds)",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 7112,
+      "width": 300,
+      "height": 123
+    },
+    {
+      "id": "fe04ecc9c23e1ea0",
+      "type": "text",
+      "text": "##### Iridescent communication",
+      "styleAttributes": {},
+      "x": -60,
+      "y": 6940,
+      "width": 260,
+      "height": 40
     }
   ],
   "edges": [
@@ -1876,6 +1886,14 @@
       "fromSide": "bottom",
       "toNode": "082f1b8afb6577e0",
       "toSide": "top"
+    },
+    {
+      "id": "a41db81195d9057f",
+      "styleAttributes": {},
+      "fromNode": "32e6cb1016a3f6ac",
+      "fromSide": "top",
+      "toNode": "fe04ecc9c23e1ea0",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
