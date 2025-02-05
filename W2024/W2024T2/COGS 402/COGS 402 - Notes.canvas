@@ -817,16 +817,6 @@
       "height": 121
     },
     {
-      "id": "cd5e9483c30a4f12",
-      "type": "text",
-      "text": "### Before Pictures Crimp\nLast chapter",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 9080,
-      "width": 260,
-      "height": 80
-    },
-    {
       "id": "fe122354eed81aa9",
       "type": "text",
       "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
@@ -1601,6 +1591,76 @@
       "y": 7864,
       "width": 520,
       "height": 173
+    },
+    {
+      "id": "cd5e9483c30a4f12",
+      "type": "text",
+      "text": "### Before Pictures Crimp\nLast chapter",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 9080,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "76833ec03a4685d8",
+      "type": "text",
+      "text": ">  We only think of it as a competitor because writing, and our expectations for it, have become so impoverished. We have been softened up by the proliferation of search-engine-optimising ‘content’, the cut-and-paste phrasing of man- agement speak, and the rubric-driven and professionally voiceless essays that students are taught to write in school and at university. We think that algorithms can take over writing because much human writing might as well have been produced by algorithm. It betrays no sense of a human being behind it who has laboured to find and shape the best words to gift to their reader.\n\n[[You are not an angel a letter to my students .pdf#page=10&selection=2,17,17,39|You are not an angel a letter to my students , page 10]]",
+      "styleAttributes": {},
+      "x": 1395,
+      "y": 7900,
+      "width": 525,
+      "height": 60
+    },
+    {
+      "id": "26af22f5b8100f38",
+      "type": "text",
+      "text": "> Human lives are so intensely sensual\n\n[[You are not an angel a letter to my students .pdf#page=9&annotation=504R|You are not an angel a letter to my students , page 9]]",
+      "styleAttributes": {},
+      "x": 831,
+      "y": 7900,
+      "width": 525,
+      "height": 60
+    },
+    {
+      "id": "3632b13096e609a5",
+      "type": "text",
+      "text": "> Why have I used up so many words to tell you that you are not an angel? Because the people who run our lives would prefer it if you carried on thinking that you were. It makes you more biddable, a better-behaved and less critically-minded worker and consumer, a pliant contributor to the data flow. Angels don’t need to think about words, or anything else; they are a mere conduit through which information passes, like light through a pane of glass. When we stop noticing words, we stop noticing the world.\n\n[[You are not an angel a letter to my students .pdf#page=13&selection=158,1,168,66|You are not an angel a letter to my students , page 13]]",
+      "styleAttributes": {},
+      "x": 1640,
+      "y": 7900,
+      "width": 220,
+      "height": 480
+    },
+    {
+      "id": "4ab7187773dc4b32",
+      "type": "text",
+      "text": "> Nothing hinders the eﬀortless transition of your thoughts from brain to screen.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=485R|You are not an angel a letter to my students , page 8]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 8055,
+      "width": 520,
+      "height": 94
+    },
+    {
+      "id": "1a732ef7a77fe2f5",
+      "type": "text",
+      "text": "> Words emerge from and belong to our bodies, whether we notice it or not.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=491R|You are not an angel a letter to my students , page 8]]",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 7864,
+      "width": 525,
+      "height": 94
+    },
+    {
+      "id": "54596eddd3af677b",
+      "type": "text",
+      "text": "> Angels have no such inimitable, unre- producible presence in the world.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=497R|You are not an angel a letter to my students , page 8]]",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 7959,
+      "width": 525,
+      "height": 94
     }
   ],
   "edges": [
