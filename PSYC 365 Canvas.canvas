@@ -251,6 +251,15 @@
       },
       "toNode": "353407242dbe1c5e",
       "toSide": "left"
+    },
+    {
+      "fromNode": "e480d1f3b7dcf4ba",
+      "fromSide": "right",
+      "id": "04b6534a4ac81977",
+      "styleAttributes": {
+      },
+      "toNode": "4776aa4599bc704f",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -268,7 +277,7 @@
       "y": -340
     },
     {
-      "height": 1380,
+      "height": 1480,
       "id": "304311b0cb7be1c7",
       "label": "Vision",
       "styleAttributes": {
@@ -277,17 +286,6 @@
       "width": 1980,
       "x": 1920,
       "y": 660
-    },
-    {
-      "height": 2075,
-      "id": "91974b28b540693c",
-      "styleAttributes": {
-      },
-      "text": "\n**SHORT ANSWER QUESTION**  \nAnswer the following based on the paper we read by Harada et al., 2020, which used fMRI to examine  \nquestions related to face perception and race/culture, as well what you know from lecture material  \nabout the paper (30 points).  \n\n- **A. What was the big-picture question that motivated the study? (1 pt total)**  \n\n- **B. Background (6 pts total)**  \n\t- *I. Describe one thing that previous research, described in the Introduction of the paper, has taught us about the influence of culture on responses to facial emotion and one set of findings described in the paper that support that knowledge. Your answer for the  second part of this question (about the set of findings) should elaborate on your answer  in the first part of this question. (4 pts)* \n\t- Previous studies have shown in-group affects on bilateral amygdala response. \n\t- *II. What two self-construal styles have been identified by cultural psychologists and what are the main characteristics of each? (2 pts)*  \n- **C. Research Questions and Hypotheses (3 pts total)**  \n\t- *I. What was the main research question? (1 pt)*  \n\t- How do Japanese bicultural individuals (raised in individualistic culture but with connections to collectivistic) compare to Native Japanese (collectivism) in amygdala response to racial in and out group faces? (\"That is to say, what neural modulation in the amygdala would be observed in Japanese-American individuals, who are very familiar with Caucasian-Americans’ faces while they have a similarity of physical appearance to native Japanese people, when they were shown facial emotional ex- pressions of Caucasians and Japanese?\")\n\t- *II. What were two hypotheses put forward by the authors? (2 pts)*  \n\t-  Bicultural (Japanese American) individuals would show greater amygdala response to Japanese faces than Caucasian Americans, and \"collectivistic tendencies would be related to neural responses of intergroup negative facial expression.\"\n- **D. Methods (2 pts total)**  \n\t- *I. How did they define group membership? (1 pt)*  \n\t- Japanese-Americans were born and/or raised from a young age in America, either first-generation or second-generation. Japanese Natives were born and raised in Japan, and Caucasian Americans. In-group for Japanese Americans was racial in group ie. Japanese. \n\t- *II. What was the purpose of the shape stimuli? (1 pt)*  \n\t- The shape stimuli serve as a control task for a \"relatively low-level cognitive process\"  \n- **E. Results (4 pts total)**  \n\t- *I. What was the main pattern of findings for the amygdala? What patterns of brain  activity reflected the “cultural in-group effect?” (2 pts)*  \n\t- There was a significant in-group effect observed in the bilateral amygdala when comparing Native Japanese group with Caucasian-American group. Native Japanese participants showed larger neural responses itn the bilateral amygdala to Japanese faces than Caucasian-Americans did. \n\t- Caucasian-American and Japanese participants showed the highest amygdala activities to negative faces of the same cultural and racial members (i.e. in-group members) and the lowest amygdala activities to those of the different cultural and racial group members\n\t- Japanese-American participants showed neural responses in between the JN and CA groups. \n\t- *II. What pattern of brain activity did they find in one particular group of participants when  they looked at the whole brain? (2 pts)*  \n\t-  Japanese-American participants showed greater activities in the right ventral prefrontal cortex, posterior cingulate cortex extending to precueus and right superior frontal gyrus during processing of negative facial expressions of Japanese than Caucasian-American participants did\n- **F. Discussion (4 pts total)**  \n\t- *I. How do they interpret the midline cortical findings observed in one particular group? (2  pts)*  \n\t- Likely reflects greater informational demands of self-relevant memory, because their recognition of their racial identity might be automatically strengthened when negative facial expression of racially in-group members was presented.\n\t- *II. Was their hypothesis about individual differences supported? Why or why not? (2 pts)*  \n\t- \"This result indicates that bicultural individuals respond to negative facial expressions of members from the both cultural groups with slightly attenuated extent as compared to monocultural individuals. We hypothesized that JA individuals would show large amygdala responses to Caucasian negative faces as the same extent as CA individuals would if the in-group bias was due to familiarity of faces learned in their daily life, while they would show large amygdala response to Japanese negative faces as the same extent as JP individuals would if the in-group bias was simply due to their racial identity. The results in the current study did not support either hypothesis\"\n\t- \"Although this way might not necessarily eliminate the possibility of remaining variations, it would be still a possible solution and even more useful way by combining with an additional and detailed reliability test such as a ROI analysis for target brain regions that we have done in the current study. In the current study, we excluded the temporal and occipital regions from the analyses only when directly comparing the different facilities, and furthermore confirmed that there was no significant difference of neural activities in the hypothesized regions, that is the bilateral amygdala, in our prior reliability test. Hence, variation in scanner-site performance is not a likely explanation for the variability in the neural activation we observed in the current study.\"\n- **G. Conclusions and limitations (6 pts total)**  \n\t- *I. How do they describe the overall meaning and importance of the results? (2 pts)*  \n\t- \"Our results show that neural responses in the bilateral amygdala reflected both of in-group biases based on ones’ racial identities and cultural practices, such as ones’ collectivistic tendencies, irrespective of participants’ cultures.\"\n\t- \"Our results demonstrate that neural responses during the processing of emotional faces could be modulated by different social factors, such as cultural practice and racial identity, and furthermore cultural and racial influences are interlaced especially in bicultural individuals such as Japanese-Americans in the current study.\"\n\t- *II. List TWO limitations of the study and explain why they are limitations. (4 pts)*  \n\t- One limitation of this study involves the generalizability of our findings, as the results were based on only facial expressions of fear and anger.\n\t- There might be another limitation in the current study, that is a possible variation in the scanner performance between the two facilities which may have led to variations in the neural activation patterns across the two different scanning sites.\n- **H. In YOUR opinion (4 pts total)**  \n\t- *I. What are the larger cultural or societal implications of these findings? Do you agree  with the authors’ conclusions? Why or why not? What do you think is important that  they didn’t think of? (4 pts)*",
-      "type": "text",
-      "width": 720,
-      "x": -2240,
-      "y": 1058
     },
     {
       "height": 200,
@@ -365,29 +363,6 @@
       "width": 320,
       "x": 760,
       "y": 1602
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "4be4cceddaa70020",
-      "styleAttributes": {
-      },
-      "text": "** Check if correct",
-      "type": "text",
-      "width": 260,
-      "x": 3620,
-      "y": 760
-    },
-    {
-      "height": 60,
-      "id": "6bb2fe2befba6dbc",
-      "styleAttributes": {
-      },
-      "text": "Light → lens → retina → optic nerve → LGN → V1",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 680
     },
     {
       "height": 122,
@@ -588,7 +563,6 @@
       "y": 1102
     },
     {
-      "color": "1",
       "height": 60,
       "id": "e480d1f3b7dcf4ba",
       "styleAttributes": {
@@ -714,7 +688,7 @@
       "id": "52a4d959c7fc2ef7",
       "styleAttributes": {
       },
-      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "text": "Apperceptive agnosia: \n- Can't recognize chair from diff angles\n- Can't see forest for trees",
       "type": "text",
       "width": 260,
       "x": 3420,
@@ -769,7 +743,7 @@
       "id": "a038cfb4758cf553",
       "styleAttributes": {
       },
-      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "text": "Associative agnosia:\n- Can't recognize bear standing in front of you \n- Can't name obj. ",
       "type": "text",
       "width": 260,
       "x": 3420,
@@ -798,15 +772,37 @@
       "y": 776
     },
     {
-      "height": 326,
+      "height": 60,
+      "id": "6bb2fe2befba6dbc",
+      "styleAttributes": {
+      },
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 680
+    },
+    {
+      "height": 284,
       "id": "4776aa4599bc704f",
       "styleAttributes": {
       },
       "text": "Some inconsistencies between humans & machines \n- DNNs use texture and humans use shape to categorize images \n- DNNs use local shape and humans use global shape \n- DNNs are bad at identifying degraded or deformed images \n- DNNs can’t distinguish boundaries from surface",
       "type": "text",
-      "width": 260,
-      "x": 2006,
-      "y": 1227
+      "width": 380,
+      "x": 3420,
+      "y": 1818
+    },
+    {
+      "height": 2075,
+      "id": "91974b28b540693c",
+      "styleAttributes": {
+      },
+      "text": "\n**SHORT ANSWER QUESTION**  \nAnswer the following based on the paper we read by Harada et al., 2020, which used fMRI to examine  \nquestions related to face perception and race/culture, as well what you know from lecture material  \nabout the paper (30 points).  \n\n- **A. What was the big-picture question that motivated the study? (1 pt total)**  \n\n- **B. Background (6 pts total)**  \n\t- *I. Describe one thing that previous research, described in the Introduction of the paper, has taught us about the influence of culture on responses to facial emotion and one set of findings described in the paper that support that knowledge. Your answer for the  second part of this question (about the set of findings) should elaborate on your answer  in the first part of this question. (4 pts)* \n\t- Previous studies have shown in-group affects on bilateral amygdala response. \n\t- *II. What two self-construal styles have been identified by cultural psychologists and what are the main characteristics of each? (2 pts)*  \n- **C. Research Questions and Hypotheses (3 pts total)**  \n\t- *I. What was the main research question? (1 pt)*  \n\t- How do Japanese bicultural individuals (raised in individualistic culture but with connections to collectivistic) compare to Native Japanese (collectivism) in amygdala response to racial in and out group faces? (\"That is to say, what neural modulation in the amygdala would be observed in Japanese-American individuals, who are very familiar with Caucasian-Americans’ faces while they have a similarity of physical appearance to native Japanese people, when they were shown facial emotional ex- pressions of Caucasians and Japanese?\")\n\t- *II. What were two hypotheses put forward by the authors? (2 pts)*  \n\t-  Bicultural (Japanese American) individuals would show greater amygdala response to Japanese faces than Caucasian Americans, and \"collectivistic tendencies would be related to neural responses of intergroup negative facial expression.\"\n- **D. Methods (2 pts total)**  \n\t- *I. How did they define group membership? (1 pt)*  \n\t- Japanese-Americans were born and/or raised from a young age in America, either first-generation or second-generation. Japanese Natives were born and raised in Japan, and Caucasian Americans. In-group for Japanese Americans was racial in group ie. Japanese. \n\t- *II. What was the purpose of the shape stimuli? (1 pt)*  \n\t- The shape stimuli serve as a control task for a \"relatively low-level cognitive process\"  \n- **E. Results (4 pts total)**  \n\t- *I. What was the main pattern of findings for the amygdala? What patterns of brain  activity reflected the “cultural in-group effect?” (2 pts)*  \n\t- There was a significant in-group effect observed in the bilateral amygdala when comparing Native Japanese group with Caucasian-American group. Native Japanese participants showed larger neural responses itn the bilateral amygdala to Japanese faces than Caucasian-Americans did. \n\t- Caucasian-American and Japanese participants showed the highest amygdala activities to negative faces of the same cultural and racial members (i.e. in-group members) and the lowest amygdala activities to those of the different cultural and racial group members\n\t- Japanese-American participants showed neural responses in between the JN and CA groups. \n\t- *II. What pattern of brain activity did they find in one particular group of participants when  they looked at the whole brain? (2 pts)*  \n\t-  Japanese-American participants showed greater activities in the right ventral prefrontal cortex, posterior cingulate cortex extending to precueus and right superior frontal gyrus during processing of negative facial expressions of Japanese than Caucasian-American participants did\n- **F. Discussion (4 pts total)**  \n\t- *I. How do they interpret the midline cortical findings observed in one particular group? (2  pts)*  \n\t- Likely reflects greater informational demands of self-relevant memory, because their recognition of their racial identity might be automatically strengthened when negative facial expression of racially in-group members was presented.\n\t- *II. Was their hypothesis about individual differences supported? Why or why not? (2 pts)*  \n\t- \"This result indicates that bicultural individuals respond to negative facial expressions of members from the both cultural groups with slightly attenuated extent as compared to monocultural individuals. We hypothesized that JA individuals would show large amygdala responses to Caucasian negative faces as the same extent as CA individuals would if the in-group bias was due to familiarity of faces learned in their daily life, while they would show large amygdala response to Japanese negative faces as the same extent as JP individuals would if the in-group bias was simply due to their racial identity. The results in the current study did not support either hypothesis\"\n\t- \"Although this way might not necessarily eliminate the possibility of remaining variations, it would be still a possible solution and even more useful way by combining with an additional and detailed reliability test such as a ROI analysis for target brain regions that we have done in the current study. In the current study, we excluded the temporal and occipital regions from the analyses only when directly comparing the different facilities, and furthermore confirmed that there was no significant difference of neural activities in the hypothesized regions, that is the bilateral amygdala, in our prior reliability test. Hence, variation in scanner-site performance is not a likely explanation for the variability in the neural activation we observed in the current study.\"\n- **G. Conclusions and limitations (6 pts total)**  \n\t- *I. How do they describe the overall meaning and importance of the results? (2 pts)*  \n\t- \"Our results show that neural responses in the bilateral amygdala reflected both of in-group biases based on ones’ racial identities and cultural practices, such as ones’ collectivistic tendencies, irrespective of participants’ cultures.\"\n\t- \"Our results demonstrate that neural responses during the processing of emotional faces could be modulated by different social factors, such as cultural practice and racial identity, and furthermore cultural and racial influences are interlaced especially in bicultural individuals such as Japanese-Americans in the current study.\"\n\t- *II. List TWO limitations of the study and explain why they are limitations. (4 pts)*  \n\t- One limitation of this study involves the generalizability of our findings, as the results were based on only facial expressions of fear and anger.\n\t- There might be another limitation in the current study, that is a possible variation in the scanner performance between the two facilities which may have led to variations in the neural activation patterns across the two different scanning sites.\n- **H. In YOUR opinion (4 pts total)**  \n\t- *I. What are the larger cultural or societal implications of these findings? Do you agree  with the authors’ conclusions? Why or why not? What do you think is important that  they didn’t think of? (4 pts)*",
+      "type": "text",
+      "width": 720,
+      "x": -2240,
+      "y": 1058
     }
   ]
 }
