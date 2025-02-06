@@ -11,17 +11,6 @@
       "label": "Excerpts"
     },
     {
-      "id": "1d6dddcd1ab4f0c8",
-      "type": "group",
-      "styleAttributes": {},
-      "x": 260,
-      "y": 4400,
-      "width": 1673,
-      "height": 1040,
-      "color": "5",
-      "label": "Galloway"
-    },
-    {
       "id": "af1af642603e60f5",
       "type": "group",
       "styleAttributes": {},
@@ -396,14 +385,14 @@
     {
       "id": "e4b13f7339a1fe06",
       "type": "text",
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]\n*Progress*: 1-32, 90-121",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
       "styleAttributes": {
         "shape": "predefined-process"
       },
       "x": -680,
       "y": 5860,
       "width": 300,
-      "height": 98
+      "height": 80
     },
     {
       "id": "e9de283e875df07e",
@@ -476,28 +465,6 @@
       "height": 221
     },
     {
-      "id": "071df9683f899a86",
-      "type": "text",
-      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
-      "styleAttributes": {},
-      "x": 1600,
-      "y": 4560,
-      "width": 260,
-      "height": 61,
-      "color": "3"
-    },
-    {
-      "id": "e960a14f02fe97e9",
-      "type": "text",
-      "text": "> e third moment of the critical narrative is the moment of the symptom. If the previous phase can be associated with structuralism, this phase is associated with post-structuralism in general and deconstruction in particular. \n\n[[excommunication_galloway_thacker_wark.pdf#page=45&selection=48,1,49,60|excommunication_galloway_thacker_wark, page 45]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4927,
-      "width": 422,
-      "height": 174,
-      "color": "2"
-    },
-    {
       "id": "ff413d5f39131acd",
       "type": "text",
       "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
@@ -507,39 +474,6 @@
       "width": 382,
       "height": 100,
       "color": "#fe9f9f"
-    },
-    {
-      "id": "b647d04fb584a578",
-      "type": "text",
-      "text": "> Instead stress is given to the reading of “clues” (symptoms) in the work to re- veal structured absences, contradictions, misunderstandings, the work’s “epistemological other,” or what is “not said” in it. An example of the symptomatic mode is given elegantly in the epigraph to Donna Haraway’s book How Like a Leaf. “Both chimpanzees and artifacts have politics, so why shouldn’t we?”\n> ...\n> To to dare to assert the claim as something worth arguing about is to insinuate that the whole framework of knowledge must be, at some basic level, obsolete\n\n[[excommunication_galloway_thacker_wark.pdf#page=46&selection=13,51,23,62|excommunication_galloway_thacker_wark, page 46]]",
-      "styleAttributes": {},
-      "x": 814,
-      "y": 4877,
-      "width": 422,
-      "height": 319,
-      "color": "2"
-    },
-    {
-      "id": "9364d37419d88214",
-      "type": "text",
-      "text": "> In hermeneutic mediation there is never simply a direct relationship to truth, there is always a confron- tation with truth.\n\n[[excommunication_galloway_thacker_wark.pdf#page=43&selection=36,22,42,11|excommunication_galloway_thacker_wark, page 43]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4560,
-      "width": 422,
-      "height": 121,
-      "color": "2"
-    },
-    {
-      "id": "684a0f41a0e51d20",
-      "type": "text",
-      "text": "> \u0017e hermeneutic interpreter of texts must coax meaning out of sometimes obfuscatory and contradictory signs existing in the material, whether it be biblical scripture, or the semiotic per- formances of human affect. \u0017e confrontation with truth is led by and released through various economies of meaning, be they social, political, or commercial. Always about the real, the her- meneutic tradition is also in some basic sense against the real.\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=4,0,18,9|excommunication_galloway_thacker_wark, page 44]]",
-      "styleAttributes": {},
-      "x": 814,
-      "y": 4560,
-      "width": 422,
-      "height": 277,
-      "color": "2"
     },
     {
       "id": "eba3f701e8d74803",
@@ -1226,17 +1160,6 @@
       "height": 60
     },
     {
-      "id": "fe122354eed81aa9",
-      "type": "text",
-      "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4721,
-      "width": 422,
-      "height": 166,
-      "color": "2"
-    },
-    {
       "id": "a3a6f262b905e40c",
       "type": "text",
       "text": "> Jean Baudrillard notes that all communication involves a form of going outside oneself,\n\n[[excommunication_galloway_thacker_wark.pdf#page=21&selection=32,0,33,25|excommunication_galloway_thacker_wark, page 21]]",
@@ -1245,17 +1168,6 @@
       "y": 4305,
       "width": 460,
       "height": 95
-    },
-    {
-      "id": "30c847463222ca9b",
-      "type": "text",
-      "text": "### \"Love of the Middle\", Galloway",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4420,
-      "width": 324,
-      "height": 60,
-      "color": "5"
     },
     {
       "id": "9bf8f3ed9594d086",
@@ -1745,12 +1657,89 @@
     {
       "id": "0ca2b5a190641242",
       "type": "text",
-      "text": "##### Prox",
+      "text": "##### Proximtity - homophily",
       "styleAttributes": {},
-      "x": -160,
+      "x": -170,
       "y": 9660,
       "width": 260,
       "height": 40
+    },
+    {
+      "id": "071df9683f899a86",
+      "type": "text",
+      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
+      "styleAttributes": {},
+      "x": 1600,
+      "y": 4256,
+      "width": 260,
+      "height": 61,
+      "color": "3"
+    },
+    {
+      "id": "e960a14f02fe97e9",
+      "type": "text",
+      "text": "> e third moment of the critical narrative is the moment of the symptom. If the previous phase can be associated with structuralism, this phase is associated with post-structuralism in general and deconstruction in particular. \n\n[[excommunication_galloway_thacker_wark.pdf#page=45&selection=48,1,49,60|excommunication_galloway_thacker_wark, page 45]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4623,
+      "width": 422,
+      "height": 174,
+      "color": "2"
+    },
+    {
+      "id": "30c847463222ca9b",
+      "type": "text",
+      "text": "### \"Love of the Middle\", Galloway",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4116,
+      "width": 324,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "fe122354eed81aa9",
+      "type": "text",
+      "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4417,
+      "width": 422,
+      "height": 166,
+      "color": "2"
+    },
+    {
+      "id": "9364d37419d88214",
+      "type": "text",
+      "text": "> In hermeneutic mediation there is never simply a direct relationship to truth, there is always a confron- tation with truth.\n\n[[excommunication_galloway_thacker_wark.pdf#page=43&selection=36,22,42,11|excommunication_galloway_thacker_wark, page 43]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4256,
+      "width": 422,
+      "height": 121,
+      "color": "2"
+    },
+    {
+      "id": "b647d04fb584a578",
+      "type": "text",
+      "text": "> Instead stress is given to the reading of “clues” (symptoms) in the work to re- veal structured absences, contradictions, misunderstandings, the work’s “epistemological other,” or what is “not said” in it. An example of the symptomatic mode is given elegantly in the epigraph to Donna Haraway’s book How Like a Leaf. “Both chimpanzees and artifacts have politics, so why shouldn’t we?”\n> ...\n> To to dare to assert the claim as something worth arguing about is to insinuate that the whole framework of knowledge must be, at some basic level, obsolete\n\n[[excommunication_galloway_thacker_wark.pdf#page=46&selection=13,51,23,62|excommunication_galloway_thacker_wark, page 46]]",
+      "styleAttributes": {},
+      "x": 814,
+      "y": 4573,
+      "width": 422,
+      "height": 319,
+      "color": "2"
+    },
+    {
+      "id": "684a0f41a0e51d20",
+      "type": "text",
+      "text": "> \u0017e hermeneutic interpreter of texts must coax meaning out of sometimes obfuscatory and contradictory signs existing in the material, whether it be biblical scripture, or the semiotic per- formances of human affect. \u0017e confrontation with truth is led by and released through various economies of meaning, be they social, political, or commercial. Always about the real, the her- meneutic tradition is also in some basic sense against the real.\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=4,0,18,9|excommunication_galloway_thacker_wark, page 44]]",
+      "styleAttributes": {},
+      "x": 814,
+      "y": 4256,
+      "width": 422,
+      "height": 277,
+      "color": "2"
     }
   ],
   "edges": [
