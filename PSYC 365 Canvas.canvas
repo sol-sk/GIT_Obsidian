@@ -21,46 +21,6 @@
       "label": "Vision"
     },
     {
-      "id": "6bb2fe2befba6dbc",
-      "type": "text",
-      "text": "Light → lens → retina → optic nerve → LGN → V1",
-      "styleAttributes": {},
-      "x": 299,
-      "y": 1780,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "438546c185e63f58",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
-      "styleAttributes": {},
-      "x": -141,
-      "y": 1780,
-      "width": 391,
-      "height": 400
-    },
-    {
-      "id": "8e497a75399e7ba4",
-      "type": "text",
-      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
-      "styleAttributes": {},
-      "x": 299,
-      "y": 1860,
-      "width": 260,
-      "height": 256
-    },
-    {
-      "id": "90da43c1b20936e0",
-      "type": "text",
-      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
-      "styleAttributes": {},
-      "x": 649,
-      "y": 1876,
-      "width": 300,
-      "height": 100
-    },
-    {
       "id": "e480d1f3b7dcf4ba",
       "type": "text",
       "text": "Bowers et al",
@@ -110,16 +70,6 @@
       "y": 2202,
       "width": 410,
       "height": 347
-    },
-    {
-      "id": "3c0201ca53ece704",
-      "type": "text",
-      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
-      "styleAttributes": {},
-      "x": 959,
-      "y": 1976,
-      "width": 260,
-      "height": 204
     },
     {
       "id": "fe040844129829f7",
@@ -202,16 +152,6 @@
       "height": 103
     },
     {
-      "id": "a038cfb4758cf553",
-      "type": "text",
-      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
-      "styleAttributes": {},
-      "x": 1339,
-      "y": 1938,
-      "width": 260,
-      "height": 120
-    },
-    {
       "id": "52a4d959c7fc2ef7",
       "type": "text",
       "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
@@ -220,17 +160,6 @@
       "y": 2142,
       "width": 260,
       "height": 120
-    },
-    {
-      "id": "4be4cceddaa70020",
-      "type": "text",
-      "text": "** Check if correct",
-      "styleAttributes": {},
-      "x": 1539,
-      "y": 1860,
-      "width": 260,
-      "height": 60,
-      "color": "1"
     },
     {
       "id": "91974b28b540693c",
@@ -393,26 +322,6 @@
       "height": 180
     },
     {
-      "id": "3ce924f2d1f1d928",
-      "type": "text",
-      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
-      "styleAttributes": {},
-      "x": -700,
-      "y": -280,
-      "width": 460,
-      "height": 200
-    },
-    {
-      "id": "88fb75496a6985d7",
-      "type": "text",
-      "text": "Kinds of brain scans: \n- EEG\n- MEG\n- ECoG/Stero EEG\n- PET\n- MRI/DTI\n- fMRI",
-      "styleAttributes": {},
-      "x": 60,
-      "y": 140,
-      "width": 260,
-      "height": 215
-    },
-    {
       "id": "fc8356fdb4b4318c",
       "type": "text",
       "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
@@ -425,22 +334,12 @@
     {
       "id": "ef6ccd14871cc654",
       "type": "text",
-      "text": "Lesion studies:\n- causal \n- behaviors & cogn. processes",
+      "text": "Lesion studies:\n- Causal \n- behaviors & cogn. processes",
       "styleAttributes": {},
       "x": -40,
       "y": -320,
       "width": 260,
       "height": 125
-    },
-    {
-      "id": "75f367c0d68d68e3",
-      "type": "text",
-      "text": "Neuromodulation - TMS & TES: \n- Inhibiting/exciting neurons \n- Causal \n- behaviors & cogn. processes",
-      "styleAttributes": {},
-      "x": -40,
-      "y": -80,
-      "width": 260,
-      "height": 154
     },
     {
       "id": "af80c58975a86b48",
@@ -457,10 +356,121 @@
       "type": "text",
       "text": "**P & F**: Defending functional neuroimaging\n- We can infer that brain activity reliably elicited by task was caused by task BUT can't infer that brain is causally responsble",
       "styleAttributes": {},
-      "x": -40,
-      "y": 400,
+      "x": -120,
+      "y": 455,
       "width": 360,
       "height": 140
+    },
+    {
+      "id": "75f367c0d68d68e3",
+      "type": "text",
+      "text": "Neuromodulation - TMS & TES: \n- Causal \n- Inhibiting/exciting neurons \n- behaviors & cogn. processes",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -79,
+      "width": 260,
+      "height": 154
+    },
+    {
+      "id": "3ce924f2d1f1d928",
+      "type": "text",
+      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
+      "styleAttributes": {},
+      "x": -700,
+      "y": -280,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "88fb75496a6985d7",
+      "type": "text",
+      "text": "Kinds of brain scans: \n- EEG (pop/network)\n- MEG (pop/network)\n- ECoG/Stero EEG (cell/pop)\n- PET (molecular)\n- MRI/DTI\n- fMRI",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 140,
+      "width": 260,
+      "height": 200
+    },
+    {
+      "id": "4af78d16073a1676",
+      "type": "text",
+      "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1200,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "4be4cceddaa70020",
+      "type": "text",
+      "text": "** Check if correct",
+      "styleAttributes": {},
+      "x": 1539,
+      "y": 1860,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "a038cfb4758cf553",
+      "type": "text",
+      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "styleAttributes": {},
+      "x": 1339,
+      "y": 1938,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "90da43c1b20936e0",
+      "type": "text",
+      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
+      "styleAttributes": {},
+      "x": 649,
+      "y": 1876,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "6bb2fe2befba6dbc",
+      "type": "text",
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "styleAttributes": {},
+      "x": 299,
+      "y": 1780,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8e497a75399e7ba4",
+      "type": "text",
+      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
+      "styleAttributes": {},
+      "x": 299,
+      "y": 1860,
+      "width": 260,
+      "height": 256
+    },
+    {
+      "id": "438546c185e63f58",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "styleAttributes": {},
+      "x": -141,
+      "y": 1780,
+      "width": 391,
+      "height": 400
+    },
+    {
+      "id": "3c0201ca53ece704",
+      "type": "text",
+      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
+      "styleAttributes": {},
+      "x": 959,
+      "y": 1976,
+      "width": 260,
+      "height": 204
     }
   ],
   "edges": [
@@ -655,6 +665,14 @@
       "fromSide": "bottom",
       "toNode": "bc5bba5490c9e6a9",
       "toSide": "top"
+    },
+    {
+      "id": "c0ae9b46d46b8f0d",
+      "styleAttributes": {},
+      "fromNode": "4af78d16073a1676",
+      "fromSide": "right",
+      "toNode": "70c1126eda36aa33",
+      "toSide": "left"
     }
   ],
   "metadata": {}
