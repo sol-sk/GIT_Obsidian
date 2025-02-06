@@ -221,26 +221,6 @@
       "height": 154
     },
     {
-      "id": "3ce924f2d1f1d928",
-      "type": "text",
-      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
-      "styleAttributes": {},
-      "x": -700,
-      "y": -280,
-      "width": 460,
-      "height": 200
-    },
-    {
-      "id": "88fb75496a6985d7",
-      "type": "text",
-      "text": "Kinds of brain scans: \n- EEG (pop/network)\n- MEG (pop/network)\n- ECoG/Stero EEG (cell/pop)\n- PET (molecular)\n- MRI/DTI\n- fMRI",
-      "styleAttributes": {},
-      "x": -120,
-      "y": 140,
-      "width": 260,
-      "height": 200
-    },
-    {
       "id": "4af78d16073a1676",
       "type": "text",
       "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
@@ -480,7 +460,7 @@
       "x": 760,
       "y": 1602,
       "width": 320,
-      "height": 220
+      "height": 298
     },
     {
       "id": "8d54b99ec61f095e",
@@ -491,6 +471,26 @@
       "y": 1419,
       "width": 520,
       "height": 182
+    },
+    {
+      "id": "3ce924f2d1f1d928",
+      "type": "text",
+      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
+      "styleAttributes": {},
+      "x": -700,
+      "y": -280,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "88fb75496a6985d7",
+      "type": "text",
+      "text": "Kinds of brain scans: \n- EEG (pop/network)\n- MEG (pop/network)\n- ECoG/Stero EEG (cell/pop)\n- PET (molecular)\n- MRI/DTI\n- fMRI",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 140,
+      "width": 260,
+      "height": 200
     }
   ],
   "edges": [
