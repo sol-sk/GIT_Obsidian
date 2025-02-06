@@ -1740,6 +1740,36 @@
       "width": 422,
       "height": 277,
       "color": "2"
+    },
+    {
+      "id": "157acfa70830fa1b",
+      "type": "text",
+      "text": "> According to Marshall McLuhan, \"the technique ofbeginning at the end of any operation whatever, and of working backwards from that point to the beginning\" was not merely an invention or discovecy to be added to the listt: it was \"the invention of invention\" itself This is hysteresis, the lagging of effects behind their causes. Reverse engineering: the way hackers hack and pirates conspire to lure the futUre to their side . . Starting at the end, and then engaging in a process which simultaneously assembles and dismantles the route back to the start, the end, the future, the past: who's counting now? \n\n[[zeros-and-ones_plant.pdf#page=31&selection=101,41,149,20|zeros-and-ones_plant, page 31]]",
+      "styleAttributes": {},
+      "x": 640,
+      "y": 6009,
+      "width": 500,
+      "height": 300
+    },
+    {
+      "id": "e3d049b301c7fa65",
+      "type": "text",
+      "text": "> One o f the linchpins o f artificial intelligence has been the test which Turing devised to measure machine intelligence, in 1 950.  in which two which Turing devised to measure machine intelligence, in 1 950.It was based on an old parlor game of imitation in which twoplayers, A, a man, and B, a woman, are concealed from a judge who asks questions of the two players in order to ascertain which one is the woman. The man has to simulate the woman, and the woman has to play hersel£ Whichever paSses as female wins.\n\n[[zeros-and-ones_plant.pdf#page=95&annotation=16020R|zeros-and-ones_plant, page 95]]",
+      "styleAttributes": {},
+      "x": 30,
+      "y": 6280,
+      "width": 500,
+      "height": 276
+    },
+    {
+      "id": "0c80daf9f685f9df",
+      "type": "text",
+      "text": "> Control is no longer a purely sociopolitical affair, but a process of training, an exercise extending to the organization of the body itself. A complex of new disciplincary procesdures \"laws down for each individual his place, his body, his disease and his death, his well-being\" and extends to the \"ultimate determination of the individual, of what characterizes him, of what belonds to him, of what happens to him.\" Man is neither a natural fact nor a product of his own creativity, but a cyborg even then, an android straight \n[[zeros-and-ones_plant.pdf#page=104&annotation=15813R|zeros-and-ones_plant, page 104]]",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 6220,
+      "width": 540,
+      "height": 240
     }
   ],
   "edges": [
