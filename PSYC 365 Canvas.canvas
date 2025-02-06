@@ -131,16 +131,6 @@
       "height": 160
     },
     {
-      "id": "8d54b99ec61f095e",
-      "type": "text",
-      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?/What does brain group together?",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": 1420,
-      "width": 520,
-      "height": 182
-    },
-    {
       "id": "ad8a03fca1847400",
       "type": "text",
       "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
@@ -485,12 +475,22 @@
     {
       "id": "dd18d41495ada93f",
       "type": "text",
-      "text": "Intrinsic networks:\n- Activity is correlated at rest ",
+      "text": "Intrinsic (arising spontaneously) networks:\n- Activity is correlated at rest \n- Identified with resting-state fMRI - in **(P & F)**\n\n*Canonical* Intrinsic Networks: observed very commonly at rest ",
       "styleAttributes": {},
       "x": 760,
       "y": 1602,
       "width": 320,
-      "height": 80
+      "height": 220
+    },
+    {
+      "id": "8d54b99ec61f095e",
+      "type": "text",
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?/What does brain group together?",
+      "styleAttributes": {},
+      "x": 1280,
+      "y": 1419,
+      "width": 520,
+      "height": 182
     }
   ],
   "edges": [
