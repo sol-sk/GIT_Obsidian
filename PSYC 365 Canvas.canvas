@@ -242,6 +242,15 @@
       },
       "toNode": "dd18d41495ada93f",
       "toSide": "top"
+    },
+    {
+      "fromNode": "3ffcd312a5f87e67",
+      "fromSide": "right",
+      "id": "a28bce8e6944a9ea",
+      "styleAttributes": {
+      },
+      "toNode": "353407242dbe1c5e",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -358,17 +367,6 @@
       "y": 1602
     },
     {
-      "height": 100,
-      "id": "90da43c1b20936e0",
-      "styleAttributes": {
-      },
-      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
-      "type": "text",
-      "width": 300,
-      "x": 2730,
-      "y": 776
-    },
-    {
       "color": "1",
       "height": 60,
       "id": "4be4cceddaa70020",
@@ -381,28 +379,6 @@
       "y": 760
     },
     {
-      "height": 296,
-      "id": "8053bc20107f8402",
-      "styleAttributes": {
-      },
-      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1050
-    },
-    {
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
-      "height": 400,
-      "id": "438546c185e63f58",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 391,
-      "x": 1940,
-      "y": 680
-    },
-    {
       "height": 60,
       "id": "6bb2fe2befba6dbc",
       "styleAttributes": {
@@ -412,172 +388,6 @@
       "width": 260,
       "x": 2380,
       "y": 680
-    },
-    {
-      "height": 256,
-      "id": "8e497a75399e7ba4",
-      "styleAttributes": {
-      },
-      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 760
-    },
-    {
-      "height": 60,
-      "id": "e8f42e3eb8d62261",
-      "styleAttributes": {
-      },
-      "text": "LOC = IDing obj. ",
-      "type": "text",
-      "width": 160,
-      "x": 2730,
-      "y": 990
-    },
-    {
-      "height": 200,
-      "id": "f231a61ba0782e9e",
-      "styleAttributes": {
-      },
-      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1660
-    },
-    {
-      "height": 60,
-      "id": "d4e8864a22df9e35",
-      "styleAttributes": {
-      },
-      "text": "Computer vision: CNNs",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1960
-    },
-    {
-      "height": 154,
-      "id": "807b4f1bb6c92d3d",
-      "styleAttributes": {
-      },
-      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1480
-    },
-    {
-      "height": 60,
-      "id": "f3dacb927a743b2a",
-      "styleAttributes": {
-      },
-      "text": "Similar to visual stream, fragmented → whole",
-      "type": "text",
-      "width": 260,
-      "x": 2760,
-      "y": 1960
-    },
-    {
-      "height": 347,
-      "id": "3ffcd312a5f87e67",
-      "styleAttributes": {
-      },
-      "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
-      "type": "text",
-      "width": 410,
-      "x": 2730,
-      "y": 1102
-    },
-    {
-      "height": 103,
-      "id": "c836baff3953daa3",
-      "styleAttributes": {
-      },
-      "text": "V1 neurons see obj. from just 1 view, higher order reg. collect info, match to mental representations of obj. from prior/childhood exp. ",
-      "type": "text",
-      "width": 300,
-      "x": 3530,
-      "y": 1666
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "e480d1f3b7dcf4ba",
-      "styleAttributes": {
-      },
-      "text": "Bowers et al",
-      "type": "text",
-      "width": 260,
-      "x": 3100,
-      "y": 1930
-    },
-    {
-      "height": 146,
-      "id": "e508211250760542",
-      "styleAttributes": {
-      },
-      "text": "Early visual areas ie V1: no suppression, same HDR = treat diff sizes as diff obj. \n\nAnterior LOC: HDR suppression = treat diff sizes as same obj",
-      "type": "text",
-      "width": 300,
-      "x": 3530,
-      "y": 1480
-    },
-    {
-      "height": 289,
-      "id": "3749b1bef816fd0a",
-      "styleAttributes": {
-      },
-      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
-      "type": "text",
-      "width": 380,
-      "x": 3080,
-      "y": 1480
-    },
-    {
-      "height": 60,
-      "id": "fe040844129829f7",
-      "styleAttributes": {
-      },
-      "text": "Size invariance: recognize obj. when diff size (perspective)",
-      "type": "text",
-      "width": 260,
-      "x": 2730,
-      "y": 1480
-    },
-    {
-      "height": 120,
-      "id": "a038cfb4758cf553",
-      "styleAttributes": {
-      },
-      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
-      "type": "text",
-      "width": 260,
-      "x": 3420,
-      "y": 838
-    },
-    {
-      "height": 204,
-      "id": "3c0201ca53ece704",
-      "styleAttributes": {
-      },
-      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
-      "type": "text",
-      "width": 260,
-      "x": 3040,
-      "y": 876
-    },
-    {
-      "height": 120,
-      "id": "52a4d959c7fc2ef7",
-      "styleAttributes": {
-      },
-      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
-      "type": "text",
-      "width": 260,
-      "x": 3420,
-      "y": 1042
     },
     {
       "height": 122,
@@ -624,17 +434,6 @@
       "y": 120
     },
     {
-      "height": 60,
-      "id": "773a44c709838458",
-      "styleAttributes": {
-      },
-      "text": "Viewpoint invariance: recognize obj. from diff POV",
-      "type": "text",
-      "width": 260,
-      "x": 2730,
-      "y": 1595
-    },
-    {
       "height": 200,
       "id": "fc8356fdb4b4318c",
       "styleAttributes": {
@@ -655,28 +454,6 @@
       "width": 320,
       "x": 290,
       "y": -92
-    },
-    {
-      "height": 182,
-      "id": "8d54b99ec61f095e",
-      "styleAttributes": {
-      },
-      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?/What does brain group together?",
-      "type": "text",
-      "width": 520,
-      "x": 1280,
-      "y": 1419
-    },
-    {
-      "height": 224,
-      "id": "5626bf81ea0feefe",
-      "styleAttributes": {
-      },
-      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
-      "type": "text",
-      "width": 520,
-      "x": 1280,
-      "y": 1130
     },
     {
       "height": 200,
@@ -756,6 +533,249 @@
       "y": 1260
     },
     {
+      "height": 99,
+      "id": "eb4c88ca83138caa",
+      "styleAttributes": {
+      },
+      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 580
+    },
+    {
+      "height": 60,
+      "id": "d4e8864a22df9e35",
+      "styleAttributes": {
+      },
+      "text": "Computer vision: CNNs",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1960
+    },
+    {
+      "height": 154,
+      "id": "807b4f1bb6c92d3d",
+      "styleAttributes": {
+      },
+      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1480
+    },
+    {
+      "height": 60,
+      "id": "f3dacb927a743b2a",
+      "styleAttributes": {
+      },
+      "text": "Similar to visual stream, fragmented → whole",
+      "type": "text",
+      "width": 260,
+      "x": 2760,
+      "y": 1960
+    },
+    {
+      "height": 347,
+      "id": "3ffcd312a5f87e67",
+      "styleAttributes": {
+      },
+      "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
+      "type": "text",
+      "width": 410,
+      "x": 2730,
+      "y": 1102
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "e480d1f3b7dcf4ba",
+      "styleAttributes": {
+      },
+      "text": "Bowers et al",
+      "type": "text",
+      "width": 260,
+      "x": 3100,
+      "y": 1930
+    },
+    {
+      "height": 60,
+      "id": "fe040844129829f7",
+      "styleAttributes": {
+      },
+      "text": "Size invariance: recognize obj. when diff size (perspective)",
+      "type": "text",
+      "width": 260,
+      "x": 2730,
+      "y": 1480
+    },
+    {
+      "height": 60,
+      "id": "773a44c709838458",
+      "styleAttributes": {
+      },
+      "text": "Viewpoint invariance: recognize obj. from diff POV",
+      "type": "text",
+      "width": 260,
+      "x": 2730,
+      "y": 1595
+    },
+    {
+      "height": 60,
+      "id": "e8f42e3eb8d62261",
+      "styleAttributes": {
+      },
+      "text": "LOC = IDing obj. ",
+      "type": "text",
+      "width": 160,
+      "x": 2730,
+      "y": 990
+    },
+    {
+      "height": 289,
+      "id": "3749b1bef816fd0a",
+      "styleAttributes": {
+      },
+      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
+      "type": "text",
+      "width": 380,
+      "x": 3080,
+      "y": 1480
+    },
+    {
+      "height": 204,
+      "id": "3c0201ca53ece704",
+      "styleAttributes": {
+      },
+      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
+      "type": "text",
+      "width": 260,
+      "x": 3040,
+      "y": 876
+    },
+    {
+      "height": 200,
+      "id": "f231a61ba0782e9e",
+      "styleAttributes": {
+      },
+      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1660
+    },
+    {
+      "height": 103,
+      "id": "c836baff3953daa3",
+      "styleAttributes": {
+      },
+      "text": "V1 neurons see obj. from just 1 view, higher order reg. collect info, match to mental representations of obj. from prior/childhood exp. ",
+      "type": "text",
+      "width": 300,
+      "x": 3530,
+      "y": 1666
+    },
+    {
+      "height": 146,
+      "id": "e508211250760542",
+      "styleAttributes": {
+      },
+      "text": "Early visual areas ie V1: no suppression, same HDR = treat diff sizes as diff obj. \n\nAnterior LOC: HDR suppression = treat diff sizes as same obj",
+      "type": "text",
+      "width": 300,
+      "x": 3530,
+      "y": 1480
+    },
+    {
+      "height": 296,
+      "id": "8053bc20107f8402",
+      "styleAttributes": {
+      },
+      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1050
+    },
+    {
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "height": 400,
+      "id": "438546c185e63f58",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 391,
+      "x": 1940,
+      "y": 680
+    },
+    {
+      "height": 120,
+      "id": "52a4d959c7fc2ef7",
+      "styleAttributes": {
+      },
+      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "type": "text",
+      "width": 260,
+      "x": 3420,
+      "y": 1042
+    },
+    {
+      "file": "W2024 Files/Screenshot 2025-02-06 at 1.34.18 PM.png",
+      "height": 88,
+      "id": "353407242dbe1c5e",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3220,
+      "y": 1232
+    },
+    {
+      "height": 182,
+      "id": "8d54b99ec61f095e",
+      "styleAttributes": {
+      },
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?/What does brain group together?",
+      "type": "text",
+      "width": 520,
+      "x": 1280,
+      "y": 1419
+    },
+    {
+      "height": 224,
+      "id": "5626bf81ea0feefe",
+      "styleAttributes": {
+      },
+      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
+      "type": "text",
+      "width": 520,
+      "x": 1280,
+      "y": 1130
+    },
+    {
+      "height": 256,
+      "id": "8e497a75399e7ba4",
+      "styleAttributes": {
+      },
+      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 760
+    },
+    {
+      "height": 120,
+      "id": "a038cfb4758cf553",
+      "styleAttributes": {
+      },
+      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "type": "text",
+      "width": 260,
+      "x": 3420,
+      "y": 838
+    },
+    {
       "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
       "height": 501,
       "id": "3cc2c3c0a9a96bc2",
@@ -767,15 +787,26 @@
       "y": 427
     },
     {
-      "height": 99,
-      "id": "eb4c88ca83138caa",
+      "height": 100,
+      "id": "90da43c1b20936e0",
       "styleAttributes": {
       },
-      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
+      "text": "Dorsal stream = parietal = where/how\n\nVentral = temporal = what",
+      "type": "text",
+      "width": 300,
+      "x": 2730,
+      "y": 776
+    },
+    {
+      "height": 326,
+      "id": "4776aa4599bc704f",
+      "styleAttributes": {
+      },
+      "text": "Some inconsistencies between humans & machines \n- DNNs use texture and humans use shape to categorize images \n- DNNs use local shape and humans use global shape \n- DNNs are bad at identifying degraded or deformed images \n- DNNs can’t distinguish boundaries from surface",
       "type": "text",
       "width": 260,
-      "x": 380,
-      "y": 580
+      "x": 2006,
+      "y": 1227
     }
   ]
 }
