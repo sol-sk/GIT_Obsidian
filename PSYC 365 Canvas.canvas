@@ -31,24 +31,34 @@
       "height": 2075
     },
     {
-      "id": "f1e6e9121982dea9",
+      "id": "ad8a03fca1847400",
       "type": "text",
-      "text": "",
+      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
       "styleAttributes": {},
-      "x": -2180,
-      "y": 3118,
-      "width": 660,
-      "height": 880
+      "x": 320,
+      "y": -318,
+      "width": 260,
+      "height": 122
     },
     {
-      "id": "3cc2c3c0a9a96bc2",
-      "type": "file",
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
+      "id": "3ce924f2d1f1d928",
+      "type": "text",
+      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
       "styleAttributes": {},
-      "x": 729,
-      "y": 427,
-      "width": 991,
-      "height": 501
+      "x": -700,
+      "y": -280,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "88fb75496a6985d7",
+      "type": "text",
+      "text": "Kinds of brain scans: \n- EEG (pop/network)\n- MEG (pop/network)\n- ECoG/Stero EEG (cell/pop)\n- PET (molecular)\n- MRI/DTI\n- fMRI",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 140,
+      "width": 260,
+      "height": 200
     },
     {
       "id": "4add580745375d7a",
@@ -59,6 +69,46 @@
       "y": 720,
       "width": 260,
       "height": 120
+    },
+    {
+      "id": "bc5bba5490c9e6a9",
+      "type": "text",
+      "text": "**P & F**: Defending functional neuroimaging\n- We can infer that brain activity reliably elicited by task was caused by task BUT can't infer that brain is causally responsble",
+      "styleAttributes": {},
+      "x": -120,
+      "y": 455,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "4af78d16073a1676",
+      "type": "text",
+      "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
+      "styleAttributes": {},
+      "x": 0,
+      "y": 1200,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "dd18d41495ada93f",
+      "type": "text",
+      "text": "Intrinsic (arising spontaneously) networks:\n- Activity is correlated at rest \n- Identified with resting-state fMRI - in **(P & F)**\n\n*Canonical* Intrinsic Networks: observed very commonly at rest ",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1602,
+      "width": 320,
+      "height": 222
+    },
+    {
+      "id": "af80c58975a86b48",
+      "type": "text",
+      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
+      "styleAttributes": {},
+      "x": 680,
+      "y": -317,
+      "width": 440,
+      "height": 282
     },
     {
       "id": "eb98624574c9f380",
@@ -81,16 +131,6 @@
       "height": 99
     },
     {
-      "id": "eb4c88ca83138caa",
-      "type": "text",
-      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
-      "styleAttributes": {},
-      "x": 380,
-      "y": 580,
-      "width": 260,
-      "height": 99
-    },
-    {
       "id": "d4d6d750112884fb",
       "type": "text",
       "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
@@ -101,26 +141,6 @@
       "height": 96
     },
     {
-      "id": "5626bf81ea0feefe",
-      "type": "text",
-      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
-      "styleAttributes": {},
-      "x": 1280,
-      "y": 1130,
-      "width": 520,
-      "height": 224
-    },
-    {
-      "id": "274630e3133431ab",
-      "type": "text",
-      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n- *When, not where*\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
-      "styleAttributes": {},
-      "x": 760,
-      "y": 121,
-      "width": 520,
-      "height": 220
-    },
-    {
       "id": "4e54c9a4502b3dc3",
       "type": "text",
       "text": "1) Encoding: Standard, \"brain mapping → use stim or exp. task and measure activity\"\n2) Decoding: Look at brain act. and predict what stim/cogn. prcs produced it\n ",
@@ -129,26 +149,6 @@
       "y": 1260,
       "width": 320,
       "height": 160
-    },
-    {
-      "id": "ad8a03fca1847400",
-      "type": "text",
-      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
-      "styleAttributes": {},
-      "x": 320,
-      "y": -318,
-      "width": 260,
-      "height": 122
-    },
-    {
-      "id": "01023f319a1a824d",
-      "type": "text",
-      "text": "2 kinds of \"**mechanistic insigh**t\": \n- What is captured by mechanism (cell, population, network)\n- Ability of each method to record role (purely observational, manipulate process/task, manipulate brain)",
-      "styleAttributes": {},
-      "x": 290,
-      "y": -92,
-      "width": 320,
-      "height": 180
     },
     {
       "id": "3e2080c6f6ef17a8",
@@ -171,94 +171,44 @@
       "height": 180
     },
     {
-      "id": "fc8356fdb4b4318c",
-      "type": "text",
-      "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
+      "id": "3cc2c3c0a9a96bc2",
+      "type": "file",
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
       "styleAttributes": {},
-      "x": 60,
-      "y": 928,
+      "x": 729,
+      "y": 427,
+      "width": 991,
+      "height": 501
+    },
+    {
+      "id": "eb4c88ca83138caa",
+      "type": "text",
+      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
+      "styleAttributes": {},
+      "x": 380,
+      "y": 580,
       "width": 260,
-      "height": 200
+      "height": 99
     },
     {
-      "id": "ef6ccd14871cc654",
+      "id": "274630e3133431ab",
       "type": "text",
-      "text": "Lesion studies:\n- Causal \n- behaviors & cogn. processes",
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n- *When, not where*\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
       "styleAttributes": {},
-      "x": -40,
-      "y": -320,
-      "width": 260,
-      "height": 125
+      "x": 760,
+      "y": 121,
+      "width": 520,
+      "height": 220
     },
     {
-      "id": "af80c58975a86b48",
+      "id": "30eb0ad1bc10d0d1",
       "type": "text",
-      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
+      "text": "- Structural connectivity: DTI\n- Functional connectivity: correlated activity as observed on an fMRI ",
       "styleAttributes": {},
-      "x": 680,
-      "y": -317,
-      "width": 440,
-      "height": 282
-    },
-    {
-      "id": "bc5bba5490c9e6a9",
-      "type": "text",
-      "text": "**P & F**: Defending functional neuroimaging\n- We can infer that brain activity reliably elicited by task was caused by task BUT can't infer that brain is causally responsble",
-      "styleAttributes": {},
-      "x": -120,
-      "y": 455,
-      "width": 360,
-      "height": 140
-    },
-    {
-      "id": "75f367c0d68d68e3",
-      "type": "text",
-      "text": "Neuromodulation - TMS & TES: \n- Causal \n- Inhibiting/exciting neurons \n- behaviors & cogn. processes",
-      "styleAttributes": {},
-      "x": -40,
-      "y": -79,
-      "width": 260,
-      "height": 154
-    },
-    {
-      "id": "4af78d16073a1676",
-      "type": "text",
-      "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
-      "styleAttributes": {},
-      "x": 0,
-      "y": 1200,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "e508211250760542",
-      "type": "text",
-      "text": "Early visual areas ie V1: no suppression, same HDR = treat diff sizes as diff obj. \n\nAnterior LOC: HDR suppression = treat diff sizes as same obj",
-      "styleAttributes": {},
-      "x": 3530,
-      "y": 1480,
-      "width": 300,
-      "height": 146
-    },
-    {
-      "id": "f231a61ba0782e9e",
-      "type": "text",
-      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": 1660,
-      "width": 260,
-      "height": 200
-    },
-    {
-      "id": "d4e8864a22df9e35",
-      "type": "text",
-      "text": "Computer vision: CNNs",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": 1960,
-      "width": 260,
-      "height": 60
+      "x": 760,
+      "y": 1460,
+      "width": 320,
+      "height": 100
     },
     {
       "id": "f3dacb927a743b2a",
@@ -271,26 +221,6 @@
       "height": 60
     },
     {
-      "id": "c836baff3953daa3",
-      "type": "text",
-      "text": "V1 neurons see obj. from just 1 view, higher order reg. collect info, match to mental representations of obj. from prior/childhood exp. ",
-      "styleAttributes": {},
-      "x": 3530,
-      "y": 1666,
-      "width": 300,
-      "height": 103
-    },
-    {
-      "id": "8053bc20107f8402",
-      "type": "text",
-      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": 1050,
-      "width": 260,
-      "height": 296
-    },
-    {
       "id": "3ffcd312a5f87e67",
       "type": "text",
       "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
@@ -299,67 +229,6 @@
       "y": 1102,
       "width": 410,
       "height": 347
-    },
-    {
-      "id": "3749b1bef816fd0a",
-      "type": "text",
-      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
-      "styleAttributes": {},
-      "x": 3080,
-      "y": 1480,
-      "width": 380,
-      "height": 289
-    },
-    {
-      "id": "e480d1f3b7dcf4ba",
-      "type": "text",
-      "text": "Bowers et al",
-      "styleAttributes": {},
-      "x": 3100,
-      "y": 1930,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "e8f42e3eb8d62261",
-      "type": "text",
-      "text": "LOC = IDing obj. ",
-      "styleAttributes": {},
-      "x": 2730,
-      "y": 990,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "807b4f1bb6c92d3d",
-      "type": "text",
-      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
-      "styleAttributes": {},
-      "x": 2380,
-      "y": 1480,
-      "width": 260,
-      "height": 154
-    },
-    {
-      "id": "fe040844129829f7",
-      "type": "text",
-      "text": "Size invariance: recognize obj. when diff size (perspective)",
-      "styleAttributes": {},
-      "x": 2730,
-      "y": 1480,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "773a44c709838458",
-      "type": "text",
-      "text": "Viewpoint invariance: recognize obj. from diff POV",
-      "styleAttributes": {},
-      "x": 2730,
-      "y": 1595,
-      "width": 260,
-      "height": 60
     },
     {
       "id": "90da43c1b20936e0",
@@ -372,36 +241,6 @@
       "height": 100
     },
     {
-      "id": "a038cfb4758cf553",
-      "type": "text",
-      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
-      "styleAttributes": {},
-      "x": 3420,
-      "y": 838,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "3c0201ca53ece704",
-      "type": "text",
-      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
-      "styleAttributes": {},
-      "x": 3040,
-      "y": 876,
-      "width": 260,
-      "height": 204
-    },
-    {
-      "id": "52a4d959c7fc2ef7",
-      "type": "text",
-      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
-      "styleAttributes": {},
-      "x": 3420,
-      "y": 1042,
-      "width": 260,
-      "height": 120
-    },
-    {
       "id": "4be4cceddaa70020",
       "type": "text",
       "text": "** Check if correct",
@@ -411,6 +250,16 @@
       "width": 260,
       "height": 60,
       "color": "1"
+    },
+    {
+      "id": "8053bc20107f8402",
+      "type": "text",
+      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": 1050,
+      "width": 260,
+      "height": 296
     },
     {
       "id": "438546c185e63f58",
@@ -443,24 +292,135 @@
       "height": 256
     },
     {
-      "id": "30eb0ad1bc10d0d1",
+      "id": "c836baff3953daa3",
       "type": "text",
-      "text": "- Structural connectivity: DTI\n- Functional connectivity: correlated activity as observed on an fMRI ",
+      "text": "V1 neurons see obj. from just 1 view, higher order reg. collect info, match to mental representations of obj. from prior/childhood exp. ",
       "styleAttributes": {},
-      "x": 760,
-      "y": 1460,
-      "width": 320,
-      "height": 100
+      "x": 3530,
+      "y": 1666,
+      "width": 300,
+      "height": 103
     },
     {
-      "id": "dd18d41495ada93f",
+      "id": "e480d1f3b7dcf4ba",
       "type": "text",
-      "text": "Intrinsic (arising spontaneously) networks:\n- Activity is correlated at rest \n- Identified with resting-state fMRI - in **(P & F)**\n\n*Canonical* Intrinsic Networks: observed very commonly at rest ",
+      "text": "Bowers et al",
       "styleAttributes": {},
-      "x": 760,
-      "y": 1602,
+      "x": 3100,
+      "y": 1930,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "e8f42e3eb8d62261",
+      "type": "text",
+      "text": "LOC = IDing obj. ",
+      "styleAttributes": {},
+      "x": 2730,
+      "y": 990,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "e508211250760542",
+      "type": "text",
+      "text": "Early visual areas ie V1: no suppression, same HDR = treat diff sizes as diff obj. \n\nAnterior LOC: HDR suppression = treat diff sizes as same obj",
+      "styleAttributes": {},
+      "x": 3530,
+      "y": 1480,
+      "width": 300,
+      "height": 146
+    },
+    {
+      "id": "3749b1bef816fd0a",
+      "type": "text",
+      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
+      "styleAttributes": {},
+      "x": 3080,
+      "y": 1480,
+      "width": 380,
+      "height": 289
+    },
+    {
+      "id": "fe040844129829f7",
+      "type": "text",
+      "text": "Size invariance: recognize obj. when diff size (perspective)",
+      "styleAttributes": {},
+      "x": 2730,
+      "y": 1480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "773a44c709838458",
+      "type": "text",
+      "text": "Viewpoint invariance: recognize obj. from diff POV",
+      "styleAttributes": {},
+      "x": 2730,
+      "y": 1595,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a038cfb4758cf553",
+      "type": "text",
+      "text": "Apperceptive agnosia: \n- Can't recognize bear standing in front of you \n- Can't name obj. ",
+      "styleAttributes": {},
+      "x": 3420,
+      "y": 838,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "3c0201ca53ece704",
+      "type": "text",
+      "text": "Milner & Goodale: Pt. DF\n- Vis. form agnosia: ventral stream disrupted\n- M&G argue that both streams have same info but diff. prcs. - parallel processing ",
+      "styleAttributes": {},
+      "x": 3040,
+      "y": 876,
+      "width": 260,
+      "height": 204
+    },
+    {
+      "id": "52a4d959c7fc2ef7",
+      "type": "text",
+      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "styleAttributes": {},
+      "x": 3420,
+      "y": 1042,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "01023f319a1a824d",
+      "type": "text",
+      "text": "2 kinds of \"**mechanistic insigh**t\": \n- What is captured by mechanism (cell, population, network)\n- Ability of each method to record role (purely observational, manipulate process/task, manipulate brain)",
+      "styleAttributes": {},
+      "x": 290,
+      "y": -92,
       "width": 320,
-      "height": 222
+      "height": 180
+    },
+    {
+      "id": "ef6ccd14871cc654",
+      "type": "text",
+      "text": "Lesion studies:\n- Causal \n- behaviors & cogn. processes",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -320,
+      "width": 260,
+      "height": 125
+    },
+    {
+      "id": "75f367c0d68d68e3",
+      "type": "text",
+      "text": "Neuromodulation - TMS & TES: \n- Causal \n- Inhibiting/exciting neurons \n- behaviors & cogn. processes",
+      "styleAttributes": {},
+      "x": -40,
+      "y": -79,
+      "width": 260,
+      "height": 154
     },
     {
       "id": "8d54b99ec61f095e",
@@ -473,24 +433,54 @@
       "height": 182
     },
     {
-      "id": "3ce924f2d1f1d928",
+      "id": "5626bf81ea0feefe",
       "type": "text",
-      "text": "- [[Class3_365_2025.pdf]]\n- [[Class4_365_2025_notes.pdf]]\n- [[Class5_365_2025_notes.pdf]]\n- [[Class6_365_2025_2_notes.pdf]]\n- [[Class7_365_2025_notes.pdf]]\n- [[Class8_365_2025_review_revised.pdf]]",
+      "text": "Encoding: \n- Goal = brain mapping, disc. regions responsible for basic prcs\n- ID regions active during exp. conds.\n- Look at avg actv for each individ vowel across trials in each cond and measure diff\n\nBut depends on pattern of high/low activation instead of in individ? → representational approach",
       "styleAttributes": {},
-      "x": -700,
-      "y": -280,
-      "width": 460,
+      "x": 1280,
+      "y": 1130,
+      "width": 520,
+      "height": 224
+    },
+    {
+      "id": "f231a61ba0782e9e",
+      "type": "text",
+      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": 1660,
+      "width": 260,
       "height": 200
     },
     {
-      "id": "88fb75496a6985d7",
+      "id": "d4e8864a22df9e35",
       "type": "text",
-      "text": "Kinds of brain scans: \n- EEG (pop/network)\n- MEG (pop/network)\n- ECoG/Stero EEG (cell/pop)\n- PET (molecular)\n- MRI/DTI\n- fMRI",
+      "text": "Computer vision: CNNs",
       "styleAttributes": {},
-      "x": -120,
-      "y": 140,
+      "x": 2380,
+      "y": 1960,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fc8356fdb4b4318c",
+      "type": "text",
+      "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
+      "styleAttributes": {},
+      "x": 60,
+      "y": 928,
       "width": 260,
       "height": 200
+    },
+    {
+      "id": "807b4f1bb6c92d3d",
+      "type": "text",
+      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": 1480,
+      "width": 260,
+      "height": 154
     }
   ],
   "edges": [
