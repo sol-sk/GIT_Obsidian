@@ -42,36 +42,6 @@
       "height": 289
     },
     {
-      "id": "e8f42e3eb8d62261",
-      "type": "text",
-      "text": "LOC = IDing obj. ",
-      "styleAttributes": {},
-      "x": 649,
-      "y": 2090,
-      "width": 160,
-      "height": 60
-    },
-    {
-      "id": "8053bc20107f8402",
-      "type": "text",
-      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
-      "styleAttributes": {},
-      "x": 299,
-      "y": 2150,
-      "width": 260,
-      "height": 296
-    },
-    {
-      "id": "3ffcd312a5f87e67",
-      "type": "text",
-      "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
-      "styleAttributes": {},
-      "x": 649,
-      "y": 2202,
-      "width": 410,
-      "height": 347
-    },
-    {
       "id": "fe040844129829f7",
       "type": "text",
       "text": "Size invariance: recognize obj. when diff size (perspective)",
@@ -150,16 +120,6 @@
       "y": 2766,
       "width": 300,
       "height": 103
-    },
-    {
-      "id": "52a4d959c7fc2ef7",
-      "type": "text",
-      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
-      "styleAttributes": {},
-      "x": 1339,
-      "y": 2142,
-      "width": 260,
-      "height": 120
     },
     {
       "id": "91974b28b540693c",
@@ -471,6 +431,56 @@
       "y": 1976,
       "width": 260,
       "height": 204
+    },
+    {
+      "id": "e8f42e3eb8d62261",
+      "type": "text",
+      "text": "LOC = IDing obj. ",
+      "styleAttributes": {},
+      "x": 649,
+      "y": 2090,
+      "width": 160,
+      "height": 60
+    },
+    {
+      "id": "3ffcd312a5f87e67",
+      "type": "text",
+      "text": "Grill-Spector fMRI study: \n- BOLD response to diff. degrees of scrambled images\n\nResults: \n- V1 prefers scrambles\n- V4v prefers partial (simple/localized features)\n- LOC prefers whole obj. \n\nTakeaway: consistent w/ feedforward model, regions from \"bottom\" (beginning of stream/V1) to \"top\" respond to more fragmented → more \"whole\" imgs accordingly ",
+      "styleAttributes": {},
+      "x": 649,
+      "y": 2202,
+      "width": 410,
+      "height": 347
+    },
+    {
+      "id": "52a4d959c7fc2ef7",
+      "type": "text",
+      "text": "Associative agnosia\n- Can't recognize chair from diff angles\n- Can't see forest for trees",
+      "styleAttributes": {},
+      "x": 1339,
+      "y": 2142,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "8053bc20107f8402",
+      "type": "text",
+      "text": "Feedforward bottom-up feature-based sweep: \n- V1 → IT\n- Bottom-up - simple → complex\n- Feature-based - individ. elements combine to create complete rep.\n\nAt IT: match obj. to \"mental template\"",
+      "styleAttributes": {},
+      "x": 299,
+      "y": 2150,
+      "width": 260,
+      "height": 296
+    },
+    {
+      "id": "30eb0ad1bc10d0d1",
+      "type": "text",
+      "text": "- Structural connectivity: DTI\n- Functional connectivity: correlated activity as observed on an fMRI \n\t- Intrinsic networks - default mode network (DMN)",
+      "styleAttributes": {},
+      "x": 760,
+      "y": 1480,
+      "width": 320,
+      "height": 140
     }
   ],
   "edges": [
@@ -673,6 +683,14 @@
       "fromSide": "right",
       "toNode": "70c1126eda36aa33",
       "toSide": "left"
+    },
+    {
+      "id": "c60073bef77a9d2b",
+      "styleAttributes": {},
+      "fromNode": "8d54b99ec61f095e",
+      "fromSide": "left",
+      "toNode": "30eb0ad1bc10d0d1",
+      "toSide": "right"
     }
   ],
   "metadata": {}
