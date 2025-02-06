@@ -7,7 +7,7 @@
       "x": -161,
       "y": -340,
       "width": 1980,
-      "height": 1936,
+      "height": 2000,
       "label": "Studying the Brain"
     },
     {
@@ -274,12 +274,12 @@
     {
       "id": "8d54b99ec61f095e",
       "type": "text",
-      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?",
+      "text": "Decoding: \n- Multivoxel decoding approach - MVPA/RSA\n- Goal: \"mind reading\"\n- MVPA: How do patterns of activation represent mental cat./states? \n- RSA: How similar are brain rep. to each other?/What does brain group together?",
       "styleAttributes": {},
       "x": 1280,
       "y": 1420,
       "width": 520,
-      "height": 156
+      "height": 182
     },
     {
       "id": "ad8a03fca1847400",
