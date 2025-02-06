@@ -1731,6 +1731,26 @@
       "y": 9640,
       "width": 260,
       "height": 80
+    },
+    {
+      "id": "d9929534a866972f",
+      "type": "text",
+      "text": "> Rather, the nearness of such objects is a sign of an orientation I have already taken toward the world as an orientation that shapes what we call, inadequately, ‘‘character.\n\n[[queer-phenomenology_ahmed.pdf#page=58&annotation=4591R|queer-phenomenology_ahmed, page 58]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 9450,
+      "width": 480,
+      "height": 120
+    },
+    {
+      "id": "0ca2b5a190641242",
+      "type": "text",
+      "text": "##### Prox",
+      "styleAttributes": {},
+      "x": -160,
+      "y": 9660,
+      "width": 260,
+      "height": 40
     }
   ],
   "edges": [
@@ -2033,6 +2053,14 @@
       "fromNode": "1d031e0ac6c6ee80",
       "fromSide": "bottom",
       "toNode": "a3e751aafe8d18a0",
+      "toSide": "top"
+    },
+    {
+      "id": "85df8c7b4c59110f",
+      "styleAttributes": {},
+      "fromNode": "d9929534a866972f",
+      "fromSide": "bottom",
+      "toNode": "0ca2b5a190641242",
       "toSide": "top"
     }
   ],
