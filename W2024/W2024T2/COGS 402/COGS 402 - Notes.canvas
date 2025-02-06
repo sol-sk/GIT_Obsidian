@@ -1672,7 +1672,7 @@
       "x": 1600,
       "y": 4256,
       "width": 260,
-      "height": 61,
+      "height": 184,
       "color": "3"
     },
     {
@@ -1780,6 +1780,16 @@
       "y": 6069,
       "width": 520,
       "height": 600
+    },
+    {
+      "id": "0ba7cfcda48ffc17",
+      "type": "text",
+      "text": "> Virtual reality (V.R.), cyberspace, and all aspects of digital machines are still said to promise \"a freedom that is liririted only by our imaginations . . . mastery of a realm of creation (or destruction . . . ), a realm of the mind seemingly abstract, cool, clean, and bloodless, idealistic, pure, perhaps part of the spirit, that can leave behind the messy, troublesome body and the · ruined material world.'' Cyberspace emerged as a disembodied zone wilder than the wildest West,. racier than the space race, sexier than sex, even better than walking on the moon. This was the final of final frontiers, the purest of virgin islands, the newest of new territories, a reality designed to human specifications, an artificial zone ripe for an infinite process of colonization, able to. satisfy every last desire, especially that to escape from \"the meat.''\n\n[[zeros-and-ones_plant.pdf#page=185&annotation=16134R|zeros-and-ones_plant, page 185]]",
+      "styleAttributes": {},
+      "x": 1700,
+      "y": 6069,
+      "width": 520,
+      "height": 360
     }
   ],
   "edges": [
