@@ -32,1255 +32,6 @@
       "label": "Lynne Cooke Lecture"
     },
     {
-      "id": "a032223d5f741c7c",
-      "type": "text",
-      "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -223,
-      "width": 260,
-      "height": 120
-    },
-    {
-      "id": "8882d8deec8decd1",
-      "type": "text",
-      "text": "Modernist * abstraction (not modern)\n\n- Classic abstraction = geometric",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": 40,
-      "width": 360,
-      "height": 71
-    },
-    {
-      "id": "b2a93daa2629c7fe",
-      "type": "text",
-      "text": "\"The argument is made in the gallery\" (re: what do you enjoy about curating now)",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -60,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "f363970240d540b1",
-      "type": "text",
-      "text": "#### Q&A",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -140,
-      "width": 140,
-      "height": 60
-    },
-    {
-      "id": "4cdb0165cdfc0faa",
-      "type": "text",
-      "text": "Ulrike Mueller, *Hinges*, 2023",
-      "styleAttributes": {},
-      "x": 3340,
-      "y": -280,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "79727ec1ac844e4d",
-      "type": "text",
-      "text": "#### A:\n6. **How to Avoid Overfitting**\nTo prevent overfitting, you can take several steps:\n\n a) **Regularization Techniques**:\n- **Dropout**: Randomly remove units from the network during training.\n- **Weight Decay (L2 Regularization)**: Add a small penalty to the weights\nduring training to encourage smaller weight values.\n- **L1 Regularization**: Apply an absolute penalty on the weights.\n\nb) **Data Augmentation**:\nIf you have limited data, augment the dataset by adding variations of the\nexisting data (e.g., rotating or flipping images).\n\n c) **Early Stopping**:\nStop training the model when validation performance stops improving.\n\nd) **Model Ensembling**:\nCombine predictions from multiple models to improve generalization.",
-      "styleAttributes": {},
-      "x": -230,
-      "y": -223,
-      "width": 460,
-      "height": 531
-    },
-    {
-      "id": "ff6bf902f2ede736",
-      "type": "text",
-      "text": "",
-      "styleAttributes": {},
-      "x": -160,
-      "y": -120,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "aa32e53fce1a5b17",
-      "type": "text",
-      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": -660,
-      "width": 360,
-      "height": 98
-    },
-    {
-      "id": "6c34d4e7dd3802fc",
-      "type": "text",
-      "text": "*Collaboration* in reference to working with AI (from; https://www.metacreation.net/team)",
-      "styleAttributes": {},
-      "x": 1470,
-      "y": 208,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "a10669e0590858ad",
-      "type": "text",
-      "text": "Eva Hesse, Hicks ",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": -540,
-      "width": 360,
-      "height": 60
-    },
-    {
-      "id": "8f764975653709f6",
-      "type": "text",
-      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -660,
-      "width": 360,
-      "height": 98
-    },
-    {
-      "id": "d153ffeede7dce36",
-      "type": "text",
-      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
-      "styleAttributes": {},
-      "x": 3040,
-      "y": -747,
-      "width": 320,
-      "height": 55
-    },
-    {
-      "id": "b98c1c89cf4a9901",
-      "type": "text",
-      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
-      "styleAttributes": {},
-      "x": 3340,
-      "y": -660,
-      "width": 360,
-      "height": 150
-    },
-    {
-      "id": "9db747c6424d2f38",
-      "type": "text",
-      "text": "**Grid**\n- Schulz: Weaving based on chip- commission from Intel; trying to attract female workforce, building on Navajo land",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": -360,
-      "width": 360,
-      "height": 124
-    },
-    {
-      "id": "ab33215e79f858b7",
-      "type": "text",
-      "text": "Not discussed in lecture, but other section on labor issues",
-      "styleAttributes": {},
-      "x": 3340,
-      "y": -360,
-      "width": 360,
-      "height": 62
-    },
-    {
-      "id": "47bc03b7e5c105d8",
-      "type": "text",
-      "text": "Agnes Martin, Lenore Tawney\n- Knew, influenced each other",
-      "styleAttributes": {},
-      "x": 2940,
-      "y": -460,
-      "width": 360,
-      "height": 80
-    },
-    {
-      "id": "b2499212548e787b",
-      "type": "text",
-      "text": "Semiotics of dress & construction of identity \n\n→ Post 60s/70s gay liberation, black power: Subcultural identificaiton",
-      "styleAttributes": {},
-      "x": 3340,
-      "y": -482,
-      "width": 360,
-      "height": 100
-    },
-    {
-      "id": "c36e2066e86467c2",
-      "type": "text",
-      "text": "Gego *Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected\n- Rejected label \"sculpture\"",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -540,
-      "width": 360,
-      "height": 140
-    },
-    {
-      "id": "163072760ed43533",
-      "type": "text",
-      "text": "Trockel, *Untitled*, 1993, 1986, 1986\n- Questioning preeminence of painting (masculine, dominant)\n- Abstraction in craft\n- Knitted plaid\n- Moth eaten knit, turned to silkscreen --Fontana ",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": -380,
-      "width": 360,
-      "height": 200
-    },
-    {
-      "id": "3cf3f80a20d8fc8f",
-      "type": "text",
-      "text": "#### Q: **Can you explain overfitting?**",
-      "styleAttributes": {},
-      "x": -230,
-      "y": -363,
-      "width": 260,
-      "height": 80
-    },
-    {
-      "id": "2fc3c495074f501e",
-      "type": "text",
-      "text": "Why not include the Mesoamerican/Indigenous works that were inspiration to Albers?\n- Artist's (specific, identifiable) hand in work\n- Not including historical/reference",
-      "styleAttributes": {},
-      "x": 2540,
-      "y": 40,
-      "width": 360,
-      "height": 120
-    },
-    {
-      "id": "d031d59807f14908",
-      "type": "text",
-      "text": "## Currently Reading",
-      "styleAttributes": {},
-      "x": 760,
-      "y": -483,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "9407c1c9128bfaeb",
-      "type": "text",
-      "text": "## To Read\n",
-      "styleAttributes": {},
-      "x": 1480,
-      "y": -483,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "b961f9fc8a1cf41c",
-      "type": "text",
-      "text": "### Notes from *Woven Histories*, Lynne Cooke",
-      "styleAttributes": {},
-      "x": 2600,
-      "y": -760,
-      "width": 400,
-      "height": 80
-    },
-    {
-      "id": "fa0bd652b02ea547",
-      "type": "text",
-      "text": "## Lacan Reading Group",
-      "styleAttributes": {},
-      "x": -480,
-      "y": -920,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "eead0fd1ab0983c1",
-      "type": "text",
-      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
-      "styleAttributes": {},
-      "x": -480,
-      "y": -820,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "202f0933998f3d8e",
-      "type": "text",
-      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
-      "styleAttributes": {},
-      "x": -480,
-      "y": -700,
-      "width": 380,
-      "height": 100
-    },
-    {
-      "id": "cbfd40ba75b810b1",
-      "type": "text",
-      "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 592,
-      "width": 460,
-      "height": 445
-    },
-    {
-      "id": "5879022193aefcd0",
-      "type": "text",
-      "text": "Hatred → homophily",
-      "styleAttributes": {},
-      "x": 1236,
-      "y": 1724,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "284b359b01e836fc",
-      "type": "text",
-      "text": "Nonhuman",
-      "styleAttributes": {},
-      "x": 1540,
-      "y": 1492,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "fdc4573e7c5c2683",
-      "type": "text",
-      "text": "> Vi Hart\n\n[[Pattern-Discrimination.pdf#page=100&annotation=791R|Pattern-Discrimination, page 100]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 592,
-      "width": 460,
-      "height": 69
-    },
-    {
-      "id": "66a7e46bb0bddf73",
-      "type": "text",
-      "text": "> In contrast to most computational identity systems that incorrectly reify identity categories by implementing them as simple data fields ... he has developed the AIR (Advanced Identity Representation) project to produce “computational models of subjective identity phenomena related to categorization such as specific forms of marginalization that are overlooked in engi- neering” (Harrell 2013, 1).\n\n[[Pattern-Discrimination.pdf#page=101&selection=27,9,50,27|Pattern-Discrimination, page 101]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 701,
-      "width": 460,
-      "height": 253
-    },
-    {
-      "id": "59a7d29ddf5c74a6",
-      "type": "text",
-      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": 1280,
-      "y": 658,
-      "width": 460,
-      "height": 148
-    },
-    {
-      "id": "2799f47c412fb8e0",
-      "type": "text",
-      "text": "> Embedded, then, in the very dynamics of network science is the presumption that there can be no neighbors without common cultural traits. \n\n[[Pattern-Discrimination.pdf#page=94&selection=27,0,29,17|Pattern-Discrimination, page 94]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 1391,
-      "width": 460,
-      "height": 121
-    },
-    {
-      "id": "944984bfda1ddb7b",
-      "type": "text",
-      "text": "> What we understand to be “natural” or “essential” is actually “manufactured through a sustained set of acts, positioned through the gendered stylization of the body . . . what we take to be an ‘internal’ feature of ourselves is one that we anticipate and produce through certain bodily acts, at an extreme, an hallucinatory effect of naturalized gestures” (Butler 1990, xv)\n\n[[Pattern-Discrimination.pdf#page=80&selection=33,31,39,66|Pattern-Discrimination, page 80]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1123,
-      "width": 460,
-      "height": 226
-    },
-    {
-      "id": "c6b8234c2d63e608",
-      "type": "text",
-      "text": "> Crucially, these algorithms perpetuate the discrimination they “find.” They are not simply descriptive but also prescriptive and per- formative in all senses of that word. Capture systems, as Phil Agre theorized in 1994, reshape the activities they model or “discover.” Through a metaphor of human activity as language, they impose a normative “grammar of action” as they move from analyzing captured data to building an epistemological model of the captured activity (364)\n\n[[Pattern-Discrimination.pdf#page=80&selection=2,0,11,14|Pattern-Discrimination, page 80]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 806,
-      "width": 460,
-      "height": 277
-    },
-    {
-      "id": "31743dd0955acab6",
-      "type": "text",
-      "text": ">  Homophily reveals and creates boundaries within theoretically flat and diffuse networks; it distinguishes and discriminates between allegedly equal nodes: it is a tool for discovering bias and inequality and for perpetuating it in the name of “comfort,” predictability, and common sense. \n\n[[Pattern-Discrimination.pdf#page=76&selection=7,37,13,57|Pattern-Discrimination, page 76]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 592,
-      "width": 460,
-      "height": 174
-    },
-    {
-      "id": "a997bb75198d1b9f",
-      "type": "text",
-      "text": "> According to the acclaimed network scientist and author Albert-László Barabási, network science obviates the need for human psychology: “In the past, if you wanted to understand what humans do and why they do it, you became a card-carrying psychologist. Today you may want to obtain a degree in computer science . . . .” This is because network science, combined with “increasingly penetrating digital technol- ogies,” places us in “an immense research laboratory that, in size, complexity, and detail, surpasses everything that science has en- countered before.” This lab reveals “the rhythms of life as evidence of a deeper order in human behavior, one that can be explored, predicted, and no doubt exploited” (Barabási 2010, 11). Network science unravels a vast collective nonconscious, encased within the fishbowl of digital media.3 It is the bastard child of psychoanalysis: there are no accidents, no innocent slips of the tongue. Each action is part of a larger pattern/symptom. The goal: to answer that unan- swerable question, what do (wo)men want?\n\n[[Pattern-Discrimination.pdf#page=83&annotation=691R|Pattern-Discrimination, page 83]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 1389,
-      "width": 460,
-      "height": 508
-    },
-    {
-      "id": "ff413d5f39131acd",
-      "type": "text",
-      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
-      "styleAttributes": {},
-      "x": 2410,
-      "y": 3883,
-      "width": 382,
-      "height": 100,
-      "color": "#fe9f9f"
-    },
-    {
-      "id": "b647d04fb584a578",
-      "type": "text",
-      "text": "> Instead stress is given to the reading of “clues” (symptoms) in the work to re- veal structured absences, contradictions, misunderstandings, the work’s “epistemological other,” or what is “not said” in it. An example of the symptomatic mode is given elegantly in the epigraph to Donna Haraway’s book How Like a Leaf. “Both chimpanzees and artifacts have politics, so why shouldn’t we?”\n> ...\n> To to dare to assert the claim as something worth arguing about is to insinuate that the whole framework of knowledge must be, at some basic level, obsolete\n\n[[excommunication_galloway_thacker_wark.pdf#page=46&selection=13,51,23,62|excommunication_galloway_thacker_wark, page 46]]",
-      "styleAttributes": {},
-      "x": 814,
-      "y": 4877,
-      "width": 422,
-      "height": 319,
-      "color": "2"
-    },
-    {
-      "id": "9364d37419d88214",
-      "type": "text",
-      "text": "> In hermeneutic mediation there is never simply a direct relationship to truth, there is always a confron- tation with truth.\n\n[[excommunication_galloway_thacker_wark.pdf#page=43&selection=36,22,42,11|excommunication_galloway_thacker_wark, page 43]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4560,
-      "width": 422,
-      "height": 121,
-      "color": "2"
-    },
-    {
-      "id": "e4b13f7339a1fe06",
-      "type": "text",
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]\n*Progress*: 1-32, 90-121",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 5860,
-      "width": 300,
-      "height": 98
-    },
-    {
-      "id": "684a0f41a0e51d20",
-      "type": "text",
-      "text": "> \u0017e hermeneutic interpreter of texts must coax meaning out of sometimes obfuscatory and contradictory signs existing in the material, whether it be biblical scripture, or the semiotic per- formances of human affect. \u0017e confrontation with truth is led by and released through various economies of meaning, be they social, political, or commercial. Always about the real, the her- meneutic tradition is also in some basic sense against the real.\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=4,0,18,9|excommunication_galloway_thacker_wark, page 44]]",
-      "styleAttributes": {},
-      "x": 814,
-      "y": 4560,
-      "width": 422,
-      "height": 277,
-      "color": "2"
-    },
-    {
-      "id": "eba3f701e8d74803",
-      "type": "text",
-      "text": ">  But, as Wark suggests, what if heresy were necessary to communication theory? And what if communication served as a central concept for thinking about the Judeo-Christian inher- itance in the West?\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=33,4,36,19|excommunication_galloway_thacker_wark, page 26]]",
-      "styleAttributes": {},
-      "x": 1074,
-      "y": 3959,
-      "width": 324,
-      "height": 226,
-      "color": "6"
-    },
-    {
-      "id": "a927cb8145bb5d73",
-      "type": "text",
-      "text": "#### Iris",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 2472,
-      "y": 2960,
-      "width": 329,
-      "height": 60,
-      "color": "3"
-    },
-    {
-      "id": "6761936b46499ceb",
-      "type": "text",
-      "text": "#### Hermes",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 1666,
-      "y": 2960,
-      "width": 329,
-      "height": 60,
-      "color": "2"
-    },
-    {
-      "id": "f95584e975d09f08",
-      "type": "text",
-      "text": "### *Against Interpretation*, Sontag\n[[against-interpretation_sontag.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 2130,
-      "width": 300,
-      "height": 120
-    },
-    {
-      "id": "8c6b66597ae1ff0e",
-      "type": "text",
-      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[against-interpretation_sontag.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 2190,
-      "width": 460,
-      "height": 174
-    },
-    {
-      "id": "f3fbea69a2817bee",
-      "type": "text",
-      "text": "**Xenocommunication**",
-      "styleAttributes": {},
-      "x": 1340,
-      "y": 2900,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "eb6f5d8ebf618270",
-      "type": "text",
-      "text": "> hat we decidedly do not need now is further to assimilate Art into Thought, or (worse yet) Art into Culture. Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. T\n\n[[against-interpretation_sontag.pdf#page=5&selection=95,9,98,35|Sontag-Against+Interpretation, page 5]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 2299,
-      "width": 460,
-      "height": 147
-    },
-    {
-      "id": "58cde369539b5bbf",
-      "type": "text",
-      "text": "> **In place of a hermeneutics we need an erotics of art.**\n\n**[[against-interpretation_sontag.pdf#page=5&selection=142,0,142,53|Sontag-Against+Interpretation, page 5]]**",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 2486,
-      "width": 460,
-      "height": 69
-    },
-    {
-      "id": "45e5c5cacff1fac9",
-      "type": "text",
-      "text": "> What is needed, first, is more attention to form in art. \n\n[[against-interpretation_sontag.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 2190,
-      "width": 460,
-      "height": 69
-    },
-    {
-      "id": "3342f59833473be5",
-      "type": "text",
-      "text": ">  for \u0017acker between the haunted and the weird, the artifact and the thing;\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 675,
-      "y": 3453,
-      "width": 324,
-      "height": 121,
-      "color": "4"
-    },
-    {
-      "id": "9352526e5d94206b",
-      "type": "text",
-      "text": "> Wark’s chapter deals with both extremes, dealing at once with orgies and swarming poetics, the sacred and the heretical, in order to arrive at something akin to a pantheist universe of passions.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 1074,
-      "y": 3187,
-      "width": 324,
-      "height": 226,
-      "color": "6"
-    },
-    {
-      "id": "f3417c5294e39919",
-      "type": "text",
-      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[against-interpretation_sontag.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 2507,
-      "width": 460,
-      "height": 319
-    },
-    {
-      "id": "5cf6bcf1ed341fa1",
-      "type": "text",
-      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 532,
-      "width": 300,
-      "height": 120
-    },
-    {
-      "id": "8f7840c645169e37",
-      "type": "text",
-      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 2920,
-      "width": 300,
-      "height": 140
-    },
-    {
-      "id": "436dde4238945f99",
-      "type": "text",
-      "text": "> Evoking the surging poetics of the swarm, Wark proposes a political heresy, one that will deviate from both traditional media theory and the traditional le\u001d: a post-hermeneutic marx- ism, or “marxism of the swarm.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=16,0,19,31|excommunication_galloway_thacker_wark, page 26]]",
-      "styleAttributes": {},
-      "x": 1074,
-      "y": 3667,
-      "width": 324,
-      "height": 252,
-      "color": "6"
-    },
-    {
-      "id": "24c133d506dd92f5",
-      "type": "text",
-      "text": ">  for Wark the disintegra- tion and reorganization of these many ingredients into a new arrangement of freedom.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 1074,
-      "y": 3453,
-      "width": 324,
-      "height": 174,
-      "color": "6"
-    },
-    {
-      "id": "5bec7d156f370bca",
-      "type": "text",
-      "text": "Network science is response to globalization ",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": 320,
-      "y": 1609,
-      "width": 260,
-      "height": 71
-    },
-    {
-      "id": "aad6faac7d8ef438",
-      "type": "text",
-      "text": "> As Sara Ahmed has argued in The Cultural Politics of Emotion, “love of the same” is never innocent: white supremacist love, for instance, is based on a hatred of others (Ahmed 2004). The movement away from others, which grounds models of homophily, reveals the extent to which hatred precedes homophily. The hatred that networks foster, then, should surprise no one. Hatred, Ahmed stresses, organizes bodies. It is an emo- tional “investment” that makes certain bodies responsible for pain or injury. It organizes by bringing things and bodies together— by linking certain figures together so they become a common threat, an X to “our” O. Hate transforms the particular into the general: it transforms individuals into types so they become a common threat (I hate you because you are Y)\n\n[[Pattern-Discrimination.pdf#page=99&selection=29,23,51,30|Pattern-Discrimination, page 99]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 1552,
-      "width": 460,
-      "height": 403
-    },
-    {
-      "id": "e9f48e19b877319a",
-      "type": "text",
-      "text": "**Hermeneutics as \"probing content\" to unearth some deeper, truer meaning**",
-      "styleAttributes": {},
-      "x": 300,
-      "y": 2427,
-      "width": 260,
-      "height": 80
-    },
-    {
-      "id": "4cd2a40daed5d0c9",
-      "type": "text",
-      "text": "Can you even do hermeneutic interpretation of generated images if there is no latent 'meaning'?",
-      "styleAttributes": {},
-      "x": 300,
-      "y": 2260,
-      "width": 260,
-      "height": 102
-    },
-    {
-      "id": "b6a73117981e19c3",
-      "type": "text",
-      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[against-interpretation_sontag.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 2190,
-      "width": 460,
-      "height": 277
-    },
-    {
-      "id": "2b5cc30c1651fbd1",
-      "type": "text",
-      "text": "**Capitalist logic**",
-      "styleAttributes": {},
-      "x": 1236,
-      "y": 1422,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "8a47c5d2acf02b60",
-      "type": "text",
-      "text": "**Homophilia = basis of network science**\n",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": 260,
-      "y": 632,
-      "width": 380,
-      "height": 60
-    },
-    {
-      "id": "1aaed3ebecdfbd25",
-      "type": "text",
-      "text": "**Barabasi Lab**",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "x": 320,
-      "y": 1380,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "bf39742137320414",
-      "type": "text",
-      "text": "> Thacker’s chapter reverses the terms, starting not from the human but from the nonhuman, from the perspec- tive of what Lovecra\u001d called “cosmic outsideness.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 675,
-      "y": 2973,
-      "width": 324,
-      "height": 200,
-      "color": "4"
-    },
-    {
-      "id": "99c5b4f010e94d4e",
-      "type": "text",
-      "text": "> Wark con- tinues into the great outside, exploring how alien or inhuman mediation fuses back with the human.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 1074,
-      "y": 2973,
-      "width": 324,
-      "height": 174,
-      "color": "6"
-    },
-    {
-      "id": "c886294f45fe919e",
-      "type": "text",
-      "text": "> **In this way, media force us to think less about things like send- ers and receivers, and more about questions of channels and protocols. Less about encoding and decoding, and more about context and environment.**\n\n**[[excommunication_galloway_thacker_wark.pdf#page=9&selection=29,0,32,24|excommunication_galloway_thacker_wark, page 9]]**",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 3160,
-      "width": 460,
-      "height": 148
-    },
-    {
-      "id": "b5aaf1f67a50c076",
-      "type": "text",
-      "text": "> Galloway’s chapter is to tackle theories of mediation from the perspective of human experience, \u0017  \u0017 \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 2973,
-      "width": 324,
-      "height": 148,
-      "color": "5"
-    },
-    {
-      "id": "5bb35f095e866bbe",
-      "type": "text",
-      "text": "> Media are transformative. \u0017ey affect conditions of possibility in general. Mediation does not merely add some- thing to the existing list of topics that scholars study. It changes the practice of study itself\n\n[[excommunication_galloway_thacker_wark.pdf#page=8&selection=16,15,19,28|excommunication_galloway_thacker_wark, page 8]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 2973,
-      "width": 460,
-      "height": 147
-    },
-    {
-      "id": "a7ea64ed037e349e",
-      "type": "text",
-      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[against-interpretation_sontag.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 2404,
-      "width": 460,
-      "height": 277
-    },
-    {
-      "id": "c298cca9a92d8d48",
-      "type": "text",
-      "text": "> As the turn to game theory reveals, a market-based logic perme- ates network science models \n\n[[Pattern-Discrimination.pdf#page=86&selection=15,0,17,28|Pattern-Discrimination, page 86]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 1256,
-      "width": 460,
-      "height": 95
-    },
-    {
-      "id": "55cd88ca74d7f051",
-      "type": "text",
-      "text": ">  network science models not the real world but rather the initial representation and truth is what reproduces this abstraction.\n\n[[Pattern-Discrimination.pdf#page=84&selection=51,6,52,69|Pattern-Discrimination, page 84]]",
-      "styleAttributes": {},
-      "x": 710,
-      "y": 1095,
-      "width": 460,
-      "height": 121
-    },
-    {
-      "id": "fe122354eed81aa9",
-      "type": "text",
-      "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4721,
-      "width": 422,
-      "height": 166,
-      "color": "2"
-    },
-    {
-      "id": "a3a6f262b905e40c",
-      "type": "text",
-      "text": "> Jean Baudrillard notes that all communication involves a form of going outside oneself,\n\n[[excommunication_galloway_thacker_wark.pdf#page=21&selection=32,0,33,25|excommunication_galloway_thacker_wark, page 21]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 4305,
-      "width": 460,
-      "height": 95
-    },
-    {
-      "id": "30c847463222ca9b",
-      "type": "text",
-      "text": "### \"Love of the Middle\", Galloway",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4420,
-      "width": 324,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "a8a737f44640f0f2",
-      "type": "text",
-      "text": "> So perhaps even the great advocate for the pleasures of the text enjoyed another kind of pleasure, the pleasure of the database, which is not so much a text as a media machine for making texts. \n\n[[excommunication_galloway_thacker_wark.pdf#page=10&selection=47,28,50,32|excommunication_galloway_thacker_wark, page 10]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 3348,
-      "width": 460,
-      "height": 147
-    },
-    {
-      "id": "e6582685a75089d4",
-      "type": "text",
-      "text": "> Galloway’s chapter dis- cusses the mediations of this world, as either hermeneutics, the illumination of iridescence, or the complexities of the swarm; \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 3193,
-      "width": 324,
-      "height": 200,
-      "color": "5"
-    },
-    {
-      "id": "ab82c84d8e980043",
-      "type": "text",
-      "text": "### Thacker",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 3288,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "9bf8f3ed9594d086",
-      "type": "text",
-      "text": "> ere are mediative situations in which heresy, exile, or ban- ishment carry the day, not repetition, communion, or integra- tion. \u0017ere are certain kinds of messages that state there will be no more messages. Why? \u0017e reasons may vary, from the para- doxical lyricism of the ineffable (“it can’t be put into words”), to the refusal to engage (“I prefer not to”), to the contentiousness of apathy (“some things aren’t worth saying”), to the enigma of silence (and its impossibility). Hence for every communication there is a correlative *excom- munication.* \n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=32,1,47,2|excommunication_galloway_thacker_wark, page 17]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 3967,
-      "width": 460,
-      "height": 298
-    },
-    {
-      "id": "8f7a7a8df80dbf35",
-      "type": "text",
-      "text": "> We tar- get the Achilles heel of media theory, the one aspect of media- tion that is so hard to accept, the insufficiency of mediation.\n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=3,53,8,1|excommunication_galloway_thacker_wark, page 17]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 3806,
-      "width": 460,
-      "height": 121
-    },
-    {
-      "id": "a1bca9f5100f1d05",
-      "type": "text",
-      "text": "> , \u0017acker suggests that communication o\u001den shi\u001ds from an epistemological register (a connection between two points in a single, shared reality) to an ontological regis- ter (a disconnection between the natural and the supernatural, or the earthly and the divine). Media are thus “haunted” when they affirmatively span different ontological orders. Media are “weird” when they negatively mediate between two ontological orders.\n\n[[excommunication_galloway_thacker_wark.pdf#page=25&selection=30,15,45,7|excommunication_galloway_thacker_wark, page 25]]",
-      "styleAttributes": {},
-      "x": 675,
-      "y": 3614,
-      "width": 324,
-      "height": 361,
-      "color": "4"
-    },
-    {
-      "id": "9a77dcf1b16ddd3a",
-      "type": "text",
-      "text": "> For Galloway it is a question of distinguishing between text, image, and system;\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 3453,
-      "width": 324,
-      "height": 148,
-      "color": "5"
-    },
-    {
-      "id": "071df9683f899a86",
-      "type": "text",
-      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
-      "styleAttributes": {},
-      "x": 1600,
-      "y": 4560,
-      "width": 260,
-      "height": 61,
-      "color": "3"
-    },
-    {
-      "id": "3b06e1789f80a039",
-      "type": "text",
-      "text": "> acker’s chapter, by contrast, discusses mediations not of this world, when mediation arises between two different ontological orders; \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "styleAttributes": {},
-      "x": 675,
-      "y": 3213,
-      "width": 324,
-      "height": 200,
-      "color": "4"
-    },
-    {
-      "id": "e960a14f02fe97e9",
-      "type": "text",
-      "text": "> e third moment of the critical narrative is the moment of the symptom. If the previous phase can be associated with structuralism, this phase is associated with post-structuralism in general and deconstruction in particular. \n\n[[excommunication_galloway_thacker_wark.pdf#page=45&selection=48,1,49,60|excommunication_galloway_thacker_wark, page 45]]",
-      "styleAttributes": {},
-      "x": 288,
-      "y": 4927,
-      "width": 422,
-      "height": 174,
-      "color": "2"
-    },
-    {
-      "id": "314d4496ce82205b",
-      "type": "text",
-      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 5243,
-      "width": 300,
-      "height": 177
-    },
-    {
-      "id": "adef39624b16a44f",
-      "type": "text",
-      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 5120,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "6a475035d909e54f",
-      "type": "text",
-      "text": "### Galloway",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 3130,
-      "width": 260,
-      "height": 60,
-      "color": "5"
-    },
-    {
-      "id": "ca55db9810324e6f",
-      "type": "text",
-      "text": "> It has always been said that “‘computing ma- chines can only carry out the purposes that they are instructed to do. This is certainly true,” writes Turing, “in the sense thatif they do something other than what they were instructed then they have just made some mistake.” But one man’s mistake might well be a most intelligent move for a machine. And how would their masters tell the difference between failures to carry out instructions and refusals to be bound by them? Perfection never guarantees success. On the contrary, **“the more it schizophrenizes, the better it works.” And for wayward systems like the rebel replicants, identity is easy to simulate and merely one of many programs to be run.**\n\n[[zeros-and-ones_plant.pdf#page=100&annotation=15762R|zeros-and-ones_plant, page 100]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 5909,
-      "width": 520,
-      "height": 320
-    },
-    {
-      "id": "756524577343fe4c",
-      "type": "text",
-      "text": "> More precisely, Nightshade transforms images into \"poison\" samples, so that models training on them without consent will see their models learn ==_unpredictable behaviors that deviate from expected norms_==,",
-      "styleAttributes": {},
-      "x": 3310,
-      "y": 740,
-      "width": 440,
-      "height": 129
-    },
-    {
-      "id": "36f9ca9b81564b53",
-      "type": "text",
-      "text": "### [[The poison well]]",
-      "styleAttributes": {},
-      "x": 3995,
-      "y": 740,
-      "width": 330,
-      "height": 65
-    },
-    {
-      "id": "f89ecbbc02b54f20",
-      "type": "text",
-      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
-      "styleAttributes": {},
-      "x": 3310,
-      "y": 920,
-      "width": 440,
-      "height": 325
-    },
-    {
-      "id": "660357e9e99f6100",
-      "type": "text",
-      "text": "##### \"Passing\" \n[[zeros-and-ones_plant.pdf#page=215&selection=20,0,21,1|zeros-and-ones_plant, page 215]]",
-      "styleAttributes": {},
-      "x": 280,
-      "y": 5969,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "4cf5ff0ed37eaca4",
-      "type": "text",
-      "text": "> In this way we want to argue that media theory is not a new link in the grand chain of critical theory, literary criticism, cul- tural studies, or visual culture. Rather, it exits the chain entirely, turning ninety degrees away from these disciplines. Moving orthogonally, media theory intersects art theory, screen theory, science studies, the history of technology, and many other fields.\n\n[[excommunication_galloway_thacker_wark.pdf#page=13&selection=16,0,22,6|excommunication_galloway_thacker_wark, page 13]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 3535,
-      "width": 460,
-      "height": 226
-    },
-    {
-      "id": "a24e9648d399dade",
-      "type": "text",
-      "text": "### Wark",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 3465,
-      "width": 260,
-      "height": 60,
-      "color": "6"
-    },
-    {
-      "id": "95a5c00abffa946a",
-      "type": "text",
-      "text": "** Context dependent work that is necessary ",
-      "styleAttributes": {},
-      "x": 3280,
-      "y": 1540,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "c46e7e2feede00e7",
-      "type": "text",
-      "text": "## Glaze",
-      "styleAttributes": {},
-      "x": 4030,
-      "y": 640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "553a38b687f74d2f",
-      "type": "text",
-      "text": "**Queerness = inhabiting norms differently → generative**",
-      "styleAttributes": {},
-      "x": 2320,
-      "y": 1540,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "7a7e33aea271a620",
-      "type": "text",
-      "text": "### [[Nightshade Protecting Copyright]]",
-      "styleAttributes": {},
-      "x": 2900,
-      "y": 740,
-      "width": 330,
-      "height": 65
-    },
-    {
-      "id": "abdfbbb459bb760c",
-      "type": "text",
-      "text": "> Ahmed views queerness as an inability to be comfortable in certain norms: To feel uncomfortable is precisely to be affected by that which persists in the shaping of bodies and lives. Discom- fort is hence not about assimilation or resistance, but about inhabiting norms differently. The inhabitance is gen- erative or productive insofar as it does not end with the failure of norms to be secured, but with the possibilities of living that do not “follow” those norms through. (em- phasis in original, 155).\n\n[[Pattern-Discrimination.pdf#page=103&selection=17,51,32,25|Pattern-Discrimination, page 103]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 1500,
-      "width": 460,
-      "height": 277
-    },
-    {
-      "id": "6f90a41f3dcdae47",
-      "type": "text",
-      "text": "> Harrell’s work most critically engages the creativity embedded within artificial intelligence. Phantasmal Media: An Approach to Imagination, Computation, and Expression (2013), drawn from his work with Define Me and GRIOT, groundbreaking social networking and expressive A.I. projects, asks: can A.I. have the same impact as great literature,\n\n[[Pattern-Discrimination.pdf#page=102&selection=7,0,19,20|Pattern-Discrimination, page 102]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 994,
-      "width": 460,
-      "height": 226
-    },
-    {
-      "id": "8c0ee2af90a46309",
-      "type": "text",
-      "text": "> The various turns toward “less coarse” and “static” concepts such as nonhuman allure (themselves inspired by networks and new media), not to mention the embrace of an instrumentalist technological logic that demeans critical analysis and celebrates digital tinkering, are oddly contradictory and self-defeating.\n\n[[Pattern-Discrimination.pdf#page=103&selection=52,10,59,10|Pattern-Discrimination, page 103]]",
-      "styleAttributes": {},
-      "x": 1840,
-      "y": 1260,
-      "width": 460,
-      "height": 200
-    },
-    {
-      "id": "632697c3784a21e7",
-      "type": "text",
-      "text": "## Nightshade",
-      "styleAttributes": {},
-      "x": 3380,
-      "y": 640,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "ef542035222b3e0c",
-      "type": "text",
-      "text": "### [[nightshade-oakland24.pdf|Nightshade - Lab paper]]",
-      "styleAttributes": {},
-      "x": 2900,
-      "y": 1320,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "682153899fc68a15",
-      "type": "text",
-      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
-      "styleAttributes": {},
-      "x": 3280,
-      "y": 1420,
-      "width": 260,
-      "height": 80
-    },
-    {
-      "id": "d6cf716481826a6a",
-      "type": "text",
-      "text": "**Art as content; Image generators** ",
-      "styleAttributes": {},
-      "x": 1940,
-      "y": 1980,
-      "width": 300,
-      "height": 60
-    },
-    {
-      "id": "735127b5d6a98a95",
-      "type": "text",
-      "text": "#### The Furies",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 1577,
-      "y": 3752,
-      "width": 329,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "bc5135992efe5d12",
-      "type": "text",
-      "text": "> \u0017e Fury model is useful because it allows us to deal with complex systems like swarms, rhizomes, assemblages, and networks—the various modes of mediation that have achieved a new level of prominence today at the turn of the new mil- lennium.\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=30,11,34,8|excommunication_galloway_thacker_wark, page 24]]",
-      "styleAttributes": {},
-      "x": 1551,
-      "y": 3859,
-      "width": 382,
-      "height": 200,
-      "color": "1"
-    },
-    {
-      "id": "2a1d050854f37e02",
-      "type": "text",
-      "text": "#### Aphrodite",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "x": 2436,
-      "y": 3752,
-      "width": 329,
-      "height": 60,
-      "color": "#fe9f9f"
-    },
-    {
-      "id": "ada27d1e8bbb159b",
-      "type": "text",
-      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
-      "styleAttributes": {},
-      "x": 2383,
-      "y": 3067,
-      "width": 382,
-      "height": 148,
-      "color": "3"
-    },
-    {
-      "id": "12e1f09a263a30bf",
-      "type": "text",
-      "text": "(analytical) Theorists feeding into same ideological conception of artwork that enables GAI?",
-      "styleAttributes": {},
-      "x": 2340,
-      "y": 1927,
-      "width": 260,
-      "height": 100
-    },
-    {
-      "id": "12aae98c11e29008",
-      "type": "text",
-      "text": "> Jacques Derrida famously called Hermes the “signifier god”; indeed as inventor of writing, Hermes is a key figure in any theory of mediation, producing as he does much of what we label the critical tradition\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=11,15,14,39|excommunication_galloway_thacker_wark, page 24]]",
-      "styleAttributes": {},
-      "x": 1560,
-      "y": 3067,
-      "width": 382,
-      "height": 174,
-      "color": "2"
-    },
-    {
-      "id": "29aefb30fb9d47ce",
-      "type": "text",
-      "text": "> Taken together Iris and Hermes encompass the canonical media universe we have already described above: the universe of devices and determi- nacy, a universe in which media are either clear or complicated, either local or remote, either familiar or strange\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=21,43,25,50|excommunication_galloway_thacker_wark, page 24]]",
-      "styleAttributes": {},
-      "x": 2001,
-      "y": 3425,
-      "width": 382,
-      "height": 200
-    },
-    {
-      "id": "190586fe6d277a97",
-      "type": "text",
-      "text": "**Homophily**",
-      "styleAttributes": {},
-      "x": 1236,
-      "y": 1867,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "54a01e8f08f68df8",
-      "type": "text",
-      "text": "Can't download </3 ",
-      "styleAttributes": {},
-      "x": 3310,
-      "y": 1290,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "be3ad29722b001af",
-      "type": "text",
-      "text": "### [[2024 - MAEDASTUDIO]]",
-      "styleAttributes": {},
-      "x": 5480,
-      "y": 640,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "c813baf75e18272d",
       "type": "text",
       "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
@@ -1365,187 +116,6 @@
       "height": 60
     },
     {
-      "id": "4fa73b11e6319d1b",
-      "type": "text",
-      "text": "  \n  \n\n\n\n  \n\n\n\n  \n\n“It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” \n\n  \n\n“A spokesperson for Open A.I. recently described data poison as a “type of abuse.””\n\n  \n\n“I came into it not so much thinking about economics as I was just seeing people that I respected and had affinity for be severely harmed by some of this technology. In whatever way that they can be protected that’s ultimately the goal. In that scenario, the outcome would be licensing so that they can actually maintain a livelihood and maintain the vibrancy of that industry.”\n\n  \n“Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point. It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
-      "styleAttributes": {},
-      "x": 1020,
-      "y": 8191,
-      "width": 480,
-      "height": 598
-    },
-    {
-      "id": "01e10c8f13a95474",
-      "type": "text",
-      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8230,
-      "width": 480,
-      "height": 50
-    },
-    {
-      "id": "4f27b5964ccf6df1",
-      "type": "text",
-      "text": "### \"Queer Phenomenology,\" Ahmed",
-      "styleAttributes": {},
-      "x": -680,
-      "y": 8260,
-      "width": 300,
-      "height": 100
-    },
-    {
-      "id": "8b1f4272fda28073",
-      "type": "link",
-      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
-      "styleAttributes": {},
-      "x": -100,
-      "y": 8310,
-      "width": 400,
-      "height": 140
-    },
-    {
-      "id": "d663d969ca5accf9",
-      "type": "text",
-      "text": "> “Poison is sort of a technical term in the research community. Basically it means manipulating training data in such a way to get A.I. models to do something perhaps unexpected, perhaps more to your goals, than the original trainers intended to.”",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8350,
-      "width": 480,
-      "height": 129
-    },
-    {
-      "id": "2809be8f71c244ef",
-      "type": "text",
-      "text": "##### Is AI even profitable?",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8350,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "082f1b8afb6577e0",
-      "type": "link",
-      "url": "https://finance.yahoo.com/news/sam-altman-says-losing-money-080700756.html",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8465,
-      "width": 400,
-      "height": 221
-    },
-    {
-      "id": "fdf1f4fefff7b0b4",
-      "type": "text",
-      "text": "### Freakonomics interview w Ben Zhao ",
-      "styleAttributes": {},
-      "x": -680,
-      "y": 8480,
-      "width": 300,
-      "height": 80
-    },
-    {
-      "id": "21809d48c0e16b6d",
-      "type": "text",
-      "text": "Wark/furious/hacking",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 8515,
-      "width": 280,
-      "height": 60
-    },
-    {
-      "id": "7969a4f1f7e5ce75",
-      "type": "text",
-      "text": "Nightshade/obfuscations/viruses",
-      "styleAttributes": {},
-      "x": -240,
-      "y": 8510,
-      "width": 280,
-      "height": 70
-    },
-    {
-      "id": "039442a561c5ecb9",
-      "type": "text",
-      "text": "> “Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models).”",
-      "styleAttributes": {},
-      "x": 480,
-      "y": 8575,
-      "width": 480,
-      "height": 129
-    },
-    {
-      "id": "ecc057c8a1ee22f4",
-      "type": "text",
-      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
-      "styleAttributes": {},
-      "x": -450,
-      "y": 8590,
-      "width": 260,
-      "height": 60,
-      "color": "1"
-    },
-    {
-      "id": "5df912368b240d33",
-      "type": "text",
-      "text": "What happens and what can be extracted ",
-      "styleAttributes": {},
-      "x": 100,
-      "y": 8650,
-      "width": 200,
-      "height": 60
-    },
-    {
-      "id": "fb5c594c939676a4",
-      "type": "link",
-      "url": "https://www.wsj.com/articles/its-time-for-ai-to-start-making-money-for-businesses-can-it-b476c754",
-      "styleAttributes": {},
-      "x": 1720,
-      "y": 8704,
-      "width": 400,
-      "height": 221
-    },
-    {
-      "id": "75f3360d5d6c8467",
-      "type": "text",
-      "text": "- [ ] Create work using these\n- [ ] Formal analysis of images\n- [ ] Art historical \n- [ ] Theoretical \n\nBring in other artists? ",
-      "styleAttributes": {},
-      "x": -230,
-      "y": 8680,
-      "width": 260,
-      "height": 158
-    },
-    {
-      "id": "b046fadb6787d94a",
-      "type": "text",
-      "text": "Disrupting normative operation",
-      "styleAttributes": {},
-      "x": 120,
-      "y": 8729,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "f7559d9f55d0912a",
-      "type": "text",
-      "text": "Creating something new out of obfuscation",
-      "styleAttributes": {},
-      "x": 100,
-      "y": 8800,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "571bbff281320042",
-      "type": "text",
-      "text": "[[Unfitting Art and Labour from Conceptualisation to AI The Nordic Journal of Aesthetics]]",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 8820,
-      "width": 260,
-      "height": 100
-    },
-    {
       "id": "537d989b4c772938",
       "type": "text",
       "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
@@ -1571,16 +141,14 @@
       "height": 215
     },
     {
-      "id": "a7a173c45fd66404",
+      "id": "4ab7187773dc4b32",
       "type": "text",
-      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "x": -680,
-      "y": 7884,
-      "width": 300,
-      "height": 120
+      "text": "> Nothing hinders the eﬀortless transition of your thoughts from brain to screen.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=485R|You are not an angel a letter to my students , page 8]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 8175,
+      "width": 520,
+      "height": 94
     },
     {
       "id": "7d2d096fc0e18251",
@@ -1588,69 +156,21 @@
       "text": "> The Iranian poet Kaveh Akbar says that, in the face of the ‘raw over- whelm of meaningless language’, poetry’s task is ‘to slow down our metabolization of language, to become aware of it entering us’ (Akbar 2022, xvi–xvii). I want you to savour words like that, noticing them as something diﬀerent from yourselves.\n\n[[You are not an angel a letter to my students .pdf#page=5&annotation=447R|You are not an angel a letter to my students , page 5]]",
       "styleAttributes": {},
       "x": -280,
-      "y": 7864,
+      "y": 7984,
       "width": 520,
       "height": 173
     },
     {
-      "id": "cd5e9483c30a4f12",
+      "id": "a7a173c45fd66404",
       "type": "text",
-      "text": "### Before Pictures Crimp\nLast chapter",
-      "styleAttributes": {},
-      "x": -660,
-      "y": 9080,
-      "width": 260,
-      "height": 80
-    },
-    {
-      "id": "76833ec03a4685d8",
-      "type": "text",
-      "text": ">  We only think of it as a competitor because writing, and our expectations for it, have become so impoverished. We have been softened up by the proliferation of search-engine-optimising ‘content’, the cut-and-paste phrasing of man- agement speak, and the rubric-driven and professionally voiceless essays that students are taught to write in school and at university. We think that algorithms can take over writing because much human writing might as well have been produced by algorithm. It betrays no sense of a human being behind it who has laboured to find and shape the best words to gift to their reader.\n\n[[You are not an angel a letter to my students .pdf#page=10&selection=2,17,17,39|You are not an angel a letter to my students , page 10]]",
-      "styleAttributes": {},
-      "x": 1395,
-      "y": 7900,
-      "width": 525,
-      "height": 60
-    },
-    {
-      "id": "26af22f5b8100f38",
-      "type": "text",
-      "text": "> Human lives are so intensely sensual\n\n[[You are not an angel a letter to my students .pdf#page=9&annotation=504R|You are not an angel a letter to my students , page 9]]",
-      "styleAttributes": {},
-      "x": 831,
-      "y": 7900,
-      "width": 525,
-      "height": 60
-    },
-    {
-      "id": "3632b13096e609a5",
-      "type": "text",
-      "text": "> Why have I used up so many words to tell you that you are not an angel? Because the people who run our lives would prefer it if you carried on thinking that you were. It makes you more biddable, a better-behaved and less critically-minded worker and consumer, a pliant contributor to the data flow. Angels don’t need to think about words, or anything else; they are a mere conduit through which information passes, like light through a pane of glass. When we stop noticing words, we stop noticing the world.\n\n[[You are not an angel a letter to my students .pdf#page=13&selection=158,1,168,66|You are not an angel a letter to my students , page 13]]",
-      "styleAttributes": {},
-      "x": 1640,
-      "y": 7900,
-      "width": 220,
-      "height": 480
-    },
-    {
-      "id": "4ab7187773dc4b32",
-      "type": "text",
-      "text": "> Nothing hinders the eﬀortless transition of your thoughts from brain to screen.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=485R|You are not an angel a letter to my students , page 8]]",
-      "styleAttributes": {},
-      "x": -280,
-      "y": 8055,
-      "width": 520,
-      "height": 94
-    },
-    {
-      "id": "1a732ef7a77fe2f5",
-      "type": "text",
-      "text": "> Words emerge from and belong to our bodies, whether we notice it or not.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=491R|You are not an angel a letter to my students , page 8]]",
-      "styleAttributes": {},
-      "x": 260,
-      "y": 7864,
-      "width": 525,
-      "height": 94
+      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 8004,
+      "width": 300,
+      "height": 120
     },
     {
       "id": "54596eddd3af677b",
@@ -1658,9 +178,1529 @@
       "text": "> Angels have no such inimitable, unre- producible presence in the world.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=497R|You are not an angel a letter to my students , page 8]]",
       "styleAttributes": {},
       "x": 260,
-      "y": 7959,
+      "y": 8110,
       "width": 525,
       "height": 94
+    },
+    {
+      "id": "26af22f5b8100f38",
+      "type": "text",
+      "text": "> Human lives are so intensely sensual\n\n[[You are not an angel a letter to my students .pdf#page=9&annotation=504R|You are not an angel a letter to my students , page 9]]",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 8227,
+      "width": 525,
+      "height": 67
+    },
+    {
+      "id": "76833ec03a4685d8",
+      "type": "text",
+      "text": ">  We only think of it as a competitor because writing, and our expectations for it, have become so impoverished. We have been softened up by the proliferation of search-engine-optimising ‘content’, the cut-and-paste phrasing of man- agement speak, and the rubric-driven and professionally voiceless essays that students are taught to write in school and at university. We think that algorithms can take over writing because much human writing might as well have been produced by algorithm. It betrays no sense of a human being behind it who has laboured to find and shape the best words to gift to their reader.\n\n[[You are not an angel a letter to my students .pdf#page=10&selection=2,17,17,39|You are not an angel a letter to my students , page 10]]",
+      "styleAttributes": {},
+      "x": 840,
+      "y": 7984,
+      "width": 525,
+      "height": 297
+    },
+    {
+      "id": "3632b13096e609a5",
+      "type": "text",
+      "text": "> Why have I used up so many words to tell you that you are not an angel? Because the people who run our lives would prefer it if you carried on thinking that you were. It makes you more biddable, a better-behaved and less critically-minded worker and consumer, a pliant contributor to the data flow. Angels don’t need to think about words, or anything else; they are a mere conduit through which information passes, like light through a pane of glass. When we stop noticing words, we stop noticing the world.\n\n[[You are not an angel a letter to my students .pdf#page=13&selection=158,1,168,66|You are not an angel a letter to my students , page 13]]",
+      "styleAttributes": {},
+      "x": 1395,
+      "y": 7984,
+      "width": 525,
+      "height": 251
+    },
+    {
+      "id": "1a732ef7a77fe2f5",
+      "type": "text",
+      "text": "> Words emerge from and belong to our bodies, whether we notice it or not.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=491R|You are not an angel a letter to my students , page 8]]",
+      "styleAttributes": {},
+      "x": 260,
+      "y": 7984,
+      "width": 525,
+      "height": 94
+    },
+    {
+      "id": "8b1f4272fda28073",
+      "type": "link",
+      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
+      "styleAttributes": {},
+      "x": -100,
+      "y": 8599,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "5df912368b240d33",
+      "type": "text",
+      "text": "What happens and what can be extracted ",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 8939,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "f7559d9f55d0912a",
+      "type": "text",
+      "text": "Creating something new out of obfuscation",
+      "styleAttributes": {},
+      "x": 100,
+      "y": 9089,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "21809d48c0e16b6d",
+      "type": "text",
+      "text": "Wark/furious/hacking",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 8804,
+      "width": 280,
+      "height": 60
+    },
+    {
+      "id": "b046fadb6787d94a",
+      "type": "text",
+      "text": "Disrupting normative operation",
+      "styleAttributes": {},
+      "x": 120,
+      "y": 9018,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d663d969ca5accf9",
+      "type": "text",
+      "text": "> “Poison is sort of a technical term in the research community. Basically it means manipulating training data in such a way to get A.I. models to do something perhaps unexpected, perhaps more to your goals, than the original trainers intended to.”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8609,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "039442a561c5ecb9",
+      "type": "text",
+      "text": "> “Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models).”",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8778,
+      "width": 480,
+      "height": 129
+    },
+    {
+      "id": "75f3360d5d6c8467",
+      "type": "text",
+      "text": "- [ ] Create work using these\n- [ ] Formal analysis of images\n- [ ] Art historical \n- [ ] Theoretical \n\nBring in other artists? ",
+      "styleAttributes": {},
+      "x": -230,
+      "y": 8969,
+      "width": 260,
+      "height": 158
+    },
+    {
+      "id": "7969a4f1f7e5ce75",
+      "type": "text",
+      "text": "Nightshade/obfuscations/viruses",
+      "styleAttributes": {},
+      "x": -240,
+      "y": 8799,
+      "width": 280,
+      "height": 70
+    },
+    {
+      "id": "fdf1f4fefff7b0b4",
+      "type": "text",
+      "text": "### How to Poison the A.I. Machine\nFreakonomics interview w/ Ben Zhao ",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 8769,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "ecc057c8a1ee22f4",
+      "type": "text",
+      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
+      "styleAttributes": {},
+      "x": -450,
+      "y": 8879,
+      "width": 260,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "01e10c8f13a95474",
+      "type": "text",
+      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
+      "styleAttributes": {},
+      "x": 480,
+      "y": 8519,
+      "width": 480,
+      "height": 50
+    },
+    {
+      "id": "571bbff281320042",
+      "type": "text",
+      "text": "[[Unfitting Art and Labour from Conceptualisation to AI The Nordic Journal of Aesthetics]]",
+      "styleAttributes": {},
+      "x": -1110,
+      "y": 8949,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "cd5e9483c30a4f12",
+      "type": "text",
+      "text": "### Before Pictures Crimp\nLast chapter",
+      "styleAttributes": {},
+      "x": -1110,
+      "y": 9104,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "4f27b5964ccf6df1",
+      "type": "text",
+      "text": "### *Queer Phenomenology,* Ahmed\n[[queer-phenomenology_ahmed.pdf]]",
+      "styleAttributes": {},
+      "x": -680,
+      "y": 9280,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "ca55db9810324e6f",
+      "type": "text",
+      "text": "> It has always been said that “‘computing ma- chines can only carry out the purposes that they are instructed to do. This is certainly true,” writes Turing, “in the sense thatif they do something other than what they were instructed then they have just made some mistake.” But one man’s mistake might well be a most intelligent move for a machine. And how would their masters tell the difference between failures to carry out instructions and refusals to be bound by them? Perfection never guarantees success. On the contrary, **“the more it schizophrenizes, the better it works.” And for wayward systems like the rebel replicants, identity is easy to simulate and merely one of many programs to be run.**\n\n[[zeros-and-ones_plant.pdf#page=100&annotation=15762R|zeros-and-ones_plant, page 100]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 5909,
+      "width": 520,
+      "height": 320
+    },
+    {
+      "id": "660357e9e99f6100",
+      "type": "text",
+      "text": "##### \"Passing\" \n[[zeros-and-ones_plant.pdf#page=215&selection=20,0,21,1|zeros-and-ones_plant, page 215]]",
+      "styleAttributes": {},
+      "x": 280,
+      "y": 5969,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "e4b13f7339a1fe06",
+      "type": "text",
+      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]\n*Progress*: 1-32, 90-121",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 5860,
+      "width": 300,
+      "height": 98
+    },
+    {
+      "id": "e9de283e875df07e",
+      "type": "text",
+      "text": "> “It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” ",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 8519,
+      "width": 480,
+      "height": 155
+    },
+    {
+      "id": "e0e15393004af068",
+      "type": "text",
+      "text": "> “A spokesperson for Open A.I. recently described data poison as a “**type of abuse.**””",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 8714,
+      "width": 480,
+      "height": 60
+    },
+    {
+      "id": "bb57b40e30e363b7",
+      "type": "text",
+      "text": "> “I came into it not so much thinking about economics as I was just seeing people that I respected and had affinity for be severely harmed by some of this technology. In whatever way that they can be protected that’s ultimately the goal. In that scenario, the outcome would be licensing so that they can actually maintain a livelihood and maintain the vibrancy of that industry.”",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": 8804,
+      "width": 480,
+      "height": 181
+    },
+    {
+      "id": "4fa73b11e6319d1b",
+      "type": "text",
+      "text": "> “**Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point.** It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
+      "styleAttributes": {},
+      "x": 1520,
+      "y": 8519,
+      "width": 480,
+      "height": 283
+    },
+    {
+      "id": "2809be8f71c244ef",
+      "type": "text",
+      "text": "##### Is AI even profitable?",
+      "styleAttributes": {},
+      "x": 2115,
+      "y": 8642,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "082f1b8afb6577e0",
+      "type": "link",
+      "url": "https://finance.yahoo.com/news/sam-altman-says-losing-money-080700756.html",
+      "styleAttributes": {},
+      "x": 2115,
+      "y": 8757,
+      "width": 400,
+      "height": 221
+    },
+    {
+      "id": "fb5c594c939676a4",
+      "type": "link",
+      "url": "https://www.wsj.com/articles/its-time-for-ai-to-start-making-money-for-businesses-can-it-b476c754",
+      "styleAttributes": {},
+      "x": 2115,
+      "y": 8996,
+      "width": 400,
+      "height": 221
+    },
+    {
+      "id": "071df9683f899a86",
+      "type": "text",
+      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
+      "styleAttributes": {},
+      "x": 1600,
+      "y": 4560,
+      "width": 260,
+      "height": 61,
+      "color": "3"
+    },
+    {
+      "id": "e960a14f02fe97e9",
+      "type": "text",
+      "text": "> e third moment of the critical narrative is the moment of the symptom. If the previous phase can be associated with structuralism, this phase is associated with post-structuralism in general and deconstruction in particular. \n\n[[excommunication_galloway_thacker_wark.pdf#page=45&selection=48,1,49,60|excommunication_galloway_thacker_wark, page 45]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4927,
+      "width": 422,
+      "height": 174,
+      "color": "2"
+    },
+    {
+      "id": "ff413d5f39131acd",
+      "type": "text",
+      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 2410,
+      "y": 3883,
+      "width": 382,
+      "height": 100,
+      "color": "#fe9f9f"
+    },
+    {
+      "id": "b647d04fb584a578",
+      "type": "text",
+      "text": "> Instead stress is given to the reading of “clues” (symptoms) in the work to re- veal structured absences, contradictions, misunderstandings, the work’s “epistemological other,” or what is “not said” in it. An example of the symptomatic mode is given elegantly in the epigraph to Donna Haraway’s book How Like a Leaf. “Both chimpanzees and artifacts have politics, so why shouldn’t we?”\n> ...\n> To to dare to assert the claim as something worth arguing about is to insinuate that the whole framework of knowledge must be, at some basic level, obsolete\n\n[[excommunication_galloway_thacker_wark.pdf#page=46&selection=13,51,23,62|excommunication_galloway_thacker_wark, page 46]]",
+      "styleAttributes": {},
+      "x": 814,
+      "y": 4877,
+      "width": 422,
+      "height": 319,
+      "color": "2"
+    },
+    {
+      "id": "9364d37419d88214",
+      "type": "text",
+      "text": "> In hermeneutic mediation there is never simply a direct relationship to truth, there is always a confron- tation with truth.\n\n[[excommunication_galloway_thacker_wark.pdf#page=43&selection=36,22,42,11|excommunication_galloway_thacker_wark, page 43]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4560,
+      "width": 422,
+      "height": 121,
+      "color": "2"
+    },
+    {
+      "id": "684a0f41a0e51d20",
+      "type": "text",
+      "text": "> \u0017e hermeneutic interpreter of texts must coax meaning out of sometimes obfuscatory and contradictory signs existing in the material, whether it be biblical scripture, or the semiotic per- formances of human affect. \u0017e confrontation with truth is led by and released through various economies of meaning, be they social, political, or commercial. Always about the real, the her- meneutic tradition is also in some basic sense against the real.\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=4,0,18,9|excommunication_galloway_thacker_wark, page 44]]",
+      "styleAttributes": {},
+      "x": 814,
+      "y": 4560,
+      "width": 422,
+      "height": 277,
+      "color": "2"
+    },
+    {
+      "id": "eba3f701e8d74803",
+      "type": "text",
+      "text": ">  But, as Wark suggests, what if heresy were necessary to communication theory? And what if communication served as a central concept for thinking about the Judeo-Christian inher- itance in the West?\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=33,4,36,19|excommunication_galloway_thacker_wark, page 26]]",
+      "styleAttributes": {},
+      "x": 1074,
+      "y": 3959,
+      "width": 324,
+      "height": 226,
+      "color": "6"
+    },
+    {
+      "id": "3342f59833473be5",
+      "type": "text",
+      "text": ">  for \u0017acker between the haunted and the weird, the artifact and the thing;\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 675,
+      "y": 3453,
+      "width": 324,
+      "height": 121,
+      "color": "4"
+    },
+    {
+      "id": "9352526e5d94206b",
+      "type": "text",
+      "text": "> Wark’s chapter deals with both extremes, dealing at once with orgies and swarming poetics, the sacred and the heretical, in order to arrive at something akin to a pantheist universe of passions.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 1074,
+      "y": 3187,
+      "width": 324,
+      "height": 226,
+      "color": "6"
+    },
+    {
+      "id": "436dde4238945f99",
+      "type": "text",
+      "text": "> Evoking the surging poetics of the swarm, Wark proposes a political heresy, one that will deviate from both traditional media theory and the traditional le\u001d: a post-hermeneutic marx- ism, or “marxism of the swarm.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=16,0,19,31|excommunication_galloway_thacker_wark, page 26]]",
+      "styleAttributes": {},
+      "x": 1074,
+      "y": 3667,
+      "width": 324,
+      "height": 252,
+      "color": "6"
+    },
+    {
+      "id": "24c133d506dd92f5",
+      "type": "text",
+      "text": ">  for Wark the disintegra- tion and reorganization of these many ingredients into a new arrangement of freedom.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 1074,
+      "y": 3453,
+      "width": 324,
+      "height": 174,
+      "color": "6"
+    },
+    {
+      "id": "a927cb8145bb5d73",
+      "type": "text",
+      "text": "#### Iris",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 2472,
+      "y": 2960,
+      "width": 329,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "6761936b46499ceb",
+      "type": "text",
+      "text": "#### Hermes",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 1666,
+      "y": 2960,
+      "width": 329,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "f3fbea69a2817bee",
+      "type": "text",
+      "text": "**Xenocommunication**",
+      "styleAttributes": {},
+      "x": 1340,
+      "y": 2900,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "eb6f5d8ebf618270",
+      "type": "text",
+      "text": "> hat we decidedly do not need now is further to assimilate Art into Thought, or (worse yet) Art into Culture. Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. T\n\n[[against-interpretation_sontag.pdf#page=5&selection=95,9,98,35|Sontag-Against+Interpretation, page 5]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2299,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "58cde369539b5bbf",
+      "type": "text",
+      "text": "> **In place of a hermeneutics we need an erotics of art.**\n\n**[[against-interpretation_sontag.pdf#page=5&selection=142,0,142,53|Sontag-Against+Interpretation, page 5]]**",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2486,
+      "width": 460,
+      "height": 69
+    },
+    {
+      "id": "45e5c5cacff1fac9",
+      "type": "text",
+      "text": "> What is needed, first, is more attention to form in art. \n\n[[against-interpretation_sontag.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 2190,
+      "width": 460,
+      "height": 69
+    },
+    {
+      "id": "a997bb75198d1b9f",
+      "type": "text",
+      "text": "> According to the acclaimed network scientist and author Albert-László Barabási, network science obviates the need for human psychology: “In the past, if you wanted to understand what humans do and why they do it, you became a card-carrying psychologist. Today you may want to obtain a degree in computer science . . . .” This is because network science, combined with “increasingly penetrating digital technol- ogies,” places us in “an immense research laboratory that, in size, complexity, and detail, surpasses everything that science has en- countered before.” This lab reveals “the rhythms of life as evidence of a deeper order in human behavior, one that can be explored, predicted, and no doubt exploited” (Barabási 2010, 11). Network science unravels a vast collective nonconscious, encased within the fishbowl of digital media.3 It is the bastard child of psychoanalysis: there are no accidents, no innocent slips of the tongue. Each action is part of a larger pattern/symptom. The goal: to answer that unan- swerable question, what do (wo)men want?\n\n[[Pattern-Discrimination.pdf#page=83&annotation=691R|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1389,
+      "width": 460,
+      "height": 508
+    },
+    {
+      "id": "8f7840c645169e37",
+      "type": "text",
+      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 2920,
+      "width": 300,
+      "height": 140
+    },
+    {
+      "id": "5bb35f095e866bbe",
+      "type": "text",
+      "text": "> Media are transformative. \u0017ey affect conditions of possibility in general. Mediation does not merely add some- thing to the existing list of topics that scholars study. It changes the practice of study itself\n\n[[excommunication_galloway_thacker_wark.pdf#page=8&selection=16,15,19,28|excommunication_galloway_thacker_wark, page 8]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2973,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "735127b5d6a98a95",
+      "type": "text",
+      "text": "#### The Furies",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 1577,
+      "y": 3752,
+      "width": 329,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "bc5135992efe5d12",
+      "type": "text",
+      "text": "> \u0017e Fury model is useful because it allows us to deal with complex systems like swarms, rhizomes, assemblages, and networks—the various modes of mediation that have achieved a new level of prominence today at the turn of the new mil- lennium.\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=30,11,34,8|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 1551,
+      "y": 3859,
+      "width": 382,
+      "height": 200,
+      "color": "1"
+    },
+    {
+      "id": "2a1d050854f37e02",
+      "type": "text",
+      "text": "#### Aphrodite",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 2436,
+      "y": 3752,
+      "width": 329,
+      "height": 60,
+      "color": "#fe9f9f"
+    },
+    {
+      "id": "ada27d1e8bbb159b",
+      "type": "text",
+      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 2383,
+      "y": 3067,
+      "width": 382,
+      "height": 148,
+      "color": "3"
+    },
+    {
+      "id": "12aae98c11e29008",
+      "type": "text",
+      "text": "> Jacques Derrida famously called Hermes the “signifier god”; indeed as inventor of writing, Hermes is a key figure in any theory of mediation, producing as he does much of what we label the critical tradition\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=11,15,14,39|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 1560,
+      "y": 3067,
+      "width": 382,
+      "height": 174,
+      "color": "2"
+    },
+    {
+      "id": "29aefb30fb9d47ce",
+      "type": "text",
+      "text": "> Taken together Iris and Hermes encompass the canonical media universe we have already described above: the universe of devices and determi- nacy, a universe in which media are either clear or complicated, either local or remote, either familiar or strange\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=21,43,25,50|excommunication_galloway_thacker_wark, page 24]]",
+      "styleAttributes": {},
+      "x": 2001,
+      "y": 3425,
+      "width": 382,
+      "height": 200
+    },
+    {
+      "id": "a032223d5f741c7c",
+      "type": "text",
+      "text": "### *Cyborg Manifesto*, Haraway\n[[cyborg-manifesto_haraway.pdf]]",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -223,
+      "width": 260,
+      "height": 120
+    },
+    {
+      "id": "8882d8deec8decd1",
+      "type": "text",
+      "text": "Modernist * abstraction (not modern)\n\n- Classic abstraction = geometric",
+      "styleAttributes": {},
+      "x": 2940,
+      "y": 40,
+      "width": 360,
+      "height": 71
+    },
+    {
+      "id": "b2a93daa2629c7fe",
+      "type": "text",
+      "text": "\"The argument is made in the gallery\" (re: what do you enjoy about curating now)",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": -60,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "f363970240d540b1",
+      "type": "text",
+      "text": "#### Q&A",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": -140,
+      "width": 140,
+      "height": 60
+    },
+    {
+      "id": "4cdb0165cdfc0faa",
+      "type": "text",
+      "text": "Ulrike Mueller, *Hinges*, 2023",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -280,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "79727ec1ac844e4d",
+      "type": "text",
+      "text": "#### A:\n6. **How to Avoid Overfitting**\nTo prevent overfitting, you can take several steps:\n\n a) **Regularization Techniques**:\n- **Dropout**: Randomly remove units from the network during training.\n- **Weight Decay (L2 Regularization)**: Add a small penalty to the weights\nduring training to encourage smaller weight values.\n- **L1 Regularization**: Apply an absolute penalty on the weights.\n\nb) **Data Augmentation**:\nIf you have limited data, augment the dataset by adding variations of the\nexisting data (e.g., rotating or flipping images).\n\n c) **Early Stopping**:\nStop training the model when validation performance stops improving.\n\nd) **Model Ensembling**:\nCombine predictions from multiple models to improve generalization.",
+      "styleAttributes": {},
+      "x": -230,
+      "y": -223,
+      "width": 460,
+      "height": 531
+    },
+    {
+      "id": "ff6bf902f2ede736",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": -160,
+      "y": -120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6c34d4e7dd3802fc",
+      "type": "text",
+      "text": "*Collaboration* in reference to working with AI (from; https://www.metacreation.net/team)",
+      "styleAttributes": {},
+      "x": 1470,
+      "y": 208,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "47bc03b7e5c105d8",
+      "type": "text",
+      "text": "Agnes Martin, Lenore Tawney\n- Knew, influenced each other",
+      "styleAttributes": {},
+      "x": 2940,
+      "y": -460,
+      "width": 360,
+      "height": 80
+    },
+    {
+      "id": "b2499212548e787b",
+      "type": "text",
+      "text": "Semiotics of dress & construction of identity \n\n→ Post 60s/70s gay liberation, black power: Subcultural identificaiton",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -482,
+      "width": 360,
+      "height": 100
+    },
+    {
+      "id": "8f764975653709f6",
+      "type": "text",
+      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": -660,
+      "width": 360,
+      "height": 98
+    },
+    {
+      "id": "9db747c6424d2f38",
+      "type": "text",
+      "text": "**Grid**\n- Schulz: Weaving based on chip- commission from Intel; trying to attract female workforce, building on Navajo land",
+      "styleAttributes": {},
+      "x": 2940,
+      "y": -360,
+      "width": 360,
+      "height": 124
+    },
+    {
+      "id": "ab33215e79f858b7",
+      "type": "text",
+      "text": "Not discussed in lecture, but other section on labor issues",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -360,
+      "width": 360,
+      "height": 62
+    },
+    {
+      "id": "c36e2066e86467c2",
+      "type": "text",
+      "text": "Gego *Square Reticularea 71/6*, 1972\n\n- Reference is textile; grid, draping\n- Disruptive/destablizing - unexpected\n- Rejected label \"sculpture\"",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": -540,
+      "width": 360,
+      "height": 140
+    },
+    {
+      "id": "163072760ed43533",
+      "type": "text",
+      "text": "Trockel, *Untitled*, 1993, 1986, 1986\n- Questioning preeminence of painting (masculine, dominant)\n- Abstraction in craft\n- Knitted plaid\n- Moth eaten knit, turned to silkscreen --Fontana ",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": -380,
+      "width": 360,
+      "height": 200
+    },
+    {
+      "id": "3cf3f80a20d8fc8f",
+      "type": "text",
+      "text": "#### Q: **Can you explain overfitting?**",
+      "styleAttributes": {},
+      "x": -230,
+      "y": -363,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "2fc3c495074f501e",
+      "type": "text",
+      "text": "Why not include the Mesoamerican/Indigenous works that were inspiration to Albers?\n- Artist's (specific, identifiable) hand in work\n- Not including historical/reference",
+      "styleAttributes": {},
+      "x": 2540,
+      "y": 40,
+      "width": 360,
+      "height": 120
+    },
+    {
+      "id": "d031d59807f14908",
+      "type": "text",
+      "text": "## Currently Reading",
+      "styleAttributes": {},
+      "x": 760,
+      "y": -483,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9407c1c9128bfaeb",
+      "type": "text",
+      "text": "## To Read\n",
+      "styleAttributes": {},
+      "x": 1480,
+      "y": -483,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "aa32e53fce1a5b17",
+      "type": "text",
+      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
+      "styleAttributes": {},
+      "x": 2940,
+      "y": -660,
+      "width": 360,
+      "height": 98
+    },
+    {
+      "id": "a10669e0590858ad",
+      "type": "text",
+      "text": "Eva Hesse, Hicks ",
+      "styleAttributes": {},
+      "x": 2940,
+      "y": -540,
+      "width": 360,
+      "height": 60
+    },
+    {
+      "id": "d153ffeede7dce36",
+      "type": "text",
+      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
+      "styleAttributes": {},
+      "x": 3040,
+      "y": -747,
+      "width": 320,
+      "height": 55
+    },
+    {
+      "id": "b98c1c89cf4a9901",
+      "type": "text",
+      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
+      "styleAttributes": {},
+      "x": 3340,
+      "y": -660,
+      "width": 360,
+      "height": 150
+    },
+    {
+      "id": "b961f9fc8a1cf41c",
+      "type": "text",
+      "text": "### Notes from *Woven Histories*, Lynne Cooke",
+      "styleAttributes": {},
+      "x": 2600,
+      "y": -760,
+      "width": 400,
+      "height": 80
+    },
+    {
+      "id": "fa0bd652b02ea547",
+      "type": "text",
+      "text": "## Lacan Reading Group",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -920,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "eead0fd1ab0983c1",
+      "type": "text",
+      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -820,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "202f0933998f3d8e",
+      "type": "text",
+      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "styleAttributes": {},
+      "x": -480,
+      "y": -700,
+      "width": 380,
+      "height": 100
+    },
+    {
+      "id": "bf39742137320414",
+      "type": "text",
+      "text": "> Thacker’s chapter reverses the terms, starting not from the human but from the nonhuman, from the perspec- tive of what Lovecra\u001d called “cosmic outsideness.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 675,
+      "y": 2973,
+      "width": 324,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "b5aaf1f67a50c076",
+      "type": "text",
+      "text": "> Galloway’s chapter is to tackle theories of mediation from the perspective of human experience, \u0017  \u0017 \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 2973,
+      "width": 324,
+      "height": 148,
+      "color": "5"
+    },
+    {
+      "id": "944984bfda1ddb7b",
+      "type": "text",
+      "text": "> What we understand to be “natural” or “essential” is actually “manufactured through a sustained set of acts, positioned through the gendered stylization of the body . . . what we take to be an ‘internal’ feature of ourselves is one that we anticipate and produce through certain bodily acts, at an extreme, an hallucinatory effect of naturalized gestures” (Butler 1990, xv)\n\n[[Pattern-Discrimination.pdf#page=80&selection=33,31,39,66|Pattern-Discrimination, page 80]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 1123,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "8a47c5d2acf02b60",
+      "type": "text",
+      "text": "**Homophilia = basis of network science**\n",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 260,
+      "y": 632,
+      "width": 380,
+      "height": 60
+    },
+    {
+      "id": "99c5b4f010e94d4e",
+      "type": "text",
+      "text": "> Wark con- tinues into the great outside, exploring how alien or inhuman mediation fuses back with the human.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 1074,
+      "y": 2973,
+      "width": 324,
+      "height": 174,
+      "color": "6"
+    },
+    {
+      "id": "4cf5ff0ed37eaca4",
+      "type": "text",
+      "text": "> In this way we want to argue that media theory is not a new link in the grand chain of critical theory, literary criticism, cul- tural studies, or visual culture. Rather, it exits the chain entirely, turning ninety degrees away from these disciplines. Moving orthogonally, media theory intersects art theory, screen theory, science studies, the history of technology, and many other fields.\n\n[[excommunication_galloway_thacker_wark.pdf#page=13&selection=16,0,22,6|excommunication_galloway_thacker_wark, page 13]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3535,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "c46e7e2feede00e7",
+      "type": "text",
+      "text": "## Glaze",
+      "styleAttributes": {},
+      "x": 4030,
+      "y": 640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "632697c3784a21e7",
+      "type": "text",
+      "text": "## Nightshade",
+      "styleAttributes": {},
+      "x": 3380,
+      "y": 640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "cbfd40ba75b810b1",
+      "type": "text",
+      "text": ">  Postmodernism, according to Jameson, submerged subjects “into a multidimensional set of radically discontinuous realities, whose frames range from the still surviving spaces of bourgeois private life all the way to the unimag- inable decentering of global capital itself” (Jameson 1991, 413). Because of this, they were profoundly disoriented, unable to con- nect their local experience (authenticity) to global systems (truth). **To resolve this situation, Jameson called for cognitive mapping, a yet imaginable form of political socialist art, which corresponded to “an imperative to grow new organs, to expand our sensorium and our body to some new, yet unimaginable, perhaps ultimately impossible, dimensions”** (39). Like the cognitive mapping Jameson envisioned, network science lifts the fog of postmodernism by re- vealing the links between the individual to the totality in which she lives.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 592,
+      "width": 460,
+      "height": 445
+    },
+    {
+      "id": "c6b8234c2d63e608",
+      "type": "text",
+      "text": "> Crucially, these algorithms perpetuate the discrimination they “find.” They are not simply descriptive but also prescriptive and per- formative in all senses of that word. Capture systems, as Phil Agre theorized in 1994, reshape the activities they model or “discover.” Through a metaphor of human activity as language, they impose a normative “grammar of action” as they move from analyzing captured data to building an epistemological model of the captured activity (364)\n\n[[Pattern-Discrimination.pdf#page=80&selection=2,0,11,14|Pattern-Discrimination, page 80]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 806,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "31743dd0955acab6",
+      "type": "text",
+      "text": ">  Homophily reveals and creates boundaries within theoretically flat and diffuse networks; it distinguishes and discriminates between allegedly equal nodes: it is a tool for discovering bias and inequality and for perpetuating it in the name of “comfort,” predictability, and common sense. \n\n[[Pattern-Discrimination.pdf#page=76&selection=7,37,13,57|Pattern-Discrimination, page 76]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 592,
+      "width": 460,
+      "height": 174
+    },
+    {
+      "id": "5cf6bcf1ed341fa1",
+      "type": "text",
+      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 532,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "1aaed3ebecdfbd25",
+      "type": "text",
+      "text": "**Barabasi Lab**",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 320,
+      "y": 1380,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c298cca9a92d8d48",
+      "type": "text",
+      "text": "> As the turn to game theory reveals, a market-based logic perme- ates network science models \n\n[[Pattern-Discrimination.pdf#page=86&selection=15,0,17,28|Pattern-Discrimination, page 86]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1256,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "55cd88ca74d7f051",
+      "type": "text",
+      "text": ">  network science models not the real world but rather the initial representation and truth is what reproduces this abstraction.\n\n[[Pattern-Discrimination.pdf#page=84&selection=51,6,52,69|Pattern-Discrimination, page 84]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1095,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "a1bca9f5100f1d05",
+      "type": "text",
+      "text": "> , \u0017acker suggests that communication o\u001den shi\u001ds from an epistemological register (a connection between two points in a single, shared reality) to an ontological regis- ter (a disconnection between the natural and the supernatural, or the earthly and the divine). Media are thus “haunted” when they affirmatively span different ontological orders. Media are “weird” when they negatively mediate between two ontological orders.\n\n[[excommunication_galloway_thacker_wark.pdf#page=25&selection=30,15,45,7|excommunication_galloway_thacker_wark, page 25]]",
+      "styleAttributes": {},
+      "x": 675,
+      "y": 3614,
+      "width": 324,
+      "height": 361,
+      "color": "4"
+    },
+    {
+      "id": "3b06e1789f80a039",
+      "type": "text",
+      "text": "> acker’s chapter, by contrast, discusses mediations not of this world, when mediation arises between two different ontological orders; \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 675,
+      "y": 3213,
+      "width": 324,
+      "height": 200,
+      "color": "4"
+    },
+    {
+      "id": "be3ad29722b001af",
+      "type": "text",
+      "text": "### [[2024 - MAEDASTUDIO]]",
+      "styleAttributes": {},
+      "x": 5480,
+      "y": 640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fe122354eed81aa9",
+      "type": "text",
+      "text": "> The confrontation with truth may be mapped out more ex- plicitly within the critical tradition. It consists of three steps: \n> \n> 1 exegesis → 2 hermeneutics → 3 symptomatics\n\n[[excommunication_galloway_thacker_wark.pdf#page=44&selection=19,1,36,12|excommunication_galloway_thacker_wark, page 44]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4721,
+      "width": 422,
+      "height": 166,
+      "color": "2"
+    },
+    {
+      "id": "a3a6f262b905e40c",
+      "type": "text",
+      "text": "> Jean Baudrillard notes that all communication involves a form of going outside oneself,\n\n[[excommunication_galloway_thacker_wark.pdf#page=21&selection=32,0,33,25|excommunication_galloway_thacker_wark, page 21]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 4305,
+      "width": 460,
+      "height": 95
+    },
+    {
+      "id": "30c847463222ca9b",
+      "type": "text",
+      "text": "### \"Love of the Middle\", Galloway",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 4420,
+      "width": 324,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "9bf8f3ed9594d086",
+      "type": "text",
+      "text": "> ere are mediative situations in which heresy, exile, or ban- ishment carry the day, not repetition, communion, or integra- tion. \u0017ere are certain kinds of messages that state there will be no more messages. Why? \u0017e reasons may vary, from the para- doxical lyricism of the ineffable (“it can’t be put into words”), to the refusal to engage (“I prefer not to”), to the contentiousness of apathy (“some things aren’t worth saying”), to the enigma of silence (and its impossibility). Hence for every communication there is a correlative *excom- munication.* \n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=32,1,47,2|excommunication_galloway_thacker_wark, page 17]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3967,
+      "width": 460,
+      "height": 298
+    },
+    {
+      "id": "8f7a7a8df80dbf35",
+      "type": "text",
+      "text": "> We tar- get the Achilles heel of media theory, the one aspect of media- tion that is so hard to accept, the insufficiency of mediation.\n\n[[excommunication_galloway_thacker_wark.pdf#page=17&selection=3,53,8,1|excommunication_galloway_thacker_wark, page 17]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3806,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "9a77dcf1b16ddd3a",
+      "type": "text",
+      "text": "> For Galloway it is a question of distinguishing between text, image, and system;\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 3453,
+      "width": 324,
+      "height": 148,
+      "color": "5"
+    },
+    {
+      "id": "a24e9648d399dade",
+      "type": "text",
+      "text": "### Wark",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3465,
+      "width": 260,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "f95584e975d09f08",
+      "type": "text",
+      "text": "### *Against Interpretation*, Sontag\n[[against-interpretation_sontag.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 2130,
+      "width": 300,
+      "height": 120
+    },
+    {
+      "id": "8c6b66597ae1ff0e",
+      "type": "text",
+      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[against-interpretation_sontag.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2190,
+      "width": 460,
+      "height": 174
+    },
+    {
+      "id": "e9f48e19b877319a",
+      "type": "text",
+      "text": "**Hermeneutics as \"probing content\" to unearth some deeper, truer meaning**",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 2427,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "c886294f45fe919e",
+      "type": "text",
+      "text": "> **In this way, media force us to think less about things like send- ers and receivers, and more about questions of channels and protocols. Less about encoding and decoding, and more about context and environment.**\n\n**[[excommunication_galloway_thacker_wark.pdf#page=9&selection=29,0,32,24|excommunication_galloway_thacker_wark, page 9]]**",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3160,
+      "width": 460,
+      "height": 148
+    },
+    {
+      "id": "a8a737f44640f0f2",
+      "type": "text",
+      "text": "> So perhaps even the great advocate for the pleasures of the text enjoyed another kind of pleasure, the pleasure of the database, which is not so much a text as a media machine for making texts. \n\n[[excommunication_galloway_thacker_wark.pdf#page=10&selection=47,28,50,32|excommunication_galloway_thacker_wark, page 10]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 3348,
+      "width": 460,
+      "height": 147
+    },
+    {
+      "id": "e6582685a75089d4",
+      "type": "text",
+      "text": "> Galloway’s chapter dis- cusses the mediations of this world, as either hermeneutics, the illumination of iridescence, or the complexities of the swarm; \n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "styleAttributes": {},
+      "x": 288,
+      "y": 3193,
+      "width": 324,
+      "height": 200,
+      "color": "5"
+    },
+    {
+      "id": "ab82c84d8e980043",
+      "type": "text",
+      "text": "### Thacker",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3288,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "314d4496ce82205b",
+      "type": "text",
+      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 5243,
+      "width": 300,
+      "height": 177
+    },
+    {
+      "id": "adef39624b16a44f",
+      "type": "text",
+      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "x": -680,
+      "y": 5120,
+      "width": 300,
+      "height": 100
+    },
+    {
+      "id": "6a475035d909e54f",
+      "type": "text",
+      "text": "### Galloway",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 3130,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "f3417c5294e39919",
+      "type": "text",
+      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[against-interpretation_sontag.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 2507,
+      "width": 460,
+      "height": 319
+    },
+    {
+      "id": "4cd2a40daed5d0c9",
+      "type": "text",
+      "text": "Can you even do hermeneutic interpretation of generated images if there is no latent 'meaning'?",
+      "styleAttributes": {},
+      "x": 300,
+      "y": 2260,
+      "width": 260,
+      "height": 102
+    },
+    {
+      "id": "b6a73117981e19c3",
+      "type": "text",
+      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[against-interpretation_sontag.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 2190,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "a7ea64ed037e349e",
+      "type": "text",
+      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[against-interpretation_sontag.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
+      "styleAttributes": {},
+      "x": -280,
+      "y": 2404,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "756524577343fe4c",
+      "type": "text",
+      "text": "> More precisely, Nightshade transforms images into \"poison\" samples, so that models training on them without consent will see their models learn ==_unpredictable behaviors that deviate from expected norms_==,",
+      "styleAttributes": {},
+      "x": 3310,
+      "y": 740,
+      "width": 440,
+      "height": 129
+    },
+    {
+      "id": "36f9ca9b81564b53",
+      "type": "text",
+      "text": "### [[The poison well]]",
+      "styleAttributes": {},
+      "x": 3995,
+      "y": 740,
+      "width": 330,
+      "height": 65
+    },
+    {
+      "id": "f89ecbbc02b54f20",
+      "type": "text",
+      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
+      "styleAttributes": {},
+      "x": 3310,
+      "y": 920,
+      "width": 440,
+      "height": 325
+    },
+    {
+      "id": "7a7e33aea271a620",
+      "type": "text",
+      "text": "### [[Nightshade Protecting Copyright]]",
+      "styleAttributes": {},
+      "x": 2900,
+      "y": 740,
+      "width": 330,
+      "height": 65
+    },
+    {
+      "id": "ef542035222b3e0c",
+      "type": "text",
+      "text": "### [[nightshade-oakland24.pdf|Nightshade - Lab paper]]",
+      "styleAttributes": {},
+      "x": 2900,
+      "y": 1320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "682153899fc68a15",
+      "type": "text",
+      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
+      "styleAttributes": {},
+      "x": 3280,
+      "y": 1420,
+      "width": 260,
+      "height": 80
+    },
+    {
+      "id": "284b359b01e836fc",
+      "type": "text",
+      "text": "Nonhuman",
+      "styleAttributes": {},
+      "x": 1540,
+      "y": 1492,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fdc4573e7c5c2683",
+      "type": "text",
+      "text": "> Vi Hart\n\n[[Pattern-Discrimination.pdf#page=100&annotation=791R|Pattern-Discrimination, page 100]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 592,
+      "width": 460,
+      "height": 69
+    },
+    {
+      "id": "66a7e46bb0bddf73",
+      "type": "text",
+      "text": "> In contrast to most computational identity systems that incorrectly reify identity categories by implementing them as simple data fields ... he has developed the AIR (Advanced Identity Representation) project to produce “computational models of subjective identity phenomena related to categorization such as specific forms of marginalization that are overlooked in engi- neering” (Harrell 2013, 1).\n\n[[Pattern-Discrimination.pdf#page=101&selection=27,9,50,27|Pattern-Discrimination, page 101]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 701,
+      "width": 460,
+      "height": 253
+    },
+    {
+      "id": "59a7d29ddf5c74a6",
+      "type": "text",
+      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 1280,
+      "y": 658,
+      "width": 460,
+      "height": 148
+    },
+    {
+      "id": "95a5c00abffa946a",
+      "type": "text",
+      "text": "** Context dependent work that is necessary ",
+      "styleAttributes": {},
+      "x": 3280,
+      "y": 1540,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "553a38b687f74d2f",
+      "type": "text",
+      "text": "**Queerness = inhabiting norms differently → generative**",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": 1540,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "abdfbbb459bb760c",
+      "type": "text",
+      "text": "> Ahmed views queerness as an inability to be comfortable in certain norms: To feel uncomfortable is precisely to be affected by that which persists in the shaping of bodies and lives. Discom- fort is hence not about assimilation or resistance, but about inhabiting norms differently. The inhabitance is gen- erative or productive insofar as it does not end with the failure of norms to be secured, but with the possibilities of living that do not “follow” those norms through. (em- phasis in original, 155).\n\n[[Pattern-Discrimination.pdf#page=103&selection=17,51,32,25|Pattern-Discrimination, page 103]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 1500,
+      "width": 460,
+      "height": 277
+    },
+    {
+      "id": "d6cf716481826a6a",
+      "type": "text",
+      "text": "**Art as content; Image generators** ",
+      "styleAttributes": {},
+      "x": 1940,
+      "y": 1980,
+      "width": 300,
+      "height": 60
+    },
+    {
+      "id": "12e1f09a263a30bf",
+      "type": "text",
+      "text": "(analytical) Theorists feeding into same ideological conception of artwork that enables GAI?",
+      "styleAttributes": {},
+      "x": 2340,
+      "y": 1927,
+      "width": 260,
+      "height": 100
+    },
+    {
+      "id": "54a01e8f08f68df8",
+      "type": "text",
+      "text": "Can't download </3 ",
+      "styleAttributes": {},
+      "x": 3310,
+      "y": 1290,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5879022193aefcd0",
+      "type": "text",
+      "text": "Hatred → homophily",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1724,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2799f47c412fb8e0",
+      "type": "text",
+      "text": "> Embedded, then, in the very dynamics of network science is the presumption that there can be no neighbors without common cultural traits. \n\n[[Pattern-Discrimination.pdf#page=94&selection=27,0,29,17|Pattern-Discrimination, page 94]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1391,
+      "width": 460,
+      "height": 121
+    },
+    {
+      "id": "5bec7d156f370bca",
+      "type": "text",
+      "text": "Network science is response to globalization ",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "x": 320,
+      "y": 1609,
+      "width": 260,
+      "height": 71
+    },
+    {
+      "id": "aad6faac7d8ef438",
+      "type": "text",
+      "text": "> As Sara Ahmed has argued in The Cultural Politics of Emotion, “love of the same” is never innocent: white supremacist love, for instance, is based on a hatred of others (Ahmed 2004). The movement away from others, which grounds models of homophily, reveals the extent to which hatred precedes homophily. The hatred that networks foster, then, should surprise no one. Hatred, Ahmed stresses, organizes bodies. It is an emo- tional “investment” that makes certain bodies responsible for pain or injury. It organizes by bringing things and bodies together— by linking certain figures together so they become a common threat, an X to “our” O. Hate transforms the particular into the general: it transforms individuals into types so they become a common threat (I hate you because you are Y)\n\n[[Pattern-Discrimination.pdf#page=99&selection=29,23,51,30|Pattern-Discrimination, page 99]]",
+      "styleAttributes": {},
+      "x": 710,
+      "y": 1552,
+      "width": 460,
+      "height": 403
+    },
+    {
+      "id": "2b5cc30c1651fbd1",
+      "type": "text",
+      "text": "**Capitalist logic**",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1422,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6f90a41f3dcdae47",
+      "type": "text",
+      "text": "> Harrell’s work most critically engages the creativity embedded within artificial intelligence. Phantasmal Media: An Approach to Imagination, Computation, and Expression (2013), drawn from his work with Define Me and GRIOT, groundbreaking social networking and expressive A.I. projects, asks: can A.I. have the same impact as great literature,\n\n[[Pattern-Discrimination.pdf#page=102&selection=7,0,19,20|Pattern-Discrimination, page 102]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 994,
+      "width": 460,
+      "height": 226
+    },
+    {
+      "id": "8c0ee2af90a46309",
+      "type": "text",
+      "text": "> The various turns toward “less coarse” and “static” concepts such as nonhuman allure (themselves inspired by networks and new media), not to mention the embrace of an instrumentalist technological logic that demeans critical analysis and celebrates digital tinkering, are oddly contradictory and self-defeating.\n\n[[Pattern-Discrimination.pdf#page=103&selection=52,10,59,10|Pattern-Discrimination, page 103]]",
+      "styleAttributes": {},
+      "x": 1840,
+      "y": 1260,
+      "width": 460,
+      "height": 200
+    },
+    {
+      "id": "190586fe6d277a97",
+      "type": "text",
+      "text": "**Homophily**",
+      "styleAttributes": {},
+      "x": 1236,
+      "y": 1867,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0d8096cb7ac4db52",
+      "type": "text",
+      "text": "> While same- sex desire has the attributes of heterosexual desire, it moves toward an object that is ‘‘normally outside the sphere’’ of that desire. In other words, it reaches objects that are not continuous with the line of normal sexual subjectivity.\n\n[[queer-phenomenology_ahmed.pdf#page=70&annotation=4569R|queer-phenomenology_ahmed, page 70]]",
+      "styleAttributes": {},
+      "x": -320,
+      "y": 9280,
+      "width": 260,
+      "height": 318
     }
   ],
   "edges": [
@@ -1932,14 +1972,6 @@
       "fromSide": "bottom",
       "toNode": "95a5c00abffa946a",
       "toSide": "top"
-    },
-    {
-      "id": "484803c8e058d22f",
-      "styleAttributes": {},
-      "fromNode": "8b1f4272fda28073",
-      "fromSide": "right",
-      "toNode": "4fa73b11e6319d1b",
-      "toSide": "left"
     },
     {
       "id": "63e0fd160ac5188e",
