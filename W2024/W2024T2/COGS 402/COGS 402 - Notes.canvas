@@ -1693,14 +1693,44 @@
       "height": 60
     },
     {
+      "id": "d8001a86691bec99",
+      "type": "text",
+      "text": "Spatial terminology in ML/AI?",
+      "styleAttributes": {},
+      "x": -660,
+      "y": 9420,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "0d8096cb7ac4db52",
       "type": "text",
       "text": "> While same- sex desire has the attributes of heterosexual desire, it moves toward an object that is ‘‘normally outside the sphere’’ of that desire. In other words, it reaches objects that are not continuous with the line of normal sexual subjectivity.\n\n[[queer-phenomenology_ahmed.pdf#page=70&annotation=4569R|queer-phenomenology_ahmed, page 70]]",
       "styleAttributes": {},
-      "x": -320,
+      "x": -280,
       "y": 9280,
-      "width": 260,
+      "width": 480,
+      "height": 146
+    },
+    {
+      "id": "1d031e0ac6c6ee80",
+      "type": "text",
+      "text": "> One can think of such an utterance as performing the work of alignment: the utterances position the child as the not-yet adult by aligning sex (the male body) and gender (the masculine character) with sexual orientation (the heterosexual future). Through the utterance, these not-yet- but-to-be subjects are ‘‘brought into line’’ by being ‘‘given’’ a future that is ‘‘in line’’ with the family line. What intrigues me here is not so much how sex, gender, and sexual orientation can ‘‘get out of line,’’ ∞∏ which they certainly can and do ‘‘do,’’ but how they are kept in line, often through force, such that any nonalignment produces a queer e√ect.\n\n[[queer-phenomenology_ahmed.pdf#page=82&annotation=4577R|queer-phenomenology_ahmed, page 82]]",
+      "styleAttributes": {},
+      "x": 240,
+      "y": 9280,
+      "width": 480,
       "height": 318
+    },
+    {
+      "id": "a3e751aafe8d18a0",
+      "type": "text",
+      "text": "##### Alignment models discussed in paper",
+      "styleAttributes": {},
+      "x": 360,
+      "y": 9640,
+      "width": 260,
+      "height": 80
     }
   ],
   "edges": [
@@ -1996,6 +2026,14 @@
       "fromSide": "top",
       "toNode": "fe04ecc9c23e1ea0",
       "toSide": "bottom"
+    },
+    {
+      "id": "c8c8361d329b406a",
+      "styleAttributes": {},
+      "fromNode": "1d031e0ac6c6ee80",
+      "fromSide": "bottom",
+      "toNode": "a3e751aafe8d18a0",
+      "toSide": "top"
     }
   ],
   "metadata": {}
