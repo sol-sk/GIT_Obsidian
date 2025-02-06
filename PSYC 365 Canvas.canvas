@@ -248,7 +248,7 @@
   },
   "nodes": [
     {
-      "height": 2740,
+      "height": 2380,
       "id": "bc33b64437a030a2",
       "label": "Studying the Brain",
       "styleAttributes": {
@@ -621,7 +621,7 @@
       "type": "text",
       "width": 520,
       "x": 760,
-      "y": 121
+      "y": 120
     },
     {
       "height": 60,
