@@ -344,6 +344,24 @@
       },
       "toNode": "0ca2b5a190641242",
       "toSide": "top"
+    },
+    {
+      "fromNode": "f9dd5f65fc479c00",
+      "fromSide": "right",
+      "id": "0bf113f0bb281b16",
+      "styleAttributes": {
+      },
+      "toNode": "89e99c98f2bfe831",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d32e7b8c8ef0c7b9",
+      "fromSide": "right",
+      "id": "7b88b4ca4ddbc25a",
+      "styleAttributes": {
+      },
+      "toNode": "cb3f38535633cbec",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -803,83 +821,6 @@
       "y": 1492
     },
     {
-      "height": 60,
-      "id": "e203cfce9a63f9e8",
-      "styleAttributes": {
-      },
-      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10800
-    },
-    {
-      "height": 60,
-      "id": "66c9baeb13aed6a3",
-      "styleAttributes": {
-      },
-      "text": "[[identify-AI-generator_fabris.pdf]]\n",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10880
-    },
-    {
-      "height": 60,
-      "id": "f82e7d9e8a69ced1",
-      "styleAttributes": {
-      },
-      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10960
-    },
-    {
-      "height": 60,
-      "id": "6bb69a058ff0f9f3",
-      "styleAttributes": {
-      },
-      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11040
-    },
-    {
-      "height": 60,
-      "id": "869c3d356d6d5123",
-      "styleAttributes": {
-      },
-      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11120
-    },
-    {
-      "height": 60,
-      "id": "eb93b08e806c861d",
-      "styleAttributes": {
-      },
-      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10640
-    },
-    {
-      "height": 60,
-      "id": "e3c19143249d3794",
-      "styleAttributes": {
-      },
-      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10720
-    },
-    {
       "height": 531,
       "id": "79727ec1ac844e4d",
       "styleAttributes": {
@@ -969,17 +910,6 @@
       "width": 260,
       "x": 2340,
       "y": 1927
-    },
-    {
-      "height": 60,
-      "id": "db433c7890044c34",
-      "styleAttributes": {
-      },
-      "text": "## Articles about Nightshade",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10560
     },
     {
       "height": 60,
@@ -1079,17 +1009,6 @@
       "width": 460,
       "x": 1840,
       "y": 1500
-    },
-    {
-      "height": 60,
-      "id": "5d924eadab046703",
-      "styleAttributes": {
-      },
-      "text": "[[protective-perturbations_peng.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11200
     },
     {
       "height": 60,
@@ -2394,17 +2313,6 @@
     },
     {
       "height": 60,
-      "id": "0112293d5cd23781",
-      "styleAttributes": {
-      },
-      "text": "[[poisoning-already-poisoned_misri.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11280
-    },
-    {
-      "height": 60,
       "id": "07cee3e03e914810",
       "styleAttributes": {
       },
@@ -2413,6 +2321,127 @@
       "width": 370,
       "x": -660,
       "y": 9860
+    },
+    {
+      "height": 60,
+      "id": "2e1ce421fd9df51e",
+      "styleAttributes": {
+      },
+      "text": "[[platospharmacy-pt1_ derrida.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 9960
+    },
+    {
+      "height": 60,
+      "id": "e203cfce9a63f9e8",
+      "styleAttributes": {
+      },
+      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10800
+    },
+    {
+      "height": 60,
+      "id": "66c9baeb13aed6a3",
+      "styleAttributes": {
+      },
+      "text": "[[identify-AI-generator_fabris.pdf]]\n",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10880
+    },
+    {
+      "height": 60,
+      "id": "f82e7d9e8a69ced1",
+      "styleAttributes": {
+      },
+      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10960
+    },
+    {
+      "height": 60,
+      "id": "6bb69a058ff0f9f3",
+      "styleAttributes": {
+      },
+      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11040
+    },
+    {
+      "height": 60,
+      "id": "869c3d356d6d5123",
+      "styleAttributes": {
+      },
+      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11120
+    },
+    {
+      "height": 60,
+      "id": "eb93b08e806c861d",
+      "styleAttributes": {
+      },
+      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10640
+    },
+    {
+      "height": 60,
+      "id": "e3c19143249d3794",
+      "styleAttributes": {
+      },
+      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10720
+    },
+    {
+      "height": 60,
+      "id": "db433c7890044c34",
+      "styleAttributes": {
+      },
+      "text": "## Articles about Nightshade",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10560
+    },
+    {
+      "height": 60,
+      "id": "5d924eadab046703",
+      "styleAttributes": {
+      },
+      "text": "[[protective-perturbations_peng.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11200
+    },
+    {
+      "height": 60,
+      "id": "0112293d5cd23781",
+      "styleAttributes": {
+      },
+      "text": "[[poisoning-already-poisoned_misri.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11280
     },
     {
       "height": 60,
@@ -2426,6 +2455,17 @@
       "y": 11360
     },
     {
+      "height": 60,
+      "id": "00ecc2f7af3fb451",
+      "styleAttributes": {
+      },
+      "text": "[[cultural-techniques_siegert.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10280
+    },
+    {
       "height": 80,
       "id": "485f0803e74f6e7d",
       "styleAttributes": {
@@ -2437,17 +2477,6 @@
       "y": 10180
     },
     {
-      "height": 100,
-      "id": "89e99c98f2bfe831",
-      "styleAttributes": {
-      },
-      "text": "https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10040
-    },
-    {
       "height": 60,
       "id": "934088a1503e27ad",
       "styleAttributes": {
@@ -2456,18 +2485,18 @@
       "type": "text",
       "width": 330,
       "x": -660,
-      "y": 10160
+      "y": 10200
     },
     {
-      "height": 60,
-      "id": "00ecc2f7af3fb451",
+      "height": 90,
+      "id": "cb3f38535633cbec",
       "styleAttributes": {
       },
-      "text": "[[cultural-techniques_siegert.pdf]]",
+      "text": "http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html",
       "type": "text",
-      "width": 260,
-      "x": -660,
-      "y": 10230
+      "width": 290,
+      "x": -290,
+      "y": 10130
     },
     {
       "height": 60,
@@ -2476,20 +2505,42 @@
       },
       "text": "[[the-exploit_galloway-thacker.pdf]]",
       "type": "text",
-      "width": 260,
+      "width": 330,
       "x": -660,
-      "y": 10320
+      "y": 10120
     },
     {
       "height": 60,
-      "id": "cb3f38535633cbec",
+      "id": "f9dd5f65fc479c00",
       "styleAttributes": {
       },
-      "text": "http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html",
+      "text": "[[bernard-stiegler-elements-pharmacology+interview.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10040
+    },
+    {
+      "height": 100,
+      "id": "89e99c98f2bfe831",
+      "styleAttributes": {
+      },
+      "text": "https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php",
+      "type": "text",
+      "width": 290,
+      "x": -290,
+      "y": 10020
+    },
+    {
+      "height": 60,
+      "id": "78a2ae00a965168d",
+      "styleAttributes": {
+      },
+      "text": "[[COGS 402 All ]]",
       "type": "text",
       "width": 260,
-      "x": -290,
-      "y": 10320
+      "x": -1320,
+      "y": 10720
     }
   ]
 }

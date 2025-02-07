@@ -1,0 +1,375 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 1780,
+      "id": "cf3349fd277d8d36",
+      "label": "Untitled group",
+      "type": "group",
+      "width": 4460,
+      "x": -240,
+      "y": -20
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/1_JAM_What is the Real_LI 43_44.pdf",
+      "height": 400,
+      "id": "0e8e09efca57b5fb",
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf",
+      "height": 400,
+      "id": "3f8c1da67bc06718",
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/copyright-responsible-artificial-intelligence-principles_hemphill.pdf",
+      "height": 400,
+      "id": "baab2ade2ac1210f",
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/cultural-techniques_siegert.pdf",
+      "height": 400,
+      "id": "6a1985613620f7ff",
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf",
+      "height": 400,
+      "id": "ecba8025f716eb6c",
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/cyborg-manifesto_haraway.pdf",
+      "height": 400,
+      "id": "71f094ba0f389d6b",
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/against-interpretation_sontag.pdf",
+      "height": 400,
+      "id": "3a1a375585b46bbf",
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/disguised-copyright-infringement_lu-yang.pdf",
+      "height": 400,
+      "id": "918e539a33c48c04",
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/navigating-the-unseen-peril_maertens.pdf",
+      "height": 400,
+      "id": "34c040b2ec1f99a2",
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/nightshade-oakland24.pdf",
+      "height": 400,
+      "id": "39d72c805974a97d",
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/Notes 01.26.25.md",
+      "height": 400,
+      "id": "2229d0e679ca2c8f",
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/Pattern-Discrimination.pdf",
+      "height": 400,
+      "id": "16ec563f435d83d1",
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/ahmed_2014_queer-feelings-in-the-cultural-politics-of-emotion.pdf",
+      "height": 400,
+      "id": "714e1f360cc6f56d",
+      "type": "file",
+      "width": 400,
+      "x": 1560,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/excommunication_galloway_thacker_wark.pdf",
+      "height": 400,
+      "id": "ba4acb698c952a19",
+      "type": "file",
+      "width": 400,
+      "x": 1560,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/phantom-untargeted-poisoning_knauer.pdf",
+      "height": 400,
+      "id": "3568c0df85632c8d",
+      "type": "file",
+      "width": 400,
+      "x": 1560,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/ai-and-the-moving-image_mihailova.pdf",
+      "height": 400,
+      "id": "f517bdc18a69aa22",
+      "type": "file",
+      "width": 400,
+      "x": 2000,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/generative-AI-uses-and-risks_wagman.pdf",
+      "height": 400,
+      "id": "4854c101361980da",
+      "type": "file",
+      "width": 400,
+      "x": 2000,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/platospharmacy-pt1_ derrida.pdf",
+      "height": 400,
+      "id": "877efdce87d16959",
+      "type": "file",
+      "width": 400,
+      "x": 2000,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/reverse-cowgirl_wark.pdf",
+      "height": 400,
+      "id": "08f3cdab8838efa1",
+      "type": "file",
+      "width": 400,
+      "x": -220,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/salt-seller_duchamp.pdf",
+      "height": 400,
+      "id": "f67a6ba9e555296d",
+      "type": "file",
+      "width": 400,
+      "x": 220,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/situating-the-social-issues_katirai.pdf",
+      "height": 400,
+      "id": "26dbd8d06fc4edf5",
+      "type": "file",
+      "width": 400,
+      "x": 660,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/testo-junkie_preciado.pdf",
+      "height": 400,
+      "id": "af2d0ff712e137a1",
+      "type": "file",
+      "width": 400,
+      "x": 1100,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/the-exploit_galloway-thacker.pdf",
+      "height": 400,
+      "id": "028f84d35f9d061f",
+      "type": "file",
+      "width": 400,
+      "x": 1560,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/the-medium-is-the-data-set_mansoor.pdf",
+      "height": 400,
+      "id": "9f956b72e4161e47",
+      "type": "file",
+      "width": 400,
+      "x": 2000,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/ai-ethics-anarchism_agnew.pdf",
+      "height": 400,
+      "id": "fcbc75e3027582b5",
+      "type": "file",
+      "width": 400,
+      "x": 2440,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/identify-AI-generator_fabris.pdf",
+      "height": 400,
+      "id": "a2fdd5433fdf50c2",
+      "type": "file",
+      "width": 400,
+      "x": 2440,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/poisoning-already-poisoned_misri.pdf",
+      "height": 400,
+      "id": "b4f2586ba3dd3c7e",
+      "type": "file",
+      "width": 400,
+      "x": 2440,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/the-parasite_serres.pdf",
+      "height": 400,
+      "id": "2d75f97fc47bbcd7",
+      "type": "file",
+      "width": 400,
+      "x": 2440,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/bernard-stiegler-elements-pharmacology+interview.pdf",
+      "height": 400,
+      "id": "6d21e7948ff6e259",
+      "type": "file",
+      "width": 400,
+      "x": 2880,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/inflammable-space-ai-and-art_loi.pdf",
+      "height": 400,
+      "id": "513bb4a005a0afc9",
+      "type": "file",
+      "width": 400,
+      "x": 2880,
+      "y": 440
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf",
+      "height": 400,
+      "id": "c82a2d4bdfb00777",
+      "type": "file",
+      "width": 400,
+      "x": 2880,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/towards-decolonial-ai_baradaran.pdf",
+      "height": 400,
+      "id": "fedfb6ad3d4b0667",
+      "type": "file",
+      "width": 400,
+      "x": 2880,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/understanding-implosion_zhao.pdf",
+      "height": 400,
+      "id": "7a3a8da88ce4e4a6",
+      "type": "file",
+      "width": 400,
+      "x": 3360,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/unfitting_roberts.pdf",
+      "height": 400,
+      "id": "150599dae2268fb7",
+      "type": "file",
+      "width": 400,
+      "x": 3800,
+      "y": 900
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/protective-perturbations_peng.pdf",
+      "height": 400,
+      "id": "ade9f34b7564225c",
+      "type": "file",
+      "width": 400,
+      "x": 3360,
+      "y": 460
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/queer-phenomenology_ahmed.pdf",
+      "height": 400,
+      "id": "030ec8b3770a06f0",
+      "type": "file",
+      "width": 400,
+      "x": 3800,
+      "y": 460
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/Lacanian Orientation.docx",
+      "height": 400,
+      "id": "13b22c808a89484a",
+      "type": "file",
+      "width": 400,
+      "x": 3360,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/media-theoretical-pharmakon_wark-soncul.pdf",
+      "height": 400,
+      "id": "46e0022a51dce8f8",
+      "type": "file",
+      "width": 400,
+      "x": 3800,
+      "y": 0
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/zeros-and-ones_plant.pdf",
+      "height": 400,
+      "id": "2304acae25a093d3",
+      "type": "file",
+      "width": 400,
+      "x": 3800,
+      "y": 1340
+    },
+    {
+      "file": "W2024/W2024T2/COGS 402/You are not an angel a letter to my students .pdf",
+      "height": 400,
+      "id": "db9cdc601b1410c4",
+      "type": "file",
+      "width": 400,
+      "x": 3360,
+      "y": 1340
+    }
+  ]
+}
