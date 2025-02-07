@@ -350,7 +350,7 @@
   },
   "nodes": [
     {
-      "height": 10520,
+      "height": 11200,
       "id": "dd9ae97423303c4d",
       "label": "Excerpts",
       "styleAttributes": {
@@ -2325,6 +2325,94 @@
       "width": 330,
       "x": -660,
       "y": 10380
+    },
+    {
+      "height": 60,
+      "id": "eb93b08e806c861d",
+      "styleAttributes": {
+      },
+      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -680,
+      "y": 10580
+    },
+    {
+      "height": 60,
+      "id": "e3c19143249d3794",
+      "styleAttributes": {
+      },
+      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -720,
+      "y": 10660
+    },
+    {
+      "height": 60,
+      "id": "e203cfce9a63f9e8",
+      "styleAttributes": {
+      },
+      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 10720
+    },
+    {
+      "height": 60,
+      "id": "66c9baeb13aed6a3",
+      "styleAttributes": {
+      },
+      "text": "[[identify-AI-generator_fabris.pdf]]\n",
+      "type": "text",
+      "width": 260,
+      "x": -580,
+      "y": 10820
+    },
+    {
+      "height": 60,
+      "id": "f82e7d9e8a69ced1",
+      "styleAttributes": {
+      },
+      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -640,
+      "y": 10900
+    },
+    {
+      "height": 60,
+      "id": "6bb69a058ff0f9f3",
+      "styleAttributes": {
+      },
+      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
+      "type": "text",
+      "width": 260,
+      "x": -640,
+      "y": 10980
+    },
+    {
+      "height": 60,
+      "id": "869c3d356d6d5123",
+      "styleAttributes": {
+      },
+      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -620,
+      "y": 11080
+    },
+    {
+      "height": 60,
+      "id": "5d924eadab046703",
+      "styleAttributes": {
+      },
+      "text": "[[protective-perturbations_peng.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -600,
+      "y": 11160
     }
   ]
 }
