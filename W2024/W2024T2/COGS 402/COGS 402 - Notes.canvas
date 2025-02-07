@@ -362,6 +362,15 @@
       },
       "toNode": "cb3f38535633cbec",
       "toSide": "left"
+    },
+    {
+      "fromNode": "632697c3784a21e7",
+      "fromSide": "right",
+      "id": "bb8cbcd0090419cf",
+      "styleAttributes": {
+      },
+      "toNode": "c46e7e2feede00e7",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -390,105 +399,6 @@
       "y": -800
     },
     {
-      "height": 60,
-      "id": "e203cfce9a63f9e8",
-      "styleAttributes": {
-      },
-      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10800
-    },
-    {
-      "height": 60,
-      "id": "66c9baeb13aed6a3",
-      "styleAttributes": {
-      },
-      "text": "[[identify-AI-generator_fabris.pdf]]\n",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10880
-    },
-    {
-      "height": 60,
-      "id": "f82e7d9e8a69ced1",
-      "styleAttributes": {
-      },
-      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10960
-    },
-    {
-      "height": 60,
-      "id": "6bb69a058ff0f9f3",
-      "styleAttributes": {
-      },
-      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11040
-    },
-    {
-      "height": 60,
-      "id": "869c3d356d6d5123",
-      "styleAttributes": {
-      },
-      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11120
-    },
-    {
-      "height": 60,
-      "id": "eb93b08e806c861d",
-      "styleAttributes": {
-      },
-      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10640
-    },
-    {
-      "height": 60,
-      "id": "e3c19143249d3794",
-      "styleAttributes": {
-      },
-      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10720
-    },
-    {
-      "height": 60,
-      "id": "db433c7890044c34",
-      "styleAttributes": {
-      },
-      "text": "## Articles about Nightshade",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 10560
-    },
-    {
-      "height": 60,
-      "id": "5d924eadab046703",
-      "styleAttributes": {
-      },
-      "text": "[[protective-perturbations_peng.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11200
-    },
-    {
       "height": 80,
       "id": "485f0803e74f6e7d",
       "styleAttributes": {
@@ -498,28 +408,6 @@
       "width": 330,
       "x": -1160,
       "y": 10180
-    },
-    {
-      "height": 60,
-      "id": "0112293d5cd23781",
-      "styleAttributes": {
-      },
-      "text": "[[poisoning-already-poisoned_misri.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11280
-    },
-    {
-      "height": 60,
-      "id": "dc972722e0cd0f79",
-      "styleAttributes": {
-      },
-      "text": "[[copyright-responsible-artificial-intelligence-principles_hemphill.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11360
     },
     {
       "height": 60,
@@ -630,72 +518,6 @@
       "width": 330,
       "x": -660,
       "y": 10360
-    },
-    {
-      "height": 60,
-      "id": "ca61e61a2bdccd95",
-      "styleAttributes": {
-      },
-      "text": "[[situating-the-social-issues_katirai.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11600
-    },
-    {
-      "height": 60,
-      "id": "4810e28e06476476",
-      "styleAttributes": {
-      },
-      "text": "[[the-medium-is-the-data-set_mansoor.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11680
-    },
-    {
-      "height": 60,
-      "id": "1dbfc28622b0c8af",
-      "styleAttributes": {
-      },
-      "text": "[[towards-decolonial-ai_baradaran.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11760
-    },
-    {
-      "height": 60,
-      "id": "171e66a8da55a677",
-      "styleAttributes": {
-      },
-      "text": "[[understanding-implosion_zhao.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11840
-    },
-    {
-      "height": 60,
-      "id": "8a4d42d83930b115",
-      "styleAttributes": {
-      },
-      "text": "[[generative-AI-uses-and-risks_wagman.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11440
-    },
-    {
-      "height": 60,
-      "id": "3a45add2e7a60bea",
-      "styleAttributes": {
-      },
-      "text": "[[phantom-untargeted-poisoning_knauer.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 11520
     },
     {
       "height": 80,
@@ -2528,8 +2350,8 @@
       "text": "> More precisely, Nightshade transforms images into \"poison\" samples, so that models training on them without consent will see their models learn ==_unpredictable behaviors that deviate from expected norms_==,",
       "type": "text",
       "width": 440,
-      "x": 510,
-      "y": 10550
+      "x": 170,
+      "y": 10655
     },
     {
       "height": 325,
@@ -2539,63 +2361,8 @@
       "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
       "type": "text",
       "width": 440,
-      "x": 510,
-      "y": 10730
-    },
-    {
-      "height": 60,
-      "id": "54a01e8f08f68df8",
-      "styleAttributes": {
-      },
-      "text": "Can't download </3 ",
-      "type": "text",
-      "width": 260,
-      "x": 510,
-      "y": 11100
-    },
-    {
-      "height": 60,
-      "id": "632697c3784a21e7",
-      "styleAttributes": {
-      },
-      "text": "## Nightshade",
-      "type": "text",
-      "width": 260,
-      "x": 580,
-      "y": 10450
-    },
-    {
-      "height": 60,
-      "id": "ef542035222b3e0c",
-      "styleAttributes": {
-      },
-      "text": "### [[nightshade-oakland24.pdf|Nightshade - Lab paper]]",
-      "type": "text",
-      "width": 260,
-      "x": 100,
-      "y": 11130
-    },
-    {
-      "height": 60,
-      "id": "95a5c00abffa946a",
-      "styleAttributes": {
-      },
-      "text": "** Context dependent work that is necessary ",
-      "type": "text",
-      "width": 260,
-      "x": 480,
-      "y": 11350
-    },
-    {
-      "height": 80,
-      "id": "682153899fc68a15",
-      "styleAttributes": {
-      },
-      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
-      "type": "text",
-      "width": 260,
-      "x": 480,
-      "y": 11230
+      "x": 170,
+      "y": 10835
     },
     {
       "height": 65,
@@ -2605,19 +2372,241 @@
       "text": "### [[Nightshade Protecting Copyright]]",
       "type": "text",
       "width": 330,
-      "x": 100,
-      "y": 10550
+      "x": -240,
+      "y": 10655
+    },
+    {
+      "height": 60,
+      "id": "95a5c00abffa946a",
+      "styleAttributes": {
+      },
+      "text": "** Context dependent work that is necessary ",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": 11330
+    },
+    {
+      "height": 80,
+      "id": "682153899fc68a15",
+      "styleAttributes": {
+      },
+      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": 11210
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "632697c3784a21e7",
+      "styleAttributes": {
+      },
+      "text": "## Nightshade",
+      "type": "text",
+      "width": 370,
+      "x": -660,
+      "y": 10490
+    },
+    {
+      "height": 60,
+      "id": "8a4d42d83930b115",
+      "styleAttributes": {
+      },
+      "text": "[[generative-AI-uses-and-risks_wagman.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11480
+    },
+    {
+      "height": 60,
+      "id": "4810e28e06476476",
+      "styleAttributes": {
+      },
+      "text": "[[the-medium-is-the-data-set_mansoor.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11720
+    },
+    {
+      "height": 60,
+      "id": "1dbfc28622b0c8af",
+      "styleAttributes": {
+      },
+      "text": "[[towards-decolonial-ai_baradaran.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11800
+    },
+    {
+      "height": 60,
+      "id": "171e66a8da55a677",
+      "styleAttributes": {
+      },
+      "text": "[[understanding-implosion_zhao.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11880
+    },
+    {
+      "height": 60,
+      "id": "66c9baeb13aed6a3",
+      "styleAttributes": {
+      },
+      "text": "[[identify-AI-generator_fabris.pdf]]\n",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10920
+    },
+    {
+      "height": 60,
+      "id": "f82e7d9e8a69ced1",
+      "styleAttributes": {
+      },
+      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11000
+    },
+    {
+      "height": 60,
+      "id": "6bb69a058ff0f9f3",
+      "styleAttributes": {
+      },
+      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11080
+    },
+    {
+      "height": 60,
+      "id": "869c3d356d6d5123",
+      "styleAttributes": {
+      },
+      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11160
+    },
+    {
+      "height": 60,
+      "id": "e203cfce9a63f9e8",
+      "styleAttributes": {
+      },
+      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10840
+    },
+    {
+      "height": 60,
+      "id": "5d924eadab046703",
+      "styleAttributes": {
+      },
+      "text": "[[protective-perturbations_peng.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11240
+    },
+    {
+      "height": 60,
+      "id": "0112293d5cd23781",
+      "styleAttributes": {
+      },
+      "text": "[[poisoning-already-poisoned_misri.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11320
+    },
+    {
+      "height": 60,
+      "id": "dc972722e0cd0f79",
+      "styleAttributes": {
+      },
+      "text": "[[copyright-responsible-artificial-intelligence-principles_hemphill.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11400
+    },
+    {
+      "height": 60,
+      "id": "eb93b08e806c861d",
+      "styleAttributes": {
+      },
+      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10680
+    },
+    {
+      "height": 60,
+      "id": "e3c19143249d3794",
+      "styleAttributes": {
+      },
+      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10760
+    },
+    {
+      "height": 60,
+      "id": "ca61e61a2bdccd95",
+      "styleAttributes": {
+      },
+      "text": "[[situating-the-social-issues_katirai.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11640
+    },
+    {
+      "height": 60,
+      "id": "3a45add2e7a60bea",
+      "styleAttributes": {
+      },
+      "text": "[[phantom-untargeted-poisoning_knauer.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 11560
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "ef542035222b3e0c",
+      "styleAttributes": {
+      },
+      "text": "### [[nightshade-oakland24.pdf|Nightshade - Lab paper]]",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 10590
     },
     {
       "height": 60,
       "id": "c46e7e2feede00e7",
       "styleAttributes": {
       },
-      "text": "## Glaze",
+      "text": "### Glaze",
       "type": "text",
-      "width": 260,
-      "x": 1275,
-      "y": 10160
+      "width": 330,
+      "x": 135,
+      "y": 10390
     },
     {
       "height": 65,
@@ -2627,8 +2616,8 @@
       "text": "### [[The poison well]]",
       "type": "text",
       "width": 330,
-      "x": 1240,
-      "y": 10260
+      "x": 135,
+      "y": 10485
     }
   ]
 }
