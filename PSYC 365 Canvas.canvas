@@ -310,28 +310,6 @@
       "y": 140
     },
     {
-      "height": 125,
-      "id": "ef6ccd14871cc654",
-      "styleAttributes": {
-      },
-      "text": "Lesion studies:\n- Causal \n- behaviors & cogn. processes",
-      "type": "text",
-      "width": 260,
-      "x": -40,
-      "y": -320
-    },
-    {
-      "height": 154,
-      "id": "75f367c0d68d68e3",
-      "styleAttributes": {
-      },
-      "text": "Neuromodulation - TMS & TES: \n- Causal \n- Inhibiting/exciting neurons \n- behaviors & cogn. processes",
-      "type": "text",
-      "width": 260,
-      "x": -40,
-      "y": -79
-    },
-    {
       "height": 140,
       "id": "bc5bba5490c9e6a9",
       "styleAttributes": {
@@ -363,39 +341,6 @@
       "width": 320,
       "x": 760,
       "y": 1602
-    },
-    {
-      "height": 122,
-      "id": "ad8a03fca1847400",
-      "styleAttributes": {
-      },
-      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
-      "type": "text",
-      "width": 260,
-      "x": 320,
-      "y": -318
-    },
-    {
-      "height": 282,
-      "id": "af80c58975a86b48",
-      "styleAttributes": {
-      },
-      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
-      "type": "text",
-      "width": 440,
-      "x": 680,
-      "y": -317
-    },
-    {
-      "height": 180,
-      "id": "149112c8b79929e8",
-      "styleAttributes": {
-      },
-      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 140
     },
     {
       "height": 246,
@@ -803,6 +748,61 @@
       "width": 720,
       "x": -2240,
       "y": 1058
+    },
+    {
+      "height": 282,
+      "id": "af80c58975a86b48",
+      "styleAttributes": {
+      },
+      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
+      "type": "text",
+      "width": 440,
+      "x": 680,
+      "y": -317
+    },
+    {
+      "height": 122,
+      "id": "ad8a03fca1847400",
+      "styleAttributes": {
+      },
+      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
+      "type": "text",
+      "width": 260,
+      "x": 320,
+      "y": -318
+    },
+    {
+      "height": 180,
+      "id": "149112c8b79929e8",
+      "styleAttributes": {
+      },
+      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 140
+    },
+    {
+      "height": 125,
+      "id": "ef6ccd14871cc654",
+      "styleAttributes": {
+      },
+      "text": "Lesion studies:\n- Causal \n- behaviors & cogn. processes",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": -320
+    },
+    {
+      "height": 154,
+      "id": "75f367c0d68d68e3",
+      "styleAttributes": {
+      },
+      "text": "Neuromodulation - TMS & TES: \n- Causal \n- Inhibiting/exciting neurons \n- behaviors & cogn. processes",
+      "type": "text",
+      "width": 260,
+      "x": -40,
+      "y": -79
     }
   ]
 }
