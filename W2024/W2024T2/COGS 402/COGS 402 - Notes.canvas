@@ -2405,17 +2405,6 @@
     },
     {
       "height": 60,
-      "id": "1ad181ec7dd50c66",
-      "styleAttributes": {
-      },
-      "text": "https://www.upress.umn.edu/9780816650446/the-exploit/",
-      "type": "text",
-      "width": 330,
-      "x": -660,
-      "y": 9960
-    },
-    {
-      "height": 60,
       "id": "07cee3e03e914810",
       "styleAttributes": {
       },
@@ -2482,14 +2471,25 @@
     },
     {
       "height": 60,
+      "id": "d32e7b8c8ef0c7b9",
+      "styleAttributes": {
+      },
+      "text": "[[the-exploit_galloway-thacker.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 10320
+    },
+    {
+      "height": 60,
       "id": "cb3f38535633cbec",
       "styleAttributes": {
       },
       "text": "http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html",
       "type": "text",
       "width": 260,
-      "x": -280,
-      "y": 9980
+      "x": -290,
+      "y": 10320
     }
   ]
 }
