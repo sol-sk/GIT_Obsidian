@@ -3,15 +3,6 @@
   ],
   "nodes": [
     {
-      "height": 1780,
-      "id": "cf3349fd277d8d36",
-      "label": "Untitled group",
-      "type": "group",
-      "width": 4460,
-      "x": -240,
-      "y": -20
-    },
-    {
       "file": "W2024/W2024T2/COGS 402/1_JAM_What is the Real_LI 43_44.pdf",
       "height": 400,
       "id": "0e8e09efca57b5fb",
@@ -26,7 +17,7 @@
       "id": "3f8c1da67bc06718",
       "type": "file",
       "width": 400,
-      "x": 220,
+      "x": 260,
       "y": 0
     },
     {
@@ -36,7 +27,7 @@
       "type": "file",
       "width": 400,
       "x": -220,
-      "y": 440
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/cultural-techniques_siegert.pdf",
@@ -44,8 +35,8 @@
       "id": "6a1985613620f7ff",
       "type": "file",
       "width": 400,
-      "x": 220,
-      "y": 440
+      "x": 260,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf",
@@ -53,7 +44,7 @@
       "id": "ecba8025f716eb6c",
       "type": "file",
       "width": 400,
-      "x": 660,
+      "x": 740,
       "y": 0
     },
     {
@@ -62,8 +53,8 @@
       "id": "71f094ba0f389d6b",
       "type": "file",
       "width": 400,
-      "x": 660,
-      "y": 440
+      "x": 740,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/against-interpretation_sontag.pdf",
@@ -71,7 +62,7 @@
       "id": "3a1a375585b46bbf",
       "type": "file",
       "width": 400,
-      "x": 1100,
+      "x": 1220,
       "y": 0
     },
     {
@@ -80,8 +71,8 @@
       "id": "918e539a33c48c04",
       "type": "file",
       "width": 400,
-      "x": 1100,
-      "y": 440
+      "x": 1220,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/navigating-the-unseen-peril_maertens.pdf",
@@ -90,7 +81,7 @@
       "type": "file",
       "width": 400,
       "x": -220,
-      "y": 900
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/nightshade-oakland24.pdf",
@@ -98,8 +89,8 @@
       "id": "39d72c805974a97d",
       "type": "file",
       "width": 400,
-      "x": 220,
-      "y": 900
+      "x": 260,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/Notes 01.26.25.md",
@@ -107,8 +98,8 @@
       "id": "2229d0e679ca2c8f",
       "type": "file",
       "width": 400,
-      "x": 660,
-      "y": 900
+      "x": 740,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/Pattern-Discrimination.pdf",
@@ -116,8 +107,8 @@
       "id": "16ec563f435d83d1",
       "type": "file",
       "width": 400,
-      "x": 1100,
-      "y": 900
+      "x": 1220,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/ahmed_2014_queer-feelings-in-the-cultural-politics-of-emotion.pdf",
@@ -125,7 +116,7 @@
       "id": "714e1f360cc6f56d",
       "type": "file",
       "width": 400,
-      "x": 1560,
+      "x": 1700,
       "y": 0
     },
     {
@@ -134,8 +125,8 @@
       "id": "ba4acb698c952a19",
       "type": "file",
       "width": 400,
-      "x": 1560,
-      "y": 440
+      "x": 1700,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/phantom-untargeted-poisoning_knauer.pdf",
@@ -143,8 +134,8 @@
       "id": "3568c0df85632c8d",
       "type": "file",
       "width": 400,
-      "x": 1560,
-      "y": 900
+      "x": 1700,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/ai-and-the-moving-image_mihailova.pdf",
@@ -152,7 +143,7 @@
       "id": "f517bdc18a69aa22",
       "type": "file",
       "width": 400,
-      "x": 2000,
+      "x": 2180,
       "y": 0
     },
     {
@@ -161,8 +152,8 @@
       "id": "4854c101361980da",
       "type": "file",
       "width": 400,
-      "x": 2000,
-      "y": 440
+      "x": 2180,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/platospharmacy-pt1_ derrida.pdf",
@@ -170,8 +161,8 @@
       "id": "877efdce87d16959",
       "type": "file",
       "width": 400,
-      "x": 2000,
-      "y": 900
+      "x": 2180,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/reverse-cowgirl_wark.pdf",
@@ -180,7 +171,7 @@
       "type": "file",
       "width": 400,
       "x": -220,
-      "y": 1340
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/salt-seller_duchamp.pdf",
@@ -188,8 +179,8 @@
       "id": "f67a6ba9e555296d",
       "type": "file",
       "width": 400,
-      "x": 220,
-      "y": 1340
+      "x": 260,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/situating-the-social-issues_katirai.pdf",
@@ -197,8 +188,8 @@
       "id": "26dbd8d06fc4edf5",
       "type": "file",
       "width": 400,
-      "x": 660,
-      "y": 1340
+      "x": 740,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/testo-junkie_preciado.pdf",
@@ -206,8 +197,8 @@
       "id": "af2d0ff712e137a1",
       "type": "file",
       "width": 400,
-      "x": 1100,
-      "y": 1340
+      "x": 1220,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/the-exploit_galloway-thacker.pdf",
@@ -215,8 +206,8 @@
       "id": "028f84d35f9d061f",
       "type": "file",
       "width": 400,
-      "x": 1560,
-      "y": 1340
+      "x": 1700,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/the-medium-is-the-data-set_mansoor.pdf",
@@ -224,8 +215,8 @@
       "id": "9f956b72e4161e47",
       "type": "file",
       "width": 400,
-      "x": 2000,
-      "y": 1340
+      "x": 2180,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/ai-ethics-anarchism_agnew.pdf",
@@ -233,7 +224,7 @@
       "id": "fcbc75e3027582b5",
       "type": "file",
       "width": 400,
-      "x": 2440,
+      "x": 2660,
       "y": 0
     },
     {
@@ -242,8 +233,8 @@
       "id": "a2fdd5433fdf50c2",
       "type": "file",
       "width": 400,
-      "x": 2440,
-      "y": 440
+      "x": 2660,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/poisoning-already-poisoned_misri.pdf",
@@ -251,8 +242,8 @@
       "id": "b4f2586ba3dd3c7e",
       "type": "file",
       "width": 400,
-      "x": 2440,
-      "y": 900
+      "x": 2660,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/the-parasite_serres.pdf",
@@ -260,8 +251,8 @@
       "id": "2d75f97fc47bbcd7",
       "type": "file",
       "width": 400,
-      "x": 2440,
-      "y": 1340
+      "x": 2660,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/bernard-stiegler-elements-pharmacology+interview.pdf",
@@ -269,7 +260,7 @@
       "id": "6d21e7948ff6e259",
       "type": "file",
       "width": 400,
-      "x": 2880,
+      "x": 3140,
       "y": 0
     },
     {
@@ -278,8 +269,8 @@
       "id": "513bb4a005a0afc9",
       "type": "file",
       "width": 400,
-      "x": 2880,
-      "y": 440
+      "x": 3140,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf",
@@ -287,8 +278,8 @@
       "id": "c82a2d4bdfb00777",
       "type": "file",
       "width": 400,
-      "x": 2880,
-      "y": 900
+      "x": 3140,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/towards-decolonial-ai_baradaran.pdf",
@@ -296,8 +287,8 @@
       "id": "fedfb6ad3d4b0667",
       "type": "file",
       "width": 400,
-      "x": 2880,
-      "y": 1340
+      "x": 3140,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/understanding-implosion_zhao.pdf",
@@ -305,8 +296,8 @@
       "id": "7a3a8da88ce4e4a6",
       "type": "file",
       "width": 400,
-      "x": 3360,
-      "y": 900
+      "x": 3620,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/unfitting_roberts.pdf",
@@ -314,8 +305,8 @@
       "id": "150599dae2268fb7",
       "type": "file",
       "width": 400,
-      "x": 3800,
-      "y": 900
+      "x": 4100,
+      "y": 960
     },
     {
       "file": "W2024/W2024T2/COGS 402/protective-perturbations_peng.pdf",
@@ -323,8 +314,8 @@
       "id": "ade9f34b7564225c",
       "type": "file",
       "width": 400,
-      "x": 3360,
-      "y": 460
+      "x": 3620,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/queer-phenomenology_ahmed.pdf",
@@ -332,8 +323,8 @@
       "id": "030ec8b3770a06f0",
       "type": "file",
       "width": 400,
-      "x": 3800,
-      "y": 460
+      "x": 4100,
+      "y": 480
     },
     {
       "file": "W2024/W2024T2/COGS 402/Lacanian Orientation.docx",
@@ -341,7 +332,7 @@
       "id": "13b22c808a89484a",
       "type": "file",
       "width": 400,
-      "x": 3360,
+      "x": 3620,
       "y": 0
     },
     {
@@ -350,7 +341,7 @@
       "id": "46e0022a51dce8f8",
       "type": "file",
       "width": 400,
-      "x": 3800,
+      "x": 4100,
       "y": 0
     },
     {
@@ -359,8 +350,8 @@
       "id": "2304acae25a093d3",
       "type": "file",
       "width": 400,
-      "x": 3800,
-      "y": 1340
+      "x": 4100,
+      "y": 1440
     },
     {
       "file": "W2024/W2024T2/COGS 402/You are not an angel a letter to my students .pdf",
@@ -368,8 +359,8 @@
       "id": "db9cdc601b1410c4",
       "type": "file",
       "width": 400,
-      "x": 3360,
-      "y": 1340
+      "x": 3620,
+      "y": 1440
     }
   ]
 }
