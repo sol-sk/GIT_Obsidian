@@ -2303,6 +2303,28 @@
       "width": 260,
       "x": -460,
       "y": 10080
+    },
+    {
+      "height": 80,
+      "id": "485f0803e74f6e7d",
+      "styleAttributes": {
+      },
+      "text": "Check postings from academics about upcoming/new research through IG/socials \n",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10260
+    },
+    {
+      "height": 100,
+      "id": "89e99c98f2bfe831",
+      "styleAttributes": {
+      },
+      "text": "",
+      "type": "text",
+      "width": 330,
+      "x": -660,
+      "y": 10380
     }
   ]
 }
