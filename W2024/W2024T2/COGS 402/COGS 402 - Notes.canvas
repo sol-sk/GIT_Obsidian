@@ -2343,61 +2343,6 @@
       "y": -920
     },
     {
-      "height": 129,
-      "id": "756524577343fe4c",
-      "styleAttributes": {
-      },
-      "text": "> More precisely, Nightshade transforms images into \"poison\" samples, so that models training on them without consent will see their models learn ==_unpredictable behaviors that deviate from expected norms_==,",
-      "type": "text",
-      "width": 440,
-      "x": 170,
-      "y": 10655
-    },
-    {
-      "height": 325,
-      "id": "f89ecbbc02b54f20",
-      "styleAttributes": {
-      },
-      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
-      "type": "text",
-      "width": 440,
-      "x": 170,
-      "y": 10835
-    },
-    {
-      "height": 65,
-      "id": "7a7e33aea271a620",
-      "styleAttributes": {
-      },
-      "text": "### [[Nightshade Protecting Copyright]]",
-      "type": "text",
-      "width": 330,
-      "x": -240,
-      "y": 10655
-    },
-    {
-      "height": 60,
-      "id": "95a5c00abffa946a",
-      "styleAttributes": {
-      },
-      "text": "** Context dependent work that is necessary ",
-      "type": "text",
-      "width": 260,
-      "x": 170,
-      "y": 11330
-    },
-    {
-      "height": 80,
-      "id": "682153899fc68a15",
-      "styleAttributes": {
-      },
-      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
-      "type": "text",
-      "width": 260,
-      "x": 170,
-      "y": 11210
-    },
-    {
       "color": "6",
       "height": 60,
       "id": "632697c3784a21e7",
@@ -2598,6 +2543,61 @@
       "y": 10590
     },
     {
+      "height": 325,
+      "id": "f89ecbbc02b54f20",
+      "styleAttributes": {
+      },
+      "text": "> _The answer is that Glaze is a defensive tool that individual artists can use to protect themselves against style mimicry attacks, while Nightshade is an offensive tool that artists can use as a group to disrupt models that scrape their images without consent (thus protecting all artists against these models). Glaze should be used on every piece of artwork artists post online to protect themselves, while Nightshade is an entirely optional feature that can be used to deter unscrupulous model trainers. Artists who post their own art online should ideally have both Glaze AND Nightshade applied to their artwork. We are working on an integrated release of these tools._",
+      "type": "text",
+      "width": 440,
+      "x": 170,
+      "y": 11015
+    },
+    {
+      "height": 80,
+      "id": "682153899fc68a15",
+      "styleAttributes": {
+      },
+      "text": "Can write about community aspect, willingness to reach out to lab, fact that the link is down",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": 11390
+    },
+    {
+      "height": 65,
+      "id": "7a7e33aea271a620",
+      "styleAttributes": {
+      },
+      "text": "### [[Nightshade Protecting Copyright]]",
+      "type": "text",
+      "width": 330,
+      "x": -240,
+      "y": 10835
+    },
+    {
+      "height": 129,
+      "id": "756524577343fe4c",
+      "styleAttributes": {
+      },
+      "text": "> More precisely, Nightshade transforms images into \"poison\" samples, so that models training on them without consent will see their models learn ==_unpredictable behaviors that deviate from expected norms_==,",
+      "type": "text",
+      "width": 440,
+      "x": 170,
+      "y": 10835
+    },
+    {
+      "height": 60,
+      "id": "95a5c00abffa946a",
+      "styleAttributes": {
+      },
+      "text": "** Context dependent work that is necessary ",
+      "type": "text",
+      "width": 260,
+      "x": 170,
+      "y": 11510
+    },
+    {
       "height": 60,
       "id": "c46e7e2feede00e7",
       "styleAttributes": {
@@ -2605,8 +2605,8 @@
       "text": "### Glaze",
       "type": "text",
       "width": 330,
-      "x": 135,
-      "y": 10390
+      "x": -145,
+      "y": 10580
     },
     {
       "height": 65,
@@ -2616,8 +2616,8 @@
       "text": "### [[The poison well]]",
       "type": "text",
       "width": 330,
-      "x": 135,
-      "y": 10485
+      "x": -145,
+      "y": 10675
     }
   ]
 }
