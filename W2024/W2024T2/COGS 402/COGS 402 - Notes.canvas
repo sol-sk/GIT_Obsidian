@@ -2618,6 +2618,48 @@
       "width": 330,
       "x": -145,
       "y": 10675
+    },
+    {
+      "height": 60,
+      "id": "afb2ae545b754fdb",
+      "styleAttributes": {
+      },
+      "text": "### Thacker",
+      "type": "text",
+      "width": 260,
+      "x": 2940,
+      "y": 2960
+    },
+    {
+      "height": 60,
+      "id": "eff03e6838226564",
+      "styleAttributes": {
+      },
+      "text": "##### Shannon diagram",
+      "type": "text",
+      "width": 260,
+      "x": 3440,
+      "y": 3067
+    },
+    {
+      "file": "W2024 Files/Pasted image 20250207151013.png",
+      "height": 139,
+      "id": "aa9a88fa4123a9d9",
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 3157
+    },
+    {
+      "height": 146,
+      "id": "d91a3651827bc186",
+      "styleAttributes": {
+      },
+      "text": ">  In the well-known communications model put forth by Claude Shan- non and Warren Weaver in the 1940s, a sender and receiver are connected by a channel, which serves as the conduit for an in- formational message\n\n[[excommunication_galloway_thacker_wark.pdf#page=94&selection=24,54,28,19|excommunication_galloway_thacker_wark, page 94]]",
+      "type": "text",
+      "width": 382,
+      "x": 2001,
+      "y": 3636
     }
   ]
 }
