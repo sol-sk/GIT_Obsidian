@@ -1994,17 +1994,6 @@
       "y": -223
     },
     {
-      "height": 60,
-      "id": "ff6bf902f2ede736",
-      "styleAttributes": {
-      },
-      "text": "",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": -120
-    },
-    {
       "height": 80,
       "id": "3cf3f80a20d8fc8f",
       "styleAttributes": {
@@ -2508,17 +2497,6 @@
       "y": 10590
     },
     {
-      "height": 65,
-      "id": "36f9ca9b81564b53",
-      "styleAttributes": {
-      },
-      "text": "### [[The poison well]]",
-      "type": "text",
-      "width": 330,
-      "x": -145,
-      "y": 10675
-    },
-    {
       "height": 98,
       "id": "8f764975653709f6",
       "styleAttributes": {
@@ -2695,6 +2673,17 @@
       "width": 260,
       "x": 2960,
       "y": 3400
+    },
+    {
+      "height": 60,
+      "id": "36f9ca9b81564b53",
+      "styleAttributes": {
+      },
+      "text": "[[The poison well]]",
+      "type": "text",
+      "width": 315,
+      "x": -130,
+      "y": 10650
     }
   ]
 }
