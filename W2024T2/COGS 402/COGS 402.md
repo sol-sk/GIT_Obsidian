@@ -25,4 +25,7 @@ Timesheet:
 	- Started outline for paper 
 	- Read through paper from art history journal, annotated for style/formatting reference
 	- Tried to download glaze + nightshade, unsuccessfully 
-
+- 02.07.25
+	- Meeting 11-1, T'ais house working 1-3:30
+		- Finding articles that cite nightshade, importing files to Obsidian
+- 02.10.25

@@ -1865,7 +1865,7 @@
       "id": "78a2ae00a965168d",
       "styleAttributes": {
       },
-      "text": "[[COGS 402 All ]]",
+      "text": "[[COGS 402 All sources.canvas|COGS 402 All sources]]",
       "type": "text",
       "width": 260,
       "x": -1320,
@@ -2690,11 +2690,11 @@
       "id": "d1c49c711f8e0d56",
       "styleAttributes": {
       },
-      "text": "",
+      "text": "02.10.25 pp. 97-",
       "type": "text",
       "width": 260,
-      "x": 2900,
-      "y": 3360
+      "x": 2960,
+      "y": 3400
     }
   ]
 }
