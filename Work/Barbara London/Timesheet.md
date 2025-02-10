@@ -5,13 +5,13 @@
 | 12.31.24 | 2hr        | 14:30        | 16:11      | Finalizing CFGNY                            |
 | 01.03.25 | 1hr        | 10:00        | 11:00      | Correcting script                           |
 | 01.03.25 | 2hr        | 17:00        | 17:52      | Final tweaks to images, inc. meeting time   |
-| 01.05.25 | 15 min     | 21:00        | 21:09      | Editing dates on menu                       |
+| 01.05.25 | 30 min     | 21:00        | 21:09      | Editing dates on menu                       |
 | 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend  |
 | 01.07.25 | 30 min     | 10:38        | 11:01      | Final images updates for CFGNY              |
 | 01.18.25 | 1 hr       | 17:57        | 18:45      | Stan Douglas                                |
 | 01.20.25 | 30 min     | 12:58        | 13:15      | Page settings                               |
 | 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY         |
-| 01.22.25 | 15 min     |              |            | Updating audio links                        |
+| 01.22.25 | 30 min     | 08:00        | 8:29       | Updating audio links                        |
 | 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript  |
 | 02.04.25 | 1.5 hr     | 20:30        | 21:39      | Links, image captions, formatting           |
 | 02.06.25 | 30 min     | 09:35        | 09:50      | Tweaks to credits and formatting            |
