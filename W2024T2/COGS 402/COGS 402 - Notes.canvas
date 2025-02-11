@@ -409,6 +409,8 @@
       "height": 2340,
       "id": "74fe78b5d1429e87",
       "label": "Sources List",
+      "styleAttributes": {
+      },
       "type": "group",
       "width": 2280,
       "x": -5300,
@@ -1811,18 +1813,6 @@
       "y": 2960
     },
     {
-      "color": "4",
-      "height": 199,
-      "id": "d91a3651827bc186",
-      "styleAttributes": {
-      },
-      "text": ">  In the well-known communications model put forth by Claude Shan- non and Warren Weaver in the 1940s, a sender and receiver are connected by a channel, which serves as the conduit for an in- formational message\n\n[[excommunication_galloway_thacker_wark.pdf#page=94&selection=24,54,28,19|excommunication_galloway_thacker_wark, page 94]]",
-      "type": "text",
-      "width": 382,
-      "x": 2960,
-      "y": 3054
-    },
-    {
       "height": 60,
       "id": "190586fe6d277a97",
       "styleAttributes": {
@@ -1936,17 +1926,6 @@
       "y": 1980
     },
     {
-      "height": 60,
-      "id": "eff03e6838226564",
-      "styleAttributes": {
-      },
-      "text": "**Shannon diagram**",
-      "type": "text",
-      "width": 260,
-      "x": 3440,
-      "y": 3054
-    },
-    {
       "color": "#fe9f9f",
       "height": 100,
       "id": "ff413d5f39131acd",
@@ -1980,17 +1959,6 @@
       "width": 460,
       "x": 1840,
       "y": 701
-    },
-    {
-      "height": 60,
-      "id": "e0320655c0b2a339",
-      "styleAttributes": {
-      },
-      "text": "02.07.25 pp. 77-97",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 3300
     },
     {
       "height": 319,
@@ -2358,17 +2326,6 @@
       "width": 460,
       "x": 710,
       "y": 592
-    },
-    {
-      "file": "W2024 Files/Pasted image 20250207151013.png",
-      "height": 139,
-      "id": "aa9a88fa4123a9d9",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3440,
-      "y": 3144
     },
     {
       "color": "#fe9f9f",
@@ -3139,6 +3096,51 @@
       "y": -920
     },
     {
+      "color": "4",
+      "height": 199,
+      "id": "d91a3651827bc186",
+      "styleAttributes": {
+      },
+      "text": ">  In the well-known communications model put forth by Claude Shan- non and Warren Weaver in the 1940s, a sender and receiver are connected by a channel, which serves as the conduit for an in- formational message\n\n[[excommunication_galloway_thacker_wark.pdf#page=94&selection=24,54,28,19|excommunication_galloway_thacker_wark, page 94]]",
+      "type": "text",
+      "width": 382,
+      "x": 2960,
+      "y": 3054
+    },
+    {
+      "height": 60,
+      "id": "eff03e6838226564",
+      "styleAttributes": {
+      },
+      "text": "**Shannon diagram**",
+      "type": "text",
+      "width": 260,
+      "x": 3440,
+      "y": 3054
+    },
+    {
+      "height": 60,
+      "id": "e0320655c0b2a339",
+      "styleAttributes": {
+      },
+      "text": "02.07.25 pp. 77-97",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3300
+    },
+    {
+      "file": "W2024 Files/Pasted image 20250207151013.png",
+      "height": 139,
+      "id": "aa9a88fa4123a9d9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 3144
+    },
+    {
       "height": 60,
       "id": "d1c49c711f8e0d56",
       "styleAttributes": {
@@ -3152,6 +3154,8 @@
     {
       "height": 146,
       "id": "4fb35476de880465",
+      "styleAttributes": {
+      },
       "text": "> Dionysius the mediation of self and God are mediated via a process of abandonment and self-abnegation\n\n[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2690R|excommunication_galloway_thacker_wark, page 107]]",
       "type": "text",
       "width": 382,
