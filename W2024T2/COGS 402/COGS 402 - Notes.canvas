@@ -380,6 +380,15 @@
       },
       "toNode": "eff03e6838226564",
       "toSide": "left"
+    },
+    {
+      "fromNode": "4fb35476de880465",
+      "fromSide": "right",
+      "id": "a7ee8b68a556139d",
+      "styleAttributes": {
+      },
+      "toNode": "e73b4747a44d6684",
+      "toSide": "left"
     }
   ],
   "metadata": {
@@ -1962,17 +1971,6 @@
       "y": 2900
     },
     {
-      "height": 60,
-      "id": "d1c49c711f8e0d56",
-      "styleAttributes": {
-      },
-      "text": "02.10.25 pp. 97-124",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 3400
-    },
-    {
       "height": 253,
       "id": "66a7e46bb0bddf73",
       "styleAttributes": {
@@ -3139,6 +3137,59 @@
       "width": 380,
       "x": -480,
       "y": -920
+    },
+    {
+      "height": 60,
+      "id": "d1c49c711f8e0d56",
+      "styleAttributes": {
+      },
+      "text": "02.10.25 pp. 97-140 (end of chapter)",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3380
+    },
+    {
+      "height": 146,
+      "id": "4fb35476de880465",
+      "text": "> Dionysius the mediation of self and God are mediated via a process of abandonment and self-abnegation\n\n[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2690R|excommunication_galloway_thacker_wark, page 107]]",
+      "type": "text",
+      "width": 382,
+      "x": 2960,
+      "y": 3494
+    },
+    {
+      "height": 146,
+      "id": "e73b4747a44d6684",
+      "styleAttributes": {
+      },
+      "text": "[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2697R]]\n\nDionysian mediation of self & god: self-abnegation",
+      "type": "text",
+      "width": 314,
+      "x": 3413,
+      "y": 3408
+    },
+    {
+      "height": 60,
+      "id": "306c3d69cd0669c7",
+      "styleAttributes": {
+      },
+      "text": "> “there is a very great diﬀerence between the strat- egy of negative propositions and the strategy of negating the propo- sitional,” the la\u001ber of which describes the ultimate point toward which Dionysian mysticism tends\n\n[[excommunication_galloway_thacker_wark.pdf#page=108&annotation=2721R|excommunication_galloway_thacker_wark, page 108]]",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3680
+    },
+    {
+      "height": 199,
+      "id": "3a5505f4c520dbfc",
+      "styleAttributes": {
+      },
+      "text": "[[excommunication_galloway_thacker_wark.pdf#page=114&annotation=2740R]]\n\nImmediation (positive mediation, negative divinity) and antimediation (negative mediation, positive divinity)",
+      "type": "text",
+      "width": 260,
+      "x": 3413,
+      "y": 3581
     }
   ]
 }
