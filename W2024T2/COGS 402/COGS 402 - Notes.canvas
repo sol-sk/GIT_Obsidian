@@ -1869,18 +1869,6 @@
       "y": 3067
     },
     {
-      "color": "3",
-      "height": 148,
-      "id": "ada27d1e8bbb159b",
-      "styleAttributes": {
-      },
-      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 2383,
-      "y": 3067
-    },
-    {
       "height": 277,
       "id": "b6a73117981e19c3",
       "styleAttributes": {
@@ -1924,18 +1912,6 @@
       "width": 300,
       "x": 1940,
       "y": 1980
-    },
-    {
-      "color": "#fe9f9f",
-      "height": 100,
-      "id": "ff413d5f39131acd",
-      "styleAttributes": {
-      },
-      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 2410,
-      "y": 3883
     },
     {
       "color": "6",
@@ -2326,19 +2302,6 @@
       "width": 460,
       "x": 710,
       "y": 592
-    },
-    {
-      "color": "#fe9f9f",
-      "height": 60,
-      "id": "2a1d050854f37e02",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "#### Aphrodite",
-      "type": "text",
-      "width": 329,
-      "x": 2436,
-      "y": 3752
     },
     {
       "height": 60,
@@ -3194,6 +3157,43 @@
       "width": 260,
       "x": 3413,
       "y": 3581
+    },
+    {
+      "color": "3",
+      "height": 148,
+      "id": "ada27d1e8bbb159b",
+      "styleAttributes": {
+      },
+      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 2383,
+      "y": 3067
+    },
+    {
+      "color": "#fe9f9f",
+      "height": 100,
+      "id": "ff413d5f39131acd",
+      "styleAttributes": {
+      },
+      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 2410,
+      "y": 3883
+    },
+    {
+      "color": "#fe9f9f",
+      "height": 60,
+      "id": "2a1d050854f37e02",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "#### Aphrodite",
+      "type": "text",
+      "width": 329,
+      "x": 2436,
+      "y": 3752
     }
   ]
 }
