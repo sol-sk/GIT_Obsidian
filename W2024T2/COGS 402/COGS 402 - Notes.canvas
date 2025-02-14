@@ -428,117 +428,6 @@
       "y": -800
     },
     {
-      "height": 120,
-      "id": "537d989b4c772938",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
-      "type": "text",
-      "width": 300,
-      "x": -660,
-      "y": 12160
-    },
-    {
-      "height": 60,
-      "id": "a10669e0590858ad",
-      "styleAttributes": {
-      },
-      "text": "Eva Hesse, Hicks ",
-      "type": "text",
-      "width": 360,
-      "x": 2940,
-      "y": -540
-    },
-    {
-      "height": 98,
-      "id": "8f764975653709f6",
-      "styleAttributes": {
-      },
-      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
-      "type": "text",
-      "width": 360,
-      "x": 2540,
-      "y": -660
-    },
-    {
-      "height": 100,
-      "id": "202f0933998f3d8e",
-      "styleAttributes": {
-      },
-      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
-      "type": "text",
-      "width": 380,
-      "x": -480,
-      "y": -700
-    },
-    {
-      "height": 150,
-      "id": "b98c1c89cf4a9901",
-      "styleAttributes": {
-      },
-      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
-      "type": "text",
-      "width": 360,
-      "x": 3340,
-      "y": -660
-    },
-    {
-      "height": 98,
-      "id": "aa32e53fce1a5b17",
-      "styleAttributes": {
-      },
-      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
-      "type": "text",
-      "width": 360,
-      "x": 2940,
-      "y": -660
-    },
-    {
-      "height": 80,
-      "id": "b961f9fc8a1cf41c",
-      "styleAttributes": {
-      },
-      "text": "### Notes from *Woven Histories*, Lynne Cooke",
-      "type": "text",
-      "width": 400,
-      "x": 2600,
-      "y": -760
-    },
-    {
-      "height": 55,
-      "id": "d153ffeede7dce36",
-      "styleAttributes": {
-      },
-      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
-      "type": "text",
-      "width": 320,
-      "x": 3040,
-      "y": -747
-    },
-    {
-      "height": 100,
-      "id": "eead0fd1ab0983c1",
-      "styleAttributes": {
-      },
-      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
-      "type": "text",
-      "width": 380,
-      "x": -480,
-      "y": -820
-    },
-    {
-      "height": 60,
-      "id": "fa0bd652b02ea547",
-      "styleAttributes": {
-      },
-      "text": "## Lacan Reading Group",
-      "type": "text",
-      "width": 380,
-      "x": -480,
-      "y": -920
-    },
-    {
       "height": 100,
       "id": "5b98adc495bb2f72",
       "styleAttributes": {
@@ -3205,6 +3094,117 @@
       "width": 260,
       "x": 3920,
       "y": 3020
+    },
+    {
+      "height": 100,
+      "id": "202f0933998f3d8e",
+      "styleAttributes": {
+      },
+      "text": "### *3. Experience of the Real*, Miller\n[[3_JAM_Experience of the Real in Psychoanalysis_LI16.pdf]]",
+      "type": "text",
+      "width": 380,
+      "x": -480,
+      "y": -700
+    },
+    {
+      "height": 100,
+      "id": "eead0fd1ab0983c1",
+      "styleAttributes": {
+      },
+      "text": "### *2. Semblant and the Real*, Miller\n[[2_JAM_Semblant and the Real_Psychoanalytic Notebooks_9_2002.pdf]]",
+      "type": "text",
+      "width": 380,
+      "x": -480,
+      "y": -820
+    },
+    {
+      "height": 60,
+      "id": "a10669e0590858ad",
+      "styleAttributes": {
+      },
+      "text": "Eva Hesse, Hicks ",
+      "type": "text",
+      "width": 360,
+      "x": 2940,
+      "y": -540
+    },
+    {
+      "height": 98,
+      "id": "8f764975653709f6",
+      "styleAttributes": {
+      },
+      "text": "**60s & 70s**\n**Abstraction** as preeminent language of modernism\n- *Pattern emerges through structure*",
+      "type": "text",
+      "width": 360,
+      "x": 2540,
+      "y": -660
+    },
+    {
+      "height": 150,
+      "id": "b98c1c89cf4a9901",
+      "styleAttributes": {
+      },
+      "text": "**Basketry- leaving the loom**\n- Older and more universal cross-cultural practice than loom-weaving\n- Neri Oxman - protean/generative technologies for architecture",
+      "type": "text",
+      "width": 360,
+      "x": 3340,
+      "y": -660
+    },
+    {
+      "height": 98,
+      "id": "aa32e53fce1a5b17",
+      "styleAttributes": {
+      },
+      "text": "Anni Albers,  *Knot Drawing* & *Drawing for a Knot* \n- Line as thread\n- 'text' and 'textile' same latin root",
+      "type": "text",
+      "width": 360,
+      "x": 2940,
+      "y": -660
+    },
+    {
+      "height": 80,
+      "id": "b961f9fc8a1cf41c",
+      "styleAttributes": {
+      },
+      "text": "### Notes from *Woven Histories*, Lynne Cooke",
+      "type": "text",
+      "width": 400,
+      "x": 2600,
+      "y": -760
+    },
+    {
+      "height": 55,
+      "id": "d153ffeede7dce36",
+      "styleAttributes": {
+      },
+      "text": "- Interwar textile art made by women \n- Industrialization & labor\n",
+      "type": "text",
+      "width": 320,
+      "x": 3040,
+      "y": -747
+    },
+    {
+      "height": 60,
+      "id": "fa0bd652b02ea547",
+      "styleAttributes": {
+      },
+      "text": "## Lacan Reading Group",
+      "type": "text",
+      "width": 380,
+      "x": -480,
+      "y": -920
+    },
+    {
+      "height": 120,
+      "id": "537d989b4c772938",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### Reading and Smoking\n[[Reading and Smoking Candice Lin and Patrick Staff on the Malleable Body]]",
+      "type": "text",
+      "width": 300,
+      "x": -660,
+      "y": 12160
     }
   ]
 }
