@@ -1,5 +1,15 @@
 ![[COGS 402 - Notes.canvas|COGS 402 - Notes]]
 - [x] **01.14.25** - Presentation 
+
+Up next: 
+The Exploit
+Parasite
+Pharmakon 
+AI Anarchism
+Queer disabled
+
+
+
 #### Starting out
 - [x] [[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]
 
@@ -20,7 +30,8 @@
 [[zeros-and-ones_plant.pdf]]
 - Read 31/74 sections 
 
-Timesheet:
+
+##### Timesheet:
 - 01.31.25
 	- Started outline for paper 
 	- Read through paper from art history journal, annotated for style/formatting reference
@@ -29,3 +40,6 @@ Timesheet:
 	- Meeting 11-1, T'ais house working 1-3:30
 		- Finding articles that cite nightshade, importing files to Obsidian
 - 02.10.25
+	- ECUAD 12-4
+- 02.13.25
+	- 5-6
