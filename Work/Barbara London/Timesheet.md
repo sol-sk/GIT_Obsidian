@@ -15,6 +15,7 @@
 | 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript  |
 | 02.04.25 | 1.5 hr     | 20:30        | 21:39      | Links, image captions, formatting           |
 | 02.06.25 | 30 min     | 09:35        | 09:50      | Tweaks to credits and formatting            |
+| 02.14.25 |            | 17:12        |            |                                             |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
