@@ -1,4 +1,13 @@
 ![[COGS 402 - Notes.canvas|COGS 402 - Notes]]
+Tags: 
+#queering
+#media-theory
+#communication
+#networks
+#psychoanalysis
+#lacan
+#nightshade
+
 **Read:**
 ***[[1_JAM_What is the Real_LI 43_44.pdf]]***
 ***[[excommunication_galloway_thacker_wark.pdf]]***

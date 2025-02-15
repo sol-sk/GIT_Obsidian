@@ -15,7 +15,7 @@ New compendium on all things design, tech, and business at [design.co](https://d
 
 ---
 
-While working in venture capital at Kleiner Perkins in Silicon Valley, I became a fan of startups and launched the [#DesignInTech Report](https://designintech.report/) to share emerging insights at the crossroads of tech, design, and business. I started out as an engineer, then moved to art / design, then to scientific research / leading, and then into business / tech / investing. Now I’m deep in product / technology with a trail of books that trace my unlikely journey:
+While working in venture capital at Kleiner Perkins in Silicon Valley, I became a fan of startups and launched the [DesignInTech Report](https://designintech.report/) to share emerging insights at the crossroads of tech, design, and business. I started out as an engineer, then moved to art / design, then to scientific research / leading, and then into business / tech / investing. Now I’m deep in product / technology with a trail of books that trace my unlikely journey:
 
 [— How To Speak Machine](https://www.amazon.com/gp/product/039956442X/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=039956442X&linkCode=as2&tag=redesiglead03-20&linkId=c7b2358be1fbeb1f2739bba665956e16)  
 [— Redesigning Leadership](https://www.amazon.com/gp/product/0262015889?ie=UTF8&camp=1789&creativeASIN=0262015889&linkCode=xm2&tag=redesiglead03-20)  
