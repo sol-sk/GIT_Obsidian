@@ -17,6 +17,7 @@
 | 02.06.25 | 30 min     | 09:35        | 09:50      | Tweaks to credits and formatting            |
 |          |            |              |            | INVOICE SENT                                |
 | 02.14.25 | 30 min     | 17:12        | 17:30      | Creating 3.04 post                          |
+| 02.18.25 |            | 12:00        | 14:35      | 3.04 post :(                                |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
