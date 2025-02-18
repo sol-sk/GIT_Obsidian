@@ -7,7 +7,7 @@ University Press.
 
   
 
-Either the dualist project is true, in which case there is an assumption that science of observable physics/concretely existing objects will never truly explain the mind, or, the physicalist project is true, in which case the mind is nothing more than the sum of its physical parts. In either case, the argument arrives at a largely uninteresting conclusion regarding the continued study or philosophy of consciousness.
+In Daniel Stoljar's entry "Physicalism" in the Stanford Encyclopedia of Philosophy, he presents a methdological concern with physicalism as argued by Noam Chomsky in his book *New Horizons.* Stoljar describes, in brief, the premises that Chomsky lays out and the stance that he takes, that the physicalist project is fundamentally unequipped to add
 
  Stoljar summarizes Chomsky’s argument as being against the physicalist project–that it is either misleading or illegitimate. Physicalism is misleading because it purports to be distinct from the natural sciences, yet physicalists accept methodological naturalism and the resulting scientific discoveries. If the physicalist project is not scientific in nature, and the naturalistic (i.e., scientific) project is not philosophical in nature, problems arise. 
 
@@ -19,15 +19,9 @@ I believe Chomsky (via Stoljar) presents a reasonable argument against physicali
 
 Stoljar’s response to Chomsky is that the physicalist project is concerned with the limits of the naturalistic project with respect to consciousness. However, it isn’t necessary to exclude the natural sciences outright from philosophical considerations in order to have meaningful debate or discussion–it is not productive in the study of mind, from the naturalistic or physicalist side, to state that one can definitively do what the other cannot. Stoljar states that the naturalistic project will not succeed ultimately in its pursuit to explain or describe consciousness because it cannot fundamentally address qualia or phenomenological experience. While I will not be presenting an argument for or against the naturalistic project, to describe the goal of the physicalist project in terms of negatives–what science cannot or will not do–restricts the study of consciousness.  Philosophers do not need to be doing something that science cannot do in practical terms, if philosophical discussions can be productive or knowledge generating in different ways.
 
-Stoljar does not present Chomsky's argument as strongly as he could have, leading to the weak point which both Stoljar and I contend with. By reducing his point to methodological naturalism in favor of physicalism, nuances in Chomsky's argument are lost. For instance, Stoljar brings up Thomas Nagel to support his counter to Chomsky's argument. In *New Horizons*, the book Stoljar cites at the beginning of his summary in which Chomsky's argument against physicalism is found, Chomsky addresses Nagel at length. Stoljar uses Nagel to say t
+Stoljar does not present Chomsky's argument as strongly as he could have, leading to the weak point which both Stoljar and I contend with. By reducing his point to methodological naturalism in favor of physicalism, nuances in Chomsky's argument are lost. For instance, Stoljar brings up Thomas Nagel to support his counter to Chomsky's argument. In *New Horizons*, the book Stoljar cites at the beginning of his summary in which Chomsky's argument against physicalism is found, Chomsky addresses Nagel at length. Stoljar uses Nagel to say that the naturalistic project will only result in an objective picture of the world, and that this will not account for qualia or subjective experience. Chomsky does include an argument regarding this, that ethnographic studies–foll0wing naturalism–can branch across the variety of human experiences. His core qualm with physicalism is that the focus on the link between particular material concepts and human behaviors–one which is not yet understood, but which he argues can be–is not a productive one. Physicalism is indeed prescriptive rather than descriptive, purporting to make empirical claims about the nature of mental realities despite fundamentally departing from the sciences. 
 
-
-
-Stoljar says naturalistic project won’t succeed bc qualia inaccessible by naturalistic but why not just talk about the nature of qualia??  
-
-  
-
-I believe that Stoljar presents Chomsky’s argument as weaker than it is. 
+Either the dualist project is true, in which case there is an assumption that science of observable physics/concretely existing objects will never truly explain the mind, or, the physicalist project is true, in which case the mind is nothing more than the sum of its physical parts. In either case, the argument arrives at a largely uninteresting conclusion regarding the continued study or philosophy of consciousness.
 
 > In sum, Chomsky’s criticism is best understood as a kind of dilemma. The physicalist project is either identical to the naturalistic project or it is not. If it is identical, then the language and concepts that shape the project are potentially extremely misleading; but if it is not identical, then there are a number of ways in which it is illegitimate.
   
