@@ -32,5 +32,13 @@ BL Notes 1/3/25
 - [x] ~~*TBD* Add artist image to end if they allow (Elle perez)~~
 ~~Live @ 3PST/6EST Jan 8~~ **Jan 7 at 6AM EST** - ~~Scheduled~~ *Posted!*
 
-
+```
+<div class="boldgrid-section">
+<div class="container">
+<div class="row" style="margin: 0% 0% 0% 1%; padding: 10px 0px 0px;">
+<div class="col-md-12 col-sm-10 col-lg-10 col-xs-10" style="padding-left: 0px; padding-right: 0px; padding-top: 20px;">
+<p class="mod-reset"><audio src="https://www.buzzsprout.com/1248908/episodes" preload="none" controls="controls"><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span></audio></p>
+<p class="mod-reset"><a href="https://open.spotify.com/episode/5bexdz91aXO4rD6r03KPjL?si=10c28c7180424e2e" target="_blank" rel="noopener noreferrer" data-wp-editing="1"><img class="wp-image-1466" src="https://www.barbaralondon.net/wp-content/uploads/2024/12/Spotify_ListenLogo-300x123-1.png" alt="Listen on Spotify" width="124" height="45"></a> <a href="https://podcasts.apple.com/us/podcast/barbara-london-calling/id1525626178?i=1000693758150" target="_blank" rel="noopener noreferrer"><img class="wp-image-1352" src="https://www.barbaralondon.net/wp-content/uploads/2020/08/US_UK_Apple_Podcasts_Listen_Badge_RGB-300x73.jpg" alt="Apple Podcasts Listen badge" width="191" height="46"></a></p>
+<p class="">&nbsp;</p>
+```
 
