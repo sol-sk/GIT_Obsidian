@@ -27,7 +27,9 @@ Tags:
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]***
 - 
 ***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]***
+- Networks, cyberfeminism
 [[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]]
+- Cyberfeminism
 
 **Up next:** 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf]]*** 
