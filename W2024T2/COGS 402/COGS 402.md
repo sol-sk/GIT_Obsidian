@@ -24,7 +24,6 @@ Tags:
 
 **Up next:** 
 ***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf]]*** 
-- 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf]]*** 
 ***[[cultural-techniques_siegert.pdf]]***  
 ***[[god-human-animal-machine_o-gieblyn.pdf]]*** 
