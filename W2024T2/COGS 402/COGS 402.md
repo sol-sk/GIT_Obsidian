@@ -9,21 +9,27 @@ Tags:
 #nightshade
 #
 **Read:**
-***[[1_JAM_What is the Real_LI 43_44.pdf]]***
-***[[excommunication_galloway_thacker_wark.pdf]]***
-***[[nightshade-oakland24.pdf]]***
+***[[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]***
+- Book club
+***[[excommunication_galloway_thacker_wark.pdf|Excommunication]]***
+- Media theory; communication, interpretation 
+***[[nightshade-oakland24.pdf|Nightshade - Lab paper]]***
+- The foundational materials
 ***[[Pattern-Discrimination.pdf|Pattern Discrimination-Queering Homophily]]***
-[[against-interpretation_sontag.pdf]]
-[[You are not an angel a letter to my students .pdf]]
-[[On angels, demons, and artificial intelligence]]
+- Queering ANNs
+[[against-interpretation_sontag.pdf|Sontag, Against Interpretation]]
+- Communication, interpretation
+[[You are not an angel a letter to my students .pdf|Moran, You are not an angel]]
+[[On angels, demons, and artificial intelligence|Jagannathan, On angels, demons, and artificial intelligence]]
+***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf|Ahmed, Queer Feelings]]*** 
 
 **In progress:**
-***[[queer-phenomenology_ahmed.pdf]]***
-***[[zeros-and-ones_plant.pdf]]***
-[[cyborg-manifesto_haraway.pdf]]
+***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]***
+- 
+***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]***
+[[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]]
 
 **Up next:** 
-***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf]]*** 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf]]*** 
 ***[[cultural-techniques_siegert.pdf]]***  
 ***[[god-human-animal-machine_o-gieblyn.pdf]]*** 
