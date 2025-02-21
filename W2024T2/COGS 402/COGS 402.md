@@ -12,7 +12,7 @@ Tags:
 ***[[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]***
 - Book club
 ***[[excommunication_galloway_thacker_wark.pdf|Excommunication]]***
-- Media theory; communication, interpretation 
+- Media theory, communication, interpretation, 
 ***[[nightshade-oakland24.pdf|Nightshade - Lab paper]]***
 - The foundational materials
 ***[[Pattern-Discrimination.pdf|Pattern Discrimination-Queering Homophily]]***
@@ -20,50 +20,50 @@ Tags:
 [[against-interpretation_sontag.pdf|Sontag, Against Interpretation]]
 - Communication, interpretation
 [[You are not an angel a letter to my students .pdf|Moran, You are not an angel]]
+- Communication, GAI
 [[On angels, demons, and artificial intelligence|Jagannathan, On angels, demons, and artificial intelligence]]
+- Communication, GAI 
 ***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf|Ahmed, Queer Feelings]]*** 
+- Queering, capital, normativity
 
 **In progress:**
-***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]***
+***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
 - 
-***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]***
+***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]*** (299)
 - Networks, cyberfeminism
-[[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]]
+[[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]] (28)
 - Cyberfeminism
+[[unfitting_roberts.pdf]] (17)
+- Labor, artists, GAI
 
 **Up next:** 
-***[[bernard-stiegler-elements-pharmacology+interview.pdf]]*** 
-***[[cultural-techniques_siegert.pdf]]***  
-***[[god-human-animal-machine_o-gieblyn.pdf]]*** 
-***[[media-theoretical-pharmakon_wark-soncul.pdf]]***
-***[[of-other-spaces_foucault.pdf]]***
-***[[platospharmacy-pt1_ derrida.pdf]]***
-***[[salt-seller_duchamp.pdf]]***
-***[[the-exploit_galloway-thacker.pdf]]***
-***[[the-parasite_serres.pdf]]***
+***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology]]*** (50)
+***[[cultural-techniques_siegert.pdf|Siegert, Cultural Techniques]]***  (274)
+***[[god-human-animal-machine_o-gieblyn.pdf]]***  (240)
+***[[media-theoretical-pharmakon_wark-soncul.pdf]]***  (25)
+***[[of-other-spaces_foucault.pdf]]*** (9)
+***[[platospharmacy-pt1_ derrida.pdf]]*** (60)
+***[[salt-seller_duchamp.pdf]]*** (104)
+***[[the-exploit_galloway-thacker.pdf]]*** (206)
+***[[the-parasite_serres.pdf]]*** (269)
 
-[[ai-and-the-moving-image_mihailova.pdf]]
-[[ai-ethics-anarchism_agnew.pdf]]
-[[Chimeras_Inventory-of-Synthetic-Cognition.pdf]]
-[[copyright-responsible-artificial-intelligence-principles_hemphill.pdf]]
-[[Deep else a critical framework.pdf]]
-[[disguised-copyright-infringement_lu-yang.pdf]]
-[[generative-AI-uses-and-risks_wagman.pdf]]
-[[identify-AI-generator_fabris.pdf]]
-[[inflammable-space-ai-and-art_loi.pdf]]
-[[navigating-the-unseen-peril_maertens.pdf]]
-[[phantom-untargeted-poisoning_knauer.pdf]]
-[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]
-[[protective-perturbations_peng.pdf]]
-[[situating-the-social-issues_katirai.pdf]]
-[[the-medium-is-the-data-set_mansoor.pdf]]
-[[towards-decolonial-ai_baradaran.pdf]]
-[[understanding-implosion_zhao.pdf]]
-[[unfitting_roberts.pdf]]
-
-
-
-
+[[ai-and-the-moving-image_mihailova.pdf]] (39)
+[[ai-ethics-anarchism_agnew.pdf]] (4)
+[[copyright-responsible-artificial-intelligence-principles_hemphill.pdf]] (5)
+[[Deep else a critical framework.pdf]] (32)
+[[disguised-copyright-infringement_lu-yang.pdf]] (23)
+[[generative-AI-uses-and-risks_wagman.pdf]] (19)
+[[identify-AI-generator_fabris.pdf]] (64)
+[[inflammable-space-ai-and-art_loi.pdf]] (4)
+[[navigating-the-unseen-peril_maertens.pdf]] (10)
+[[phantom-untargeted-poisoning_knauer.pdf]] (15)
+[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]] (23)
+[[protective-perturbations_peng.pdf]] (7)
+[[situating-the-social-issues_katirai.pdf]] (18)
+[[the-medium-is-the-data-set_mansoor.pdf]] (7)
+[[towards-decolonial-ai_baradaran.pdf]] (13)
+[[understanding-implosion_zhao.pdf]] (15)
+[[Chimeras_Inventory-of-Synthetic-Cognition.pdf]] (540)
 
 #### Starting out
 - [x] [[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]
