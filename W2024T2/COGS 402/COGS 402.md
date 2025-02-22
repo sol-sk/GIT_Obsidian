@@ -35,6 +35,8 @@ Tags:
 - Cyberfeminism
 [[unfitting_roberts.pdf]] (17)
 - Labor, artists, GAI
+***[[the-exploit_galloway-thacker.pdf]]*** (206)
+- Networks, resistance
 
 **Up next:** 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology]]*** (50)
@@ -44,7 +46,6 @@ Tags:
 ***[[of-other-spaces_foucault.pdf]]*** (9)
 ***[[platospharmacy-pt1_ derrida.pdf]]*** (60)
 ***[[salt-seller_duchamp.pdf]]*** (104)
-***[[the-exploit_galloway-thacker.pdf]]*** (206)
 ***[[the-parasite_serres.pdf]]*** (269)
 
 [[ai-and-the-moving-image_mihailova.pdf]] (39)

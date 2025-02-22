@@ -398,6 +398,15 @@
       },
       "toNode": "362b040f91ed6086",
       "toSide": "left"
+    },
+    {
+      "fromNode": "5bb82ad26a1b05ee",
+      "fromSide": "bottom",
+      "id": "60dd9a104c0a7b7a",
+      "styleAttributes": {
+      },
+      "toNode": "17056c9067208fef",
+      "toSide": "top"
     }
   ],
   "metadata": {
@@ -3459,50 +3468,6 @@
     },
     {
       "height": 60,
-      "id": "d32e7b8c8ef0c7b9",
-      "styleAttributes": {
-      },
-      "text": "[[the-exploit_galloway-thacker.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": 240,
-      "y": 9900
-    },
-    {
-      "height": 23,
-      "id": "cb3f38535633cbec",
-      "styleAttributes": {
-      },
-      "text": "###### [The Exploit, Summary](http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html)",
-      "type": "text",
-      "width": 290,
-      "x": 320,
-      "y": 10110
-    },
-    {
-      "height": 345,
-      "id": "362b040f91ed6086",
-      "styleAttributes": {
-      },
-      "text": "> Galloway and Thacker come at the problem from a biological point of view, attempting to create a theory of networks that borrows from the biological sciences to describe networks in terms of \"nonhuman\" and \"unhuman\" forms that nevertheless share some characteristics with living and near-living things such as viruses.",
-      "type": "text",
-      "width": 260,
-      "x": 650,
-      "y": 10170
-    },
-    {
-      "height": 259,
-      "id": "161efac39fbb87fd",
-      "styleAttributes": {
-      },
-      "text": "> A third related concept is the \"exploit,\" a hackers' term for a hole or vulnerability in a system (81). The goal of resistance is to find these exploits, just as hackers do, and use them to bring about change, but in this case change for the betterment of society",
-      "type": "text",
-      "width": 260,
-      "x": 950,
-      "y": 10170
-    },
-    {
-      "height": 60,
       "id": "888212bee11a2e20",
       "styleAttributes": {
       },
@@ -3511,6 +3476,83 @@
       "width": 260,
       "x": 335,
       "y": 10283
+    },
+    {
+      "height": 60,
+      "id": "cb3f38535633cbec",
+      "styleAttributes": {
+      },
+      "text": "###### [The Exploit, Summary](http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html)",
+      "type": "text",
+      "width": 290,
+      "x": 305,
+      "y": 10170
+    },
+    {
+      "height": 60,
+      "id": "d32e7b8c8ef0c7b9",
+      "styleAttributes": {
+      },
+      "text": "[[the-exploit_galloway-thacker.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": 195,
+      "y": 9900
+    },
+    {
+      "height": 180,
+      "id": "362b040f91ed6086",
+      "styleAttributes": {
+      },
+      "text": "> Galloway and Thacker come at the problem from a biological point of view, attempting to create a theory of networks that borrows from the biological sciences to describe networks in terms of \"nonhuman\" and \"unhuman\" forms that nevertheless share some characteristics with living and near-living things such as viruses.",
+      "type": "text",
+      "width": 440,
+      "x": 640,
+      "y": 10093
+    },
+    {
+      "height": 128,
+      "id": "161efac39fbb87fd",
+      "styleAttributes": {
+      },
+      "text": "> A third related concept is the \"exploit,\" a hackers' term for a hole or vulnerability in a system (81). The goal of resistance is to find these exploits, just as hackers do, and use them to bring about change, but in this case change for the betterment of society",
+      "type": "text",
+      "width": 440,
+      "x": 640,
+      "y": 10313
+    },
+    {
+      "height": 282,
+      "id": "753f13b86ddc192a",
+      "styleAttributes": {
+      },
+      "text": "> The wars of the present and future, real and metaphorical (as in the wars against disease and poverty) are actually wars of network against network — information networks against biological networks. Part of these battles will be surveillance on an unprecedented scale. Although the popular view is that new technologies will lead to a new age of freedom because they will allow users to escape outside control, Galloway and Thacker argue that these new technologies rely on increased communication to work, and that \"double the communication leads to double the control\" (124)",
+      "type": "text",
+      "width": 440,
+      "x": 1120,
+      "y": 10093
+    },
+    {
+      "height": 75,
+      "id": "5bb82ad26a1b05ee",
+      "styleAttributes": {
+      },
+      "text": "> **They suggest that networks exist on a different scale, at a different order of magnitude, than humans do**",
+      "type": "text",
+      "width": 440,
+      "x": 1600,
+      "y": 10093
+    },
+    {
+      "height": 104,
+      "id": "17056c9067208fef",
+      "styleAttributes": {
+      },
+      "text": "#### Emergence; mental higher order physical, collective higher order mental? ",
+      "type": "text",
+      "width": 260,
+      "x": 1600,
+      "y": 10209
     }
   ]
 }
