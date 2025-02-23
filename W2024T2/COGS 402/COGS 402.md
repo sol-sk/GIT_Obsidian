@@ -28,7 +28,7 @@ Tags:
 
 **In progress:**
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
-- 
+- Queering, orientation, space
 ***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]*** (299)
 - Networks, cyberfeminism, cyborgs
 [[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]] (28)
@@ -36,7 +36,7 @@ Tags:
 [[unfitting_roberts.pdf]] (17)
 - Labor, artists, GAI
 ***[[the-exploit_galloway-thacker.pdf]]*** (206)
-- Networks, resistance
+- Networks, resistence
 
 **Up next:** 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology]]*** (50)
