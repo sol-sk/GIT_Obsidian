@@ -30,9 +30,9 @@ Tags:
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
 - 
 ***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]*** (299)
-- Networks, cyberfeminism
+- Networks, cyberfeminism, cyborgs
 [[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]] (28)
-- Cyberfeminism
+- Cyberfeminism, cyborgs
 [[unfitting_roberts.pdf]] (17)
 - Labor, artists, GAI
 ***[[the-exploit_galloway-thacker.pdf]]*** (206)
