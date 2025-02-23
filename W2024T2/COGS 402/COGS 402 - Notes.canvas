@@ -2434,17 +2434,6 @@
     },
     {
       "height": 60,
-      "id": "d32e7b8c8ef0c7b9",
-      "styleAttributes": {
-      },
-      "text": "[[the-exploit_galloway-thacker.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": 160,
-      "y": 8676
-    },
-    {
-      "height": 60,
       "id": "365c7afcc8d7b81a",
       "styleAttributes": {
       },
@@ -3617,6 +3606,17 @@
       "y": 12180
     },
     {
+      "height": 180,
+      "id": "362b040f91ed6086",
+      "styleAttributes": {
+      },
+      "text": "> Galloway and Thacker come at the problem from a biological point of view, attempting to create a theory of networks that borrows from the biological sciences to describe networks in terms of \"nonhuman\" and \"unhuman\" forms that nevertheless share some characteristics with living and near-living things such as viruses.",
+      "type": "text",
+      "width": 440,
+      "x": 310,
+      "y": 9723
+    },
+    {
       "height": 60,
       "id": "cb3f38535633cbec",
       "styleAttributes": {
@@ -3624,8 +3624,8 @@
       "text": "###### [The Exploit, Summary](http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html)",
       "type": "text",
       "width": 290,
-      "x": 160,
-      "y": 8846
+      "x": 240,
+      "y": 9650
     },
     {
       "height": 75,
@@ -3635,8 +3635,8 @@
       "text": "> **They suggest that networks exist on a different scale, at a different order of magnitude, than humans do**",
       "type": "text",
       "width": 440,
-      "x": 1190,
-      "y": 8919
+      "x": 1270,
+      "y": 9723
     },
     {
       "height": 104,
@@ -3646,8 +3646,8 @@
       "text": "#### Emergence; mental higher order physical, collective higher order mental? ",
       "type": "text",
       "width": 260,
-      "x": 1190,
-      "y": 9035
+      "x": 1270,
+      "y": 9839
     },
     {
       "height": 128,
@@ -3657,8 +3657,8 @@
       "text": "> A third related concept is the \"exploit,\" a hackers' term for a hole or vulnerability in a system (81). The goal of resistance is to find these exploits, just as hackers do, and use them to bring about change, but in this case change for the betterment of society",
       "type": "text",
       "width": 440,
-      "x": 230,
-      "y": 9139
+      "x": 310,
+      "y": 9943
     },
     {
       "height": 75,
@@ -3668,19 +3668,8 @@
       "text": "> _The Exploit_ can serve as a guide, however for those who wish to write the handbooks for the new resistance movements to come.",
       "type": "text",
       "width": 440,
-      "x": 1190,
-      "y": 9192
-    },
-    {
-      "height": 180,
-      "id": "362b040f91ed6086",
-      "styleAttributes": {
-      },
-      "text": "> Galloway and Thacker come at the problem from a biological point of view, attempting to create a theory of networks that borrows from the biological sciences to describe networks in terms of \"nonhuman\" and \"unhuman\" forms that nevertheless share some characteristics with living and near-living things such as viruses.",
-      "type": "text",
-      "width": 440,
-      "x": 230,
-      "y": 8919
+      "x": 1270,
+      "y": 9996
     },
     {
       "height": 282,
@@ -3690,8 +3679,19 @@
       "text": "> The wars of the present and future, real and metaphorical (as in the wars against disease and poverty) are actually wars of network against network — information networks against biological networks. Part of these battles will be surveillance on an unprecedented scale. Although the popular view is that new technologies will lead to a new age of freedom because they will allow users to escape outside control, Galloway and Thacker argue that these new technologies rely on increased communication to work, and that \"double the communication leads to double the control\" (124)",
       "type": "text",
       "width": 440,
-      "x": 710,
-      "y": 8919
+      "x": 790,
+      "y": 9723
+    },
+    {
+      "height": 60,
+      "id": "d32e7b8c8ef0c7b9",
+      "styleAttributes": {
+      },
+      "text": "[[the-exploit_galloway-thacker.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": 240,
+      "y": 9480
     },
     {
       "height": 259,
@@ -3701,8 +3701,8 @@
       "text": "> In a departure from the mass protests of the 1960s, in which turning out large numbers of people to a single location and showing solidarity to a cause or group was important, the new forms of protest are loosely organized and distributed. They use technology to their advantage. \"The very fact that the multitude is not 'One' is its greatest strength; the multitude's inherently decentralized and even distributed character gives it a flexibility and robustness that centralized modes of organization lack\" (150-151).",
       "type": "text",
       "width": 440,
-      "x": 710,
-      "y": 9230
+      "x": 790,
+      "y": 10034
     },
     {
       "height": 60,
@@ -3712,8 +3712,8 @@
       "text": "Power relations have become distributed network",
       "type": "text",
       "width": 275,
-      "x": 230,
-      "y": 9300
+      "x": 310,
+      "y": 10104
     }
   ]
 }
