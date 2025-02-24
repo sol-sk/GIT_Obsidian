@@ -453,17 +453,6 @@
       "y": 3040
     },
     {
-      "height": 2340,
-      "id": "74fe78b5d1429e87",
-      "label": "Sources List",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 2280,
-      "x": -5300,
-      "y": 9300
-    },
-    {
       "height": 1463,
       "id": "49e839b2787ad5ac",
       "label": "Queering Homophily",
@@ -561,28 +550,6 @@
       "width": 460,
       "x": -230,
       "y": -223
-    },
-    {
-      "height": 60,
-      "id": "63d06f21e0cb762a",
-      "styleAttributes": {
-      },
-      "text": "## Queering",
-      "type": "text",
-      "width": 260,
-      "x": -1800,
-      "y": 539
-    },
-    {
-      "height": 60,
-      "id": "578ba8e70ffca36f",
-      "styleAttributes": {
-      },
-      "text": "## Communication",
-      "type": "text",
-      "width": 260,
-      "x": -1140,
-      "y": 579
     },
     {
       "height": 120,
@@ -2478,17 +2445,6 @@
       "y": 7819
     },
     {
-      "height": 100,
-      "id": "89e99c98f2bfe831",
-      "styleAttributes": {
-      },
-      "text": "https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php",
-      "type": "text",
-      "width": 290,
-      "x": -325,
-      "y": 8796
-    },
-    {
       "height": 60,
       "id": "11bbd262f478861a",
       "styleAttributes": {
@@ -2556,296 +2512,6 @@
     },
     {
       "height": 60,
-      "id": "337c037536088b54",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[protective-perturbations_peng.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 9322
-    },
-    {
-      "height": 60,
-      "id": "b1bbc6a7b196cce3",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[poisoning-already-poisoned_misri.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 9525
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "3cee58a8669b2fe0",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "## Nightshade",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 9525
-    },
-    {
-      "height": 60,
-      "id": "a3ce480f8f5b6efd",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[salt-seller_duchamp.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 9322
-    },
-    {
-      "height": 60,
-      "id": "a0387c484e768ffd",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[inflammable-space-ai-and-art_loi.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 10565
-    },
-    {
-      "height": 60,
-      "id": "cfc7e0066b35d0d1",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[situating-the-social-issues_katirai.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 10205
-    },
-    {
-      "height": 60,
-      "id": "e598a84989e3d17c",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[the-medium-is-the-data-set_mansoor.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 10425
-    },
-    {
-      "height": 60,
-      "id": "1fad22f3fb5f2289",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[disguised-copyright-infringement_lu-yang.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 10205
-    },
-    {
-      "height": 60,
-      "id": "039f6eacfd2f11fc",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[ai-and-the-moving-image_mihailova.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 9865
-    },
-    {
-      "height": 100,
-      "id": "6c50ad5af6b6b041",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### How to Poison the A.I. Machine\nFreakonomics interview w/ Ben Zhao ",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 9865
-    },
-    {
-      "height": 60,
-      "id": "563c32d1a7b37b3d",
-      "styleAttributes": {
-        "shape": null
-      },
-      "text": "## T'ai recommendations (02.07.25)",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 10565
-    },
-    {
-      "height": 60,
-      "id": "e6ee14370592b307",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[identify-AI-generator_fabris.pdf]]\n",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 10425
-    },
-    {
-      "height": 120,
-      "id": "f8e716dc230320c6",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Queer Phenomenology,* Ahmed\n[[queer-phenomenology_ahmed.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 10205
-    },
-    {
-      "height": 60,
-      "id": "c56f9764dab26270",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[phantom-untargeted-poisoning_knauer.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 10065
-    },
-    {
-      "height": 60,
-      "id": "a92bf2e8db2a88e5",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[navigating-the-unseen-peril_maertens.pdf]]\n",
-      "type": "text",
-      "width": 370,
-      "x": -4380,
-      "y": 10745
-    },
-    {
-      "height": 120,
-      "id": "07bde5af8bf0dc2f",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Against Interpretation*, Sontag\n[[against-interpretation_sontag.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 9865
-    },
-    {
-      "height": 100,
-      "id": "5b98adc495bb2f72",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 10565
-    },
-    {
-      "height": 60,
-      "id": "890b2e7f11a36480",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[unfitting_roberts.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 10425
-    },
-    {
-      "height": 140,
-      "id": "6206850d5a89d2aa",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Excommunication*, Galloway, Thacker, Wark\n[[excommunication_galloway_thacker_wark.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 10205
-    },
-    {
-      "height": 177,
-      "id": "45bd2224417606ad",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 10745
-    },
-    {
-      "height": 60,
-      "id": "2bcffe305727e515",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[ai-ethics-anarchism_agnew.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 10065
-    },
-    {
-      "height": 60,
-      "id": "819effb60e700fe0",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[platospharmacy-pt1_ derrida.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 10745
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "f8e58437f65ebf9a",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### [[nightshade-oakland24.pdf|Nightshade - Lab paper]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 9725
-    },
-    {
-      "height": 60,
-      "id": "0166422198f8affe",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[copyright-responsible-artificial-intelligence-principles_hemphill.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 9725
-    },
-    {
-      "height": 60,
       "id": "d2cf2c39bc53e8af",
       "styleAttributes": {
       },
@@ -2898,53 +2564,6 @@
       "width": 260,
       "x": -1620,
       "y": 1359
-    },
-    {
-      "height": 120,
-      "id": "dcc699c70c6ffd9e",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### \"Queerying Homophily\" in *Pattern Recognition*, Chun\n[[Pattern-Discrimination.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 9525
-    },
-    {
-      "height": 60,
-      "id": "78a2ae00a965168d",
-      "styleAttributes": {
-      },
-      "text": "## [[W2024T2/COGS 402/COGS 402 All sources.canvas|COGS 402 All sources]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 9322
-    },
-    {
-      "height": 120,
-      "id": "0c6e6a017a7e3bc4",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 9525
-    },
-    {
-      "height": 123,
-      "id": "86d88ad0a874a2df",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "#### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[Substack](https://substack.com/home/post/p-153722363?selection=440e1467-e7fd-45d6-94c4-651991915ceb#:~:text=Right%20from%20the%20start%20of%20the%20class%2C%20I%20confessed%20to%20being%20an%20AI%20skeptic%20(at%20least%20concerning%20the%20technological%20paradigms%20for%20AI%20that%20are%20most%20prominent%20now)%3B%20but%20I%20also%20shared%20my%20worry%20that%20my%20views%20were%20driven%20by%20prejudice%2C%20specifically%2C%20the%20prejudice%20that%20only%20human%20beings%20or%20creatures%20suitably%20similar%20to%20us%20can%20have%20minds)",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 9322
     },
     {
       "height": 80,
@@ -3000,42 +2619,6 @@
       "width": 330,
       "x": -1620,
       "y": 1947
-    },
-    {
-      "height": 60,
-      "id": "528a489ff5cc6a0a",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[towards-decolonial-ai_baradaran.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 10565
-    },
-    {
-      "height": 60,
-      "id": "ddf3cf86461b3aa9",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[understanding-implosion_zhao.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 10745
-    },
-    {
-      "height": 60,
-      "id": "9e8012780422a30e",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[generative-AI-uses-and-risks_wagman.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -3930,
-      "y": 9865
     },
     {
       "height": 80,
@@ -3112,55 +2695,11 @@
       "id": "2e1ce421fd9df51e",
       "styleAttributes": {
       },
-      "text": "[[platospharmacy-pt1_ derrida.pdf]]",
+      "text": "### [[platospharmacy-pt1_ derrida.pdf|Plato's Pharmacy]], Derrida",
       "type": "text",
       "width": 330,
       "x": -695,
       "y": 8736
-    },
-    {
-      "height": 60,
-      "id": "934088a1503e27ad",
-      "styleAttributes": {
-      },
-      "text": "[[the-parasite_serres.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -695,
-      "y": 8976
-    },
-    {
-      "height": 60,
-      "id": "f9dd5f65fc479c00",
-      "styleAttributes": {
-      },
-      "text": "[[bernard-stiegler-elements-pharmacology+interview.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -695,
-      "y": 8816
-    },
-    {
-      "height": 60,
-      "id": "00ecc2f7af3fb451",
-      "styleAttributes": {
-      },
-      "text": "[[cultural-techniques_siegert.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -695,
-      "y": 9056
-    },
-    {
-      "height": 60,
-      "id": "7df1c3dc5b700b55",
-      "styleAttributes": {
-      },
-      "text": "[[salt-seller_duchamp.pdf]]",
-      "type": "text",
-      "width": 330,
-      "x": -695,
-      "y": 9136
     },
     {
       "height": 60,
@@ -3345,30 +2884,6 @@
       "y": 10920
     },
     {
-      "height": 60,
-      "id": "4f2f188b5d321687",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[bernard-stiegler-elements-pharmacology+interview.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 11002
-    },
-    {
-      "height": 60,
-      "id": "eda7154e21b18529",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 11002
-    },
-    {
       "height": 325,
       "id": "f89ecbbc02b54f20",
       "styleAttributes": {
@@ -3402,30 +2917,6 @@
       "y": 11080
     },
     {
-      "height": 80,
-      "id": "bf01c5b4b8a6fd06",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Zeros and Ones*, Plant\n[[zeros-and-ones_plant.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 11142
-    },
-    {
-      "height": 60,
-      "id": "7c43207c7a0fa3a3",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[the-exploit_galloway-thacker.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 11142
-    },
-    {
       "height": 60,
       "id": "5d924eadab046703",
       "styleAttributes": {
@@ -3446,30 +2937,6 @@
       "width": 330,
       "x": -660,
       "y": 11160
-    },
-    {
-      "height": 60,
-      "id": "f37e5fa15d7f6561",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Neuromancer*, Gibson",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 11302
-    },
-    {
-      "height": 60,
-      "id": "b5b0aebf46f73b5c",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[the-parasite_serres.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -4830,
-      "y": 11302
     },
     {
       "height": 60,
@@ -3503,18 +2970,6 @@
       "width": 260,
       "x": 170,
       "y": 11390
-    },
-    {
-      "height": 60,
-      "id": "5bb77e7c50d507a1",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "[[cultural-techniques_siegert.pdf]]",
-      "type": "text",
-      "width": 370,
-      "x": -5280,
-      "y": 11442
     },
     {
       "height": 60,
@@ -3714,6 +3169,83 @@
       "width": 275,
       "x": 310,
       "y": 10104
+    },
+    {
+      "height": 60,
+      "id": "578ba8e70ffca36f",
+      "styleAttributes": {
+      },
+      "text": "## Communication",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 579
+    },
+    {
+      "height": 60,
+      "id": "63d06f21e0cb762a",
+      "styleAttributes": {
+      },
+      "text": "## Queering",
+      "type": "text",
+      "width": 260,
+      "x": -1800,
+      "y": 539
+    },
+    {
+      "height": 100,
+      "id": "89e99c98f2bfe831",
+      "styleAttributes": {
+      },
+      "text": "https://www.themontrealreview.com/Articles/Bernard_Stiegler_Elements_of_Pharmacology.php",
+      "type": "text",
+      "width": 290,
+      "x": -325,
+      "y": 9044
+    },
+    {
+      "height": 60,
+      "id": "934088a1503e27ad",
+      "styleAttributes": {
+      },
+      "text": "[[the-parasite_serres.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -695,
+      "y": 9224
+    },
+    {
+      "height": 60,
+      "id": "f9dd5f65fc479c00",
+      "styleAttributes": {
+      },
+      "text": "[[bernard-stiegler-elements-pharmacology+interview.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -695,
+      "y": 9064
+    },
+    {
+      "height": 60,
+      "id": "00ecc2f7af3fb451",
+      "styleAttributes": {
+      },
+      "text": "[[cultural-techniques_siegert.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -695,
+      "y": 9304
+    },
+    {
+      "height": 60,
+      "id": "7df1c3dc5b700b55",
+      "styleAttributes": {
+      },
+      "text": "[[salt-seller_duchamp.pdf]]",
+      "type": "text",
+      "width": 330,
+      "x": -695,
+      "y": 9384
     }
   ]
 }

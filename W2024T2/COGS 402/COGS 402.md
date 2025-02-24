@@ -28,15 +28,23 @@ Tags:
 
 **In progress:**
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
+- *20/218* 
 - Queering, orientation, space
 ***[[zeros-and-ones_plant.pdf|Plant, Zeros and Ones]]*** (299)
+- *150/299*
 - Networks, cyberfeminism, cyborgs
 [[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]] (28)
+- *6/28*
 - Cyberfeminism, cyborgs
 [[unfitting_roberts.pdf]] (17)
+- *4/17*
 - Labor, artists, GAI
 ***[[the-exploit_galloway-thacker.pdf]]*** (206)
+- *0/206*
 - Networks, resistence
+***[[platospharmacy-pt1_ derrida.pdf]]*** (50)
+- *36/50*
+- Pharmakon, mytheme, signifier, Hermes, Thoth 
 
 **Up next:** 
 ***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology]]*** (50)
@@ -44,7 +52,7 @@ Tags:
 ***[[god-human-animal-machine_o-gieblyn.pdf]]***  (240)
 ***[[media-theoretical-pharmakon_wark-soncul.pdf]]***  (25)
 ***[[of-other-spaces_foucault.pdf]]*** (9)
-***[[platospharmacy-pt1_ derrida.pdf]]*** (60)
+
 ***[[salt-seller_duchamp.pdf]]*** (104)
 ***[[the-parasite_serres.pdf]]*** (269)
 
