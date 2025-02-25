@@ -7,6 +7,7 @@ Tags:
 #psychoanalysis
 #lacan
 #nightshade
+#pharmakon
 #
 **Read:**
 ***[[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]***
@@ -25,6 +26,10 @@ Tags:
 - Communication, GAI 
 ***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf|Ahmed, Queer Feelings]]*** 
 - Queering, capital, normativity
+***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology (elements interview)]]*** (50)
+- Pharmakon, capital, digital intoxication (read pp.19-50)
+***[[platospharmacy-pt1_ derrida.pdf]]*** (50)
+- Pharmakon, mytheme, signifier, Hermes, Thoth 
 
 **In progress:**
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
@@ -42,12 +47,9 @@ Tags:
 ***[[the-exploit_galloway-thacker.pdf]]*** (206)
 - *0/206*
 - Networks, resistence
-***[[platospharmacy-pt1_ derrida.pdf]]*** (50)
-- *36/50*
-- Pharmakon, mytheme, signifier, Hermes, Thoth 
+
 
 **Up next:** 
-***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology]]*** (50)
 ***[[cultural-techniques_siegert.pdf|Siegert, Cultural Techniques]]***  (274)
 ***[[god-human-animal-machine_o-gieblyn.pdf]]***  (240)
 ***[[media-theoretical-pharmakon_wark-soncul.pdf]]***  (25)
