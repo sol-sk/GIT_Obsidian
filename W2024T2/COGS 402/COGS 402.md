@@ -20,7 +20,7 @@ Tags:
 - Queering ANNs
 [[against-interpretation_sontag.pdf|Sontag, Against Interpretation]]
 - Communication, interpretation
-[[You are not an angel a letter to my students .pdf|Moran, You are not an angel]]
+[[You are not an angel a letter to my students.pdf]]
 - Communication, GAI
 [[On angels, demons, and artificial intelligence|Jagannathan, On angels, demons, and artificial intelligence]]
 - Communication, GAI 
