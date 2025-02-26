@@ -442,28 +442,6 @@
       "y": 520
     },
     {
-      "height": 2032,
-      "id": "468352dbe9736d19",
-      "label": "Excommunication",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 4900,
-      "x": -700,
-      "y": 3040
-    },
-    {
-      "height": 1463,
-      "id": "49e839b2787ad5ac",
-      "label": "Queering Homophily",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 3300,
-      "x": -700,
-      "y": 638
-    },
-    {
       "height": 1640,
       "id": "69eab68b84e4c229",
       "label": "Queer Phenomenology",
@@ -473,17 +451,6 @@
       "width": 2380,
       "x": 4420,
       "y": 920
-    },
-    {
-      "height": 939,
-      "id": "07a12575dd94d7a6",
-      "label": "Against Interpretation",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 3320,
-      "x": -700,
-      "y": 2101
     },
     {
       "height": 1000,
@@ -528,6 +495,39 @@
       "width": 1580,
       "x": 1460,
       "y": 6400
+    },
+    {
+      "height": 2032,
+      "id": "468352dbe9736d19",
+      "label": "Excommunication",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 4900,
+      "x": -700,
+      "y": 3040
+    },
+    {
+      "height": 1463,
+      "id": "49e839b2787ad5ac",
+      "label": "Queering Homophily",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3300,
+      "x": -700,
+      "y": 638
+    },
+    {
+      "height": 939,
+      "id": "07a12575dd94d7a6",
+      "label": "Against Interpretation",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3320,
+      "x": -700,
+      "y": 2101
     },
     {
       "height": 1000,
@@ -1027,17 +1027,6 @@
     },
     {
       "height": 60,
-      "id": "578ba8e70ffca36f",
-      "styleAttributes": {
-      },
-      "text": "## Communication",
-      "type": "text",
-      "width": 260,
-      "x": -1140,
-      "y": 579
-    },
-    {
-      "height": 60,
       "id": "63d06f21e0cb762a",
       "styleAttributes": {
       },
@@ -1081,61 +1070,6 @@
       "y": 7936
     },
     {
-      "height": 75,
-      "id": "5bb82ad26a1b05ee",
-      "styleAttributes": {
-      },
-      "text": "> **They suggest that networks exist on a different scale, at a different order of magnitude, than humans do**",
-      "type": "text",
-      "width": 440,
-      "x": 1270,
-      "y": 9723
-    },
-    {
-      "height": 104,
-      "id": "17056c9067208fef",
-      "styleAttributes": {
-      },
-      "text": "#### Emergence; mental higher order physical, collective higher order mental? ",
-      "type": "text",
-      "width": 260,
-      "x": 1270,
-      "y": 9839
-    },
-    {
-      "height": 75,
-      "id": "135a7b18ce52dc1a",
-      "styleAttributes": {
-      },
-      "text": "> _The Exploit_ can serve as a guide, however for those who wish to write the handbooks for the new resistance movements to come.",
-      "type": "text",
-      "width": 440,
-      "x": 1270,
-      "y": 9996
-    },
-    {
-      "height": 240,
-      "id": "2ce85f9577381306",
-      "styleAttributes": {
-      },
-      "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is **capable neither of discursive thought nor of understanding,** since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
-      "type": "text",
-      "width": 520,
-      "x": 920,
-      "y": 6656
-    },
-    {
-      "height": 155,
-      "id": "e9de283e875df07e",
-      "styleAttributes": {
-      },
-      "text": "> “It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” ",
-      "type": "text",
-      "width": 480,
-      "x": 1000,
-      "y": 7459
-    },
-    {
       "height": 221,
       "id": "082f1b8afb6577e0",
       "styleAttributes": {
@@ -1145,199 +1079,6 @@
       "width": 400,
       "x": 2115,
       "y": 7697
-    },
-    {
-      "height": 60,
-      "id": "2809be8f71c244ef",
-      "styleAttributes": {
-      },
-      "text": "##### Is AI even profitable?",
-      "type": "text",
-      "width": 260,
-      "x": 2115,
-      "y": 7582
-    },
-    {
-      "height": 94,
-      "id": "4ab7187773dc4b32",
-      "styleAttributes": {
-      },
-      "text": "> Nothing hinders the eﬀortless transition of your thoughts from brain to screen.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=485R|You are not an angel a letter to my students , page 8]]",
-      "type": "text",
-      "width": 520,
-      "x": 1880,
-      "y": 6615
-    },
-    {
-      "height": 94,
-      "id": "1a732ef7a77fe2f5",
-      "styleAttributes": {
-      },
-      "text": "> Words emerge from and belong to our bodies, whether we notice it or not.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=491R|You are not an angel a letter to my students , page 8]]",
-      "type": "text",
-      "width": 525,
-      "x": 1880,
-      "y": 6729
-    },
-    {
-      "height": 251,
-      "id": "3632b13096e609a5",
-      "styleAttributes": {
-      },
-      "text": "> Why have I used up so many words to tell you that you are not an angel? Because the people who run our lives would prefer it if you carried on thinking that you were. It makes you more biddable, a better-behaved and less critically-minded worker and consumer, a pliant contributor to the data flow. Angels don’t need to think about words, or anything else; they are a mere conduit through which information passes, like light through a pane of glass. When we stop noticing words, we stop noticing the world.\n\n[[You are not an angel a letter to my students .pdf#page=13&selection=158,1,168,66|You are not an angel a letter to my students , page 13]]",
-      "type": "text",
-      "width": 525,
-      "x": 2440,
-      "y": 6755
-    },
-    {
-      "height": 283,
-      "id": "4fa73b11e6319d1b",
-      "styleAttributes": {
-      },
-      "text": "> “**Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point.** It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
-      "type": "text",
-      "width": 480,
-      "x": 1520,
-      "y": 7459
-    },
-    {
-      "height": 173,
-      "id": "7d2d096fc0e18251",
-      "styleAttributes": {
-      },
-      "text": "> The Iranian poet Kaveh Akbar says that, in the face of the ‘raw over- whelm of meaningless language’, poetry’s task is ‘to slow down our metabolization of language, to become aware of it entering us’ (Akbar 2022, xvi–xvii). I want you to savour words like that, noticing them as something diﬀerent from yourselves.\n\n[[You are not an angel a letter to my students .pdf#page=5&annotation=447R|You are not an angel a letter to my students , page 5]]",
-      "type": "text",
-      "width": 520,
-      "x": 1880,
-      "y": 6424
-    },
-    {
-      "height": 297,
-      "id": "76833ec03a4685d8",
-      "styleAttributes": {
-      },
-      "text": ">  We only think of it as a competitor because writing, and our expectations for it, have become so impoverished. We have been softened up by the proliferation of search-engine-optimising ‘content’, the cut-and-paste phrasing of man- agement speak, and the rubric-driven and professionally voiceless essays that students are taught to write in school and at university. We think that algorithms can take over writing because much human writing might as well have been produced by algorithm. It betrays no sense of a human being behind it who has laboured to find and shape the best words to gift to their reader.\n\n[[You are not an angel a letter to my students .pdf#page=10&selection=2,17,17,39|You are not an angel a letter to my students , page 10]]",
-      "type": "text",
-      "width": 525,
-      "x": 2440,
-      "y": 6424
-    },
-    {
-      "height": 94,
-      "id": "54596eddd3af677b",
-      "styleAttributes": {
-      },
-      "text": "> Angels have no such inimitable, unre- producible presence in the world.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=497R|You are not an angel a letter to my students , page 8]]",
-      "type": "text",
-      "width": 525,
-      "x": 1880,
-      "y": 6855
-    },
-    {
-      "height": 67,
-      "id": "26af22f5b8100f38",
-      "styleAttributes": {
-      },
-      "text": "> Human lives are so intensely sensual\n\n[[You are not an angel a letter to my students .pdf#page=9&annotation=504R|You are not an angel a letter to my students , page 9]]",
-      "type": "text",
-      "width": 525,
-      "x": 1880,
-      "y": 6972
-    },
-    {
-      "color": "6",
-      "height": 174,
-      "id": "24c133d506dd92f5",
-      "styleAttributes": {
-      },
-      "text": ">  for Wark the disintegra- tion and reorganization of these many ingredients into a new arrangement of freedom.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
-      "type": "text",
-      "width": 324,
-      "x": 1074,
-      "y": 3613
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "735127b5d6a98a95",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "#### The Furies",
-      "type": "text",
-      "width": 329,
-      "x": 1577,
-      "y": 3912
-    },
-    {
-      "height": 200,
-      "id": "29aefb30fb9d47ce",
-      "styleAttributes": {
-      },
-      "text": "> Taken together Iris and Hermes encompass the canonical media universe we have already described above: the universe of devices and determi- nacy, a universe in which media are either clear or complicated, either local or remote, either familiar or strange\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=21,43,25,50|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 2001,
-      "y": 3585
-    },
-    {
-      "color": "6",
-      "height": 252,
-      "id": "436dde4238945f99",
-      "styleAttributes": {
-      },
-      "text": "> Evoking the surging poetics of the swarm, Wark proposes a political heresy, one that will deviate from both traditional media theory and the traditional le\u001d: a post-hermeneutic marx- ism, or “marxism of the swarm.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=16,0,19,31|excommunication_galloway_thacker_wark, page 26]]",
-      "type": "text",
-      "width": 324,
-      "x": 1074,
-      "y": 3827
-    },
-    {
-      "height": 146,
-      "id": "4fb35476de880465",
-      "styleAttributes": {
-      },
-      "text": "> Dionysius the mediation of self and God are mediated via a process of abandonment and self-abnegation\n\n[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2690R|excommunication_galloway_thacker_wark, page 107]]",
-      "type": "text",
-      "width": 382,
-      "x": 2960,
-      "y": 3654
-    },
-    {
-      "height": 199,
-      "id": "3a5505f4c520dbfc",
-      "styleAttributes": {
-      },
-      "text": "[[excommunication_galloway_thacker_wark.pdf#page=114&annotation=2740R]]\n\nImmediation (positive mediation, negative divinity) and antimediation (negative mediation, positive divinity)",
-      "type": "text",
-      "width": 260,
-      "x": 3413,
-      "y": 3741
-    },
-    {
-      "height": 60,
-      "id": "306c3d69cd0669c7",
-      "styleAttributes": {
-      },
-      "text": "> “there is a very great diﬀerence between the strat- egy of negative propositions and the strategy of negating the propo- sitional,” the la\u001ber of which describes the ultimate point toward which Dionysian mysticism tends\n\n[[excommunication_galloway_thacker_wark.pdf#page=108&annotation=2721R|excommunication_galloway_thacker_wark, page 108]]",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 3840
-    },
-    {
-      "color": "#fe9f9f",
-      "height": 60,
-      "id": "2a1d050854f37e02",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "#### Aphrodite",
-      "type": "text",
-      "width": 329,
-      "x": 2436,
-      "y": 3912
     },
     {
       "color": "1",
@@ -1352,50 +1093,6 @@
       "y": 4019
     },
     {
-      "height": 631,
-      "id": "7494d161d09b1ece",
-      "styleAttributes": {
-      },
-      "text": ">  For those \"reconciled to the nanosecond... computer operations are conceptually fairly simple.\"\n>  The boundaries of perception might well be imposing, but they are also far from fixed. **The so-called \"history of technology\" is also a process of microengineering which continually changes perception itself.** And regardless of the rumors of disembodied lives, cryogenic havens, and bodiless zones which have accompanied these speeding machines, the digital revolution has spawned a vast swathe of debate about cyborgs, replicants, and other posthuman, inhuman, extrahuman entities which are complicating orthodox Western notions of what it is to be a human being. These are new ideas, and also more than this. Self-control, identity, freedom, and progress have long been argued out of court by postmodern theorists who have spents at least twenty years discussing the decline of all the great values and principles of the modern world. But nothing ever changes in theory. These debates are smoke rising from a very real arson attack on man's illusions of immunity and integrity. Intelligent life can no longer be monopolized. And far from vanishing into the immateriality of thin air, **the body is complicating, replicating, escaping its formal organization, the organized organs which modernity has taken for normality. This new malleability is everywhere: in the switches of transsexualism**, the perforations of tattoos and piercings, the indelible markings of brans and scars, **the emergence of neural and viral networks,** bacterial life, prostheses, neural jacks, vast numbers of wandering matrices. \n\n[[zeros-and-ones_plant.pdf#page=182&annotation=16090R|zeros-and-ones_plant, page 182]]",
-      "type": "text",
-      "width": 520,
-      "x": 1160,
-      "y": 5429
-    },
-    {
-      "height": 60,
-      "id": "8def446edf3a6a72",
-      "styleAttributes": {
-      },
-      "text": "**Technology/the body**",
-      "type": "text",
-      "width": 260,
-      "x": 1340,
-      "y": 5300
-    },
-    {
-      "height": 69,
-      "id": "45e5c5cacff1fac9",
-      "styleAttributes": {
-      },
-      "text": "> What is needed, first, is more attention to form in art. \n\n[[against-interpretation_sontag.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 2391
-    },
-    {
-      "height": 147,
-      "id": "eb6f5d8ebf618270",
-      "styleAttributes": {
-      },
-      "text": "> hat we decidedly do not need now is further to assimilate Art into Thought, or (worse yet) Art into Culture. Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. T\n\n[[against-interpretation_sontag.pdf#page=5&selection=95,9,98,35|Sontag-Against+Interpretation, page 5]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 2500
-    },
-    {
       "color": "6",
       "height": 60,
       "id": "f3fbea69a2817bee",
@@ -1406,97 +1103,6 @@
       "width": 260,
       "x": 1340,
       "y": 3060
-    },
-    {
-      "color": "2",
-      "height": 174,
-      "id": "12aae98c11e29008",
-      "styleAttributes": {
-      },
-      "text": "> Jacques Derrida famously called Hermes the “signifier god”; indeed as inventor of writing, Hermes is a key figure in any theory of mediation, producing as he does much of what we label the critical tradition\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=11,15,14,39|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 1560,
-      "y": 3227
-    },
-    {
-      "height": 60,
-      "id": "e0320655c0b2a339",
-      "styleAttributes": {
-      },
-      "text": "02.07.25 pp. 77-97",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 3460
-    },
-    {
-      "height": 146,
-      "id": "e73b4747a44d6684",
-      "styleAttributes": {
-      },
-      "text": "[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2697R]]\n\nDionysian mediation of self & god: self-abnegation",
-      "type": "text",
-      "width": 314,
-      "x": 3413,
-      "y": 3568
-    },
-    {
-      "height": 60,
-      "id": "eff03e6838226564",
-      "styleAttributes": {
-      },
-      "text": "**Shannon diagram**",
-      "type": "text",
-      "width": 260,
-      "x": 3440,
-      "y": 3214
-    },
-    {
-      "height": 69,
-      "id": "58cde369539b5bbf",
-      "styleAttributes": {
-      },
-      "text": "> **In place of a hermeneutics we need an erotics of art.**\n\n**[[against-interpretation_sontag.pdf#page=5&selection=142,0,142,53|Sontag-Against+Interpretation, page 5]]**",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 2687
-    },
-    {
-      "file": "W2024 Files/Pasted image 20250207151013.png",
-      "height": 139,
-      "id": "aa9a88fa4123a9d9",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 400,
-      "x": 3440,
-      "y": 3304
-    },
-    {
-      "height": 60,
-      "id": "742da8a221779d25",
-      "styleAttributes": {
-      },
-      "text": "“Pre-mediated language” (hallmark cards, language itself)- mansoor",
-      "type": "text",
-      "width": 260,
-      "x": 3920,
-      "y": 3180
-    },
-    {
-      "color": "2",
-      "height": 60,
-      "id": "6761936b46499ceb",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "#### Hermes",
-      "type": "text",
-      "width": 329,
-      "x": 1666,
-      "y": 3120
     },
     {
       "color": "6",
@@ -1511,133 +1117,6 @@
       "y": 3347
     },
     {
-      "color": "3",
-      "height": 148,
-      "id": "ada27d1e8bbb159b",
-      "styleAttributes": {
-      },
-      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 2383,
-      "y": 3227
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "afb2ae545b754fdb",
-      "styleAttributes": {
-      },
-      "text": "### Thacker",
-      "type": "text",
-      "width": 260,
-      "x": 2940,
-      "y": 3120
-    },
-    {
-      "color": "4",
-      "height": 199,
-      "id": "d91a3651827bc186",
-      "styleAttributes": {
-      },
-      "text": ">  In the well-known communications model put forth by Claude Shan- non and Warren Weaver in the 1940s, a sender and receiver are connected by a channel, which serves as the conduit for an in- formational message\n\n[[excommunication_galloway_thacker_wark.pdf#page=94&selection=24,54,28,19|excommunication_galloway_thacker_wark, page 94]]",
-      "type": "text",
-      "width": 382,
-      "x": 2960,
-      "y": 3214
-    },
-    {
-      "color": "3",
-      "height": 60,
-      "id": "a927cb8145bb5d73",
-      "styleAttributes": {
-        "shape": "pill"
-      },
-      "text": "#### Iris",
-      "type": "text",
-      "width": 329,
-      "x": 2472,
-      "y": 3120
-    },
-    {
-      "height": 60,
-      "id": "d1c49c711f8e0d56",
-      "styleAttributes": {
-      },
-      "text": "02.10.25 pp. 97-140 (end of chapter)",
-      "type": "text",
-      "width": 260,
-      "x": 2960,
-      "y": 3540
-    },
-    {
-      "height": 226,
-      "id": "6f90a41f3dcdae47",
-      "styleAttributes": {
-      },
-      "text": "> Harrell’s work most critically engages the creativity embedded within artificial intelligence. Phantasmal Media: An Approach to Imagination, Computation, and Expression (2013), drawn from his work with Define Me and GRIOT, groundbreaking social networking and expressive A.I. projects, asks: can A.I. have the same impact as great literature,\n\n[[Pattern-Discrimination.pdf#page=102&selection=7,0,19,20|Pattern-Discrimination, page 102]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 1112
-    },
-    {
-      "height": 60,
-      "id": "d8001a86691bec99",
-      "styleAttributes": {
-      },
-      "text": "Spatial terminology in ML/AI?",
-      "type": "text",
-      "width": 260,
-      "x": 4460,
-      "y": 1106
-    },
-    {
-      "height": 140,
-      "id": "4f27b5964ccf6df1",
-      "styleAttributes": {
-      },
-      "text": "### *Queer Phenomenology,* Ahmed\n[[queer-phenomenology_ahmed.pdf]]\n#queering ",
-      "type": "text",
-      "width": 300,
-      "x": 4440,
-      "y": 946
-    },
-    {
-      "height": 69,
-      "id": "fdc4573e7c5c2683",
-      "styleAttributes": {
-      },
-      "text": "> Vi Hart\n\n[[Pattern-Discrimination.pdf#page=100&annotation=791R|Pattern-Discrimination, page 100]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 710
-    },
-    {
-      "height": 253,
-      "id": "66a7e46bb0bddf73",
-      "styleAttributes": {
-      },
-      "text": "> In contrast to most computational identity systems that incorrectly reify identity categories by implementing them as simple data fields ... he has developed the AIR (Advanced Identity Representation) project to produce “computational models of subjective identity phenomena related to categorization such as specific forms of marginalization that are overlooked in engi- neering” (Harrell 2013, 1).\n\n[[Pattern-Discrimination.pdf#page=101&selection=27,9,50,27|Pattern-Discrimination, page 101]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 819
-    },
-    {
-      "height": 148,
-      "id": "59a7d29ddf5c74a6",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
-      "type": "text",
-      "width": 460,
-      "x": 1280,
-      "y": 776
-    },
-    {
       "color": "6",
       "height": 226,
       "id": "eba3f701e8d74803",
@@ -1648,140 +1127,6 @@
       "width": 324,
       "x": 1074,
       "y": 4119
-    },
-    {
-      "color": "3",
-      "height": 184,
-      "id": "071df9683f899a86",
-      "styleAttributes": {
-      },
-      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
-      "type": "text",
-      "width": 260,
-      "x": 1600,
-      "y": 4416
-    },
-    {
-      "color": "#fe9f9f",
-      "height": 100,
-      "id": "ff413d5f39131acd",
-      "styleAttributes": {
-      },
-      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
-      "type": "text",
-      "width": 382,
-      "x": 2410,
-      "y": 4043
-    },
-    {
-      "height": 60,
-      "id": "284b359b01e836fc",
-      "styleAttributes": {
-      },
-      "text": "Nonhuman",
-      "type": "text",
-      "width": 260,
-      "x": 1540,
-      "y": 1610
-    },
-    {
-      "height": 146,
-      "id": "0d8096cb7ac4db52",
-      "styleAttributes": {
-      },
-      "text": "> While same- sex desire has the attributes of heterosexual desire, it moves toward an object that is ‘‘normally outside the sphere’’ of that desire. In other words, it reaches objects that are not continuous with the line of normal sexual subjectivity.\n\n[[queer-phenomenology_ahmed.pdf#page=70&annotation=4569R|queer-phenomenology_ahmed, page 70]]",
-      "type": "text",
-      "width": 480,
-      "x": 4840,
-      "y": 966
-    },
-    {
-      "height": 120,
-      "id": "d9929534a866972f",
-      "styleAttributes": {
-      },
-      "text": "> Rather, the nearness of such objects is a sign of an orientation I have already taken toward the world as an orientation that shapes what we call, inadequately, ‘‘character.\n\n[[queer-phenomenology_ahmed.pdf#page=58&annotation=4591R|queer-phenomenology_ahmed, page 58]]",
-      "type": "text",
-      "width": 480,
-      "x": 4840,
-      "y": 1136
-    },
-    {
-      "height": 200,
-      "id": "8c0ee2af90a46309",
-      "styleAttributes": {
-      },
-      "text": "> The various turns toward “less coarse” and “static” concepts such as nonhuman allure (themselves inspired by networks and new media), not to mention the embrace of an instrumentalist technological logic that demeans critical analysis and celebrates digital tinkering, are oddly contradictory and self-defeating.\n\n[[Pattern-Discrimination.pdf#page=103&selection=52,10,59,10|Pattern-Discrimination, page 103]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 1378
-    },
-    {
-      "height": 318,
-      "id": "1d031e0ac6c6ee80",
-      "styleAttributes": {
-      },
-      "text": "> One can think of such an utterance as performing the work of alignment: the utterances position the child as the not-yet adult by aligning sex (the male body) and gender (the masculine character) with sexual orientation (the heterosexual future). Through the utterance, these not-yet- but-to-be subjects are ‘‘brought into line’’ by being ‘‘given’’ a future that is ‘‘in line’’ with the family line. What intrigues me here is not so much how sex, gender, and sexual orientation can ‘‘get out of line,’’ ∞∏ which they certainly can and do ‘‘do,’’ but how they are kept in line, often through force, such that any nonalignment produces a queer e√ect.\n\n[[queer-phenomenology_ahmed.pdf#page=82&annotation=4577R|queer-phenomenology_ahmed, page 82]]",
-      "type": "text",
-      "width": 480,
-      "x": 5360,
-      "y": 966
-    },
-    {
-      "height": 80,
-      "id": "a3e751aafe8d18a0",
-      "styleAttributes": {
-      },
-      "text": "##### Alignment models discussed in paper",
-      "type": "text",
-      "width": 260,
-      "x": 5480,
-      "y": 1326
-    },
-    {
-      "height": 40,
-      "id": "0ca2b5a190641242",
-      "styleAttributes": {
-      },
-      "text": "##### Proximtity - homophily",
-      "type": "text",
-      "width": 260,
-      "x": 4950,
-      "y": 1346
-    },
-    {
-      "height": 277,
-      "id": "abdfbbb459bb760c",
-      "styleAttributes": {
-      },
-      "text": "> Ahmed views queerness as an inability to be comfortable in certain norms: To feel uncomfortable is precisely to be affected by that which persists in the shaping of bodies and lives. Discom- fort is hence not about assimilation or resistance, but about inhabiting norms differently. The inhabitance is gen- erative or productive insofar as it does not end with the failure of norms to be secured, but with the possibilities of living that do not “follow” those norms through. (em- phasis in original, 155).\n\n[[Pattern-Discrimination.pdf#page=103&selection=17,51,32,25|Pattern-Discrimination, page 103]]",
-      "type": "text",
-      "width": 460,
-      "x": 1840,
-      "y": 1618
-    },
-    {
-      "height": 60,
-      "id": "553a38b687f74d2f",
-      "styleAttributes": {
-      },
-      "text": "**Queerness = inhabiting norms differently → generative**",
-      "type": "text",
-      "width": 260,
-      "x": 2320,
-      "y": 1658
-    },
-    {
-      "height": 60,
-      "id": "2b5cc30c1651fbd1",
-      "styleAttributes": {
-      },
-      "text": "**Capitalist logic**",
-      "type": "text",
-      "width": 260,
-      "x": 1236,
-      "y": 1540
     },
     {
       "height": 100,
@@ -1806,28 +1151,6 @@
       "y": 2181
     },
     {
-      "height": 60,
-      "id": "190586fe6d277a97",
-      "styleAttributes": {
-      },
-      "text": "**Homophily**",
-      "type": "text",
-      "width": 260,
-      "x": 1236,
-      "y": 1985
-    },
-    {
-      "height": 60,
-      "id": "5879022193aefcd0",
-      "styleAttributes": {
-      },
-      "text": "Hatred → homophily",
-      "type": "text",
-      "width": 260,
-      "x": 1236,
-      "y": 1842
-    },
-    {
       "color": "6",
       "height": 174,
       "id": "99c5b4f010e94d4e",
@@ -1838,29 +1161,6 @@
       "width": 324,
       "x": 1074,
       "y": 3133
-    },
-    {
-      "height": 360,
-      "id": "0ba7cfcda48ffc17",
-      "styleAttributes": {
-      },
-      "text": "> Virtual reality (V.R.), cyberspace, and all aspects of digital machines are still said to promise \"a freedom that is limited only by our imaginations . . . mastery of a realm of creation (or destruction . . . ), a realm of the mind seemingly abstract, cool, clean, and bloodless, idealistic, pure, perhaps part of the spirit, that can leave behind the messy, troublesome body and the · ruined material world.'' Cyberspace emerged as a disembodied zone wilder than the wildest West,. racier than the space race, sexier than sex, even better than walking on the moon. This was the final of final frontiers, the purest of virgin islands, the newest of new territories, **a reality designed to human specifications, an artificial zone ripe for an infinite process of colonization, able to. satisfy every last desire, especially that to escape from \"the meat.''**\n\n[[zeros-and-ones_plant.pdf#page=185&annotation=16134R|zeros-and-ones_plant, page 185]]",
-      "type": "text",
-      "width": 520,
-      "x": 1700,
-      "y": 5429
-    },
-    {
-      "height": 153,
-      "id": "a7a173c45fd66404",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]\n#communication #media-theory ",
-      "type": "text",
-      "width": 300,
-      "x": 1480,
-      "y": 6444
     },
     {
       "height": 215,
@@ -1874,50 +1174,6 @@
       "width": 300,
       "x": -1280,
       "y": 7729
-    },
-    {
-      "height": 260,
-      "id": "c813baf75e18272d",
-      "styleAttributes": {
-      },
-      "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
-      "type": "text",
-      "width": 520,
-      "x": 360,
-      "y": 7056
-    },
-    {
-      "height": 367,
-      "id": "0d9a2eed74814ebb",
-      "styleAttributes": {
-      },
-      "text": "\n> The first dimension of freedom belongs to the intellect, the capacity to understand not simply the particularities of the world that confront us–which we encounter in the stream of our own consciousness–but to grasp _any_ intelligible reality whatsoever. In this way, we stand apart from the individual encounters with the world that our senses–and even our imaginative capacities–afford. At the same time, the part of the world we access through our minds is really _there_, not just as a realm of mental concepts, but as the structuring nature of reality. The existence of such natures in our minds when they are understood is, for Aquinas, a sign of our freedom from material constraint. Think, by contrast, of the image of the mind as a wax tablet receiving impressions from what we encounter[5]. If our minds were simply stamped by the world, we would have access only to the surfaces of things, the aspects communicated via the senses.\n> ",
-      "type": "text",
-      "width": 520,
-      "x": 360,
-      "y": 6656
-    },
-    {
-      "height": 70,
-      "id": "7969a4f1f7e5ce75",
-      "styleAttributes": {
-      },
-      "text": "Nightshade/obfuscations/viruses",
-      "type": "text",
-      "width": 280,
-      "x": -240,
-      "y": 7739
-    },
-    {
-      "height": 60,
-      "id": "21809d48c0e16b6d",
-      "styleAttributes": {
-      },
-      "text": "Wark/furious/hacking",
-      "type": "text",
-      "width": 280,
-      "x": 120,
-      "y": 7744
     },
     {
       "height": 80,
@@ -1951,139 +1207,6 @@
       "width": 330,
       "x": -1160,
       "y": 10180
-    },
-    {
-      "height": 60,
-      "id": "07cee3e03e914810",
-      "styleAttributes": {
-      },
-      "text": "## T'ai recommendations (02.07.25)",
-      "type": "text",
-      "width": 370,
-      "x": -695,
-      "y": 8636
-    },
-    {
-      "height": 60,
-      "id": "2e1ce421fd9df51e",
-      "styleAttributes": {
-      },
-      "text": "### [[platospharmacy-pt1_ derrida.pdf|Plato's Pharmacy]], Derrida",
-      "type": "text",
-      "width": 330,
-      "x": -695,
-      "y": 8736
-    },
-    {
-      "height": 75,
-      "id": "cace9a71050e946e",
-      "styleAttributes": {
-      },
-      "text": "**Hacking, reverse engineering, starting at the end**",
-      "type": "text",
-      "width": 260,
-      "x": 160,
-      "y": 6105
-    },
-    {
-      "height": 50,
-      "id": "01e10c8f13a95474",
-      "styleAttributes": {
-      },
-      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
-      "type": "text",
-      "width": 480,
-      "x": 480,
-      "y": 7459
-    },
-    {
-      "height": 140,
-      "id": "32e6cb1016a3f6ac",
-      "styleAttributes": {
-      },
-      "text": "> \"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, purely intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify.\"",
-      "type": "text",
-      "width": 520,
-      "x": -280,
-      "y": 6585
-    },
-    {
-      "height": 40,
-      "id": "fe04ecc9c23e1ea0",
-      "styleAttributes": {
-      },
-      "text": "##### Iridescent communication",
-      "type": "text",
-      "width": 260,
-      "x": -60,
-      "y": 6420
-    },
-    {
-      "height": 140,
-      "id": "8b1f4272fda28073",
-      "styleAttributes": {
-      },
-      "type": "link",
-      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
-      "width": 400,
-      "x": -100,
-      "y": 7539
-    },
-    {
-      "height": 60,
-      "id": "b046fadb6787d94a",
-      "styleAttributes": {
-      },
-      "text": "Disrupting normative operation",
-      "type": "text",
-      "width": 260,
-      "x": 120,
-      "y": 7958
-    },
-    {
-      "height": 140,
-      "id": "00397765a2a66cba",
-      "styleAttributes": {
-      },
-      "text": "> The hybrid Platonic-Aristotelian theory that Aquinas develops presents us with an instructive alternative: mindedness as _freedom from material limitation_. There are two dimensions to this freedom, which correspond to the two core faculties of mind: intellect and will.\n> ",
-      "type": "text",
-      "width": 520,
-      "x": -280,
-      "y": 6769
-    },
-    {
-      "color": "1",
-      "height": 60,
-      "id": "ecc057c8a1ee22f4",
-      "styleAttributes": {
-      },
-      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
-      "type": "text",
-      "width": 260,
-      "x": -450,
-      "y": 7819
-    },
-    {
-      "height": 60,
-      "id": "cb3f38535633cbec",
-      "styleAttributes": {
-      },
-      "text": "###### [The Exploit, Summary](http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html)",
-      "type": "text",
-      "width": 290,
-      "x": 240,
-      "y": 9650
-    },
-    {
-      "height": 128,
-      "id": "161efac39fbb87fd",
-      "styleAttributes": {
-      },
-      "text": "> A third related concept is the \"exploit,\" a hackers' term for a hole or vulnerability in a system (81). The goal of resistance is to find these exploits, just as hackers do, and use them to bring about change, but in this case change for the betterment of society",
-      "type": "text",
-      "width": 440,
-      "x": 310,
-      "y": 9943
     },
     {
       "height": 130,
@@ -2408,18 +1531,6 @@
       "y": 10835
     },
     {
-      "height": 100,
-      "id": "adef39624b16a44f",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]\n#lacan #psychoanalysis",
-      "type": "text",
-      "width": 300,
-      "x": -1040,
-      "y": 5120
-    },
-    {
       "height": 251,
       "id": "e3d049b301c7fa65",
       "styleAttributes": {
@@ -2507,18 +1618,6 @@
       "width": 370,
       "x": -660,
       "y": 10490
-    },
-    {
-      "height": 177,
-      "id": "314d4496ce82205b",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
-      "type": "text",
-      "width": 300,
-      "x": -1040,
-      "y": 5243
     },
     {
       "height": 180,
@@ -2929,17 +2028,6 @@
     },
     {
       "height": 60,
-      "id": "08bd4150aba3d6dc",
-      "styleAttributes": {
-      },
-      "text": "### Cyberfeminism",
-      "type": "text",
-      "width": 260,
-      "x": -1500,
-      "y": 993
-    },
-    {
-      "height": 60,
       "id": "cce008ca1273bfb2",
       "styleAttributes": {
       },
@@ -3052,18 +2140,6 @@
       "y": 3353
     },
     {
-      "height": 60,
-      "id": "8a47c5d2acf02b60",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "text": "**Homophilia = basis of network science**\n",
-      "type": "text",
-      "width": 380,
-      "x": 260,
-      "y": 750
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "6a475035d909e54f",
@@ -3110,6 +2186,988 @@
       "width": 324,
       "x": 288,
       "y": 3133
+    },
+    {
+      "height": 60,
+      "id": "36defb7c2ec75b8a",
+      "styleAttributes": {
+      },
+      "text": "[[unfitting_roberts.pdf]]",
+      "type": "text",
+      "width": 260,
+      "x": -1100,
+      "y": 1329
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "ab82c84d8e980043",
+      "styleAttributes": {
+      },
+      "text": "### Thacker",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 3448
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "a24e9648d399dade",
+      "styleAttributes": {
+      },
+      "text": "### Wark",
+      "type": "text",
+      "width": 260,
+      "x": -660,
+      "y": 3625
+    },
+    {
+      "height": 60,
+      "id": "f4c6f639c680bff0",
+      "styleAttributes": {
+      },
+      "text": "### Art, Labor, and AI",
+      "type": "text",
+      "width": 260,
+      "x": -1100,
+      "y": 1249
+    },
+    {
+      "height": 75,
+      "id": "5bb82ad26a1b05ee",
+      "styleAttributes": {
+      },
+      "text": "> **They suggest that networks exist on a different scale, at a different order of magnitude, than humans do**",
+      "type": "text",
+      "width": 440,
+      "x": 1270,
+      "y": 9723
+    },
+    {
+      "height": 104,
+      "id": "17056c9067208fef",
+      "styleAttributes": {
+      },
+      "text": "#### Emergence; mental higher order physical, collective higher order mental? ",
+      "type": "text",
+      "width": 260,
+      "x": 1270,
+      "y": 9839
+    },
+    {
+      "height": 75,
+      "id": "135a7b18ce52dc1a",
+      "styleAttributes": {
+      },
+      "text": "> _The Exploit_ can serve as a guide, however for those who wish to write the handbooks for the new resistance movements to come.",
+      "type": "text",
+      "width": 440,
+      "x": 1270,
+      "y": 9996
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "735127b5d6a98a95",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "#### The Furies",
+      "type": "text",
+      "width": 329,
+      "x": 1577,
+      "y": 3912
+    },
+    {
+      "color": "3",
+      "height": 184,
+      "id": "071df9683f899a86",
+      "styleAttributes": {
+      },
+      "text": "> Hermes is the interpreter, ermēneus, but Iris gains her name from the word eirein meaning to tell\n\n[[excommunication_galloway_thacker_wark.pdf#page=50&selection=11,54,20,15|excommunication_galloway_thacker_wark, page 50]]",
+      "type": "text",
+      "width": 260,
+      "x": 1600,
+      "y": 4416
+    },
+    {
+      "height": 200,
+      "id": "29aefb30fb9d47ce",
+      "styleAttributes": {
+      },
+      "text": "> Taken together Iris and Hermes encompass the canonical media universe we have already described above: the universe of devices and determi- nacy, a universe in which media are either clear or complicated, either local or remote, either familiar or strange\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=21,43,25,50|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 2001,
+      "y": 3585
+    },
+    {
+      "height": 146,
+      "id": "e73b4747a44d6684",
+      "styleAttributes": {
+      },
+      "text": "[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2697R]]\n\nDionysian mediation of self & god: self-abnegation",
+      "type": "text",
+      "width": 314,
+      "x": 3413,
+      "y": 3568
+    },
+    {
+      "height": 60,
+      "id": "eff03e6838226564",
+      "styleAttributes": {
+      },
+      "text": "**Shannon diagram**",
+      "type": "text",
+      "width": 260,
+      "x": 3440,
+      "y": 3214
+    },
+    {
+      "file": "W2024 Files/Pasted image 20250207151013.png",
+      "height": 139,
+      "id": "aa9a88fa4123a9d9",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 400,
+      "x": 3440,
+      "y": 3304
+    },
+    {
+      "height": 60,
+      "id": "742da8a221779d25",
+      "styleAttributes": {
+      },
+      "text": "“Pre-mediated language” (hallmark cards, language itself)- mansoor",
+      "type": "text",
+      "width": 260,
+      "x": 3920,
+      "y": 3180
+    },
+    {
+      "height": 146,
+      "id": "0d8096cb7ac4db52",
+      "styleAttributes": {
+      },
+      "text": "> While same- sex desire has the attributes of heterosexual desire, it moves toward an object that is ‘‘normally outside the sphere’’ of that desire. In other words, it reaches objects that are not continuous with the line of normal sexual subjectivity.\n\n[[queer-phenomenology_ahmed.pdf#page=70&annotation=4569R|queer-phenomenology_ahmed, page 70]]",
+      "type": "text",
+      "width": 480,
+      "x": 4840,
+      "y": 966
+    },
+    {
+      "height": 120,
+      "id": "d9929534a866972f",
+      "styleAttributes": {
+      },
+      "text": "> Rather, the nearness of such objects is a sign of an orientation I have already taken toward the world as an orientation that shapes what we call, inadequately, ‘‘character.\n\n[[queer-phenomenology_ahmed.pdf#page=58&annotation=4591R|queer-phenomenology_ahmed, page 58]]",
+      "type": "text",
+      "width": 480,
+      "x": 4840,
+      "y": 1136
+    },
+    {
+      "height": 318,
+      "id": "1d031e0ac6c6ee80",
+      "styleAttributes": {
+      },
+      "text": "> One can think of such an utterance as performing the work of alignment: the utterances position the child as the not-yet adult by aligning sex (the male body) and gender (the masculine character) with sexual orientation (the heterosexual future). Through the utterance, these not-yet- but-to-be subjects are ‘‘brought into line’’ by being ‘‘given’’ a future that is ‘‘in line’’ with the family line. What intrigues me here is not so much how sex, gender, and sexual orientation can ‘‘get out of line,’’ ∞∏ which they certainly can and do ‘‘do,’’ but how they are kept in line, often through force, such that any nonalignment produces a queer e√ect.\n\n[[queer-phenomenology_ahmed.pdf#page=82&annotation=4577R|queer-phenomenology_ahmed, page 82]]",
+      "type": "text",
+      "width": 480,
+      "x": 5360,
+      "y": 966
+    },
+    {
+      "height": 80,
+      "id": "a3e751aafe8d18a0",
+      "styleAttributes": {
+      },
+      "text": "##### Alignment models discussed in paper",
+      "type": "text",
+      "width": 260,
+      "x": 5480,
+      "y": 1326
+    },
+    {
+      "height": 40,
+      "id": "0ca2b5a190641242",
+      "styleAttributes": {
+      },
+      "text": "##### Proximtity - homophily",
+      "type": "text",
+      "width": 260,
+      "x": 4950,
+      "y": 1346
+    },
+    {
+      "height": 60,
+      "id": "e0320655c0b2a339",
+      "styleAttributes": {
+      },
+      "text": "02.07.25 pp. 77-97",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3460
+    },
+    {
+      "color": "3",
+      "height": 148,
+      "id": "ada27d1e8bbb159b",
+      "styleAttributes": {
+      },
+      "text": "> Iris, the other messenger of the gods, o\u001d en overlooked, who in fact best exemplifies McLuhan’s notion that “light is pure information.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=16,34,18,40|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 2383,
+      "y": 3227
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "afb2ae545b754fdb",
+      "styleAttributes": {
+      },
+      "text": "### Thacker",
+      "type": "text",
+      "width": 260,
+      "x": 2940,
+      "y": 3120
+    },
+    {
+      "color": "3",
+      "height": 60,
+      "id": "a927cb8145bb5d73",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "#### Iris",
+      "type": "text",
+      "width": 329,
+      "x": 2472,
+      "y": 3120
+    },
+    {
+      "height": 60,
+      "id": "d1c49c711f8e0d56",
+      "styleAttributes": {
+      },
+      "text": "02.10.25 pp. 97-140 (end of chapter)",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3540
+    },
+    {
+      "height": 226,
+      "id": "6f90a41f3dcdae47",
+      "styleAttributes": {
+      },
+      "text": "> Harrell’s work most critically engages the creativity embedded within artificial intelligence. Phantasmal Media: An Approach to Imagination, Computation, and Expression (2013), drawn from his work with Define Me and GRIOT, groundbreaking social networking and expressive A.I. projects, asks: can A.I. have the same impact as great literature,\n\n[[Pattern-Discrimination.pdf#page=102&selection=7,0,19,20|Pattern-Discrimination, page 102]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 1112
+    },
+    {
+      "height": 60,
+      "id": "d8001a86691bec99",
+      "styleAttributes": {
+      },
+      "text": "Spatial terminology in ML/AI?",
+      "type": "text",
+      "width": 260,
+      "x": 4460,
+      "y": 1106
+    },
+    {
+      "height": 140,
+      "id": "4f27b5964ccf6df1",
+      "styleAttributes": {
+      },
+      "text": "### *Queer Phenomenology,* Ahmed\n[[queer-phenomenology_ahmed.pdf]]\n#queering ",
+      "type": "text",
+      "width": 300,
+      "x": 4440,
+      "y": 946
+    },
+    {
+      "height": 60,
+      "id": "284b359b01e836fc",
+      "styleAttributes": {
+      },
+      "text": "Nonhuman",
+      "type": "text",
+      "width": 260,
+      "x": 1540,
+      "y": 1610
+    },
+    {
+      "height": 200,
+      "id": "8c0ee2af90a46309",
+      "styleAttributes": {
+      },
+      "text": "> The various turns toward “less coarse” and “static” concepts such as nonhuman allure (themselves inspired by networks and new media), not to mention the embrace of an instrumentalist technological logic that demeans critical analysis and celebrates digital tinkering, are oddly contradictory and self-defeating.\n\n[[Pattern-Discrimination.pdf#page=103&selection=52,10,59,10|Pattern-Discrimination, page 103]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 1378
+    },
+    {
+      "height": 140,
+      "id": "32e6cb1016a3f6ac",
+      "styleAttributes": {
+      },
+      "text": "> \"According to Aquinas, what really happens during such angelic visitations is that the angels simulate speech-sounds so that human beings can grasp something that is, taken in itself, purely intelligible. Angels, then, engage in just the sort of *simulacrum* of discursive thinking that LLM output appears to exemplify.\"",
+      "type": "text",
+      "width": 520,
+      "x": -280,
+      "y": 6585
+    },
+    {
+      "height": 40,
+      "id": "fe04ecc9c23e1ea0",
+      "styleAttributes": {
+      },
+      "text": "##### Iridescent communication",
+      "type": "text",
+      "width": 260,
+      "x": -60,
+      "y": 6420
+    },
+    {
+      "height": 240,
+      "id": "2ce85f9577381306",
+      "styleAttributes": {
+      },
+      "text": "> LLM-powered artificial intelligence has neither kind of freedom. On the side of the intellect, such so-called ‘AI’ is **capable neither of discursive thought nor of understanding,** since it does not aim to grasp the world at all. Rather, it merely synthesizes _our_ representations. Just as an echo in a cave is not the speech of rocks, the deliverances of LLMs are only simulacra of language–and the thought that ultimately lies behind it. On the side of the will, an LLM simply has no purposes of its own, let alone ones that it could cognize and order.",
+      "type": "text",
+      "width": 520,
+      "x": 920,
+      "y": 6656
+    },
+    {
+      "height": 94,
+      "id": "4ab7187773dc4b32",
+      "styleAttributes": {
+      },
+      "text": "> Nothing hinders the eﬀortless transition of your thoughts from brain to screen.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=485R|You are not an angel a letter to my students , page 8]]",
+      "type": "text",
+      "width": 520,
+      "x": 1880,
+      "y": 6615
+    },
+    {
+      "height": 94,
+      "id": "1a732ef7a77fe2f5",
+      "styleAttributes": {
+      },
+      "text": "> Words emerge from and belong to our bodies, whether we notice it or not.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=491R|You are not an angel a letter to my students , page 8]]",
+      "type": "text",
+      "width": 525,
+      "x": 1880,
+      "y": 6729
+    },
+    {
+      "height": 251,
+      "id": "3632b13096e609a5",
+      "styleAttributes": {
+      },
+      "text": "> Why have I used up so many words to tell you that you are not an angel? Because the people who run our lives would prefer it if you carried on thinking that you were. It makes you more biddable, a better-behaved and less critically-minded worker and consumer, a pliant contributor to the data flow. Angels don’t need to think about words, or anything else; they are a mere conduit through which information passes, like light through a pane of glass. When we stop noticing words, we stop noticing the world.\n\n[[You are not an angel a letter to my students .pdf#page=13&selection=158,1,168,66|You are not an angel a letter to my students , page 13]]",
+      "type": "text",
+      "width": 525,
+      "x": 2440,
+      "y": 6755
+    },
+    {
+      "height": 173,
+      "id": "7d2d096fc0e18251",
+      "styleAttributes": {
+      },
+      "text": "> The Iranian poet Kaveh Akbar says that, in the face of the ‘raw over- whelm of meaningless language’, poetry’s task is ‘to slow down our metabolization of language, to become aware of it entering us’ (Akbar 2022, xvi–xvii). I want you to savour words like that, noticing them as something diﬀerent from yourselves.\n\n[[You are not an angel a letter to my students .pdf#page=5&annotation=447R|You are not an angel a letter to my students , page 5]]",
+      "type": "text",
+      "width": 520,
+      "x": 1880,
+      "y": 6424
+    },
+    {
+      "height": 297,
+      "id": "76833ec03a4685d8",
+      "styleAttributes": {
+      },
+      "text": ">  We only think of it as a competitor because writing, and our expectations for it, have become so impoverished. We have been softened up by the proliferation of search-engine-optimising ‘content’, the cut-and-paste phrasing of man- agement speak, and the rubric-driven and professionally voiceless essays that students are taught to write in school and at university. We think that algorithms can take over writing because much human writing might as well have been produced by algorithm. It betrays no sense of a human being behind it who has laboured to find and shape the best words to gift to their reader.\n\n[[You are not an angel a letter to my students .pdf#page=10&selection=2,17,17,39|You are not an angel a letter to my students , page 10]]",
+      "type": "text",
+      "width": 525,
+      "x": 2440,
+      "y": 6424
+    },
+    {
+      "height": 260,
+      "id": "c813baf75e18272d",
+      "styleAttributes": {
+      },
+      "text": "\n> The second dimension of freedom belongs to the will, by which we direct our intellectual lives–and, indeed, all the dimensions of our lives that we can consciously shape. There is no such thing as a mind without a will, just as there cannot be an animal that is purely passive in its environment. Mindedness is a form of _responsiveness_, in other words. Moreover, we set our own goals; they are not simply given to us. Intelligent life cannot be _instinctual_, even if the way that a thing responds to stimuli is highly sophisticated. Many things have purposes that are not purposive in this way, artifacts and social institutions among them.",
+      "type": "text",
+      "width": 520,
+      "x": 360,
+      "y": 7056
+    },
+    {
+      "height": 367,
+      "id": "0d9a2eed74814ebb",
+      "styleAttributes": {
+      },
+      "text": "\n> The first dimension of freedom belongs to the intellect, the capacity to understand not simply the particularities of the world that confront us–which we encounter in the stream of our own consciousness–but to grasp _any_ intelligible reality whatsoever. In this way, we stand apart from the individual encounters with the world that our senses–and even our imaginative capacities–afford. At the same time, the part of the world we access through our minds is really _there_, not just as a realm of mental concepts, but as the structuring nature of reality. The existence of such natures in our minds when they are understood is, for Aquinas, a sign of our freedom from material constraint. Think, by contrast, of the image of the mind as a wax tablet receiving impressions from what we encounter[5]. If our minds were simply stamped by the world, we would have access only to the surfaces of things, the aspects communicated via the senses.\n> ",
+      "type": "text",
+      "width": 520,
+      "x": 360,
+      "y": 6656
+    },
+    {
+      "height": 60,
+      "id": "07cee3e03e914810",
+      "styleAttributes": {
+      },
+      "text": "## T'ai recommendations (02.07.25)",
+      "type": "text",
+      "width": 370,
+      "x": -695,
+      "y": 8636
+    },
+    {
+      "height": 60,
+      "id": "2e1ce421fd9df51e",
+      "styleAttributes": {
+      },
+      "text": "### [[platospharmacy-pt1_ derrida.pdf|Plato's Pharmacy]], Derrida",
+      "type": "text",
+      "width": 330,
+      "x": -695,
+      "y": 8736
+    },
+    {
+      "height": 140,
+      "id": "00397765a2a66cba",
+      "styleAttributes": {
+      },
+      "text": "> The hybrid Platonic-Aristotelian theory that Aquinas develops presents us with an instructive alternative: mindedness as _freedom from material limitation_. There are two dimensions to this freedom, which correspond to the two core faculties of mind: intellect and will.\n> ",
+      "type": "text",
+      "width": 520,
+      "x": -280,
+      "y": 6769
+    },
+    {
+      "height": 60,
+      "id": "cb3f38535633cbec",
+      "styleAttributes": {
+      },
+      "text": "###### [The Exploit, Summary](http://hyperrhiz.io/hyperrhiz05/reviews/alexander-galloway-and-eugene-thacker-the-exploit.html)",
+      "type": "text",
+      "width": 290,
+      "x": 240,
+      "y": 9650
+    },
+    {
+      "height": 128,
+      "id": "161efac39fbb87fd",
+      "styleAttributes": {
+      },
+      "text": "> A third related concept is the \"exploit,\" a hackers' term for a hole or vulnerability in a system (81). The goal of resistance is to find these exploits, just as hackers do, and use them to bring about change, but in this case change for the betterment of society",
+      "type": "text",
+      "width": 440,
+      "x": 310,
+      "y": 9943
+    },
+    {
+      "height": 188,
+      "id": "3277f55b7c2d5408",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[[On angels, demons, and artificial intelligence]]\n\n#communication #media-theory ",
+      "type": "text",
+      "width": 300,
+      "x": -680,
+      "y": 6592
+    },
+    {
+      "height": 94,
+      "id": "54596eddd3af677b",
+      "styleAttributes": {
+      },
+      "text": "> Angels have no such inimitable, unre- producible presence in the world.\n\n[[You are not an angel a letter to my students .pdf#page=8&annotation=497R|You are not an angel a letter to my students , page 8]]",
+      "type": "text",
+      "width": 525,
+      "x": 1880,
+      "y": 6855
+    },
+    {
+      "height": 67,
+      "id": "26af22f5b8100f38",
+      "styleAttributes": {
+      },
+      "text": "> Human lives are so intensely sensual\n\n[[You are not an angel a letter to my students .pdf#page=9&annotation=504R|You are not an angel a letter to my students , page 9]]",
+      "type": "text",
+      "width": 525,
+      "x": 1880,
+      "y": 6972
+    },
+    {
+      "height": 155,
+      "id": "e9de283e875df07e",
+      "styleAttributes": {
+      },
+      "text": "> “It does not rely on the kindness of model trainers, but instead associates a small incremental price on each piece of data scraped and trained without authorization. Nightshade's goal is not to break models, but to increase the cost of training on unlicensed data, such that licensing images from their creators becomes a viable alternative.” ",
+      "type": "text",
+      "width": 480,
+      "x": 1000,
+      "y": 7459
+    },
+    {
+      "height": 283,
+      "id": "4fa73b11e6319d1b",
+      "styleAttributes": {
+      },
+      "text": "> “**Art is interesting when it has intention, when there’s meaning and context. So when A.I. tries to replace that, it has no context and meaning. Art replicated by A.I., generally speaking, loses the point.** It is not about automation. I think that is a mistaken analogy that people oftentimes bring up. They say, “Well, what about the horse and buggy and the automobile?” No, this is actually not about that at all. A.I does not reproduce human art at a faster rate. What A.I. does is it takes past samples of human art, shakes it in a kaleidoscope, and gives you a mixture of what has already existed before.”",
+      "type": "text",
+      "width": 480,
+      "x": 1520,
+      "y": 7459
+    },
+    {
+      "height": 153,
+      "id": "a7a173c45fd66404",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### \"You are not an angel\", Moran\n[[You are not an angel a letter to my students .pdf]]\n#communication #media-theory ",
+      "type": "text",
+      "width": 300,
+      "x": 1480,
+      "y": 6444
+    },
+    {
+      "height": 70,
+      "id": "7969a4f1f7e5ce75",
+      "styleAttributes": {
+      },
+      "text": "Nightshade/obfuscations/viruses",
+      "type": "text",
+      "width": 280,
+      "x": -240,
+      "y": 7739
+    },
+    {
+      "height": 60,
+      "id": "21809d48c0e16b6d",
+      "styleAttributes": {
+      },
+      "text": "Wark/furious/hacking",
+      "type": "text",
+      "width": 280,
+      "x": 120,
+      "y": 7744
+    },
+    {
+      "height": 50,
+      "id": "01e10c8f13a95474",
+      "styleAttributes": {
+      },
+      "text": "> “Right now, many of these models are being used to replace human creatives” \n",
+      "type": "text",
+      "width": 480,
+      "x": 480,
+      "y": 7459
+    },
+    {
+      "height": 140,
+      "id": "8b1f4272fda28073",
+      "styleAttributes": {
+      },
+      "type": "link",
+      "url": "https://freakonomics.com/podcast/how-to-poison-an-a-i-machine/",
+      "width": 400,
+      "x": -100,
+      "y": 7539
+    },
+    {
+      "height": 60,
+      "id": "b046fadb6787d94a",
+      "styleAttributes": {
+      },
+      "text": "Disrupting normative operation",
+      "type": "text",
+      "width": 260,
+      "x": 120,
+      "y": 7958
+    },
+    {
+      "color": "1",
+      "height": 60,
+      "id": "ecc057c8a1ee22f4",
+      "styleAttributes": {
+      },
+      "text": "Artistic experiment (*play*) w/ his tech, working w/ Amber",
+      "type": "text",
+      "width": 260,
+      "x": -450,
+      "y": 7819
+    },
+    {
+      "height": 60,
+      "id": "2809be8f71c244ef",
+      "styleAttributes": {
+      },
+      "text": "##### Is AI even profitable?",
+      "type": "text",
+      "width": 260,
+      "x": 2115,
+      "y": 7582
+    },
+    {
+      "color": "2",
+      "height": 174,
+      "id": "12aae98c11e29008",
+      "styleAttributes": {
+      },
+      "text": "> Jacques Derrida famously called Hermes the “signifier god”; indeed as inventor of writing, Hermes is a key figure in any theory of mediation, producing as he does much of what we label the critical tradition\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=11,15,14,39|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 1560,
+      "y": 3227
+    },
+    {
+      "color": "2",
+      "height": 60,
+      "id": "6761936b46499ceb",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "#### Hermes",
+      "type": "text",
+      "width": 329,
+      "x": 1666,
+      "y": 3120
+    },
+    {
+      "height": 360,
+      "id": "0ba7cfcda48ffc17",
+      "styleAttributes": {
+      },
+      "text": "> Virtual reality (V.R.), cyberspace, and all aspects of digital machines are still said to promise \"a freedom that is limited only by our imaginations . . . mastery of a realm of creation (or destruction . . . ), a realm of the mind seemingly abstract, cool, clean, and bloodless, idealistic, pure, perhaps part of the spirit, that can leave behind the messy, troublesome body and the · ruined material world.'' Cyberspace emerged as a disembodied zone wilder than the wildest West,. racier than the space race, sexier than sex, even better than walking on the moon. This was the final of final frontiers, the purest of virgin islands, the newest of new territories, **a reality designed to human specifications, an artificial zone ripe for an infinite process of colonization, able to. satisfy every last desire, especially that to escape from \"the meat.''**\n\n[[zeros-and-ones_plant.pdf#page=185&annotation=16134R|zeros-and-ones_plant, page 185]]",
+      "type": "text",
+      "width": 520,
+      "x": 1700,
+      "y": 5429
+    },
+    {
+      "height": 75,
+      "id": "cace9a71050e946e",
+      "styleAttributes": {
+      },
+      "text": "**Hacking, reverse engineering, starting at the end**",
+      "type": "text",
+      "width": 260,
+      "x": 160,
+      "y": 6105
+    },
+    {
+      "height": 631,
+      "id": "7494d161d09b1ece",
+      "styleAttributes": {
+      },
+      "text": ">  For those \"reconciled to the nanosecond... computer operations are conceptually fairly simple.\"\n>  The boundaries of perception might well be imposing, but they are also far from fixed. **The so-called \"history of technology\" is also a process of microengineering which continually changes perception itself.** And regardless of the rumors of disembodied lives, cryogenic havens, and bodiless zones which have accompanied these speeding machines, the digital revolution has spawned a vast swathe of debate about cyborgs, replicants, and other posthuman, inhuman, extrahuman entities which are complicating orthodox Western notions of what it is to be a human being. These are new ideas, and also more than this. Self-control, identity, freedom, and progress have long been argued out of court by postmodern theorists who have spents at least twenty years discussing the decline of all the great values and principles of the modern world. But nothing ever changes in theory. These debates are smoke rising from a very real arson attack on man's illusions of immunity and integrity. Intelligent life can no longer be monopolized. And far from vanishing into the immateriality of thin air, **the body is complicating, replicating, escaping its formal organization, the organized organs which modernity has taken for normality. This new malleability is everywhere: in the switches of transsexualism**, the perforations of tattoos and piercings, the indelible markings of brans and scars, **the emergence of neural and viral networks,** bacterial life, prostheses, neural jacks, vast numbers of wandering matrices. \n\n[[zeros-and-ones_plant.pdf#page=182&annotation=16090R|zeros-and-ones_plant, page 182]]",
+      "type": "text",
+      "width": 520,
+      "x": 1160,
+      "y": 5429
+    },
+    {
+      "height": 60,
+      "id": "8def446edf3a6a72",
+      "styleAttributes": {
+      },
+      "text": "**Technology/the body**",
+      "type": "text",
+      "width": 260,
+      "x": 1340,
+      "y": 5300
+    },
+    {
+      "height": 100,
+      "id": "adef39624b16a44f",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### *1. What is the Real*, Miller\n[[1_JAM_What is the Real_LI 43_44.pdf]]\n#lacan #psychoanalysis",
+      "type": "text",
+      "width": 300,
+      "x": -1040,
+      "y": 5120
+    },
+    {
+      "height": 177,
+      "id": "314d4496ce82205b",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### *Textile, A Diagonal Abstraction*, Smith - Glass Bead \n[[Textile, A Diagonal Abstraction Glass Bead in conversation with T’ai Smith]]",
+      "type": "text",
+      "width": 300,
+      "x": -1040,
+      "y": 5243
+    },
+    {
+      "color": "4",
+      "height": 199,
+      "id": "d91a3651827bc186",
+      "styleAttributes": {
+      },
+      "text": ">  In the well-known communications model put forth by Claude Shan- non and Warren Weaver in the 1940s, a sender and receiver are connected by a channel, which serves as the conduit for an in- formational message\n\n[[excommunication_galloway_thacker_wark.pdf#page=94&selection=24,54,28,19|excommunication_galloway_thacker_wark, page 94]]",
+      "type": "text",
+      "width": 382,
+      "x": 2960,
+      "y": 3214
+    },
+    {
+      "height": 69,
+      "id": "fdc4573e7c5c2683",
+      "styleAttributes": {
+      },
+      "text": "> Vi Hart\n\n[[Pattern-Discrimination.pdf#page=100&annotation=791R|Pattern-Discrimination, page 100]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 710
+    },
+    {
+      "height": 253,
+      "id": "66a7e46bb0bddf73",
+      "styleAttributes": {
+      },
+      "text": "> In contrast to most computational identity systems that incorrectly reify identity categories by implementing them as simple data fields ... he has developed the AIR (Advanced Identity Representation) project to produce “computational models of subjective identity phenomena related to categorization such as specific forms of marginalization that are overlooked in engi- neering” (Harrell 2013, 1).\n\n[[Pattern-Discrimination.pdf#page=101&selection=27,9,50,27|Pattern-Discrimination, page 101]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 819
+    },
+    {
+      "height": 148,
+      "id": "59a7d29ddf5c74a6",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "text": "> Unlike Jameson’s vision, it is hardly socialist or empowering. Rather than enabling humans to grow new organs, it contracts the world into a map: it forces a mode of authenticity shaped to an artificially intelligent truth.\n\n[[Pattern-Discrimination.pdf#page=83&selection=34,32,52,6|Pattern-Discrimination, page 83]]",
+      "type": "text",
+      "width": 460,
+      "x": 1280,
+      "y": 776
+    },
+    {
+      "color": "#fe9f9f",
+      "height": 100,
+      "id": "ff413d5f39131acd",
+      "styleAttributes": {
+      },
+      "text": "> Aphrodite, who is present at the physical communication of bodies in congress. F\n\n[[excommunication_galloway_thacker_wark.pdf#page=24&selection=35,30,36,47|excommunication_galloway_thacker_wark, page 24]]",
+      "type": "text",
+      "width": 382,
+      "x": 2410,
+      "y": 4043
+    },
+    {
+      "height": 277,
+      "id": "abdfbbb459bb760c",
+      "styleAttributes": {
+      },
+      "text": "> Ahmed views queerness as an inability to be comfortable in certain norms: To feel uncomfortable is precisely to be affected by that which persists in the shaping of bodies and lives. Discom- fort is hence not about assimilation or resistance, but about inhabiting norms differently. The inhabitance is gen- erative or productive insofar as it does not end with the failure of norms to be secured, but with the possibilities of living that do not “follow” those norms through. (em- phasis in original, 155).\n\n[[Pattern-Discrimination.pdf#page=103&selection=17,51,32,25|Pattern-Discrimination, page 103]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 1618
+    },
+    {
+      "height": 60,
+      "id": "553a38b687f74d2f",
+      "styleAttributes": {
+      },
+      "text": "**Queerness = inhabiting norms differently → generative**",
+      "type": "text",
+      "width": 260,
+      "x": 2320,
+      "y": 1658
+    },
+    {
+      "height": 60,
+      "id": "2b5cc30c1651fbd1",
+      "styleAttributes": {
+      },
+      "text": "**Capitalist logic**",
+      "type": "text",
+      "width": 260,
+      "x": 1236,
+      "y": 1540
+    },
+    {
+      "height": 60,
+      "id": "190586fe6d277a97",
+      "styleAttributes": {
+      },
+      "text": "**Homophily**",
+      "type": "text",
+      "width": 260,
+      "x": 1236,
+      "y": 1985
+    },
+    {
+      "color": "6",
+      "height": 174,
+      "id": "24c133d506dd92f5",
+      "styleAttributes": {
+      },
+      "text": ">  for Wark the disintegra- tion and reorganization of these many ingredients into a new arrangement of freedom.\n\n[[excommunication_galloway_thacker_wark.pdf#page=27&annotation=1329R|excommunication_galloway_thacker_wark, page 27]]",
+      "type": "text",
+      "width": 324,
+      "x": 1074,
+      "y": 3613
+    },
+    {
+      "color": "6",
+      "height": 252,
+      "id": "436dde4238945f99",
+      "styleAttributes": {
+      },
+      "text": "> Evoking the surging poetics of the swarm, Wark proposes a political heresy, one that will deviate from both traditional media theory and the traditional le\u001d: a post-hermeneutic marx- ism, or “marxism of the swarm.”\n\n[[excommunication_galloway_thacker_wark.pdf#page=26&selection=16,0,19,31|excommunication_galloway_thacker_wark, page 26]]",
+      "type": "text",
+      "width": 324,
+      "x": 1074,
+      "y": 3827
+    },
+    {
+      "height": 146,
+      "id": "4fb35476de880465",
+      "styleAttributes": {
+      },
+      "text": "> Dionysius the mediation of self and God are mediated via a process of abandonment and self-abnegation\n\n[[excommunication_galloway_thacker_wark.pdf#page=107&annotation=2690R|excommunication_galloway_thacker_wark, page 107]]",
+      "type": "text",
+      "width": 382,
+      "x": 2960,
+      "y": 3654
+    },
+    {
+      "height": 199,
+      "id": "3a5505f4c520dbfc",
+      "styleAttributes": {
+      },
+      "text": "[[excommunication_galloway_thacker_wark.pdf#page=114&annotation=2740R]]\n\nImmediation (positive mediation, negative divinity) and antimediation (negative mediation, positive divinity)",
+      "type": "text",
+      "width": 260,
+      "x": 3413,
+      "y": 3741
+    },
+    {
+      "height": 60,
+      "id": "306c3d69cd0669c7",
+      "styleAttributes": {
+      },
+      "text": "> “there is a very great diﬀerence between the strat- egy of negative propositions and the strategy of negating the propo- sitional,” the la\u001ber of which describes the ultimate point toward which Dionysian mysticism tends\n\n[[excommunication_galloway_thacker_wark.pdf#page=108&annotation=2721R|excommunication_galloway_thacker_wark, page 108]]",
+      "type": "text",
+      "width": 260,
+      "x": 2960,
+      "y": 3840
+    },
+    {
+      "color": "#fe9f9f",
+      "height": 60,
+      "id": "2a1d050854f37e02",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "text": "#### Aphrodite",
+      "type": "text",
+      "width": 329,
+      "x": 2436,
+      "y": 3912
+    },
+    {
+      "height": 69,
+      "id": "45e5c5cacff1fac9",
+      "styleAttributes": {
+      },
+      "text": "> What is needed, first, is more attention to form in art. \n\n[[against-interpretation_sontag.pdf#page=4&selection=283,0,283,57|Sontag-Against+Interpretation, page 4]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 2391
+    },
+    {
+      "height": 147,
+      "id": "eb6f5d8ebf618270",
+      "styleAttributes": {
+      },
+      "text": "> hat we decidedly do not need now is further to assimilate Art into Thought, or (worse yet) Art into Culture. Interpretation takes the sensory experience of the work of art for granted, and proceeds from there. T\n\n[[against-interpretation_sontag.pdf#page=5&selection=95,9,98,35|Sontag-Against+Interpretation, page 5]]",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 2500
+    },
+    {
+      "height": 69,
+      "id": "58cde369539b5bbf",
+      "styleAttributes": {
+      },
+      "text": "> **In place of a hermeneutics we need an erotics of art.**\n\n**[[against-interpretation_sontag.pdf#page=5&selection=142,0,142,53|Sontag-Against+Interpretation, page 5]]**",
+      "type": "text",
+      "width": 460,
+      "x": 1840,
+      "y": 2687
+    },
+    {
+      "height": 60,
+      "id": "5879022193aefcd0",
+      "styleAttributes": {
+      },
+      "text": "Hatred → homophily",
+      "type": "text",
+      "width": 260,
+      "x": 1236,
+      "y": 1842
+    },
+    {
+      "height": 60,
+      "id": "578ba8e70ffca36f",
+      "styleAttributes": {
+      },
+      "text": "## Communication",
+      "type": "text",
+      "width": 260,
+      "x": -1140,
+      "y": 579
+    },
+    {
+      "height": 60,
+      "id": "08bd4150aba3d6dc",
+      "styleAttributes": {
+      },
+      "text": "### Cyberfeminism",
+      "type": "text",
+      "width": 260,
+      "x": -1500,
+      "y": 993
+    },
+    {
+      "height": 60,
+      "id": "8a47c5d2acf02b60",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "text": "**Homophilia = basis of network science**\n",
+      "type": "text",
+      "width": 380,
+      "x": 260,
+      "y": 750
     },
     {
       "height": 60,
@@ -3178,52 +3236,6 @@
       "y": 1000
     },
     {
-      "height": 60,
-      "id": "36defb7c2ec75b8a",
-      "styleAttributes": {
-      },
-      "text": "[[unfitting_roberts.pdf]]",
-      "type": "text",
-      "width": 260,
-      "x": -1100,
-      "y": 1329
-    },
-    {
-      "color": "4",
-      "height": 60,
-      "id": "ab82c84d8e980043",
-      "styleAttributes": {
-      },
-      "text": "### Thacker",
-      "type": "text",
-      "width": 260,
-      "x": -660,
-      "y": 3448
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "a24e9648d399dade",
-      "styleAttributes": {
-      },
-      "text": "### Wark",
-      "type": "text",
-      "width": 260,
-      "x": -660,
-      "y": 3625
-    },
-    {
-      "height": 60,
-      "id": "f4c6f639c680bff0",
-      "styleAttributes": {
-      },
-      "text": "### Art, Labor, and AI",
-      "type": "text",
-      "width": 260,
-      "x": -1100,
-      "y": 1249
-    },
-    {
       "height": 139,
       "id": "5cf6bcf1ed341fa1",
       "styleAttributes": {
@@ -3234,18 +3246,6 @@
       "width": 300,
       "x": -680,
       "y": 650
-    },
-    {
-      "height": 188,
-      "id": "3277f55b7c2d5408",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### \"On angels, demons, and artificial intelligence,\" Jagannathan\n[[On angels, demons, and artificial intelligence]]\n\n#communication #media-theory ",
-      "type": "text",
-      "width": 300,
-      "x": -680,
-      "y": 6592
     }
   ]
 }
