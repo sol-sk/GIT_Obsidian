@@ -10,13 +10,13 @@ Tags:
 #pharmakon
 #
 **Read:**
-***[[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]***
+[[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]
 - Book club
-***[[excommunication_galloway_thacker_wark.pdf|Excommunication]]***
+[[excommunication_galloway_thacker_wark.pdf|Excommunication]]
 - Media theory, communication, interpretation, 
-***[[nightshade-oakland24.pdf|Nightshade - Lab paper]]***
+[[nightshade-oakland24.pdf|Nightshade - Lab paper]]
 - The foundational materials
-***[[Pattern-Discrimination.pdf|Pattern Discrimination-Queering Homophily]]***
+[[Pattern-Discrimination.pdf|Pattern Discrimination-Queering Homophily]]
 - Queering ANNs
 [[against-interpretation_sontag.pdf|Sontag, Against Interpretation]]
 - Communication, interpretation
@@ -24,12 +24,15 @@ Tags:
 - Communication, GAI
 [[On angels, demons, and artificial intelligence|Jagannathan, On angels, demons, and artificial intelligence]]
 - Communication, GAI 
-***[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf|Ahmed, Queer Feelings]]*** 
+[[ahmed_queer-feelings-in-the-cultural-politics-of-emotion.pdf|Ahmed, Queer Feelings]] 
 - Queering, capital, normativity
-***[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology (elements interview)]]*** (50)
+[[bernard-stiegler-elements-pharmacology+interview.pdf|Stiegler, Digital Pharmacology (elements interview)]] 
 - Pharmakon, capital, digital intoxication (read pp.19-50)
-***[[platospharmacy-pt1_ derrida.pdf]]*** (50)
+[[platospharmacy-pt1_ derrida.pdf|Derrida, Plato's Pharmacy]] 
 - Pharmakon, mytheme, signifier, Hermes, Thoth 
+[[unfitting_roberts.pdf|Roberts, Unfitting: Art and Labor]]
+- 4/17
+- Labor, artists, GAI
 
 **In progress:**
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
@@ -41,9 +44,7 @@ Tags:
 [[cyborg-manifesto_haraway.pdf|Haraway, Cyborg Manifesto]] (28)
 - *6/28*
 - Cyberfeminism, cyborgs
-[[unfitting_roberts.pdf]] (17)
-- *4/17*
-- Labor, artists, GAI
+
 ***[[the-exploit_galloway-thacker.pdf]]*** (206)
 - *0/206*
 - Networks, resistence
