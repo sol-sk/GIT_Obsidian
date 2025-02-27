@@ -442,6 +442,28 @@
       "y": 520
     },
     {
+      "height": 1463,
+      "id": "49e839b2787ad5ac",
+      "label": "Queering Homophily",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3300,
+      "x": -700,
+      "y": 638
+    },
+    {
+      "height": 939,
+      "id": "07a12575dd94d7a6",
+      "label": "Against Interpretation",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 3320,
+      "x": -700,
+      "y": 2101
+    },
+    {
       "height": 1640,
       "id": "69eab68b84e4c229",
       "label": "Queer Phenomenology",
@@ -506,28 +528,6 @@
       "width": 4900,
       "x": -700,
       "y": 3040
-    },
-    {
-      "height": 1463,
-      "id": "49e839b2787ad5ac",
-      "label": "Queering Homophily",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 3300,
-      "x": -700,
-      "y": 638
-    },
-    {
-      "height": 939,
-      "id": "07a12575dd94d7a6",
-      "label": "Against Interpretation",
-      "styleAttributes": {
-      },
-      "type": "group",
-      "width": 3320,
-      "x": -700,
-      "y": 2101
     },
     {
       "height": 1000,
@@ -1564,17 +1564,6 @@
       "y": 5300
     },
     {
-      "height": 277,
-      "id": "b6a73117981e19c3",
-      "styleAttributes": {
-      },
-      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[against-interpretation_sontag.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
-      "type": "text",
-      "width": 460,
-      "x": 710,
-      "y": 2391
-    },
-    {
       "height": 445,
       "id": "cbfd40ba75b810b1",
       "styleAttributes": {
@@ -1686,17 +1675,6 @@
       "y": 3695
     },
     {
-      "height": 102,
-      "id": "4cd2a40daed5d0c9",
-      "styleAttributes": {
-      },
-      "text": "Can you even do hermeneutic interpretation of generated images if there is no latent 'meaning'?",
-      "type": "text",
-      "width": 260,
-      "x": 300,
-      "y": 2461
-    },
-    {
       "color": "4",
       "height": 200,
       "id": "bf39742137320414",
@@ -1741,28 +1719,6 @@
       "width": 460,
       "x": -280,
       "y": 3320
-    },
-    {
-      "height": 174,
-      "id": "8c6b66597ae1ff0e",
-      "styleAttributes": {
-      },
-      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[against-interpretation_sontag.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
-      "type": "text",
-      "width": 460,
-      "x": -280,
-      "y": 2391
-    },
-    {
-      "height": 277,
-      "id": "a7ea64ed037e349e",
-      "styleAttributes": {
-      },
-      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[against-interpretation_sontag.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
-      "type": "text",
-      "width": 460,
-      "x": -280,
-      "y": 2605
     },
     {
       "color": "2",
@@ -1882,17 +1838,6 @@
       "width": 260,
       "x": 320,
       "y": 1498
-    },
-    {
-      "height": 508,
-      "id": "a997bb75198d1b9f",
-      "styleAttributes": {
-      },
-      "text": "> According to the acclaimed network scientist and author Albert-László Barabási, network science obviates the need for human psychology: “In the past, if you wanted to understand what humans do and why they do it, you became a card-carrying psychologist. Today you may want to obtain a degree in computer science . . . .” This is because network science, combined with “increasingly penetrating digital technol- ogies,” places us in “an immense research laboratory that, in size, complexity, and detail, surpasses everything that science has en- countered before.” This lab reveals “the rhythms of life as evidence of a deeper order in human behavior, one that can be explored, predicted, and no doubt exploited” (Barabási 2010, 11). Network science unravels a vast collective nonconscious, encased within the fishbowl of digital media.3 It is the bastard child of psychoanalysis: there are no accidents, no innocent slips of the tongue. Each action is part of a larger pattern/symptom. The goal: to answer that unan- swerable question, what do (wo)men want?\n\n[[Pattern-Discrimination.pdf#page=83&annotation=691R|Pattern-Discrimination, page 83]]",
-      "type": "text",
-      "width": 460,
-      "x": -280,
-      "y": 1507
     },
     {
       "height": 60,
@@ -2071,51 +2016,6 @@
       "y": 869
     },
     {
-      "height": 80,
-      "id": "e9f48e19b877319a",
-      "styleAttributes": {
-      },
-      "text": "**Hermeneutics as \"probing content\" to unearth some deeper, truer meaning**",
-      "type": "text",
-      "width": 260,
-      "x": 300,
-      "y": 2628
-    },
-    {
-      "height": 319,
-      "id": "f3417c5294e39919",
-      "styleAttributes": {
-      },
-      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[against-interpretation_sontag.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
-      "type": "text",
-      "width": 460,
-      "x": 710,
-      "y": 2708
-    },
-    {
-      "height": 403,
-      "id": "aad6faac7d8ef438",
-      "styleAttributes": {
-      },
-      "text": "> As Sara Ahmed has argued in The Cultural Politics of Emotion, “love of the same” is never innocent: white supremacist love, for instance, is based on a hatred of others (Ahmed 2004). The movement away from others, which grounds models of homophily, reveals the extent to which hatred precedes homophily. The hatred that networks foster, then, should surprise no one. Hatred, Ahmed stresses, organizes bodies. It is an emo- tional “investment” that makes certain bodies responsible for pain or injury. It organizes by bringing things and bodies together— by linking certain figures together so they become a common threat, an X to “our” O. Hate transforms the particular into the general: it transforms individuals into types so they become a common threat (I hate you because you are Y)\n\n[[Pattern-Discrimination.pdf#page=99&selection=29,23,51,30|Pattern-Discrimination, page 99]]",
-      "type": "text",
-      "width": 460,
-      "x": 710,
-      "y": 1670
-    },
-    {
-      "height": 71,
-      "id": "5bec7d156f370bca",
-      "styleAttributes": {
-        "shape": "parallelogram"
-      },
-      "text": "Network science is response to globalization ",
-      "type": "text",
-      "width": 260,
-      "x": 320,
-      "y": 1727
-    },
-    {
       "color": "2",
       "height": 319,
       "id": "b647d04fb584a578",
@@ -2162,18 +2062,6 @@
       "width": 300,
       "x": -680,
       "y": 3080
-    },
-    {
-      "height": 122,
-      "id": "f95584e975d09f08",
-      "styleAttributes": {
-        "shape": "predefined-process"
-      },
-      "text": "### *Against Interpretation*, Sontag\n[[against-interpretation_sontag.pdf]]\n#media-theory #interpretation",
-      "type": "text",
-      "width": 300,
-      "x": -680,
-      "y": 2331
     },
     {
       "color": "5",
@@ -3246,6 +3134,118 @@
       "width": 300,
       "x": -680,
       "y": 650
+    },
+    {
+      "height": 277,
+      "id": "b6a73117981e19c3",
+      "styleAttributes": {
+      },
+      "text": "> Those who reach for a Freudian interpretation of the tank are only expressing their lack of response to what is there on the screen. It is always the case that interpretation of this type indicates a dissatisfaction (conscious or unconscious) with the work, a wish to replace it by something else. Interpretation, based on the highly dubious theory that a work of art is composed of items of content, violates art. It makes art into an article for use, for arrangement into a mental scheme of categories\n\n[[against-interpretation_sontag.pdf#page=3&selection=296,69,322,59|Sontag-Against+Interpretation, page 3]]",
+      "type": "text",
+      "width": 460,
+      "x": 710,
+      "y": 2391
+    },
+    {
+      "height": 102,
+      "id": "4cd2a40daed5d0c9",
+      "styleAttributes": {
+      },
+      "text": "Can you even do hermeneutic interpretation of generated images if there is no latent 'meaning'?",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 2461
+    },
+    {
+      "height": 174,
+      "id": "8c6b66597ae1ff0e",
+      "styleAttributes": {
+      },
+      "text": "> Interpretation is a radical strategy for conserving an old text, which is thought too precious to repudiate, by revamping it. The interpreter, without actually erasing or rewriting the text, is altering it. But he can’t admit to doing this. \n\n[[against-interpretation_sontag.pdf#page=2&selection=69,1,77,70|Sontag-Against+Interpretation, page 2]]",
+      "type": "text",
+      "width": 460,
+      "x": -280,
+      "y": 2391
+    },
+    {
+      "height": 277,
+      "id": "a7ea64ed037e349e",
+      "styleAttributes": {
+      },
+      "text": "> he most celebrated and influential modern doctrines, those of Marx and Freud, actually amount to elaborate systems of hermeneutics, aggressive and impious theories of interpretation. All observable phenomena are bracketed, in Freud’s phrase, as manifest content. This manifest content must be probed and pushed aside to find the true meaning—the latent content beneath. For Marx, social events like revolutions and wars; for Freud, the events of individual lives \n\n[[against-interpretation_sontag.pdf#page=2&selection=149,49,170,17|Sontag-Against+Interpretation, page 2]]",
+      "type": "text",
+      "width": 460,
+      "x": -280,
+      "y": 2605
+    },
+    {
+      "height": 508,
+      "id": "a997bb75198d1b9f",
+      "styleAttributes": {
+      },
+      "text": "> According to the acclaimed network scientist and author Albert-László Barabási, network science obviates the need for human psychology: “In the past, if you wanted to understand what humans do and why they do it, you became a card-carrying psychologist. Today you may want to obtain a degree in computer science . . . .” This is because network science, combined with “increasingly penetrating digital technol- ogies,” places us in “an immense research laboratory that, in size, complexity, and detail, surpasses everything that science has en- countered before.” This lab reveals “the rhythms of life as evidence of a deeper order in human behavior, one that can be explored, predicted, and no doubt exploited” (Barabási 2010, 11). Network science unravels a vast collective nonconscious, encased within the fishbowl of digital media.3 It is the bastard child of psychoanalysis: there are no accidents, no innocent slips of the tongue. Each action is part of a larger pattern/symptom. The goal: to answer that unan- swerable question, what do (wo)men want?\n\n[[Pattern-Discrimination.pdf#page=83&annotation=691R|Pattern-Discrimination, page 83]]",
+      "type": "text",
+      "width": 460,
+      "x": -280,
+      "y": 1507
+    },
+    {
+      "height": 80,
+      "id": "e9f48e19b877319a",
+      "styleAttributes": {
+      },
+      "text": "**Hermeneutics as \"probing content\" to unearth some deeper, truer meaning**",
+      "type": "text",
+      "width": 260,
+      "x": 300,
+      "y": 2628
+    },
+    {
+      "height": 319,
+      "id": "f3417c5294e39919",
+      "styleAttributes": {
+      },
+      "text": "> But programmatic avant-gardism—which has meant, mostly, experiments with form at the expense of content—is not the only defense against the infestation of art by interpretations. At least, I hope not. For this would be to commit art to being perpetually on the run. (It also perpetuates the very distinction between form and content which is, ultimately, an illusion.) Ideally, it is possible to elude the interpreters in another way, by making works of art whose surface is so unified and clean, whose momentum is so rapid, whose address is so direct that the work can be…just what it is.\n\n[[against-interpretation_sontag.pdf#page=4&selection=137,0,155,28|Sontag-Against+Interpretation, page 4]]",
+      "type": "text",
+      "width": 460,
+      "x": 710,
+      "y": 2708
+    },
+    {
+      "height": 403,
+      "id": "aad6faac7d8ef438",
+      "styleAttributes": {
+      },
+      "text": "> As Sara Ahmed has argued in The Cultural Politics of Emotion, “love of the same” is never innocent: white supremacist love, for instance, is based on a hatred of others (Ahmed 2004). The movement away from others, which grounds models of homophily, reveals the extent to which hatred precedes homophily. The hatred that networks foster, then, should surprise no one. Hatred, Ahmed stresses, organizes bodies. It is an emo- tional “investment” that makes certain bodies responsible for pain or injury. It organizes by bringing things and bodies together— by linking certain figures together so they become a common threat, an X to “our” O. Hate transforms the particular into the general: it transforms individuals into types so they become a common threat (I hate you because you are Y)\n\n[[Pattern-Discrimination.pdf#page=99&selection=29,23,51,30|Pattern-Discrimination, page 99]]",
+      "type": "text",
+      "width": 460,
+      "x": 710,
+      "y": 1670
+    },
+    {
+      "height": 122,
+      "id": "f95584e975d09f08",
+      "styleAttributes": {
+        "shape": "predefined-process"
+      },
+      "text": "### *Against Interpretation*, Sontag\n[[against-interpretation_sontag.pdf]]\n#media-theory #interpretation",
+      "type": "text",
+      "width": 300,
+      "x": -680,
+      "y": 2331
+    },
+    {
+      "height": 71,
+      "id": "5bec7d156f370bca",
+      "styleAttributes": {
+        "shape": "parallelogram"
+      },
+      "text": "Network science is response to globalization ",
+      "type": "text",
+      "width": 260,
+      "x": 320,
+      "y": 1727
     }
   ]
 }
