@@ -31,8 +31,9 @@ Tags:
 [[platospharmacy-pt1_ derrida.pdf|Derrida, Plato's Pharmacy]] 
 - Pharmakon, mytheme, signifier, Hermes, Thoth 
 [[unfitting_roberts.pdf|Roberts, Unfitting: Art and Labor]]
-- 4/17
-- Labor, artists, GAI
+- Labor, artists, GAI, de-skilling dialectic, constructivism
+[[situating-the-social-issues_katirai.pdf|Katirai et al, Situating the Social Issues]] 
+- Social issues associated with image generating AI 
 
 **In progress:**
 ***[[queer-phenomenology_ahmed.pdf|Ahmed, Queer Phenomenology]]*** (218)
@@ -53,11 +54,10 @@ Tags:
 **Up next:** 
 ***[[cultural-techniques_siegert.pdf|Siegert, Cultural Techniques]]***  (274)
 ***[[god-human-animal-machine_o-gieblyn.pdf]]***  (240)
-***[[media-theoretical-pharmakon_wark-soncul.pdf]]***  (25)
-***[[of-other-spaces_foucault.pdf]]*** (9)
-
 ***[[salt-seller_duchamp.pdf]]*** (104)
 ***[[the-parasite_serres.pdf]]*** (269)
+***[[media-theoretical-pharmakon_wark-soncul.pdf]]***  (25)
+***[[of-other-spaces_foucault.pdf]]*** (9)
 
 [[ai-and-the-moving-image_mihailova.pdf]] (39)
 [[ai-ethics-anarchism_agnew.pdf]] (4)
@@ -71,7 +71,6 @@ Tags:
 [[phantom-untargeted-poisoning_knauer.pdf]] (15)
 [[precarity-and-solidarity-queer-and-disabled_lamb-grossman.pdf]] (23)
 [[protective-perturbations_peng.pdf]] (7)
-[[situating-the-social-issues_katirai.pdf]] (18)
 [[the-medium-is-the-data-set_mansoor.pdf]] (7)
 [[towards-decolonial-ai_baradaran.pdf]] (13)
 [[understanding-implosion_zhao.pdf]] (15)
@@ -88,6 +87,7 @@ Tags:
 #### Excommunication
 [[excommunication_galloway_thacker_wark.pdf]] 
 - [x] Galloway 
+- [x] Thacker
 - [x] Wark
 #### Donna Haraway
 [[cyborg-manifesto_haraway.pdf]]
