@@ -8,7 +8,11 @@ Tags:
 #lacan
 #nightshade
 #pharmakon
-#
+
+Currently in progress: sorting quotes from annotated bib to particular sections 
+Not in annotated bib yet: zeros and ones, excommunication 
+- Review exploit, queer phenom, duchamp, miller
+
 **Read:**
 [[1_JAM_What is the Real_LI 43_44.pdf|Miller, What is the Real]]
 - Book club
