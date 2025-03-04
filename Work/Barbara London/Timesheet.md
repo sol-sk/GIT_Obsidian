@@ -21,6 +21,7 @@
 | 02.19.25 | 30 min     | 22:23        | 22:40      | Updating post w/ Vimeo                      |
 | 03.03.25 | 1 hr       | 09:40        | 10:45      | Starting 3.05                               |
 | 03.03.25 | 30 min     | 15:26        | 15:39      | Post                                        |
+| 03.04.25 |            | 13:35        |            | Finishing post                              |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
