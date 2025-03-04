@@ -22,6 +22,7 @@
 | 03.03.25 | 1 hr       | 09:40        | 10:45      | Starting 3.05                               |
 | 03.03.25 | 30 min     | 15:26        | 15:39      | Post                                        |
 | 03.04.25 |            | 13:35        | 13:47      | Finishing post                              |
+| 03.04.25 |            | 3:20         | 3:30       | Last edits                                  |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
