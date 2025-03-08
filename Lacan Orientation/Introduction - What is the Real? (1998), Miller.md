@@ -16,6 +16,10 @@ Function of time and what is real in time – function being what time does; tha
 
 Lack of control on both sides; for those waiting and for his being forced to detour by the police – asymmetry ?
 {Law courts; the waiting until the Signifier–judge–arrives, whose presence is a command (stand), and who gives permission (sit)}
+see - 
+> court ceremony
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=2&selection=171,23,171,37|1_JAM_What is the Real_LI 43_44, page 2]]
 
 → Etiquette
 The thing and the "should be"
@@ -113,3 +117,25 @@ Etiquette as discourse -- or, ?
 
 Etiquette is breaking down because the Other does not exist (?)
 
+> *Lacan tried to relate analytical discourse with scientific discourse, reconcile it with the antidiscourse, moving it away from the order of ceremony,* which precisely ridicules what can be of the order of the real. And to reconcile psychoanalysis with the scientific discourse means that its specific manipulation of the semblance would constitute a protocol that would give access to a real
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=4&annotation=112R]]
+
+Protocol extension of etiquette
+
+Taking the floor out of science/undermining? While adopting it? 
+- Vissenshaften -- method of knowing
+- Scientific as in pursuit of knowledge
+Equating scientific discourse with antidiscourse
+Are we talking about positivism????? (ignacio arguing) 15:07 - first recording (for sake of not having hugeee files)
+
+![[Recording 20250308150806.m4a]]
+
+> If one thinks about analytic discourse, from this per- spective, it becomes the establishment of a new etiquette
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=3&selection=144,0,147,57|1_JAM_What is the Real_LI 43_44, page 3]]
+
+Like science, etiquette is mobile
+
+Modes of assigning without going into Ideal ?
+Analytic discourse is the only discourse which does not dominate; functionalize/formalize etiquette in order to keep it working?
