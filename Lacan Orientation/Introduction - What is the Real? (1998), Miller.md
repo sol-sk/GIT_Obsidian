@@ -89,5 +89,27 @@ As:
 - Etiquette is discourse/machine 
 	- Set of rules over how people behave
 Lacan systematizing discourse through "mathemes"
-JAM - connecting ethics and 
+JAM - connecting ethics 
 - Ethics as way of doing
+- Slightly removed from the "wagging finger" of superego
+
+- Lacan's permutations of Freudian terms -- Name of the Father relating to superego 
+
+Eti/Ethiquette in particular function of time
+Following regimented, step by step, Vs mixing up of that time
+Dance: difference between etiquette which describes rules of ceremony and dance which is overlapping of discourses
+
+Discussion of time begins: 
+> Ethics-like etiquette-is a discourse that intends to say what should precede and what should follow.
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=3&selection=6,56,6,62|1_JAM_What is the Real_LI 43_44, page 3]]
+
+You need ethics when you don't know what your etiquette is 
+Etiquette as discourse -- or, ? 
+> PROTOCOL 
+> This discourse, this etiquette was imposed-in any case, was born- when the discourses proved unable to situate themselves very well in the era that Eric Laurent and I dubbed *the Other which does not exist*. Likewise, the era in which the only "discourse" that occupies its place is that of"science" (I put it in quotation marks because it is an anti-discourse, capable of dismissing all the others)
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=3&selection=49,0,76,56|1_JAM_What is the Real_LI 43_44, page 3]]
+
+Etiquette is breaking down because the Other does not exist (?)
+
