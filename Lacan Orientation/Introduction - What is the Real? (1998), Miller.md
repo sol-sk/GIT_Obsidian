@@ -148,3 +148,13 @@ Analytic discourse is the only discourse which does not dominate; functionalize/
 Matheme 1=2?
 
 There is no unconscious without the real 
+
+What is diff between mathemes 1 & 2 -- he only sets up the first (early lacan) to get us to the second (later Lacan)
+
+Mathemes imply function of time, in that they have  action
+
+> For this reason Lacan hinted that what he was searching for was located, these are his words, "beyond the unconscious," according to his firsl lesson in his seminar titled L'insu que sait de l'une-bevue s'aile a mourre. It is the search of a notion, a concept, a movement, a vector that would go beyond the unconscious. Furthermore, this supposedly submits truth to the discus- sion-the analytic experience itself as a search for truth. Indeed, from whatever angle one addresses it, the 
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=5&selection=69,19,94,42|1_JAM_What is the Real_LI 43_44, page 5]]
+
+Lacan uses "algorithm" for matheme, but here we have both?
