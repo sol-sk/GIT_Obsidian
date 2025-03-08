@@ -58,4 +58,36 @@ The deception in the notion of the truth/the truth lies – realizing this decep
 Connors q– carryover between Adorno and Lacan
 - Non-identity
 - Articulating somehting about the real through language but understanding that language is nonidentical to what you "attempt to signify"
-- When addressing the real through lan negotiating that gap
+- When addressing the real through language negotiating that gap
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=7&selection=5,0,7,3|1_JAM_What is the Real_LI 43_44, page 7]]
+
+Q: What is this image? 
+- Choice by *lacanian ink* journal...
+
+
+**Etiquette-Protocol/First Matheme/Second Matheme**
+> I asked myself where the term etiquette came from, which prompted me to find out that J would have to look into the Dutch root. ,1ik/..e1111,which designates a fishing rod planted in earth, and, from there, a net tied to it to catch fi:,,h.It's about fishing, and there arc. as it says in the Bible, fishers of men. Who knows by which channels thi:, word transformed to that of the label that is placed on a cabinet which contains the Ii les of a judicial process. Then- with this we arc approaching it-it became the mark which indi- cates rank in order of precedence. So the etiquette. with a defined artide. arrived at designating this very order, the set of etiquettes that assigns each one to his place, and with this, their role.
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=2&selection=221,0,292,25|1_JAM_What is the Real_LI 43_44, page 2]]
+
+Relationship between analyst/analysand, analytic situation
+
+> It also seems to me that Lacan transitioned from the ethic in psychoanalysis to its etiquette, that what he calls discourse is an etiquette, an order of precedence which indicates what is first and what is second. The discourse, according to Lacan, is a machine that assigns places, something which explains the relationship that is established between this and the art of dance. He defines, then, dance as an art which flourishes when various discourses occupy its places.
+> Indeed, today we find that the success of hip-hop in the suburbs is an attempt to remedy the fact that discourses do not settle into their place well.
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=3&selection=27,1,33,68|1_JAM_What is the Real_LI 43_44, page 3]]
+
+Connor: "remedy"--??? seems like anything but
+
+Hip hop providing vehicle for recognizing/challenging lack of settlement– demonstrating the fact that the etiquette's precedence is not settling fully 
+
+"Suburbs" here is actually referring to the "outer boroughs" in context of Paris, that is the Parisian Bronx, Harlem
+
+Q: is etiquette a big Other?
+As:
+- Etiquette is discourse/machine 
+	- Set of rules over how people behave
+Lacan systematizing discourse through "mathemes"
+JAM - connecting ethics and 
+- Ethics as way of doing
