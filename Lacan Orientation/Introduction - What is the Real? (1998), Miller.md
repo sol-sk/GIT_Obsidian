@@ -162,7 +162,7 @@ Lacan uses "algorithm" for matheme, but here we have both?
 Diagram on p.26; analyst discourse
 
 [[1_JAM_What is the Real_LI 43_44.pdf#page=8&selection=136,0,136,4|1_JAM_What is the Real_LI 43_44, page 8]]
-$R \land S = Ø$
+> $R \land S = Ø$
 
 Final diagram of the conjunction
 
@@ -171,4 +171,8 @@ Problems of formalization in art; introducing and solving problems
 What happens with the process engaging with a work where we engage with what aspects of the work are formalizations – and when we go past that point by making specific references which disturb the formalizations by makign them specific/non-abstract
 
 Garett references Amber's 3 circular diagram works from Finnegan's Wake
-Merciral? 
+*→ chiral, asymmetrical*
+
+Artwork: deception of truth to give access to something else/Real
+
+15:50 discussion of the grid relating to Genvieve's works
