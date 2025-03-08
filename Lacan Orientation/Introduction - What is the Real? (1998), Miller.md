@@ -139,3 +139,12 @@ Like science, etiquette is mobile
 
 Modes of assigning without going into Ideal ?
 Analytic discourse is the only discourse which does not dominate; functionalize/formalize etiquette in order to keep it working?
+
+> This is the natural consequence of having established a causal relationship between the signifier and signified, to having made the signifier the cause of the effects that populate the domain of the signified. It is the consequence of its construction-which takes from Jakobson and transforms it over the metaphor and metonymy, which, translated in terms of the real, simply means that the psychoanalytic real is the signifier. The development of this notion occupies the central, classic message of Lacan 's teach- ings, by which the unconscious is not history but knowledge, what assigns the real indicator to the signifier. There, in the most self- evident way, the marriage between psychoanalysis and science is celebrated-it is as if the unconscious gives evidence that there is knowledge in the real. that the real presents itself in the form of knowledge.
+
+[[1_JAM_What is the Real_LI 43_44.pdf#page=5&selection=18,0,37,13|1_JAM_What is the Real_LI 43_44, page 5]]
+
+
+Matheme 1=2?
+
+There is no unconscious without the real 
