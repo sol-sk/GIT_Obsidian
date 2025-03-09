@@ -170,9 +170,23 @@ Problems of formalization in art; introducing and solving problems
 
 What happens with the process engaging with a work where we engage with what aspects of the work are formalizations – and when we go past that point by making specific references which disturb the formalizations by makign them specific/non-abstract
 
-Garett references Amber's 3 circular diagram works from Finnegan's Wake
+Gareth references Amber's 3 circular diagram works from Finnegan's Wake
 *→ chiral, asymmetrical*
 
 Artwork: deception of truth to give access to something else/Real
 
 15:50 discussion of the grid relating to Genvieve's works
+
+T. Auerbach's work 15:53
+- Meaningless gesture, symbol with vague associations 
+
+Intersection vs bar 
+
+Gareth: You don't go as a spectator to artwork without the expectation that the desire to know will be fulfilled in some way 
+- I am the answer to this art/this art is the answer to me
+- T'ai describes this view as the hermeneutic view rather than all spectators
+
+
+Ignacio: Or (to Gareth), the denial of the question, the sequestering off of the possibility of answering 
+
+Everything to be known is already there in the unconscious; unearthing it 
