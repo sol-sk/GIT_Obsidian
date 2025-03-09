@@ -45,8 +45,8 @@ Real cannot exist without ideal/should-be
 
 Intro–being at his destination is the ideal, the time being Real 
 
-My Q; how do we know wha tto call "Real?"
-- It's something tat's in the peripheral, it's paradowical, can/'t be identified, recognized – can be felt
+My Q; how do we know what to call "Real?"
+- It's something that's in the peripheral, it's paradoxical, can/'t be identified, recognized – can be felt
 - *The real finds you*
 
 A's: 
@@ -200,3 +200,5 @@ JK i recorded all of it we stopped right after
 finishing gareth's thought
 spectatorship on the one face trying to address on one face structureal condiditon on the other historical quesitons they generate 
 - Subjective post industrial spectator brings different meaning (historical defined) while also being generic
+
+
