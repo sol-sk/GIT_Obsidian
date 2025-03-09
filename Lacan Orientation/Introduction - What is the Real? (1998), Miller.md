@@ -77,7 +77,9 @@ Q: What is this image?
 
 Relationship between analyst/analysand, analytic situation
 
-> It also seems to me that Lacan transitioned from the ethic in psychoanalysis to its etiquette, that what he calls discourse is an etiquette, an order of precedence which indicates what is first and what is second. The discourse, according to Lacan, is a machine that assigns places, something which explains the relationship that is established between this and the art of dance. He defines, then, dance as an art which flourishes when various discourses occupy its places.
+> It also seems to me that Lacan transitioned from the ethic in psychoanalysis to its etiquette, that what he calls discourse is an etiquette, an order of precedence which indicates what is first and what is second. The discourse, according to Lacan, is a m
+![[Recording 20250308163840.m4a]]
+chine that assigns places, something which explains the relationship that is established between this and the art of dance. He defines, then, dance as an art which flourishes when various discourses occupy its places.
 > Indeed, today we find that the success of hip-hop in the suburbs is an attempt to remedy the fact that discourses do not settle into their place well.
 
 [[1_JAM_What is the Real_LI 43_44.pdf#page=3&selection=27,1,33,68|1_JAM_What is the Real_LI 43_44, page 3]]
@@ -184,9 +186,17 @@ Intersection vs bar
 
 Gareth: You don't go as a spectator to artwork without the expectation that the desire to know will be fulfilled in some way 
 - I am the answer to this art/this art is the answer to me
-- T'ai describes this view as the hermeneutic view rather than all spectators
+- T'ai describes this view as the hermeneutic view rather than all spectators - hysterical component
+- Amber: I don't want an answer, I'm dissatisfied when there is an answer, prefer to stay in the space of more questions 16:03
 
 
 Ignacio: Or (to Gareth), the denial of the question, the sequestering off of the possibility of answering 
 
 Everything to be known is already there in the unconscious; unearthing it 
+
+Sorry Alicia they're still talking but i simply cannot stay here forever :( 16:05 
+JK i recorded all of it we stopped right after
+![[Recording 20250308160551.m4a]]
+finishing gareth's thought
+spectatorship on the one face trying to address on one face structureal condiditon on the other historical quesitons they generate 
+- Subjective post industrial spectator brings different meaning (historical defined) while also being generic
