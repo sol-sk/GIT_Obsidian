@@ -288,6 +288,39 @@
       "y": 660
     },
     {
+      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
+      "height": 400,
+      "id": "438546c185e63f58",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 391,
+      "x": 1940,
+      "y": 680
+    },
+    {
+      "height": 256,
+      "id": "8e497a75399e7ba4",
+      "styleAttributes": {
+      },
+      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 760
+    },
+    {
+      "height": 60,
+      "id": "6bb2fe2befba6dbc",
+      "styleAttributes": {
+      },
+      "text": "Light → lens → retina → optic nerve → LGN → V1",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 680
+    },
+    {
       "height": 200,
       "id": "3ce924f2d1f1d928",
       "styleAttributes": {
@@ -308,61 +341,6 @@
       "width": 260,
       "x": -120,
       "y": 140
-    },
-    {
-      "height": 140,
-      "id": "bc5bba5490c9e6a9",
-      "styleAttributes": {
-      },
-      "text": "**P & F**: Defending functional neuroimaging\n- We can infer that brain activity reliably elicited by task was caused by task BUT can't infer that brain is causally responsble",
-      "type": "text",
-      "width": 360,
-      "x": -120,
-      "y": 455
-    },
-    {
-      "height": 60,
-      "id": "4af78d16073a1676",
-      "styleAttributes": {
-      },
-      "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
-      "type": "text",
-      "width": 360,
-      "x": 0,
-      "y": 1200
-    },
-    {
-      "height": 180,
-      "id": "01023f319a1a824d",
-      "styleAttributes": {
-      },
-      "text": "2 kinds of \"**mechanistic insigh**t\": \n- What is captured by mechanism (cell, population, network)\n- Ability of each method to record role (purely observational, manipulate process/task, manipulate brain)",
-      "type": "text",
-      "width": 320,
-      "x": 290,
-      "y": -92
-    },
-    {
-      "height": 282,
-      "id": "af80c58975a86b48",
-      "styleAttributes": {
-      },
-      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
-      "type": "text",
-      "width": 440,
-      "x": 680,
-      "y": -317
-    },
-    {
-      "height": 122,
-      "id": "ad8a03fca1847400",
-      "styleAttributes": {
-      },
-      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
-      "type": "text",
-      "width": 260,
-      "x": 320,
-      "y": -318
     },
     {
       "height": 125,
@@ -387,26 +365,15 @@
       "y": -79
     },
     {
-      "height": 222,
-      "id": "dd18d41495ada93f",
+      "height": 60,
+      "id": "4af78d16073a1676",
       "styleAttributes": {
       },
-      "text": "Intrinsic (arising spontaneously) networks:\n- Activity is correlated at rest \n- Identified with resting-state fMRI - in **(P & F)**\n\n*Canonical* Intrinsic Networks: observed very commonly at rest ",
+      "text": "**P & F**: \"Workhorse of cognitive neuroscience\"\n",
       "type": "text",
-      "width": 320,
-      "x": 760,
-      "y": 1602
-    },
-    {
-      "height": 200,
-      "id": "fc8356fdb4b4318c",
-      "styleAttributes": {
-      },
-      "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
-      "type": "text",
-      "width": 260,
-      "x": 60,
-      "y": 928
+      "width": 360,
+      "x": 0,
+      "y": 1200
     },
     {
       "height": 100,
@@ -420,50 +387,6 @@
       "y": 1460
     },
     {
-      "height": 120,
-      "id": "4add580745375d7a",
-      "styleAttributes": {
-      },
-      "text": "PET:\n- Tracers, invasive\n- Poor temporal res.",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 720
-    },
-    {
-      "height": 178,
-      "id": "eb98624574c9f380",
-      "styleAttributes": {
-      },
-      "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 880
-    },
-    {
-      "height": 99,
-      "id": "70c1126eda36aa33",
-      "styleAttributes": {
-      },
-      "text": "fMRI: \n- Diff in activity btwn groups\n- Measures BOLD",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 1080
-    },
-    {
-      "height": 96,
-      "id": "d4d6d750112884fb",
-      "styleAttributes": {
-      },
-      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
-      "type": "text",
-      "width": 320,
-      "x": 760,
-      "y": 1080
-    },
-    {
       "height": 160,
       "id": "4e54c9a4502b3dc3",
       "styleAttributes": {
@@ -473,17 +396,6 @@
       "width": 320,
       "x": 760,
       "y": 1260
-    },
-    {
-      "height": 2075,
-      "id": "91974b28b540693c",
-      "styleAttributes": {
-      },
-      "text": "\n**SHORT ANSWER QUESTION**  \nAnswer the following based on the paper we read by Harada et al., 2020, which used fMRI to examine  \nquestions related to face perception and race/culture, as well what you know from lecture material  \nabout the paper (30 points).  \n\n- **A. What was the big-picture question that motivated the study? (1 pt total)**  \n\n- **B. Background (6 pts total)**  \n\t- *I. Describe one thing that previous research, described in the Introduction of the paper, has taught us about the influence of culture on responses to facial emotion and one set of findings described in the paper that support that knowledge. Your answer for the  second part of this question (about the set of findings) should elaborate on your answer  in the first part of this question. (4 pts)* \n\t- Previous studies have shown in-group affects on bilateral amygdala response. \n\t- *II. What two self-construal styles have been identified by cultural psychologists and what are the main characteristics of each? (2 pts)*  \n- **C. Research Questions and Hypotheses (3 pts total)**  \n\t- *I. What was the main research question? (1 pt)*  \n\t- How do Japanese bicultural individuals (raised in individualistic culture but with connections to collectivistic) compare to Native Japanese (collectivism) in amygdala response to racial in and out group faces? (\"That is to say, what neural modulation in the amygdala would be observed in Japanese-American individuals, who are very familiar with Caucasian-Americans’ faces while they have a similarity of physical appearance to native Japanese people, when they were shown facial emotional ex- pressions of Caucasians and Japanese?\")\n\t- *II. What were two hypotheses put forward by the authors? (2 pts)*  \n\t-  Bicultural (Japanese American) individuals would show greater amygdala response to Japanese faces than Caucasian Americans, and \"collectivistic tendencies would be related to neural responses of intergroup negative facial expression.\"\n- **D. Methods (2 pts total)**  \n\t- *I. How did they define group membership? (1 pt)*  \n\t- Japanese-Americans were born and/or raised from a young age in America, either first-generation or second-generation. Japanese Natives were born and raised in Japan, and Caucasian Americans. In-group for Japanese Americans was racial in group ie. Japanese. \n\t- *II. What was the purpose of the shape stimuli? (1 pt)*  \n\t- The shape stimuli serve as a control task for a \"relatively low-level cognitive process\"  \n- **E. Results (4 pts total)**  \n\t- *I. What was the main pattern of findings for the amygdala? What patterns of brain  activity reflected the “cultural in-group effect?” (2 pts)*  \n\t- There was a significant in-group effect observed in the bilateral amygdala when comparing Native Japanese group with Caucasian-American group. Native Japanese participants showed larger neural responses itn the bilateral amygdala to Japanese faces than Caucasian-Americans did. \n\t- Caucasian-American and Japanese participants showed the highest amygdala activities to negative faces of the same cultural and racial members (i.e. in-group members) and the lowest amygdala activities to those of the different cultural and racial group members\n\t- Japanese-American participants showed neural responses in between the JN and CA groups. \n\t- *II. What pattern of brain activity did they find in one particular group of participants when  they looked at the whole brain? (2 pts)*  \n\t-  Japanese-American participants showed greater activities in the right ventral prefrontal cortex, posterior cingulate cortex extending to precueus and right superior frontal gyrus during processing of negative facial expressions of Japanese than Caucasian-American participants did\n- **F. Discussion (4 pts total)**  \n\t- *I. How do they interpret the midline cortical findings observed in one particular group? (2  pts)*  \n\t- Likely reflects greater informational demands of self-relevant memory, because their recognition of their racial identity might be automatically strengthened when negative facial expression of racially in-group members was presented.\n\t- *II. Was their hypothesis about individual differences supported? Why or why not? (2 pts)*  \n\t- \"This result indicates that bicultural individuals respond to negative facial expressions of members from the both cultural groups with slightly attenuated extent as compared to monocultural individuals. We hypothesized that JA individuals would show large amygdala responses to Caucasian negative faces as the same extent as CA individuals would if the in-group bias was due to familiarity of faces learned in their daily life, while they would show large amygdala response to Japanese negative faces as the same extent as JP individuals would if the in-group bias was simply due to their racial identity. The results in the current study did not support either hypothesis\"\n\t- \"Although this way might not necessarily eliminate the possibility of remaining variations, it would be still a possible solution and even more useful way by combining with an additional and detailed reliability test such as a ROI analysis for target brain regions that we have done in the current study. In the current study, we excluded the temporal and occipital regions from the analyses only when directly comparing the different facilities, and furthermore confirmed that there was no significant difference of neural activities in the hypothesized regions, that is the bilateral amygdala, in our prior reliability test. Hence, variation in scanner-site performance is not a likely explanation for the variability in the neural activation we observed in the current study.\"\n- **G. Conclusions and limitations (6 pts total)**  \n\t- *I. How do they describe the overall meaning and importance of the results? (2 pts)*  \n\t- \"Our results show that neural responses in the bilateral amygdala reflected both of in-group biases based on ones’ racial identities and cultural practices, such as ones’ collectivistic tendencies, irrespective of participants’ cultures.\"\n\t- \"Our results demonstrate that neural responses during the processing of emotional faces could be modulated by different social factors, such as cultural practice and racial identity, and furthermore cultural and racial influences are interlaced especially in bicultural individuals such as Japanese-Americans in the current study.\"\n\t- *II. List TWO limitations of the study and explain why they are limitations. (4 pts)*  \n\t- One limitation of this study involves the generalizability of our findings, as the results were based on only facial expressions of fear and anger.\n\t- There might be another limitation in the current study, that is a possible variation in the scanner performance between the two facilities which may have led to variations in the neural activation patterns across the two different scanning sites.\n- **H. In YOUR opinion (4 pts total)**  \n\t- *I. What are the larger cultural or societal implications of these findings? Do you agree  with the authors’ conclusions? Why or why not? What do you think is important that  they didn’t think of? (4 pts)*",
-      "type": "text",
-      "width": 720,
-      "x": -2240,
-      "y": 1058
     },
     {
       "height": 347,
@@ -541,28 +453,6 @@
       "y": 1050
     },
     {
-      "file": "W2024 Files/Screenshot 2025-02-03 at 10.51.17 AM.png",
-      "height": 400,
-      "id": "438546c185e63f58",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 391,
-      "x": 1940,
-      "y": 680
-    },
-    {
-      "height": 256,
-      "id": "8e497a75399e7ba4",
-      "styleAttributes": {
-      },
-      "text": "**Feedforward**:\n- Receptive field size increases further down visual stream - more info integrated\n- V1 has unintegrated fragments, → LOC, IT downstream do integration into shapes, obj.",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 760
-    },
-    {
       "height": 100,
       "id": "90da43c1b20936e0",
       "styleAttributes": {
@@ -572,83 +462,6 @@
       "width": 300,
       "x": 2730,
       "y": 776
-    },
-    {
-      "height": 60,
-      "id": "6bb2fe2befba6dbc",
-      "styleAttributes": {
-      },
-      "text": "Light → lens → retina → optic nerve → LGN → V1",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 680
-    },
-    {
-      "height": 284,
-      "id": "4776aa4599bc704f",
-      "styleAttributes": {
-      },
-      "text": "Some inconsistencies between humans & machines \n- DNNs use texture and humans use shape to categorize images \n- DNNs use local shape and humans use global shape \n- DNNs are bad at identifying degraded or deformed images \n- DNNs can’t distinguish boundaries from surface",
-      "type": "text",
-      "width": 380,
-      "x": 3420,
-      "y": 1818
-    },
-    {
-      "height": 200,
-      "id": "3e2080c6f6ef17a8",
-      "styleAttributes": {
-      },
-      "text": "MEG:\n- Pop. of neurons\n- Good temporal res\n- Magnetic fluctuations caused by electrical activity\n- Better spatial res since signal not distorted",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 355
-    },
-    {
-      "height": 99,
-      "id": "eb4c88ca83138caa",
-      "styleAttributes": {
-      },
-      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 580
-    },
-    {
-      "height": 60,
-      "id": "d4e8864a22df9e35",
-      "styleAttributes": {
-      },
-      "text": "Computer vision: CNNs",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1960
-    },
-    {
-      "height": 154,
-      "id": "807b4f1bb6c92d3d",
-      "styleAttributes": {
-      },
-      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
-      "type": "text",
-      "width": 260,
-      "x": 2380,
-      "y": 1480
-    },
-    {
-      "height": 60,
-      "id": "f3dacb927a743b2a",
-      "styleAttributes": {
-      },
-      "text": "Similar to visual stream, fragmented → whole",
-      "type": "text",
-      "width": 260,
-      "x": 2760,
-      "y": 1960
     },
     {
       "height": 60,
@@ -662,26 +475,48 @@
       "y": 1480
     },
     {
-      "height": 289,
-      "id": "3749b1bef816fd0a",
+      "height": 120,
+      "id": "a038cfb4758cf553",
       "styleAttributes": {
       },
-      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
-      "type": "text",
-      "width": 380,
-      "x": 3080,
-      "y": 1480
-    },
-    {
-      "height": 200,
-      "id": "f231a61ba0782e9e",
-      "styleAttributes": {
-      },
-      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
+      "text": "Associative agnosia:\n- Can't recognize bear standing in front of you \n- Can't name obj. ",
       "type": "text",
       "width": 260,
-      "x": 2380,
-      "y": 1660
+      "x": 3420,
+      "y": 838
+    },
+    {
+      "height": 222,
+      "id": "dd18d41495ada93f",
+      "styleAttributes": {
+      },
+      "text": "Intrinsic (arising spontaneously) networks:\n- Activity is correlated at rest \n- Identified with resting-state fMRI - in **(P & F)**\n\n*Canonical* Intrinsic Networks: observed very commonly at rest ",
+      "type": "text",
+      "width": 320,
+      "x": 760,
+      "y": 1602
+    },
+    {
+      "height": 178,
+      "id": "eb98624574c9f380",
+      "styleAttributes": {
+      },
+      "text": "MRI:\n- Protons in H atms resonate when mag field direction changes\n- Diff tissues produce diff imgs\n",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 880
+    },
+    {
+      "height": 99,
+      "id": "70c1126eda36aa33",
+      "styleAttributes": {
+      },
+      "text": "fMRI: \n- Diff in activity btwn groups\n- Measures BOLD",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 1080
     },
     {
       "height": 103,
@@ -704,17 +539,6 @@
       "width": 300,
       "x": 3530,
       "y": 1480
-    },
-    {
-      "height": 246,
-      "id": "274630e3133431ab",
-      "styleAttributes": {
-      },
-      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n- *When, not where*\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
-      "type": "text",
-      "width": 520,
-      "x": 760,
-      "y": 120
     },
     {
       "height": 204,
@@ -750,6 +574,17 @@
       "y": 1232
     },
     {
+      "height": 140,
+      "id": "bc5bba5490c9e6a9",
+      "styleAttributes": {
+      },
+      "text": "**P & F**: Defending functional neuroimaging\n- We can infer that brain activity reliably elicited by task was caused by task BUT can't infer that brain is causally responsble",
+      "type": "text",
+      "width": 360,
+      "x": -120,
+      "y": 455
+    },
+    {
       "height": 182,
       "id": "8d54b99ec61f095e",
       "styleAttributes": {
@@ -759,6 +594,193 @@
       "width": 520,
       "x": 1280,
       "y": 1419
+    },
+    {
+      "height": 96,
+      "id": "d4d6d750112884fb",
+      "styleAttributes": {
+      },
+      "text": "Dependent var. = BOLD response\n- Statistics → map of activity, colors indicating stat. threshold ",
+      "type": "text",
+      "width": 320,
+      "x": 760,
+      "y": 1080
+    },
+    {
+      "height": 154,
+      "id": "807b4f1bb6c92d3d",
+      "styleAttributes": {
+      },
+      "text": "Challenges to obj. recognition:\n1) Obj. can be occluded\n2) Diff. in size/distance\n3) Obj. can look diff from diff angles",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1480
+    },
+    {
+      "height": 200,
+      "id": "f231a61ba0782e9e",
+      "styleAttributes": {
+      },
+      "text": "fMRIs have shown (w/ encoding): \n- Response preference to features → whole obj. from V1 → LOC\n- Size + viewpoint invariance later in visual stream",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1660
+    },
+    {
+      "height": 180,
+      "id": "01023f319a1a824d",
+      "styleAttributes": {
+      },
+      "text": "2 kinds of \"**mechanistic insigh**t\": \n- What is captured by mechanism (cell, population, network)\n- Ability of each method to record role (purely observational, manipulate process/task, manipulate brain)",
+      "type": "text",
+      "width": 320,
+      "x": 290,
+      "y": -92
+    },
+    {
+      "height": 200,
+      "id": "fc8356fdb4b4318c",
+      "styleAttributes": {
+      },
+      "text": "Measuring connectivity: \n1) Anatomical/Structural connectivity - DTI/myelin imaging\n2) Functional connectivity - correlation in act. btwn BOLD in diff areas",
+      "type": "text",
+      "width": 260,
+      "x": 60,
+      "y": 928
+    },
+    {
+      "height": 2075,
+      "id": "91974b28b540693c",
+      "styleAttributes": {
+      },
+      "text": "\n**SHORT ANSWER QUESTION**  \nAnswer the following based on the paper we read by Harada et al., 2020, which used fMRI to examine  \nquestions related to face perception and race/culture, as well what you know from lecture material  \nabout the paper (30 points).  \n\n- **A. What was the big-picture question that motivated the study? (1 pt total)**  \n\n- **B. Background (6 pts total)**  \n\t- *I. Describe one thing that previous research, described in the Introduction of the paper, has taught us about the influence of culture on responses to facial emotion and one set of findings described in the paper that support that knowledge. Your answer for the  second part of this question (about the set of findings) should elaborate on your answer  in the first part of this question. (4 pts)* \n\t- Previous studies have shown in-group affects on bilateral amygdala response. \n\t- *II. What two self-construal styles have been identified by cultural psychologists and what are the main characteristics of each? (2 pts)*  \n- **C. Research Questions and Hypotheses (3 pts total)**  \n\t- *I. What was the main research question? (1 pt)*  \n\t- How do Japanese bicultural individuals (raised in individualistic culture but with connections to collectivistic) compare to Native Japanese (collectivism) in amygdala response to racial in and out group faces? (\"That is to say, what neural modulation in the amygdala would be observed in Japanese-American individuals, who are very familiar with Caucasian-Americans’ faces while they have a similarity of physical appearance to native Japanese people, when they were shown facial emotional ex- pressions of Caucasians and Japanese?\")\n\t- *II. What were two hypotheses put forward by the authors? (2 pts)*  \n\t-  Bicultural (Japanese American) individuals would show greater amygdala response to Japanese faces than Caucasian Americans, and \"collectivistic tendencies would be related to neural responses of intergroup negative facial expression.\"\n- **D. Methods (2 pts total)**  \n\t- *I. How did they define group membership? (1 pt)*  \n\t- Japanese-Americans were born and/or raised from a young age in America, either first-generation or second-generation. Japanese Natives were born and raised in Japan, and Caucasian Americans. In-group for Japanese Americans was racial in group ie. Japanese. \n\t- *II. What was the purpose of the shape stimuli? (1 pt)*  \n\t- The shape stimuli serve as a control task for a \"relatively low-level cognitive process\"  \n- **E. Results (4 pts total)**  \n\t- *I. What was the main pattern of findings for the amygdala? What patterns of brain  activity reflected the “cultural in-group effect?” (2 pts)*  \n\t- There was a significant in-group effect observed in the bilateral amygdala when comparing Native Japanese group with Caucasian-American group. Native Japanese participants showed larger neural responses itn the bilateral amygdala to Japanese faces than Caucasian-Americans did. \n\t- Caucasian-American and Japanese participants showed the highest amygdala activities to negative faces of the same cultural and racial members (i.e. in-group members) and the lowest amygdala activities to those of the different cultural and racial group members\n\t- Japanese-American participants showed neural responses in between the JN and CA groups. \n\t- *II. What pattern of brain activity did they find in one particular group of participants when  they looked at the whole brain? (2 pts)*  \n\t-  Japanese-American participants showed greater activities in the right ventral prefrontal cortex, posterior cingulate cortex extending to precueus and right superior frontal gyrus during processing of negative facial expressions of Japanese than Caucasian-American participants did\n- **F. Discussion (4 pts total)**  \n\t- *I. How do they interpret the midline cortical findings observed in one particular group? (2  pts)*  \n\t- Likely reflects greater informational demands of self-relevant memory, because their recognition of their racial identity might be automatically strengthened when negative facial expression of racially in-group members was presented.\n\t- *II. Was their hypothesis about individual differences supported? Why or why not? (2 pts)*  \n\t- \"This result indicates that bicultural individuals respond to negative facial expressions of members from the both cultural groups with slightly attenuated extent as compared to monocultural individuals. We hypothesized that JA individuals would show large amygdala responses to Caucasian negative faces as the same extent as CA individuals would if the in-group bias was due to familiarity of faces learned in their daily life, while they would show large amygdala response to Japanese negative faces as the same extent as JP individuals would if the in-group bias was simply due to their racial identity. The results in the current study did not support either hypothesis\"\n\t- \"Although this way might not necessarily eliminate the possibility of remaining variations, it would be still a possible solution and even more useful way by combining with an additional and detailed reliability test such as a ROI analysis for target brain regions that we have done in the current study. In the current study, we excluded the temporal and occipital regions from the analyses only when directly comparing the different facilities, and furthermore confirmed that there was no significant difference of neural activities in the hypothesized regions, that is the bilateral amygdala, in our prior reliability test. Hence, variation in scanner-site performance is not a likely explanation for the variability in the neural activation we observed in the current study.\"\n- **G. Conclusions and limitations (6 pts total)**  \n\t- *I. How do they describe the overall meaning and importance of the results? (2 pts)*  \n\t- \"Our results show that neural responses in the bilateral amygdala reflected both of in-group biases based on ones’ racial identities and cultural practices, such as ones’ collectivistic tendencies, irrespective of participants’ cultures.\"\n\t- \"Our results demonstrate that neural responses during the processing of emotional faces could be modulated by different social factors, such as cultural practice and racial identity, and furthermore cultural and racial influences are interlaced especially in bicultural individuals such as Japanese-Americans in the current study.\"\n\t- *II. List TWO limitations of the study and explain why they are limitations. (4 pts)*  \n\t- One limitation of this study involves the generalizability of our findings, as the results were based on only facial expressions of fear and anger.\n\t- There might be another limitation in the current study, that is a possible variation in the scanner performance between the two facilities which may have led to variations in the neural activation patterns across the two different scanning sites.\n- **H. In YOUR opinion (4 pts total)**  \n\t- *I. What are the larger cultural or societal implications of these findings? Do you agree  with the authors’ conclusions? Why or why not? What do you think is important that  they didn’t think of? (4 pts)*",
+      "type": "text",
+      "width": 720,
+      "x": -2240,
+      "y": 1058
+    },
+    {
+      "height": 246,
+      "id": "274630e3133431ab",
+      "styleAttributes": {
+      },
+      "text": "Event-related potentials (ERPs):\n- Avg. EEG signal following {stim/response}\n- Components linked to specf processes\n- *When, not where*\n\nFrequency domain analyses:\n- Decomposes EEG signal into diff freqs\n- Shows synchrony over distant regions - study networks",
+      "type": "text",
+      "width": 520,
+      "x": 760,
+      "y": 120
+    },
+    {
+      "height": 282,
+      "id": "af80c58975a86b48",
+      "styleAttributes": {
+      },
+      "text": "**Poldrack and Farah, 2015**\n- Mechanism =  \"causal chain of events that result in the realization of a function.\"\n- Methods which provide little insight: \n\t- \"Methods that exploit naturally occurring variation by observing the strength of association between individual differences in brain function and behaviour. Analysis of relationships between behavioural traits, genes, brain structure, and brain function exemplify this approach.\"",
+      "type": "text",
+      "width": 440,
+      "x": 680,
+      "y": -317
+    },
+    {
+      "height": 122,
+      "id": "ad8a03fca1847400",
+      "styleAttributes": {
+      },
+      "text": "Lesion network mapping: \n- Diff locations linked to same deficit → find network they comprise",
+      "type": "text",
+      "width": 260,
+      "x": 320,
+      "y": -318
+    },
+    {
+      "height": 180,
+      "id": "149112c8b79929e8",
+      "styleAttributes": {
+      },
+      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 140
+    },
+    {
+      "height": 284,
+      "id": "4776aa4599bc704f",
+      "styleAttributes": {
+      },
+      "text": "Some inconsistencies between humans & machines \n- DNNs use texture and humans use shape to categorize images \n- DNNs use local shape and humans use global shape \n- DNNs are bad at identifying degraded or deformed images \n- DNNs can’t distinguish boundaries from surface",
+      "type": "text",
+      "width": 380,
+      "x": 3420,
+      "y": 1818
+    },
+    {
+      "height": 60,
+      "id": "d4e8864a22df9e35",
+      "styleAttributes": {
+      },
+      "text": "Computer vision: CNNs",
+      "type": "text",
+      "width": 260,
+      "x": 2380,
+      "y": 1960
+    },
+    {
+      "height": 60,
+      "id": "f3dacb927a743b2a",
+      "styleAttributes": {
+      },
+      "text": "Similar to visual stream, fragmented → whole",
+      "type": "text",
+      "width": 260,
+      "x": 2760,
+      "y": 1960
+    },
+    {
+      "height": 289,
+      "id": "3749b1bef816fd0a",
+      "styleAttributes": {
+      },
+      "text": "Adaptive suppression: \n- Size inv.t: If size inv.t, neurons should treat diff sizes of obj. as same → suppression of hemodynamic response (HDR)\n\t- Not size inv.t → no suppression\n\t- V1 not inv.t | Ant. LOC inv.t\n- Viewpoint inv.t\n\t- EV areas and posterior LOC: no suppression, not viewpoint inv.t \n\t- Ant. LOC: suppression, viewpoint inv.t",
+      "type": "text",
+      "width": 380,
+      "x": 3080,
+      "y": 1480
+    },
+    {
+      "height": 120,
+      "id": "4add580745375d7a",
+      "styleAttributes": {
+      },
+      "text": "PET:\n- Tracers, invasive\n- Poor temporal res.",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 720
+    },
+    {
+      "height": 200,
+      "id": "3e2080c6f6ef17a8",
+      "styleAttributes": {
+      },
+      "text": "MEG:\n- Pop. of neurons\n- Good temporal res\n- Magnetic fluctuations caused by electrical activity\n- Better spatial res since signal not distorted",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 355
+    },
+    {
+      "height": 99,
+      "id": "eb4c88ca83138caa",
+      "styleAttributes": {
+      },
+      "text": "ECoG-Stereo EEG: \n- Intracranial \n- V. invasive; epilepsy studies",
+      "type": "text",
+      "width": 260,
+      "x": 380,
+      "y": 580
     },
     {
       "height": 224,
@@ -772,17 +794,6 @@
       "y": 1130
     },
     {
-      "height": 120,
-      "id": "a038cfb4758cf553",
-      "styleAttributes": {
-      },
-      "text": "Associative agnosia:\n- Can't recognize bear standing in front of you \n- Can't name obj. ",
-      "type": "text",
-      "width": 260,
-      "x": 3420,
-      "y": 838
-    },
-    {
       "file": "W2024 Files/Screenshot 2025-02-03 at 10.21.09 AM.png",
       "height": 501,
       "id": "3cc2c3c0a9a96bc2",
@@ -792,17 +803,6 @@
       "width": 991,
       "x": 729,
       "y": 427
-    },
-    {
-      "height": 180,
-      "id": "149112c8b79929e8",
-      "styleAttributes": {
-      },
-      "text": "EEG: \n- Measures electrical activity outside columns of cortical cells\n- Poor spatial res. \n- Good temporal res",
-      "type": "text",
-      "width": 260,
-      "x": 380,
-      "y": 140
     }
   ]
 }
