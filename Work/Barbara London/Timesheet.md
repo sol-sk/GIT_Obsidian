@@ -25,6 +25,7 @@
 | 03.04.25 |            | 3:20         | 3:30       | Last edits                                  |
 | 03.17.25 | 30 min     | 6;00         | 7:00       | Creating post, formatting transcript        |
 | 03.18.25 | 45 min     | 11:00        | 11:43      | Completing post                             |
+| 03.18.25 | 30 min     | 20:45        | 20:56      | Final edits, adding Skittles images         |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
