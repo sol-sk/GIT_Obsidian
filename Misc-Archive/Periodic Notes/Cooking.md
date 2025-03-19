@@ -127,3 +127,18 @@ Eat with NAf. bread (kesra)
 - [ ] Cucumber
 - [ ] Optional: edamame, cabbage, carrot
 
+#### Tom Yum/Coconut curry soup
+- [ ] Aroy-D tom yum paste
+- [ ] Coconut milk
+- [ ] Mushrooms
+- [ ] Bok choy
+- [ ] Ginger, garlic, scallions, onion
+- [ ] Glass noodles
+- [ ] Broccoli 
+- [ ] Carrot?
+- [ ] Thai basil/mint
+- [ ] Cilantro 
+
+
+
+
