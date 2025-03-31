@@ -23,9 +23,10 @@
 | 03.03.25 | 30 min     | 15:26        | 15:39      | Post                                        |
 | 03.04.25 |            | 13:35        | 13:47      | Finishing post                              |
 | 03.04.25 |            | 3:20         | 3:30       | Last edits                                  |
-| 03.17.25 | 30 min     | 6;00         | 7:00       | Creating post, formatting transcript        |
+| 03.17.25 | 30 min     | 6;00         | 7:00       | Creating post, formatting transcript 3.06   |
 | 03.18.25 | 45 min     | 11:00        | 11:43      | Completing post                             |
 | 03.18.25 | 30 min     | 20:45        | 20:56      | Final edits, adding Skittles images         |
+| 03.31.25 |            | 11:24        |            | Starting 3.07                               |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
