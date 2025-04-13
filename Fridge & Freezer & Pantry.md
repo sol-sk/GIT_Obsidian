@@ -1,7 +1,7 @@
 
 | Food                     | Category   | Longevity | Location |
 | ------------------------ | ---------- | --------- | -------- |
-| Cherry tomato            | Vegetable? | Med       | Pantry   |
+| Cherry tomato            | Vegetable? | Short     | Pantry   |
 | Spinach                  | Vegetable  | Inf.      | Freezer  |
 | Edamame                  | Vegetable  | Inf.      | Freezer  |
 | Dried black beans        | Protein    | Inf.      | Pantry   |
@@ -55,106 +55,105 @@
 
 **Nutrition**
 **gProtein:gTotal, Calories:gTotal**
-Split peas (dried): 22.9%, 314%
-Black beans (dried): 22%, 360%
-Peanut butter: 13%, 533%
-Canned tuna: 21.8%, 90%
+- Split peas (dried): 22.9%, 314%
+- Black beans (dried): 22%, 360%
+- Peanut butter: 13%, 533%
+- Canned tuna: 21.8%, 90%
 
-Lean ground beef: 20.2%, 190%
-Chicken breast: 22.5%, 112%
+- Lean ground beef: 20.2%, 190%
+- Chicken breast: 22.5%, 112%
 
-
-calories:g
-Rice, cooked: 130%
-Red potato: 89%
+**calories:g**
+- Rice, cooked: 130%
+- Red potato: 89%
 
 
 #### Wood Ear Salad
-Wood ear
-Cucumber
-Dressing
+- Wood ear
+- Cucumber
+- Dressing
 
 #### Tuna melt
-Can tuna
-Bread
-Cheese
+- Can tuna
+- Bread
+- Cheese
 
 #### Rice bowl
-Kimchi
-Daikon
-Rice
-Tofu 
-Misc veg: spinach, edamame
+- Kimchi
+- Daikon
+- Rice
+- Tofu 
+- Misc veg: spinach, edamame
 
 #### Peanut noodles
-Noodle
-Peanut butter
-Misc condiments
+- Noodle
+- Peanut butter
+- Misc condiments
 
 #### Tom yum
-Bok choy
-Mushroom
-Tofu 
-Noodle 
-Aromatics
+- Bok choy
+- Mushroom
+- Tofu 
+- Noodle 
+- Aromatics
 
 #### Pasta
-Can tomato 
-Aromatics
-Pasta
+- Can tomato 
+- Aromatics
+- Pasta
 
 #### Chili
-Black bean 
-Can tomato 
-Aromatics
-Misc veg
-Cheese
-Rice
+- Black bean 
+- Can tomato 
+- Aromatics
+- Misc veg
+- Cheese
+- Rice
 
 #### Peach crumble
-[Recipe](https://www.allrecipes.com/recipe/231532/moms-peach-crisp/)
-Canned peaches
-Flour
-butter
-sugar
-cinnamon
-rolled oats
+- [Recipe](https://www.allrecipes.com/recipe/231532/moms-peach-crisp/)
+- Canned peaches
+- Flour
+- butter
+- sugar
+- cinnamon
+- rolled oats
 
 #### Meatballs
-[Recipe](https://www.allrecipes.com/recipe/86936/bbq-glazed-homemade-meatballs/)
-Ground beef
-Quick oats
-Evap. milk
-Aromatic
-Egg
+- [Recipe](https://www.allrecipes.com/recipe/86936/bbq-glazed-homemade-meatballs/)
+- Ground beef
+- Quick oats
+- Evap. milk
+- Aromatic
+- Egg
 
 #### Blueberry Banana coffee cake
-[Recipe](https://www.allrecipes.com/recipe/278951/blueberry-banana-coffee-cake/)
-blueberries, bananas, eggs,~~flax seed, and wheat germ~~
+- [Recipe](https://www.allrecipes.com/recipe/278951/blueberry-banana-coffee-cake/)
+- blueberries, bananas, eggs,~~flax seed, and wheat germ~~
 
 #### Tuna fritter
-[Recipe](https://www.allrecipes.com/recipe/91478/bbq-tuna-fritters/)
-Can tuna
-Egg
-Quick oats
-Aromatics
-Oil
-BBQ sauce
+- [Recipe](https://www.allrecipes.com/recipe/91478/bbq-tuna-fritters/)
+- Can tuna
+- Egg
+- Quick oats
+- Aromatics
+- Oil
+- BBQ sauce
 
 #### Hot and sour soup
-[Recipe](https://www.allrecipes.com/recipe/13185/chinese-spicy-hot-and-sour-soup/)
-Pork
-Shiitake 
-Wood ear
-Bamboo shoot
-Tofu
+- [Recipe](https://www.allrecipes.com/recipe/13185/chinese-spicy-hot-and-sour-soup/)
+- Pork
+- Shiitake 
+- Wood ear
+- Bamboo shoot
+- Tofu
 
 #### Soda bread
-[Recipe](https://www.allrecipes.com/article/how-to-make-irish-soda-bread/)
-Sugar
-Flour
-rasins
-caraway
-egg
-buttermilk
-sour cream
+- [Recipe](https://www.allrecipes.com/article/how-to-make-irish-soda-bread/)
+- Sugar
+- Flour
+- rasins
+- caraway
+- egg
+- buttermilk
+- sour cream
