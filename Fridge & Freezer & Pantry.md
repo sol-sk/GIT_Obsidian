@@ -1,109 +1,62 @@
-## Pantry
 
-| Garlic| Pantry|Aromatics | |
-| Onion|Pantry |Aromatics | |
-| Red potato |Pantry |Starch | |
-| Rice|Pantry |Starch | |
-| Quick oats|Pantry |Starch | |
-| Rolled oats|Pantry |Starch | |
-| Rice noodles|Pantry |Starch | |
-| Buckwheat noodles|Pantry |Starch | |
-| Rice paper|Pantry |Starch | |
-| Halva |Pantry || |
-| Cherry tomato |Pantry || |
-| Dried black beans|Pantry |Vegetable | |
-| Dried green split peas |Pantry |Vegetable | |
-| Dried wood ear mushrooms|Pantry |Vegetable | |
-| Dried seaweed|Pantry |Vegetable | |
-| Dried cranberries|Pantry |Fruit | |
-| Can tomatoes|Pantry |??| |
-| Can tuna|Pantry |Protein | |
-| Matcha|Pantry |Misc| |
-| Sago |Pantry |Misc| |
-| Ramen |Pantry |Instant| |
-| Popcorn |Pantry |Instant| |
-| Instant miso packets |Pantry |Instant| |
-| Japanese curry blocks|Pantry |Seasoning| |
-| Fish sauce|Pantry |Seasoning| |
-| Soy sauce|Pantry |Seasoning| |
-| Tomato paste|Pantry |Seasoning| |
-| Chili oil|Pantry |Fat| |
-| Olive oil |Pantry |Fat| |
-| Canola oil|Pantry |Fat| |
-| Peanut butter|Pantry |Fat| |
-| Pickled onions|Fridge |Pickles| |
-| Kimchi|Fridge |Pickles| |
-| Pickled daikon|Fridge |Pickles| |
-| Bok choy|Fridge |Vegetable| |
-| Cilantro |Fridge |Seasoning| |
-| Mustard |Fridge |Condiment| |
-| Mayo |Fridge |Condiment| |
-| Black bean sauce|Fridge |Condiment| |
-| Salsa verde|Fridge |Condiment| |
-| Tom yum paste|Fridge |Base| |
-| Miso |Fridge |Base| |
+| Food                     | Category   | Longevity | Location |
+| ------------------------ | ---------- | --------- | -------- |
+| Cherry tomato            | Vegetable? | Med       | Pantry   |
+| Spinach                  | Vegetable  | Inf.      | Freezer  |
+| Edamame                  | Vegetable  | Inf.      | Freezer  |
+| Dried black beans        | Protein    | Inf.      | Pantry   |
+| Dried green split peas   | Protein    | Inf.      | Pantry   |
+| Dried wood ear mushrooms | Vegetable  | Inf.      | Pantry   |
+| Dried seaweed            | Vegetable  | Inf.      | Pantry   |
+| Bok choy                 | Vegetable  | Short     | Fridge   |
+| Udon                     | Starch     | Inf.      | Freezer  |
+| Rice                     | Starch     | Inf.      | Pantry   |
+| Quick oats               | Starch     | Inf.      | Pantry   |
+| Rolled oats              | Starch     | Inf.      | Pantry   |
+| Rice noodles             | Starch     | Inf.      | Pantry   |
+| Buckwheat noodles        | Starch     | Inf.      | Pantry   |
+| Rice paper               | Starch     | Inf.      | Pantry   |
+| Red potato               | Starch     | Long      | Pantry   |
+| Tomato paste             | Seasoning  | Inf.      | Pantry   |
+| Japanese curry blocks    | Seasoning  | Long      | Pantry   |
+| Fish sauce               | Seasoning  | Long      | Pantry   |
+| Soy sauce                | Seasoning  | Long      | Pantry   |
+| Cilantro                 | Seasoning  | Short     | Fridge   |
+| Can tuna                 | Protein    | Inf.      | Pantry   |
+| Pickled onions           | Pickles    | Long      | Fridge   |
+| Kimchi                   | Pickles    | Long      | Fridge   |
+| Pickled daikon           | Pickles    | Long      | Fridge   |
+| Sago                     | Misc       | Inf.      | Pantry   |
+| Matcha                   | Misc       | Long      | Pantry   |
+| Dumplings                | Instant    | Inf.      | Freezer  |
+| Ramen                    | Instant    | Inf.      | Pantry   |
+| Popcorn                  | Instant    | Inf.      | Pantry   |
+| Instant miso packets     | Instant    | Inf.      | Pantry   |
+| Bananas                  | Fruit      | Inf.      | Freezer  |
+| Strawberries             | Fruit      | Inf.      | Freezer  |
+| Dried cranberries        | Fruit      | Inf.      | Pantry   |
+| Chili oil                | Fat        | Inf.      | Pantry   |
+| Olive oil                | Fat        | Inf.      | Pantry   |
+| Canola oil               | Fat        | Inf.      | Pantry   |
+| Peanut butter            | Fat        | Inf.      | Pantry   |
+| Mustard                  | Condiment  | Inf.      | Fridge   |
+| Mayo                     | Condiment  | Inf.      | Fridge   |
+| Salsa verde              | Condiment  | Long      | Fridge   |
+| Black bean sauce         | Condiment  | Med       | Fridge   |
+| Tom yum paste            | Base       | Long      | Fridge   |
+| Miso                     | Base       | Long      | Fridge   |
+| Ginger                   | Aromatics  | Inf.      | Freezer  |
+| Garlic                   | Aromatics  | Inf.      | Freezer  |
+| Garlic                   | Aromatics  | Long      | Pantry   |
+| Onion                    | Aromatics  | Long      | Pantry   |
+| Can tomatoes             | ??         | Inf.      | Pantry   |
+| Halva                    | ??         | Long      | Pantry   |
+| Chicken carcass          | ?          | Inf.      | Freezer  |
 
-## Freezer
-Chicken carcass
-Dumplings
-Spinach
-Edamame
-Udon
-Ginger
-Garlic
+**Protein**
+Split peas: 8/35 g 22.9%, 
+Black beans: 11/50 g 22%
+Peanut butter: 2/15 g 13% 
+Canned tuna: 12/55 21.8%
 
-**Fruit**
-
-| Food                     | Location | Category  | Longevity |
-| ------------------------ | -------- | --------- | --------- |
-| Chicken carcass          | Freezer  | ?         |           |
-| Dumplings                | Freezer  | Instant   |           |
-| Spinach                  | Freezer  | Vegetable |           |
-| Edamame                  | Freezer  | Vegetable |           |
-| Udon                     | Freezer  | Starch    |           |
-| Ginger                   | Freezer  | Aromatics |           |
-| Garlic                   | Freezer  | Aromatics |           |
-| Bananas                  | Freezer  | Fruit     |           |
-| Strawberries             | Freezer  | Fruit     |           |
-| Garlic                   | Pantry   | Aromatics |           |
-| Onion                    | Pantry   | Aromatics |           |
-| Red potato               | Pantry   | Starch    |           |
-| Rice                     | Pantry   | Starch    |           |
-| Quick oats               | Pantry   | Starch    |           |
-| Rolled oats              | Pantry   | Starch    |           |
-| Rice noodles             | Pantry   | Starch    |           |
-| Buckwheat noodles        | Pantry   | Starch    |           |
-| Rice paper               | Pantry   | Starch    |           |
-| Halva                    | Pantry   | St        |           |
-| Cherry tomato            | Pantry   |           |           |
-| Dried black beans        | Pantry   | Vegetable |           |
-| Dried green split peas   | Pantry   | Vegetable |           |
-| Dried wood ear mushrooms | Pantry   | Vegetable |           |
-| Dried seaweed            | Pantry   | Vegetable |           |
-| Dried cranberries        | Pantry   | Fruit     |           |
-| Can tomatoes             | Pantry   | ??        |           |
-| Can tuna                 | Pantry   | Protein   |           |
-| Matcha                   | Pantry   | Misc      |           |
-| Sago                     | Pantry   | Misc      |           |
-| Ramen                    | Pantry   | Instant   |           |
-| Popcorn                  | Pantry   | Instant   |           |
-| Instant miso packets     | Pantry   | Instant   |           |
-| Japanese curry blocks    | Pantry   | Seasoning |           |
-| Fish sauce               | Pantry   | Seasoning |           |
-| Soy sauce                | Pantry   | Seasoning |           |
-| Tomato paste             | Pantry   | Seasoning |           |
-| Chili oil                | Pantry   | Fat       |           |
-| Olive oil                | Pantry   | Fat       |           |
-| Canola oil               | Pantry   | Fat       |           |
-| Peanut butter            | Pantry   | Fat       |           |
-| Pickled onions           | Fridge   | Pickles   |           |
-| Kimchi                   | Fridge   | Pickles   |           |
-| Pickled daikon           | Fridge   | Pickles   |           |
-| Bok choy                 | Fridge   | Vegetable |           |
-| Cilantro                 | Fridge   | Seasoning |           |
-| Mustard                  | Fridge   | Condiment |           |
-| Mayo                     | Fridge   | Condiment |           |
-| Black bean sauce         | Fridge   | Condiment |           |
-| Salsa verde              | Fridge   | Condiment |           |
-| Tom yum paste            | Fridge   | Base      |           |
-| Miso                     | Fridge   | Base      |           |
+Lean ground beef: 28.2%
