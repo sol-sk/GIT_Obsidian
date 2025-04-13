@@ -97,3 +97,64 @@ Mushroom
 Tofu 
 Noodle 
 Aromatics
+
+#### Pasta
+Can tomato 
+Aromatics
+Pasta
+
+#### Chili
+Black bean 
+Can tomato 
+Aromatics
+Misc veg
+Cheese
+Rice
+
+#### Peach crumble
+[Recipe](https://www.allrecipes.com/recipe/231532/moms-peach-crisp/)
+Canned peaches
+Flour
+butter
+sugar
+cinnamon
+rolled oats
+
+#### Meatballs
+[Recipe](https://www.allrecipes.com/recipe/86936/bbq-glazed-homemade-meatballs/)
+Ground beef
+Quick oats
+Evap. milk
+Aromatic
+Egg
+
+#### Blueberry Banana coffee cake
+[Recipe](https://www.allrecipes.com/recipe/278951/blueberry-banana-coffee-cake/)
+blueberries, bananas, eggs,~~flax seed, and wheat germ~~
+
+#### Tuna fritter
+[Recipe](https://www.allrecipes.com/recipe/91478/bbq-tuna-fritters/)
+Can tuna
+Egg
+Quick oats
+Aromatics
+Oil
+BBQ sauce
+
+#### Hot and sour soup
+[Recipe](https://www.allrecipes.com/recipe/13185/chinese-spicy-hot-and-sour-soup/)
+Pork
+Shiitake 
+Wood ear
+Bamboo shoot
+Tofu
+
+#### Soda bread
+[Recipe](https://www.allrecipes.com/article/how-to-make-irish-soda-bread/)
+Sugar
+Flour
+rasins
+caraway
+egg
+buttermilk
+sour cream
