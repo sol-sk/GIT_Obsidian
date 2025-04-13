@@ -135,7 +135,6 @@ Eat with NAf. bread (kesra)
 - [ ] Ginger, garlic, scallions, onion
 - [ ] Glass noodles
 - [ ] Broccoli 
-- [ ] Carrot?
 - [ ] Thai basil/mint
 - [ ] Cilantro 
 
