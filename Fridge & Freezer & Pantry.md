@@ -53,10 +53,47 @@
 | Halva                    | ??         | Long      | Pantry   |
 | Chicken carcass          | ?          | Inf.      | Freezer  |
 
-**Protein**
-Split peas: 8/35 g 22.9%, 
-Black beans: 11/50 g 22%
-Peanut butter: 2/15 g 13% 
-Canned tuna: 12/55 21.8%
+**Nutrition**
+**gProtein:gTotal, Calories:gTotal**
+Split peas (dried): 22.9%, 314%
+Black beans (dried): 22%, 360%
+Peanut butter: 13%, 533%
+Canned tuna: 21.8%, 90%
 
-Lean ground beef: 28.2%
+Lean ground beef: 20.2%, 190%
+Chicken breast: 22.5%, 112%
+
+
+calories:g
+Rice, cooked: 130%
+Red potato: 89%
+
+
+#### Wood Ear Salad
+Wood ear
+Cucumber
+Dressing
+
+#### Tuna melt
+Can tuna
+Bread
+Cheese
+
+#### Rice bowl
+Kimchi
+Daikon
+Rice
+Tofu 
+Misc veg: spinach, edamame
+
+#### Peanut noodles
+Noodle
+Peanut butter
+Misc condiments
+
+#### Tom yum
+Bok choy
+Mushroom
+Tofu 
+Noodle 
+Aromatics
