@@ -1,1 +1,86 @@
-PHIL451 – Practice Questions for Final Exam A few remarks about this document and how to use it. - This practice set will help you prepare for the final exam. It is very representative of both the format and type of question that you will find on the actual exam. By composing practice answers to these questions, you will be faster to answer related questions on the actual exam. As you work through the practice set, you will likely find it necessary to pause and review the lecture slides and/or your own lecture notes for a refresher. - I have not written this practice set with an eye to making it completable within the time constraints of the exam (i.e., 2.5 hours). I erred on the side of giving you additional questions for the sake of practice. - While you can expect to find overlap between the practice set and the actual exam, you should not assume that all questions that appear on the exam also appear here. You should anticipate variations on the questions. Accordingly, when a practice question gives you a choice about which aspect of the course material to write about (e.g., “Explain one argument that so-and- so offers for the claim that …”, “Describe one way that philosophers have objected to this argument …”, “Explain one version of such-and-such general account …”), a sensible strategy is to practice writing multiple answers to the question, corresponding to each of the available ways one might answer it. That way, if a more specific question appears on the exam than appears here, you won’t be thrown by it. - Having said that, if you have limited time on your hands, working through these questions at least once at least once will be the most efficient and effective way to prepare. - In the actual exam, questions will vary in the number of points they are worth. You should pay attention to this information and manage your work accordingly. As a rule, the number of marks a question is worth will reflects the number of distinct points you should raise in your answer. I have not included sample marks here, so you will want to be thinking about how you might write a short concise answer and how you might write a longer, more in-depth answer. (If a question is worth 1 or 2 marks, you will likely need to write a sentence or two. If a question is worth 4 or 5 marks, an answer should be more like a paragraph). - Lastly, I wish everyone the best with the end of term, and please feel free to attend my office hours if you have any specific questions (though if that turns out not to be possible, remember that the answers to these questions can be found in the lecture notes). Section 1: Understanding physicalism Explaining the thesis of physicalism requires an answer to both the ‘completeness question’ and the ‘condition question’. What are these two questions? To which of these questions does ‘supervenience physicalism’ (a.k.a., ‘minimal physicalism’) offer a candidate answer? Explain the thesis of supervenience/minimal physicalism. “Physicalists claim that the mind is physical”. Does this provide an adequate formulation of physicalism? Why or not why? What is the standard motivation for being a ‘non-reductive’ physicalist? Drawing on the notion of supervenience, explain how non-reductive physicalism and property dualism differ. Describe one way that a non-reductive physicalist might develop the claim that mental properties metaphysically supervene on physical properties. (Note: we discussed some candidate proposals in the course of discussing Karen Bennett’s contribution to the mental causation debate). What is the difference between a priori (‘type-A’) physicalism and a posteriori (‘type-B’) physicalism? (More specifically, what commitment does the former accept that the latter rejects?). What is Hempel’s dilemma for physicalism? On the basis of Hempel’s dilemma and other challenges, Barbara Montero defends a specific way of understanding the debates that have historically taken place under the moniker of the ‘mind-body problem’. What is that understanding? How would you intuitively explain the basic idea behind physicalism? Section 2: Mental causation David Papineau offers a ‘causal argument’ for physicalism and against dualism. Explain this argument. (Note: at least one of Papineau’s assumptions is unstated). The argument you just summarized rests on numerous assumptions. Briefly indicate an intuitive motivation that one might provide for each of those premises. Explain why some philosophers (e.g., Jaegwon Kim) have held that an argument like Papineau’s is not an argument for just any form of physicalism but for a specific, controversial version of physicalism. According to Karen Bennett, Papineau was right all along to regard the causal argument (or the ‘causal exclusion problem’) as an argument for physicalism (rather than, as Kim suggests, a specific, controversial form of physicalism). According to Bennett, which assumption (left implicit in Papineau’s original presentation) is the physicalist in a position to reject but the dualist is not? Bennett invokes counterfactual conditionals to make her point. Briefly describe the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual. Which premise in Papineau’s causal argument does Sophie Gibb object to, and why? Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard? Section 3: Naturalizing intentionality/mental representation What do philosophers of mind mean when they speak of the ‘intentionality’ (a.k.a., the ‘intentional content’ or ‘representational content’) of a mental state? Considered as a type of relation (between the representing system and the represented object), intentionality can seem intuitively puzzling from a physicalist perspective. Give two examples to illustrate why this is so. One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do? There are two (closely related) objections to the claim we can explain the content of a mental representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). Section 4: Phenomenal consciousness Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’). P1. I can clearly and distinctly conceive of my ____ existing without my ____ existing. P2. Whatever is clearly and distinctly conceivable is ____. C1. It is _____ for my _____ to exist without my ____ existing. C2. My _____ is not my _____. In Lecture 3 of Naming and Necessity, Kripke considers an influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. Describe that objection. (Clue: the objection draws parallels with famous examples in the history of science of theoretical identification such as ‘water is identical to H20’). Explain why, according to Kripke, the necessary a posteriori status of truths like ‘water is identical to H20’ poses a challenge to the popular physicalist objection to the conceivability argument. At first glance, statements like “water is identical to H2O” appear contingent. How does Kripke propose to explain that appearance? According to Kripke, can we explain the apparent contingency of statements like “pain is C-fibre activation” in the same way? Explain. Explain Frank Jackson’s ‘knowledge argument’ against physicalism. What is the specific version of anti-physicalism that Jackson goes on to endorse on the basis of this argument? Could a physicalist appeal to the ‘Causal Completeness of the Physical’ (a.k.a., ‘Closure’) to object to the position you just described? Why or why not? Explain David Chalmers’ zombie argument against physicalism. The anti-physicalist arguments we’ve discussed depend on a particular understanding of physicalism. What is that understanding? Describe the two main options available to a physicalist in responding to these arguments. Between the two available options, which (in your view) seems the most promising for a physicalist? Give an example of how that option has been pursued in the literature. Having seen the arguments for and against physicalism, where do you find yourself landing? And what specific version of physicalism or anti-physicalism do you currently find most attractive? Is there a respect in which you think the metaphysical debates we’ve been learning about in this class might be improved?
+### Section 1: Understanding Physicalism
+1. *Explain the doctrine of ‘supervenience physicalism’ – a.k.a., ‘minimal physicalism’.*
+
+2. *Supervenience physicalism is best viewed as offering an answer to which question about physicalism:*
+	1. *the completeness question (what does it mean to say that everything is physical?)*
+	2. *the condition question (what does it mean to say that everything is physical?)*
+	3. *the truth question (is physicalism true?)*
+
+3. *What is the difference between reductive and non-reductive physicalism?*
+
+4. *Describe the standard motivation for being a ‘non-reductive’ physicalism.*
+
+5. *Do supervenience physicalists take a stand on the debate between reductive and non-reductive physicalism or are they neutral on this question? Explain.*
+
+6. *Describe a metaphysical possibility that non-reductive physicalism prohibits but that property dualism allows. Your answer should include the notion of supervenience.*
+
+7. *What is ‘Hempel’s dilemma’ for physicalism?*
+
+8. *According to Barbara Montero, can one accept Hempel’s dilemma without concluding that centuries of debate over the truth or falsity of physicalism have been a huge waste of time? Explain. (2 marks)*
+
+### Section 2: Mental causation
+1. *Explain David Papineau’s ‘causal argument’ for physicalism (a.k.a., the ‘causal exclusion argument’). (Note: at least one of Papineau’s premises is unstated). (4 marks)*
+"Since physics is causally complete, conscious states must either be physical or epiphenomenal"
+- Claim 1: Efficacy — mental acts have physical effects 
+- Claim 2: Completeness — 
+
+3. *Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
+
+4. *According to Karen Bennett, who has the correct take on this issue?*
+	1. *Kim*
+	2. *Papineau*
+	3. *Neither*
+
+5. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
+
+6. *What is the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. (A counterfactual conditional is a statement of the form ‘had x occurred, then y would have occurred’, where ‘x’ is some nonactual state of affairs.)*
+
+7. *Explain why, according to Bennett, dualists – or, at least, dualists who concede the other premises in the causal argument – not able to take the same attitude that physicalists do toward the truth value of this counterfactual.*
+
+### Section 3: Naturalizing intentionality/mental representation
+1. *What do philosophers of mind mean when they speak of the ‘intentionality’ (a.k.a., the ‘intentional content’ or ‘representational content’) of a mental state? (2 marks)*
+
+2. *Considered as a type of relation (between the representing system and the represented object), intentionality can seem intuitively puzzling from a physicalist perspective. Give two examples to illustrate why this is so. (2 marks)17. One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do?*
+
+3. *There are two (closely related) objections to the claim we can explain the content of a mental  representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. (3 marks)*
+
+4. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
+
+5. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
+### Section 4: Phenomenal consciousness
+1. *Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’).*
+
+	*P1. I can clearly and distinctly conceive of my __ existing without my ___ existing.*
+
+	*P2. Whatever is clearly and distinctly conceivable is __.*
+
+	*C1. It is ___ for my ____ to exist without my __ existing.*
+
+	*C2. My `_____` is not my `_____`.*
+
+2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
+
+3. *Explain why, according to Kripke, this influential physicalist response to the conceivability argument fails.*
+
+4. *“But a statement like “water is nothing but a collection of H2O molecules” appears contingent. Though the statement is (let us suppose) true, we can easily imagine – or conceive of – it being false.” What is Kripke’s response to this?*
+
+5. *According to Kripke, could one offer the same analysis for a statement like “pain is nothing but a certain pattern of neural activation (e.g., C-fiber activation or whatever type of neural event is discovered to systematically correlate with subjective reports of pain)”? Explain.*
+
+6. *Explain Frank Jackson’s ‘knowledge argument’ against physicalism.*
+
+7. *What is the specific version of anti-physicalism that Jackson goes on to endorse on the basis of this argument?*
+	1. *Interactionist substance dualism (‘Type-D anti-physicalism’)*
+	2. *Epiphenomenalism (‘Type-E anti-physicalism’)*
+	3. *Russellian monism/panpsychism (‘Type-F monism’)*
+	   
+8. *Describe the two dominant strategies that physicalists have pursued in response to Jackson’s knowledge argument. (Note: your answer name the different versions of physicalism and specify which premises of the argument the physicalist response attacks).*
+
+9. *Identify one (at least prima facie) reason to prefer one of these versions of physicalism over the other. (Note: either version of physicalism is acceptable, but the motivation that you give for it should be an accurate one).*
+
+10. *BONUS (for 1 mark): Describe one idea that you had not seriously considered prior to taking this class. (You can interpret ‘idea’ broadly to include an observation, a question, a theoretical possibility, etc.) (1 mark)*
+
+11. *BONUS (for 1 mark): In your own view, is there a recurring shortcoming or flaw running through the material that we have studied in this class? (1 mark)*
+
+12. *BONUS (for 1 mark): The topic I enjoyed the MOST was …. And the topic I enjoyed the LEAST was …*
+
+13. *BONUS (for 1 mark): One issue or question that I wish we had discussed (or discussed in more detail than we did) is …*
