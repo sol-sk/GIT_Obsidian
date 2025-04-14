@@ -22,9 +22,18 @@
 1. *Explain David Papineau’s ‘causal argument’ for physicalism (a.k.a., the ‘causal exclusion argument’). (Note: at least one of Papineau’s premises is unstated). (4 marks)*
 "Since physics is causally complete, conscious states must either be physical or epiphenomenal"
 - Claim 1: Efficacy — mental acts have physical effects 
-- Claim 2: Completeness — 
+	- Reject: no more intentional agency/ reject 'alexander's dictum'
+- Claim 2: Completeness — physics is a closed system
+	- Reject: ? {reject physics?}
+- Claim 3: No systematic overdetermination — physical effects of mental causes are not systematically causally overdetermined
+	- Reject: treat all mental-physical as death by firing squad; seems implausible
+- *bonus- unstated Claim 4: Exclusion* — No effect has more than one sufficient cause unless it is causally overdetermined
+	- Reject: denies that event having more than one sufficient cause is sufficient for being causally overdetermined (SCOD)
+
+Papineau *rejects distinctness* aka the thought than mental and phys properties are distinct 
 
 3. *Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
+
 
 4. *According to Karen Bennett, who has the correct take on this issue?*
 	1. *Kim*
