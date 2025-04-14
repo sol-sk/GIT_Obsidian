@@ -28,7 +28,7 @@
 | 03.18.25 | 30 min     | 20:45        | 20:56      | Final edits, adding Skittles images         |
 | 03.31.25 | 1 hr       | 11:24        | 11:59      | Starting (& finishing) 3.07                 |
 |          |            |              |            | INVOICE SENT                                |
-| 04.14.25 |            | 12:01        |            |                                             |
+| 04.14.25 |            | 12:01        | 12:39      | Image formatting and transcript             |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
