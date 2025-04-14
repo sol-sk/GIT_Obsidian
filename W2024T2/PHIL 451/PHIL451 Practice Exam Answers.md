@@ -32,13 +32,14 @@
 
 Papineau *rejects distinctness* aka the thought than mental and phys properties are distinct 
 
-3. *Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
+3. **Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)**
 
 
 4. *According to Karen Bennett, who has the correct take on this issue?*
 	1. *Kim*
 	2. *Papineau*
 	3. *Neither*
+
 
 5. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
 
