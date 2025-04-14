@@ -42,8 +42,10 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 
 
 5. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
+Exclusionism. An effect *can* have two distinct causes without being overdetermined
 
 6. *What is the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. (A counterfactual conditional is a statement of the form ‘had x occurred, then y would have occurred’, where ‘x’ is some nonactual state of affairs.)*
+
 
 7. *Explain why, according to Bennett, dualists – or, at least, dualists who concede the other premises in the causal argument – not able to take the same attitude that physicalists do toward the truth value of this counterfactual.*
 
