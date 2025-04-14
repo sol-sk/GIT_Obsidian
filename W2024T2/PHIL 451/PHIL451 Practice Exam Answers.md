@@ -35,6 +35,7 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 3. **Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)**
 
 
+
 4. *According to Karen Bennett, who has the correct take on this issue?*
 	1. *Kim*
 	2. *Papineau*
@@ -45,6 +46,8 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 Exclusionism. An effect *can* have two distinct causes without being overdetermined
 
 6. *What is the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. (A counterfactual conditional is a statement of the form ‘had x occurred, then y would have occurred’, where ‘x’ is some nonactual state of affairs.)*
+(O1) If m (mental) had happened without p (physical), e (effect) would still have happened: (m & ¬p) □→ e. 
+(O2) If p had happened without m, e would still have happened: (p & ¬m) □→ e.
 
 
 7. *Explain why, according to Bennett, dualists – or, at least, dualists who concede the other premises in the causal argument – not able to take the same attitude that physicalists do toward the truth value of this counterfactual.*
