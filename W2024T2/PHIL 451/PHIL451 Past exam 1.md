@@ -15,14 +15,16 @@
 
 4. *Describe the standard motivation for being a ‘non-reductive’ physicalism.*
 **multiple realizability – same mental prop diff physical prop**
+**reductive incompatible w/ MR bc MR = prop nonidentity**
 **NRP uphold phys by asserting that physical states necessitate mental**
 
-**Topic neutral**
-
+**"functional role properties": phys prop have functional role rather than identical**
 
 5. *Do supervenience physicalists take a stand on the debate between reductive and non-reductive physicalism or are they neutral on this question? Explain.*
+**Supervenience can be reductive or nonreductive**
 
 6. *Describe a metaphysical possibility that non-reductive physicalism prohibits but that property dualism allows. Your answer should include the notion of supervenience.*
+**determinable-determinate relation**
 
 7. *What is ‘Hempel’s dilemma’ for physicalism?*
 
