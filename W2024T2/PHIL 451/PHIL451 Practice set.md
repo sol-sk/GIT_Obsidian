@@ -123,11 +123,11 @@ Completeness relies on conservation of energy but this energy doesn't have to ju
 
 **Gibb exclusion: no physical effect has a non-physical cause**
 
-She proposes in order to make Papineau's premises follow to G.Excl, must add physical affectability, redistribution: but these are unfounded and raise fu
+She proposes in order to make Papineau's premises follow to G.Excl, must add physical affectability, redistribution: but these are unfounded and raise further problems
 
 7. *Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard?* 
 
-
+Double preventors 
 
 
 ### Section 3: Naturalizing intentionality/mental representation 
