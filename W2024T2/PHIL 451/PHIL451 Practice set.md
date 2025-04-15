@@ -113,11 +113,22 @@ O2: "causal sufficiency"
 
 5. *Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual.* 
 
-P
+Physical being which lacks phenomenal consciousness
 
-6. Which premise in Papineau’s causal argument does Sophie Gibb object to, and why? 
+**Review what this means for Bennett**
 
-7. Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard? 
+6. *Which premise in Papineau’s causal argument does Sophie Gibb object to, and why?* 
+
+Completeness relies on conservation of energy but this energy doesn't have to just be physical energy; accomodates dualism
+
+**Gibb exclusion: no physical effect has a non-physical cause**
+
+She proposes in order to make Papineau's premises follow to G.Excl, must add physical affectability, redistribution: but these are unfounded and raise fu
+
+7. *Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard?* 
+
+
+
 
 ### Section 3: Naturalizing intentionality/mental representation 
 
