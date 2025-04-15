@@ -1,24 +1,46 @@
 ### Section 1: Understanding physicalism 
 
-1. Explaining the thesis of physicalism requires an answer to both the ‘completeness question’ and the ‘condition question’. What are these two questions? 
+1. *Explaining the thesis of physicalism requires an answer to both the ‘completeness question’ and the ‘condition question’. What are these two questions?* 
 Completeness question: what does it mean to say *everything* is physical?
 - 'Strict numerical identity'
 	- Token/type- particulars vs properties 
 
 Type = Reductive physicalism
 - JCC Smart: CFF = pain
+- Reduces prop to physical prop
 
-2. To which of these questions does ‘supervenience physicalism’ (a.k.a., ‘minimal physicalism’) offer a candidate answer? 
+Condition question: what does it mean to say everything is *physical*?
+- Montero
+- Hempel's dilemma 
 
-3. Explain the thesis of supervenience/minimal physicalism. 
+2. *To which of these questions does ‘supervenience physicalism’ (a.k.a., ‘minimal physicalism’) offer a candidate answer?*
+Supervenience offers an answer to the condition quesiton
 
-4. “Physicalists claim that the mind is physical”. Does this provide an adequate formulation of physicalism? Why or not why? 
+3. *Explain the thesis of supervenience/minimal physicalism.* 
 
-5. What is the standard motivation for being a ‘non-reductive’ physicalist? 
+"Global properties are nothing but patterns in the dots .. no two pictures could differ in their global properties without differing {in dots somewhere}"
 
-6. Drawing on the notion of supervenience, explain how non-reductive physicalism and property dualism differ. 
+Mental characteristics are dependent on physical characteristics 
 
-7. Describe one way that a non-reductive physicalist might develop the claim that mental properties metaphysically supervene on physical properties. (Note: we discussed some candidate proposals in the course of discussing Karen Bennett’s contribution to the mental causation debate). 
+"Physicalism is true at a possible world *w* iff any world that is a minimal physical duplicate is a complete duplicate (simpliciter)"
+
+4. *“Physicalists claim that the mind is physical”. Does this provide an adequate formulation of physicalism? Why or not why?* 
+No; property dualism. 
+
+5. *What is the standard motivation for being a ‘non-reductive’ physicalist?* 
+
+Embrace multiple realizability, affirm property nonidentity
+Role functionalism
+- "hardware/software"
+- Mental states = second order functional role property ("higher order") -- having some property which plays a certain role
+- "Pain is the property of having some property that realizes the pain role"
+
+6. *Drawing on the notion of supervenience, explain how non-reductive physicalism and property dualism differ.* 
+
+Prop dualism doesn't believe in supervenience; min phys duplicate ≠ simpliciter
+
+7. *Describe one way that a non-reductive physicalist might develop the claim that mental properties metaphysically supervene on physical properties. (Note: we discussed some candidate proposals in the course of discussing Karen Bennett’s contribution to the mental causation debate).* 
+
 
 8. What is the difference between a priori (‘type-A’) physicalism and a posteriori (‘type-B’) physicalism? (More specifically, what commitment does the former accept that the latter rejects?). 
 
