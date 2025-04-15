@@ -14,7 +14,7 @@ Condition question: what does it mean to say everything is *physical*?
 - Hempel's dilemma 
 
 2. *To which of these questions does ‘supervenience physicalism’ (a.k.a., ‘minimal physicalism’) offer a candidate answer?*
-Supervenience offers an answer to the condition quesiton
+Supervenience offers an answer to the completeness quesiton
 
 3. *Explain the thesis of supervenience/minimal physicalism.* 
 
@@ -55,7 +55,10 @@ Prop dualism doesn't believe in supervenience; min phys duplicate ≠ simplicite
 
 ### Section 2: Mental causation 
 
-1. David Papineau offers a ‘causal argument’ for physicalism and against dualism. Explain this argument. (Note: at least one of Papineau’s assumptions is unstated). 
+1. *David Papineau offers a ‘causal argument’ for physicalism and against dualism. Explain this argument. (Note: at least one of Papineau’s assumptions is unstated).* 
+Causal argument: physics is causally complete so consciousness must either by physical or epiphen.
+
+P
 
 2. The argument you just summarized rests on numerous assumptions. Briefly indicate an intuitive motivation that one might provide for each of those premises. 
 
@@ -116,17 +119,20 @@ C2 follows *necessarily* from C1
 
 5. *At first glance, statements like “water is identical to H2O” appear contingent. How does Kripke propose to explain that appearance?* 
 
-"When we think we’re imagining a possible world in which heat isn’t MMM, what we’re really imagining is a possible world in which something other than MMM is causally responsible for the “effects” that MMM is causally responsible for in the actual world. In particular, this is a world in which something other than MMM gives rise to the same heat appearance in us that MMM gives rise to in the actual world. Once we see this, we also see that (P1*) is false. We think a certain proposition – that heat exists without MMM – is conceivable, but we’re confused. We are confusing the inconceivable proposition (that heat could exist without MMM) with a different, conceivable proposition (that something other than MMM could have the same sensory effects on us that MMM has). So, heat is identical with MMM"
-
 Heat = MMM same kind of statement as water = H2O 
 
 Why does it appear contingent? 
 
-It is falsely contingent, bc the world we imagine where heat ≠ MMM, we imagine something other 
+It is falsely contingent, bc the world we imagine where heat ≠ MMM, we imagine something other than MMM causing properties of heat, which is scientifically impossible; conceivability arises at the level of our *sensation of heat*, which can plausibly be caused by other things (capcasin)
+
+Condensed: apparently contingent relationship arises from confusing 
+heat (physics) w/ heat (sensation)
+heat (physics) necessarily MMM
+heat (sensation) contingently MMM
 
 6. *According to Kripke, can we explain the apparent contingency of statements like “pain is C-fibre activation” in the same way? Explain.* 
 
-
+Pain *just is* the appearance of pain -- "appearance of contingency" can't be explained like heat
 
 7. Explain Frank Jackson’s ‘knowledge argument’ against physicalism. 
 
