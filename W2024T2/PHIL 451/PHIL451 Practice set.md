@@ -90,16 +90,30 @@ Bonus: Exclusion
 2. *Explain why some philosophers (e.g., Jaegwon Kim) have held that an argument like Papineau’s is not an argument for just any form of physicalism but for a specific, controversial version of physicalism.* 
 
 **Kim**: 
+- If we reject distinctness, like Papineau aims to, we arrive at reductive
 - Papineau is arguing for reductive physicalism (type-identity theory)
-- If we reject distinctness, like
 
 3. *According to Karen Bennett, Papineau was right all along to regard the causal argument (or the ‘causal exclusion problem’) as an argument for physicalism (rather than, as Kim suggests, a specific, controversial form of physicalism). According to Bennett, which assumption (left implicit in Papineau’s original presentation) is the physicalist in a position to reject but the dualist is not?* 
 
+We can reject exclusion instead of distinctness. Dualist can't reject exclusion b/c they can't say O1/2 are false/vacuous: 
 
+1: Dualism entails that m can happen without p definitionally 
+2: Dualism entails that p can happen without m 
 
-4. Bennett invokes counterfactual conditionals to make her point. Briefly describe the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. 
+Dualist must say that m and p are both independently causally sufficient for e
 
-5. Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual. 
+4. *Bennett invokes counterfactual conditionals to make her point. Briefly describe the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true.*
+
+**(O1)** If m had happened without p, e would still have happened: (m & ¬p) □→ e. 
+**(O2)** If p had happened without m, e would still have happened: (p & ¬m) □→ e.
+
+O2: "causal sufficiency"
+- If what is causally sufficient for e is p, strictly defined, *together with a whole host of complicated extrinsic factors regarding all the background conditions for p’s occurrence*, then O2 is vacuous. This is because, given supervenience physicalism, *p + background conditions* metaphysically necessitates m.
+- If, on the other hand, what is causally sufficient for e is simply p, strictly defined, then O2 is false. This is bc p w/o background could be *petri dish* etc., which nobody thinks is sufficient
+
+5. *Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual.* 
+
+P
 
 6. Which premise in Papineau’s causal argument does Sophie Gibb object to, and why? 
 
