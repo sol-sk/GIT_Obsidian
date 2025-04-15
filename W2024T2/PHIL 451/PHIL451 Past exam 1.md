@@ -24,11 +24,16 @@
 **Supervenience can be reductive or nonreductive**
 
 6. *Describe a metaphysical possibility that non-reductive physicalism prohibits but that property dualism allows. Your answer should include the notion of supervenience.*
-**determinable-determinate relation**
+**Zombie world: min phys nonmental, qualia inversion - both violate supervenience**
 
 7. *What is ‘Hempel’s dilemma’ for physicalism?*
+**Explaining condition**
+**physicalism either false bc:**
+- **contemp.y physics is likely either inc. or mistaken** 
+- **future phys is too vague to mean anything**
 
 8. *According to Barbara Montero, can one accept Hempel’s dilemma without concluding that centuries of debate over the truth or falsity of physicalism have been a huge waste of time? Explain. (2 marks)*
+**No! We can recast phys as questions about the fundamentality of the mental**
 
 ### Section 2: Mental causation
 1. *Explain David Papineau’s ‘causal argument’ for physicalism (a.k.a., the ‘causal exclusion argument’). (Note: at least one of Papineau’s premises is unstated). (4 marks)*
@@ -43,10 +48,16 @@
 	- Reject: denies that event having more than one sufficient cause is sufficient for being causally overdetermined (SCOD)
 
 Papineau *rejects distinctness* aka the thought than mental and phys properties are distinct 
+**if we want to uphold the causal sufficiency of a mental event (efficacy), physical event (completeness) and ~SCOD, we must conclude ~Distinctness**
 
-3. **Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)**
+2. *Reasoning for Papineau's claims?*
+**same as i wrote before**
 
-Rejecting distinctness is type-id: leads to Reductive physicalism
+
+
+3. Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
+
+**Rejecting distinctness is type-id: leads to Reductive physicalism**
 
 
 4. *According to Karen Bennett, who has the correct take on this issue?*
