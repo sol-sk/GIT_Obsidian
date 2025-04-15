@@ -1,15 +1,24 @@
 ### Section 1: Understanding Physicalism
 [[Past 451 final exam.pdf]]
 1. *Explain the doctrine of ‘supervenience physicalism’ – a.k.a., ‘minimal physicalism’.*
+**minimal physical duplicate is a complete duplicate/simpliciter**
+**physical facts of the world metaphysically necessitate the mental facts**
 
 2. *Supervenience physicalism is best viewed as offering an answer to which question about physicalism:*
 	1. *the completeness question (what does it mean to say that everything is physical?)*
 	2. *the condition question (what does it mean to say that everything is physical?)*
 	3. *the truth question (is physicalism true?)*
+**Completeness**
 
 3. *What is the difference between reductive and non-reductive physicalism?*
+**Reductive: mental properties are strictly identical, NRP: property non-identity**
 
 4. *Describe the standard motivation for being a ‘non-reductive’ physicalism.*
+**multiple realizability – same mental prop diff physical prop**
+**NRP uphold phys by asserting that physical states necessitate mental**
+
+**Topic neutral**
+
 
 5. *Do supervenience physicalists take a stand on the debate between reductive and non-reductive physicalism or are they neutral on this question? Explain.*
 
@@ -85,9 +94,15 @@ Exclusion. An effect *can* have two distinct causes without being overdetermined
 
 2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
 
+C2 doesn't follow from C1 b/c water is contingently H2O
+
 3. *Explain why, according to Kripke, this influential physicalist response to the conceivability argument fails.*
 
+
+
 4. *“But a statement like “water is nothing but a collection of H2O molecules” appears contingent. Though the statement is (let us suppose) true, we can easily imagine – or conceive of – it being false.” What is Kripke’s response to this?*
+
+It is actually not contingent!
 
 5. *According to Kripke, could one offer the same analysis for a statement like “pain is nothing but a certain pattern of neural activation (e.g., C-fiber activation or whatever type of neural event is discovered to systematically correlate with subjective reports of pain)”? Explain.*
 
