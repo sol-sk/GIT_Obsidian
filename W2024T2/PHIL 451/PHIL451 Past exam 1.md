@@ -1,4 +1,5 @@
 ### Section 1: Understanding Physicalism
+[[Past 451 final exam.pdf]]
 1. *Explain the doctrine of ‘supervenience physicalism’ – a.k.a., ‘minimal physicalism’.*
 
 2. *Supervenience physicalism is best viewed as offering an answer to which question about physicalism:*
@@ -34,6 +35,7 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 
 3. **Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)**
 
+Rejecting distinctness is type-id: leads to Reductive physicalism
 
 
 4. *According to Karen Bennett, who has the correct take on this issue?*
@@ -41,9 +43,13 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 	2. *Papineau*
 	3. *Neither*
 
+Neither? 
+Bennett is a nonreductive physicalist 
+She aligns more with Papineau than Kim
+However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
-5. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
-Exclusionism. An effect *can* have two distinct causes without being overdetermined
+6. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
+Exclusion. An effect *can* have two distinct causes without being overdetermined
 
 6. *What is the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. (A counterfactual conditional is a statement of the form ‘had x occurred, then y would have occurred’, where ‘x’ is some nonactual state of affairs.)*
 (O1) If m (mental) had happened without p (physical), e (effect) would still have happened: (m & ¬p) □→ e. 
@@ -55,13 +61,17 @@ Exclusionism. An effect *can* have two distinct causes without being overdetermi
 ### Section 3: Naturalizing intentionality/mental representation
 1. *What do philosophers of mind mean when they speak of the ‘intentionality’ (a.k.a., the ‘intentional content’ or ‘representational content’) of a mental state? (2 marks)*
 
-2. *Considered as a type of relation (between the representing system and the represented object), intentionality can seem intuitively puzzling from a physicalist perspective. Give two examples to illustrate why this is so. (2 marks)17. One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do?*
+2. *Considered as a type of relation (between the representing system and the represented object), intentionality can seem intuitively puzzling from a physicalist perspective. Give two examples to illustrate why this is so. (2 marks)*
 
-3. *There are two (closely related) objections to the claim we can explain the content of a mental  representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. (3 marks)*
 
-4. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
 
-5. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
+3. *One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do?*
+
+4. *There are two (closely related) objections to the claim we can explain the content of a mental  representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. (3 marks)*
+
+5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
+
+6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
 ### Section 4: Phenomenal consciousness
 1. *Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’).*
 
@@ -97,5 +107,7 @@ Exclusionism. An effect *can* have two distinct causes without being overdetermi
 11. *BONUS (for 1 mark): In your own view, is there a recurring shortcoming or flaw running through the material that we have studied in this class? (1 mark)*
 
 12. *BONUS (for 1 mark): The topic I enjoyed the MOST was …. And the topic I enjoyed the LEAST was …*
+
+I enjoyed intentionality the most, since it reminded me of semiotics and I think the topic of meaning making and meaning representation is very interesting 
 
 13. *BONUS (for 1 mark): One issue or question that I wish we had discussed (or discussed in more detail than we did) is …*

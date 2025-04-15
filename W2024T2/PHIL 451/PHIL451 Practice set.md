@@ -1,3 +1,4 @@
+[[PHIL451 - practice set for final exam (2025).pdf]]
 ### Section 1: Understanding physicalism 
 
 1. *Explaining the thesis of physicalism requires an answer to both the ‘completeness question’ and the ‘condition question’. What are these two questions?* 
