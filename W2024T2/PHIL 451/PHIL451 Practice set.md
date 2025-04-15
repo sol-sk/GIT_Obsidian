@@ -41,38 +41,69 @@ Prop dualism doesn't believe in supervenience; min phys duplicate ≠ simplicite
 
 7. *Describe one way that a non-reductive physicalist might develop the claim that mental properties metaphysically supervene on physical properties. (Note: we discussed some candidate proposals in the course of discussing Karen Bennett’s contribution to the mental causation debate).* 
 
-**Review this!**
+We can order properties in terms of how abstract/**determinate** they are: scarlet vs red
+- Scarlet is a determinate way of being red because red is instantiated in virtue of being scarlet
 
 8. *What is the difference between a priori (‘type-A’) physicalism and a posteriori (‘type-B’) physicalism? (More specifically, what commitment does the former accept that the latter rejects?).* 
 
+A: P is **epistemically transparent**
 
 
-9. What is Hempel’s dilemma for physicalism? 
+9. *What is Hempel’s dilemma for physicalism?* 
 
-10. On the basis of Hempel’s dilemma and other challenges, Barbara Montero defends a specific way of understanding the debates that have historically taken place under the moniker of the ‘mind-body problem’. What is that understanding? 
+"Can we use an incomplete definition of physics, or can we use a hypothetically... "complete"? physics that is unproven ?
 
-11. How would you intuitively explain the basic idea behind physicalism? 
+→ physicalism is either obviously false or trivially true"
+
+
+9. *On the basis of Hempel’s dilemma and other challenges, Barbara Montero defends a specific way of understanding the debates that have historically taken place under the moniker of the ‘mind-body problem’. What is that understanding?* 
+
+We can only debate mind-body problem if we know what exactly "body" is: Hempel's dilemma shows we don't
+- No answer to condition question
+
+Replace "physical" w/ "fundamental"
+- Is mental fundamental? 
+
+10. How would you intuitively explain the basic idea behind physicalism? 
 
 ### Section 2: Mental causation 
 
 1. *David Papineau offers a ‘causal argument’ for physicalism and against dualism. Explain this argument. (Note: at least one of Papineau’s assumptions is unstated).* 
 Causal argument: physics is causally complete so consciousness must either by physical or epiphen.
 
-P
+Efficacy
+- Mental can sufficiently cause physical
+Completeness
+- Every phys event has a fullly sufficient physical cause
+No systematic overdetermination (S(C)OD)
+- Phys effects do not systemically have more than one fully sufficient cause
 
-2. The argument you just summarized rests on numerous assumptions. Briefly indicate an intuitive motivation that one might provide for each of those premises. 
+Bonus: Exclusion
+- No effect has more than one sufficient cause unless it is causally overdetermined
 
-3. Explain why some philosophers (e.g., Jaegwon Kim) have held that an argument like Papineau’s is not an argument for just any form of physicalism but for a specific, controversial version of physicalism. 
+2. *The argument you just summarized rests on numerous assumptions. Briefly indicate an intuitive motivation that one might provide for each of those premises.* 
 
-4. According to Karen Bennett, Papineau was right all along to regard the causal argument (or the ‘causal exclusion problem’) as an argument for physicalism (rather than, as Kim suggests, a specific, controversial form of physicalism). According to Bennett, which assumption (left implicit in Papineau’s original presentation) is the physicalist in a position to reject but the dualist is not? 
+- Deny efficacy: Reject 'Alexander's dictum': to be is to have causal powers. Intentional agency ceases to meaningfully exist
+- Deny no systematic overdetermination: Treat all mental-physical causation as "death by firing squad"–It seems (to many) extremely implausible that mental→physical causation is systematically/pervasively overdetermined
+- Deny exclusion: To deny that an event's having more than one sufficient cause is by itself sufficient for being causally overdetermined
 
-5. Bennett invokes counterfactual conditionals to make her point. Briefly describe the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. 
+2. *Explain why some philosophers (e.g., Jaegwon Kim) have held that an argument like Papineau’s is not an argument for just any form of physicalism but for a specific, controversial version of physicalism.* 
 
-6. Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual. 
+**Kim**: 
+- Papineau is arguing for reductive physicalism (type-identity theory)
+- If we reject distinctness, like
 
-7. Which premise in Papineau’s causal argument does Sophie Gibb object to, and why? 
+3. *According to Karen Bennett, Papineau was right all along to regard the causal argument (or the ‘causal exclusion problem’) as an argument for physicalism (rather than, as Kim suggests, a specific, controversial form of physicalism). According to Bennett, which assumption (left implicit in Papineau’s original presentation) is the physicalist in a position to reject but the dualist is not?* 
 
-8. Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard? 
+
+
+4. Bennett invokes counterfactual conditionals to make her point. Briefly describe the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. 
+
+5. Using the notion of a ‘zombie’ to illustrate why dualists adopt a different stance on the truth value of this counterfactual. 
+
+6. Which premise in Papineau’s causal argument does Sophie Gibb object to, and why? 
+
+7. Gibb defends a non-standard version of interactionist dualism. What makes her version of interactionist dualism non-standard? 
 
 ### Section 3: Naturalizing intentionality/mental representation 
 
