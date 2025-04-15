@@ -1,6 +1,12 @@
 ### Section 1: Understanding physicalism 
 
 1. Explaining the thesis of physicalism requires an answer to both the ‘completeness question’ and the ‘condition question’. What are these two questions? 
+Completeness question: what does it mean to say *everything* is physical?
+- 'Strict numerical identity'
+	- Token/type- particulars vs properties 
+
+Type = Reductive physicalism
+- JCC Smart: CFF = pain
 
 2. To which of these questions does ‘supervenience physicalism’ (a.k.a., ‘minimal physicalism’) offer a candidate answer? 
 
