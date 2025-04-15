@@ -41,8 +41,11 @@ Prop dualism doesn't believe in supervenience; min phys duplicate ≠ simplicite
 
 7. *Describe one way that a non-reductive physicalist might develop the claim that mental properties metaphysically supervene on physical properties. (Note: we discussed some candidate proposals in the course of discussing Karen Bennett’s contribution to the mental causation debate).* 
 
+**Review this!**
 
-8. What is the difference between a priori (‘type-A’) physicalism and a posteriori (‘type-B’) physicalism? (More specifically, what commitment does the former accept that the latter rejects?). 
+8. *What is the difference between a priori (‘type-A’) physicalism and a posteriori (‘type-B’) physicalism? (More specifically, what commitment does the former accept that the latter rejects?).* 
+
+
 
 9. What is Hempel’s dilemma for physicalism? 
 
@@ -84,34 +87,61 @@ Prop dualism doesn't believe in supervenience; min phys duplicate ≠ simplicite
 
 ### Section 4: Phenomenal consciousness 
 
-1. Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’). 
+1. *Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’).* 
 	1. P1. I can clearly and distinctly conceive of my `____` existing without my` ____ `existing. 
 	2. P2. Whatever is clearly and distinctly conceivable is `____`. 
 	3. C1. It is `_____` for my `_____` to exist without my `____` existing. 
 	4. C2. My `_____` is not my` _____`. 
 
-2. In Lecture 3 of Naming and Necessity, Kripke considers an influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. Describe that objection. (Clue: the objection draws parallels with famous examples in the history of science of theoretical identification such as ‘water is identical to H20’). 
+mind, body
+possible
+possible, mind, body
+mind, body
 
-3. Explain why, according to Kripke, the necessary a posteriori status of truths like ‘water is identical to H20’ poses a challenge to the popular physicalist objection to the conceivability argument. 
+3. *In Lecture 3 of Naming and Necessity, Kripke considers an influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. Describe that objection. (Clue: the objection draws parallels with famous examples in the history of science of theoretical identification such as ‘water is identical to H20’).* 
 
-4. At first glance, statements like “water is identical to H2O” appear contingent. How does Kripke propose to explain that appearance? 
+Smart: C2 doesn't follow from C1: only *contingently*
+Pain is contingently = CFF 
+- Diff modes of presentation
 
-5. According to Kripke, can we explain the apparent contingency of statements like “pain is C-fibre activation” in the same way? Explain. 
+Kripke: If rigid designators are =, they are *necessarily* identical
 
-6. Explain Frank Jackson’s ‘knowledge argument’ against physicalism. 
+Water = H2O is necessarily true, not contingently 
 
-7. What is the specific version of anti-physicalism that Jackson goes on to endorse on the basis of this argument? 
+So: C1 → C2 *is valid* if P1 & P2 true
 
-8. Could a physicalist appeal to the ‘Causal Completeness of the Physical’ (a.k.a., ‘Closure’) to object to the position you just described? Why or why not? 
+4. *Explain why, according to Kripke, the necessary a posteriori status of truths like ‘water is identical to H20’ poses a challenge to the popular physicalist objection to the conceivability argument.* 
 
-9. Explain David Chalmers’ zombie argument against physicalism. 
+C2 follows *necessarily* from C1
 
-10. The anti-physicalist arguments we’ve discussed depend on a particular understanding of physicalism. What is that understanding? 
+5. *At first glance, statements like “water is identical to H2O” appear contingent. How does Kripke propose to explain that appearance?* 
 
-11. Describe the two main options available to a physicalist in responding to these arguments. 
+"When we think we’re imagining a possible world in which heat isn’t MMM, what we’re really imagining is a possible world in which something other than MMM is causally responsible for the “effects” that MMM is causally responsible for in the actual world. In particular, this is a world in which something other than MMM gives rise to the same heat appearance in us that MMM gives rise to in the actual world. Once we see this, we also see that (P1*) is false. We think a certain proposition – that heat exists without MMM – is conceivable, but we’re confused. We are confusing the inconceivable proposition (that heat could exist without MMM) with a different, conceivable proposition (that something other than MMM could have the same sensory effects on us that MMM has). So, heat is identical with MMM"
 
-12. Between the two available options, which (in your view) seems the most promising for a physicalist? Give an example of how that option has been pursued in the literature. 
+Heat = MMM same kind of statement as water = H2O 
 
-13. Having seen the arguments for and against physicalism, where do you find yourself landing? And what specific version of physicalism or anti-physicalism do you currently find most attractive? 
+Why does it appear contingent? 
 
-14. Is there a respect in which you think the metaphysical debates we’ve been learning about in this class might be improved?
+It is falsely contingent, bc the world we imagine where heat ≠ MMM, we imagine something other 
+
+6. *According to Kripke, can we explain the apparent contingency of statements like “pain is C-fibre activation” in the same way? Explain.* 
+
+
+
+7. Explain Frank Jackson’s ‘knowledge argument’ against physicalism. 
+
+8. What is the specific version of anti-physicalism that Jackson goes on to endorse on the basis of this argument? 
+
+9. Could a physicalist appeal to the ‘Causal Completeness of the Physical’ (a.k.a., ‘Closure’) to object to the position you just described? Why or why not? 
+
+10. Explain David Chalmers’ zombie argument against physicalism. 
+
+11. The anti-physicalist arguments we’ve discussed depend on a particular understanding of physicalism. What is that understanding? 
+
+12. Describe the two main options available to a physicalist in responding to these arguments. 
+
+13. Between the two available options, which (in your view) seems the most promising for a physicalist? Give an example of how that option has been pursued in the literature. 
+
+14. Having seen the arguments for and against physicalism, where do you find yourself landing? And what specific version of physicalism or anti-physicalism do you currently find most attractive? 
+
+15. Is there a respect in which you think the metaphysical debates we’ve been learning about in this class might be improved?
