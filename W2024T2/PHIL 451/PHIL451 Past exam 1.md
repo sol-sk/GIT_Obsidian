@@ -110,6 +110,9 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 **still don't explain causally distant things**
 
 5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
+**Indicator teleosemantics: X represents Y iff X has the *proper function* of reliably indicating Y.**
+
+
 
 
 6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
