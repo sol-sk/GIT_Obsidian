@@ -108,7 +108,7 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
 **Indicator teleosemantics: X represents Y iff X has the *proper function* of reliably indicating Y.**
 
-6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
+6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)*
 **Indicator teleosemantics → functional indeterminacy; teleofunctions deliver highly indeterminate contents**
 
 ### Section 4: Phenomenal consciousness
@@ -123,10 +123,7 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 	*C2. My `_____` is not my `_____`.*
 
 2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
-
 C2 doesn't follow from C1 b/c water is contingently H2O
-
-
 
 3. *Explain why, according to Kripke, this influential physicalist response to the conceivability argument fails.*
 
