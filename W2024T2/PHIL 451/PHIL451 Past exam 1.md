@@ -71,21 +71,27 @@ She aligns more with Papineau than Kim
 However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
 6. *According to Bennett, which assumption of the causal argument – left unstated in Papineau’s original presentation – are physicalists in a position to reject? (1 mark)*
-Exclusion. An effect *can* have two distinct causes without being overdetermined
+**Exclusion**. An effect *can* have two distinct causes without being overdetermined
 
 6. *What is the counterfactual conditional that, on Bennett’s view, is either false or vacuously true if physicalism is true. (A counterfactual conditional is a statement of the form ‘had x occurred, then y would have occurred’, where ‘x’ is some nonactual state of affairs.)*
 (O1) If m (mental) had happened without p (physical), e (effect) would still have happened: (m & ¬p) □→ e. 
-(O2) If p had happened without m, e would still have happened: (p & ¬m) □→ e.
-
+**(O2) If p had happened without m, e would still have happened: (p & ¬m) □→ e.**
 
 7. *Explain why, according to Bennett, dualists – or, at least, dualists who concede the other premises in the causal argument – not able to take the same attitude that physicalists do toward the truth value of this counterfactual.*
 
+**dualists wish to uphold O2 as nonvacuously true**
 ### Section 3: Naturalizing intentionality/mental representation
 1. *What do philosophers of mind mean when they speak of the ‘intentionality’ (a.k.a., the ‘intentional content’ or ‘representational content’) of a mental state? (2 marks)*
+**Intuitively, the content of a mental representation is what the representation ‘says’ about the world. It is the ‘condition’ that that reality must satisfy in order for the representation to count as true, accurate, or successful.**
 
 2. *Considered as a type of relation (between the representing system and the represented object), intentionality can seem intuitively puzzling from a physicalist perspective. Give two examples to illustrate why this is so. (2 marks)*
+**the apparent lack of causal connection between the two elements of the relation:**
 
+**1. fictional**
+**2. remoteness**
+**3. **
 
+**→ influence on behavr despite the above**
 
 3. *One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do?*
 
