@@ -123,12 +123,11 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 	*C2. My `_____` is not my `_____`.*x
 
 2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
-C2 doesn't follow from C1 
-- mind body could be contingent
-- contingent common in sci; water is contingently H2O
+**C2 doesn't follow from C1** 
+- **mind body could be contingent**
+- **contingent common in sci; water is contingently H2O**
 
 3. *Explain why, according to Kripke, this influential physicalist response to the conceivability argument fails.*
-
 
 
 4. *“But a statement like “water is nothing but a collection of H2O molecules” appears contingent. Though the statement is (let us suppose) true, we can easily imagine – or conceive of – it being false.” What is Kripke’s response to this?*
