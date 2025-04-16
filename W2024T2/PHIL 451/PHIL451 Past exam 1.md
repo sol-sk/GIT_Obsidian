@@ -89,13 +89,25 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
 **1. fictional**
 **2. remoteness**
-**3. **
+**3. sensitivity to description rather than reality**
 
 **→ influence on behavr despite the above**
 
 3. *One way that physicalists have hoped to remove the air of mystery around the representational content of mental states is by regarding it as somehow composed of natural relations like reliable indication. What is ‘reliable indication’, and what might lead one to believe that it could contribute to explaining how mental states represent what they do?*
 
+**reliable indication: conventional vs ubiquitous meaning of a sign**
+
+**Further, there are rudimentary kinds of mental representation which seem like they might be a matter of natural meaning, notably sensory representation and/or sensory recognitional concepts.**
+
+**ie V4**
+
 4. *There are two (closely related) objections to the claim we can explain the content of a mental  representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. (3 marks)*
+
+**problems arise bc rep metaphys. necessitates presence of thing it indicates**
+**reliable indication necessary → impossible to misrepresent**
+**reliable indication sufficient → disjunctions**
+
+**still don't explain causally distant things**
 
 5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
 
