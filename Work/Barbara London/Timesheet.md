@@ -1,34 +1,35 @@
 
-| Date     | Total Time | Time started | Time ended | Task                                        |
-| -------- | ---------- | ------------ | ---------- | ------------------------------------------- |
-| 12.28.24 | 2hr        | 15:00        | 16:28      | Runthrough for CFGNY (3.01), starting setup |
-| 12.31.24 | 2hr        | 14:30        | 16:11      | Finalizing CFGNY                            |
-| 01.03.25 | 1hr        | 10:00        | 11:00      | Correcting script                           |
-| 01.03.25 | 2hr        | 17:00        | 17:52      | Final tweaks to images, inc. meeting time   |
-| 01.05.25 | 30 min     | 21:00        | 21:09      | Editing dates on menu                       |
-| 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend  |
-| 01.07.25 | 30 min     | 10:38        | 11:01      | Final images updates for CFGNY              |
-| 01.18.25 | 1 hr       | 17:57        | 18:45      | Stan Douglas                                |
-| 01.20.25 | 30 min     | 12:58        | 13:15      | Page settings                               |
-| 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY         |
-| 01.22.25 | 30 min     | 08:00        | 8:29       | Updating audio links                        |
-| 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript  |
-| 02.04.25 | 1.5 hr     | 20:30        | 21:39      | Links, image captions, formatting           |
-| 02.06.25 | 30 min     | 09:35        | 09:50      | Tweaks to credits and formatting            |
-|          |            |              |            | INVOICE SENT                                |
-| 02.14.25 | 30 min     | 17:12        | 17:30      | Creating 3.04 post                          |
-| 02.18.25 | 5 hr       | 12:00        | 14:35      | 3.04 post :( 5 hours for real               |
-| 02.19.25 | 30 min     | 22:23        | 22:40      | Updating post w/ Vimeo                      |
-| 03.03.25 | 1 hr       | 09:40        | 10:45      | Starting 3.05                               |
-| 03.03.25 | 30 min     | 15:26        | 15:39      | Post                                        |
-| 03.04.25 |            | 13:35        | 13:47      | Finishing post                              |
-| 03.04.25 |            | 3:20         | 3:30       | Last edits                                  |
-| 03.17.25 | 30 min     | 6;00         | 7:00       | Creating post, formatting transcript 3.06   |
-| 03.18.25 | 45 min     | 11:00        | 11:43      | Completing post                             |
-| 03.18.25 | 30 min     | 20:45        | 20:56      | Final edits, adding Skittles images         |
-| 03.31.25 | 1 hr       | 11:24        | 11:59      | Starting (& finishing) 3.07                 |
-|          |            |              |            | INVOICE SENT                                |
-| 04.14.25 |            | 12:01        | 12:39      | Image formatting and transcript             |
+| Date     | Total Time | Time started | Time ended | Task                                                               |
+| -------- | ---------- | ------------ | ---------- | ------------------------------------------------------------------ |
+| 12.28.24 | 2hr        | 15:00        | 16:28      | Runthrough for CFGNY (3.01), starting setup                        |
+| 12.31.24 | 2hr        | 14:30        | 16:11      | Finalizing CFGNY                                                   |
+| 01.03.25 | 1hr        | 10:00        | 11:00      | Correcting script                                                  |
+| 01.03.25 | 2hr        | 17:00        | 17:52      | Final tweaks to images, inc. meeting time                          |
+| 01.05.25 | 30 min     | 21:00        | 21:09      | Editing dates on menu                                              |
+| 01.06.25 | 30 min     | 16:44        | 17:05      | Updating transcript, working on WP backend                         |
+| 01.07.25 | 30 min     | 10:38        | 11:01      | Final images updates for CFGNY                                     |
+| 01.18.25 | 1 hr       | 17:57        | 18:45      | Stan Douglas                                                       |
+| 01.20.25 | 30 min     | 12:58        | 13:15      | Page settings                                                      |
+| 01.20.25 | 1 hr       | 14:40        | 15:17      | Stan Douglas edits and fixing CFGNY                                |
+| 01.22.25 | 30 min     | 08:00        | 8:29       | Updating audio links                                               |
+| 02.03.25 | 2 hr       | 17:02        | 17:49      | Full post, including images and transcript                         |
+| 02.04.25 | 1.5 hr     | 20:30        | 21:39      | Links, image captions, formatting                                  |
+| 02.06.25 | 30 min     | 09:35        | 09:50      | Tweaks to credits and formatting                                   |
+|          |            |              |            | INVOICE SENT                                                       |
+| 02.14.25 | 30 min     | 17:12        | 17:30      | Creating 3.04 post                                                 |
+| 02.18.25 | 5 hr       | 12:00        | 14:35      | 3.04 post :( 5 hours for real                                      |
+| 02.19.25 | 30 min     | 22:23        | 22:40      | Updating post w/ Vimeo                                             |
+| 03.03.25 | 1 hr       | 09:40        | 10:45      | Starting 3.05                                                      |
+| 03.03.25 | 30 min     | 15:26        | 15:39      | Post                                                               |
+| 03.04.25 |            | 13:35        | 13:47      | Finishing post                                                     |
+| 03.04.25 |            | 3:20         | 3:30       | Last edits                                                         |
+| 03.17.25 | 30 min     | 6;00         | 7:00       | Creating post, formatting transcript 3.06                          |
+| 03.18.25 | 45 min     | 11:00        | 11:43      | Completing post                                                    |
+| 03.18.25 | 30 min     | 20:45        | 20:56      | Final edits, adding Skittles images                                |
+| 03.31.25 | 1 hr       | 11:24        | 11:59      | Starting (& finishing) 3.07                                        |
+|          |            |              |            | INVOICE SENT                                                       |
+| 04.14.25 | 1 hr       | 12:01        | 12:39      | Image formatting and transcript                                    |
+| 04.15.25 | 1.5 hr     | 17:00        | 18:25      | Fixing images, adding image captions, final formatting adjustments |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
