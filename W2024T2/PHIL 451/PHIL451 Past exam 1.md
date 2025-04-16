@@ -120,7 +120,7 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
 	*C1. It is ___ for my ____ to exist without my __ existing.*
 
-	*C2. My `_____` is not my `_____`.*
+	*C2. My `_____` is not my `_____`.*x
 
 2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
 C2 doesn't follow from C1 
