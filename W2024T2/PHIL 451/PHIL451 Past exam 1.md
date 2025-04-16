@@ -1,7 +1,7 @@
 ### Section 1: Understanding Physicalism
 [[Past 451 final exam.pdf]]
 1. *Explain the doctrine of ‘supervenience physicalism’ – a.k.a., ‘minimal physicalism’.*
-**minimal physical duplicate is a complete duplicate/simpliciter**
+**Minimal physical duplicate is a complete duplicate/simpliciter**
 **physical facts of the world metaphysically necessitate the mental facts**
 
 2. *Supervenience physicalism is best viewed as offering an answer to which question about physicalism:*
@@ -53,10 +53,7 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 2. *Reasoning for Papineau's claims?*
 **same as i wrote before**
 
-
-
 3. Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
-
 **Rejecting distinctness is type-id: leads to Reductive physicalism**
 
 
@@ -102,7 +99,6 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 **ie V4**
 
 4. *There are two (closely related) objections to the claim we can explain the content of a mental  representation solely in terms of what the representation reliably indicates (i.e., to the claim that X represents Y if and only if X reliably indicates Y). These are the ‘misrepresentation problem’ and the ‘disjunction problem’. Explain one of these problems, and the explanatory demand that it places on a successful theory of intentional/representational content. (3 marks)*
-
 **problems arise bc rep metaphys. necessitates presence of thing it indicates**
 **reliable indication necessary → impossible to misrepresent**
 **reliable indication sufficient → disjunctions**
@@ -111,9 +107,6 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
 5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
 **Indicator teleosemantics: X represents Y iff X has the *proper function* of reliably indicating Y.**
-
-
-
 
 6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
 **Indicator teleosemantics → functional indeterminacy; teleofunctions deliver highly indeterminate contents**
@@ -132,6 +125,8 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 2. *Describe the influential objection to Descartes’ conceivability argument associated with the reductive physicalist, J.C.C. Smart. (Note while we did not read Smart’s paper, we discussed it in lecture when introducing Kripke). (3 marks)*
 
 C2 doesn't follow from C1 b/c water is contingently H2O
+
+
 
 3. *Explain why, according to Kripke, this influential physicalist response to the conceivability argument fails.*
 
