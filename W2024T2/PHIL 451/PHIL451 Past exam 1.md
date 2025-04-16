@@ -111,7 +111,10 @@ However, differs on what she thinks NRP can reject, from Papineau's 3+1 premises
 
 5. *Some theorists (e.g., Dretske, Millikan, and Neander) argue that we can answer the misrepresentation problem and disjunction problem by appealing to a mental representation’s evolved ‘proper function’ (a.k.a., ‘teleofunction’). Describe one such proposal, and how it claims to overcome the problem you described above. (3 marks)*
 
+
 6. *Raise an objection to the view you just described. (Your answer should indicate whether the objection targets the specific teleosemantic proposal you described in your answer to the previous question, the whole teleosemantic approach of using proper functions to explain a mental representation’s intentional content, or to the broader physicalist project of attempting to explain intentionality in non-intentional terms). (2 marks)]*
+**Indicator teleosemantics → functional indeterminacy; teleofunctions deliver highly indeterminate contents**
+
 ### Section 4: Phenomenal consciousness
 1. *Fill in the blanks of the following argument from Descartes (‘The Conceivability Argument’).*
 
