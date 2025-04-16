@@ -53,7 +53,7 @@ Papineau *rejects distinctness* aka the thought than mental and phys properties 
 2. *Reasoning for Papineau's claims?*
 **same as i wrote before**
 
-3. Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)*
+3. Why have some philosophers – notably, Jaegwon Kim – regarded the line of reasoning that you just outlined not as an argument for physicalism per se but for a specific, controversial version of physicalism. (2 marks)
 **Rejecting distinctness is type-id: leads to Reductive physicalism**
 
 
