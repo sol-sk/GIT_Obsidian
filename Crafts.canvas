@@ -65,24 +65,13 @@
       "y": -136
     },
     {
-      "file": "Files/DropBag_ShelterGreen_01_77163f76-d8fd-4853-a16b-2c67c4bf850f_1296x.jpg",
-      "height": 339,
-      "id": "0ff728a2b8ebe9cf",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 455,
-      "x": 1164,
-      "y": 249
-    },
-    {
       "file": "Files/DropBag_ShelterGreen_02_1296x.jpg",
-      "height": 341,
+      "height": 320,
       "id": "c43aff136736de3d",
       "styleAttributes": {
       },
       "type": "file",
-      "width": 455,
+      "width": 427,
       "x": 1164,
       "y": -136
     },
@@ -98,15 +87,6 @@
       "y": 314
     },
     {
-      "file": "Files/Dropbag_Eclipse_2_2048x.jpg",
-      "height": 325,
-      "id": "0f46671277a30931",
-      "type": "file",
-      "width": 260,
-      "x": 829,
-      "y": 212
-    },
-    {
       "file": "Files/DropBag_03_1296x.jpg",
       "height": 320,
       "id": "5a767a7806d47e43",
@@ -118,6 +98,35 @@
       "y": -136
     },
     {
+      "file": "Files/Dropbag_Eclipse_2_2048x.jpg",
+      "height": 419,
+      "id": "0f46671277a30931",
+      "type": "file",
+      "width": 335,
+      "x": 764,
+      "y": -574
+    },
+    {
+      "file": "Files/MISMOSS207822_1728x.jpg",
+      "height": 418,
+      "id": "1906503029e99e16",
+      "type": "file",
+      "width": 627,
+      "x": 1164,
+      "y": -574
+    },
+    {
+      "file": "Files/DropBag_ShelterGreen_01_77163f76-d8fd-4853-a16b-2c67c4bf850f_1296x.jpg",
+      "height": 320,
+      "id": "0ff728a2b8ebe9cf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 429,
+      "x": 1620,
+      "y": -136
+    },
+    {
       "height": 60,
       "id": "327c3bc5724401ff",
       "styleAttributes": {
@@ -125,8 +134,46 @@
       "text": "##### [Mismo M/S Drop Bag](https://www.mismo.dk/collections/m-s-drop-bag/products/m-s-drop-bag-shelter-green-black)",
       "type": "text",
       "width": 260,
-      "x": 829,
-      "y": 600
+      "x": 703,
+      "y": 230
+    },
+    {
+      "file": "Files/MISMO-15-2_1296x.jpg",
+      "height": 301,
+      "id": "20d5c0d4978e1f26",
+      "type": "file",
+      "width": 515,
+      "x": 584,
+      "y": 374
+    },
+    {
+      "file": "Files/Passage_Eclipse_02_1296x.jpg",
+      "height": 300,
+      "id": "fece64f04760dc82",
+      "type": "file",
+      "width": 400,
+      "x": 1130,
+      "y": 374
+    },
+    {
+      "file": "Files/Passage_Eclipse_01_1296x.jpg",
+      "height": 300,
+      "id": "c54cc4c1d53764f1",
+      "type": "file",
+      "width": 400,
+      "x": 1560,
+      "y": 374
+    },
+    {
+      "height": 60,
+      "id": "5b37df5db02f3618",
+      "styleAttributes": {
+      },
+      "text": "\n##### [M/S Passage](https://www.mismo.dk/collections/m-s-passage/products/m-s-passage-eclipse-black-black)",
+      "type": "text",
+      "width": 158,
+      "x": 584,
+      "y": 700
     }
   ]
 }
