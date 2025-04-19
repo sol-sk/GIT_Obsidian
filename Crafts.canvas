@@ -3,23 +3,25 @@
   ],
   "nodes": [
     {
-      "file": "Files/3218956_2.png",
-      "height": 400,
-      "id": "d3dc0356addebeb8",
+      "height": 60,
+      "id": "81129ef42ebb4043",
       "styleAttributes": {
       },
-      "type": "file",
-      "width": 267,
-      "x": -460,
-      "y": -140
+      "text": "## Bag designs",
+      "type": "text",
+      "width": 260,
+      "x": -340,
+      "y": -300
     },
     {
       "file": "Files/3218956_1.png",
       "height": 400,
       "id": "c98abe2c1b8e3515",
+      "styleAttributes": {
+      },
       "type": "file",
       "width": 267,
-      "x": -760,
+      "x": -1120,
       "y": -140
     },
     {
@@ -30,19 +32,101 @@
       "text": "##### [Seeker RFID Sling Bag](https://www.strandbags.com.au/products/nere-seeker-rfid-sling-bag-3218956?variant=45027937091742)",
       "type": "text",
       "width": 231,
-      "x": -760,
+      "x": -1120,
       "y": 280
     },
     {
-      "height": 60,
-      "id": "81129ef42ebb4043",
+      "file": "Files/3218956_2.png",
+      "height": 400,
+      "id": "d3dc0356addebeb8",
       "styleAttributes": {
       },
-      "text": "## Bag designs",
+      "type": "file",
+      "width": 267,
+      "x": -820,
+      "y": -140
+    },
+    {
+      "file": "Files/304471-011-2786-27030000-8.jpg",
+      "height": 426,
+      "id": "e1efdba92e983b10",
+      "type": "file",
+      "width": 426,
+      "x": 158,
+      "y": -136
+    },
+    {
+      "file": "Files/285685-011-2786-27030000-6.jpg",
+      "height": 426,
+      "id": "5b1964c69ae2de5d",
+      "type": "file",
+      "width": 426,
+      "x": -293,
+      "y": -136
+    },
+    {
+      "file": "Files/DropBag_ShelterGreen_01_77163f76-d8fd-4853-a16b-2c67c4bf850f_1296x.jpg",
+      "height": 339,
+      "id": "0ff728a2b8ebe9cf",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 455,
+      "x": 1164,
+      "y": 249
+    },
+    {
+      "file": "Files/DropBag_ShelterGreen_02_1296x.jpg",
+      "height": 341,
+      "id": "c43aff136736de3d",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 455,
+      "x": 1164,
+      "y": -136
+    },
+    {
+      "height": 60,
+      "id": "3d08d82d3e729041",
+      "styleAttributes": {
+      },
+      "text": "##### [Reporter Compact Crossbody Bag](https://www.aspinaloflondon.com/products/reporter-compact-crossbody-bag-in-tobacco-pebble)",
+      "type": "text",
+      "width": 320,
+      "x": -293,
+      "y": 314
+    },
+    {
+      "file": "Files/Dropbag_Eclipse_2_2048x.jpg",
+      "height": 325,
+      "id": "0f46671277a30931",
+      "type": "file",
+      "width": 260,
+      "x": 829,
+      "y": 212
+    },
+    {
+      "file": "Files/DropBag_03_1296x.jpg",
+      "height": 320,
+      "id": "5a767a7806d47e43",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 427,
+      "x": 703,
+      "y": -136
+    },
+    {
+      "height": 60,
+      "id": "327c3bc5724401ff",
+      "styleAttributes": {
+      },
+      "text": "##### [Mismo M/S Drop Bag](https://www.mismo.dk/collections/m-s-drop-bag/products/m-s-drop-bag-shelter-green-black)",
       "type": "text",
       "width": 260,
-      "x": -340,
-      "y": -300
+      "x": 829,
+      "y": 600
     }
   ]
 }
