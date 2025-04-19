@@ -1,0 +1,48 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Files/3218956_2.png",
+      "height": 400,
+      "id": "d3dc0356addebeb8",
+      "styleAttributes": {
+      },
+      "type": "file",
+      "width": 267,
+      "x": -460,
+      "y": -140
+    },
+    {
+      "file": "Files/3218956_1.png",
+      "height": 400,
+      "id": "c98abe2c1b8e3515",
+      "type": "file",
+      "width": 267,
+      "x": -760,
+      "y": -140
+    },
+    {
+      "height": 50,
+      "id": "25c27eeb3c849e6f",
+      "styleAttributes": {
+      },
+      "text": "##### [Seeker RFID Sling Bag](https://www.strandbags.com.au/products/nere-seeker-rfid-sling-bag-3218956?variant=45027937091742)",
+      "type": "text",
+      "width": 231,
+      "x": -760,
+      "y": 280
+    },
+    {
+      "height": 60,
+      "id": "81129ef42ebb4043",
+      "styleAttributes": {
+      },
+      "text": "## Bag designs",
+      "type": "text",
+      "width": 260,
+      "x": -340,
+      "y": -300
+    }
+  ]
+}
