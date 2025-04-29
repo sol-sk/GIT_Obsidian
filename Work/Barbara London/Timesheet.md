@@ -30,6 +30,7 @@
 |          |            |              |            | INVOICE SENT                                                       |
 | 04.14.25 | 1 hr       | 12:01        | 12:39      | Image formatting and transcript                                    |
 | 04.15.25 | 1.5 hr     | 17:00        | 18:25      | Fixing images, adding image captions, final formatting adjustments |
+| 04.29.25 |            | 09:30        |            |                                                                    |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
