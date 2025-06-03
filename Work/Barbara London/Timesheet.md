@@ -32,7 +32,9 @@
 | 04.15.25 | 1.5 hr     | 17:00        | 18:25      | Fixing images, adding image captions, final formatting adjustments |
 | 04.29.25 | 1 hr       | 09:30        | 10:30      | 3.09 post                                                          |
 | 05.13.25 |            | 9            | 10         | 3.10                                                               |
-| 06.02.25 |            | 10:30        |            |                                                                    |
+| 06.02.25 |            | 10:30        | 11         |                                                                    |
+| 06.02.25 |            | 18:49        |            |                                                                    |
+|          |            |              |            |                                                                    |
 
 **Notes**
 - [x] Parts of transcript that are still labeled inaudible
