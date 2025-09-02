@@ -14,7 +14,7 @@
 	- Approver: ^+ approved
 - Organize assets according to org w/ tags
 	- [x] Org Tags created: 
-		CHMS		Chamber Music Society
+		CMS		Chamber Music Society
 		FILM		Film at Lincoln Center
 		JAZZ		Jazz at Lincoln Center
 		JUIL		Juilliard School of Music
