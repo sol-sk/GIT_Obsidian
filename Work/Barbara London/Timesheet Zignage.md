@@ -7,4 +7,9 @@
 **TODO**
 *Build user taxonomy*
 - Editor and approver category for every tenant
-- Organize assets according to org
+	- edited: save as created/please review
+	- approver: ^+ approved
+	- master: + publishedc
+- Organize assets according to org w/ tags
+
+special, lincoln center, and lcpresents are all one category
