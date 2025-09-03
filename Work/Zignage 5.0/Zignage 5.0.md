@@ -49,6 +49,10 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 
 **TODO**
 - [ ] Pair of layouts for each org inc. LC_, info at top and info at bottom
+	- [ ] "low" layouts
+		- [x] Created
+		- [ ] Finished
+	- [ ] "high" layouts
 - [ ] Make 13 wide 
 
 
