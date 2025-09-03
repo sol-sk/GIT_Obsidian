@@ -55,3 +55,4 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
 - Can't delete tags on media page
+- Can't enter negative value for pos in layout
