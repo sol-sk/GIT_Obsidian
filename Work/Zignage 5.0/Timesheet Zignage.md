@@ -14,19 +14,23 @@
 	- Approver: ^+ approved
 *Organize assets according to org w/ tags*
 - [x] Org Tags created: 
-	CMS		Chamber Music Society
-	FILM		Film at Lincoln Center
-	JAZZ		Jazz at Lincoln Center
-	JUIL		Juilliard School of Music
-	LC 			Lincoln Center
-	LCP			Lincoln Center Presents
-	LCT			Lincoln Center Theater
-	MET		Metropolitan Opera
-	NYCB		New York City Ballet
-	NYPH		New York Philharmonic
-	PLPA		New York Library for the Performing Arts		
-	SPEC		Special Program
 - [x] Assets organized ?
+
+Tenants:
+1. CMS		Chamber Music Society
+2. FILM		Film at Lincoln Center
+3. JAZZ		Jazz at Lincoln Center
+4. JUIL		Juilliard School of Music
+5. MET		Metropolitan Opera
+6. NYCB		New York City Ballet
+7. NYPH		New York Philharmonic
+8. PLPA		New York Library for the Performing Arts		
+9. LCT			Lincoln Center Theater
+Lincoln center
++ LC 			Lincoln Center
+- LCP			Lincoln Center Presents
+- SPEC		Special Program
+
 
 *Notes*
 Special, lincoln center, and lcpresents are all one category
@@ -41,7 +45,10 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 "today" calendars: lincoln
 "this week" calendars 1 per consitn.t org.
 
+**TODO**
+Make promo layout for tenant w 
+
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
-- 
+- Can't delete tags on media page
