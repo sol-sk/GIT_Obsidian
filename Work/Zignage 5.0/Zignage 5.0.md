@@ -3,6 +3,8 @@
 | -------- | ---------- | ------------ | ---------- | ----------- | ---------------------- |
 | 09.02.25 | 1 hr       | 11:00        | 11:38      |             | Carl meeting           |
 | 09.02.25 | 2 hr       | 11:38        | 12:33      | 1:33        | Building user taxonomy |
+| 09.03.25 |            | 12:15        | 12:40      |             | Carl meetin            |
+|          |            |              |            |             | Tentant org layouts    |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
@@ -46,7 +48,8 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 "this week" calendars 1 per consitn.t org.
 
 **TODO**
-Make promo layout for tenant w 
+- [ ] Pair of layouts for each org inc. LC_, info at top and info at bottom
+- [ ] Make 13 wide 
 
 
 **BUGS**
