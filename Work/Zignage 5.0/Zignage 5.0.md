@@ -16,7 +16,7 @@
 		- Reporting, Dashboard, Templates (edit), Playlists, Media, Tagging (assign/remove)
 	- Approver: ^+ approved
 *Organize assets according to org w/ tags*
-- [x] Org Tags created: 
+- [x] Org Tags created: ￼
 - [x] Assets organized ?
 
 Tenants:
