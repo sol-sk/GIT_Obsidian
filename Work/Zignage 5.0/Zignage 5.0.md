@@ -69,3 +69,4 @@ Fixing perms for editor/approvers
 - Can't delete tags on media page
 - Can't enter negative value for pos in layout
 - Can't resize timeline window in layouts page
+- When adding multiple layouts into another layout, layout often replaces previously existing layout
