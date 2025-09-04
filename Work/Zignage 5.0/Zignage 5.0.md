@@ -68,4 +68,4 @@ Fixing perms for editor/approvers
 - Lag when creating tags on media page (after editing/creating permissions)
 - Can't delete tags on media page
 - Can't enter negative value for pos in layout
-
+- Can't resize timeline window in layouts page
