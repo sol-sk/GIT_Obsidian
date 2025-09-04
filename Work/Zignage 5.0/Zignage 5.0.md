@@ -5,7 +5,7 @@
 | 09.02.25 | 2                | 11:38        | 12:33      | 1:33        | Building user taxonomy |
 | 09.03.25 | .5               | 12:15        | 12:40      |             | Carl meetin            |
 | 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts    |
-|          |                  |              |            |             |                        |
+| 09.04.25 |                  | 10:15        |            |             |                        |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
@@ -56,6 +56,12 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 	- [ ] "high" layouts
 - [ ] Make 13 wide 
 
+### 09.04.25
+Adding gradients + building rest of "high" style
+Some gaps may occur in preview: check
+- Fudging to fix must be consistent
+**TODO**
+Rest of yday task 
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
