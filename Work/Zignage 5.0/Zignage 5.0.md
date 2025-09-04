@@ -1,11 +1,11 @@
 
-| Date     | Total Time (hrs) | Time started | Time ended | Time* ended | Task                   |
-| -------- | ---------------- | ------------ | ---------- | ----------- | ---------------------- |
-| 09.02.25 | 1                | 11:00        | 11:38      |             | Carl meeting           |
-| 09.02.25 | 2                | 11:38        | 12:33      | 1:33        | Building user taxonomy |
-| 09.03.25 | .5               | 12:15        | 12:40      |             | Carl meetin            |
-| 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts    |
-| 09.04.25 |                  | 10:15        |            |             |                        |
+| Date     | Total Time (hrs) | Time started | Time ended | Time* ended | Task                              |
+| -------- | ---------------- | ------------ | ---------- | ----------- | --------------------------------- |
+| 09.02.25 | 1                | 11:00        | 11:38      |             | Carl meeting                      |
+| 09.02.25 | 2                | 11:38        | 12:33      | 1:33        | Building user taxonomy            |
+| 09.03.25 | .5               | 12:15        | 12:40      |             | Carl meetin                       |
+| 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts               |
+| 09.04.25 | 5                | 10:15        | 15:01      |             | ^ cont. Fixing low, creating high |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
