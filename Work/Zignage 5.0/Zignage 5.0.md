@@ -62,6 +62,7 @@ Some gaps may occur in preview: check
 - Fudging to fix must be consistent
 **TODO**
 Rest of yday task 
+Fixing perms for editor/approvers
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
