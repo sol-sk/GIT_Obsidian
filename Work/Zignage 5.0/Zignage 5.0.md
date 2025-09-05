@@ -6,6 +6,7 @@
 | 09.03.25 | .5               | 12:15        | 12:40      |             | Carl meetin                       |
 | 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts               |
 | 09.04.25 | 5                | 10:15        | 15:01      |             | ^ cont. Fixing low, creating high |
+| 09.05.25 |                  | 08:41        |            |             | ^cont.                            |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
