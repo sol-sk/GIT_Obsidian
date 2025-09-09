@@ -8,7 +8,8 @@
 | 09.04.25 | 5                | 10:15        | 15:01      |             | ^ cont. Fixing low, creating high |
 | 09.05.25 |                  | 08:41        | 09:15      |             | ^cont.                            |
 | 09.08.25 | 6.5 hours        | 12:45        | 18:57      |             | Today/this week blades            |
-| 09.09.25 |                  | 14:44        |            |             |                                   |
+| 09.09.25 |                  | 14:44        | 16:11      |             | ^                                 |
+|          |                  |              |            |             |                                   |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
@@ -83,7 +84,9 @@ Created layouts:
 - LCweek
 - NYCBweek
 - METweek
-- 
+- PLPAweek
+- NYPHweek
+- SPECweek
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
