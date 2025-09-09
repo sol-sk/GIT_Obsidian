@@ -78,6 +78,13 @@ Created layouts:
 - LCP 922week1&2
 - 13-wide-922Week
 
+### 09.09.25
+Created layouts: 
+- LCweek
+- NYCBweek
+- METweek
+- 
+
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
 - Can't delete tags on media page
