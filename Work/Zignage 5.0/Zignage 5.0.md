@@ -7,7 +7,8 @@
 | 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts               |
 | 09.04.25 | 5                | 10:15        | 15:01      |             | ^ cont. Fixing low, creating high |
 | 09.05.25 |                  | 08:41        | 09:15      |             | ^cont.                            |
-| 09.08.25 |                  | 12:45        |            |             | Today/this week blades            |
+| 09.08.25 | 6.5 hours        | 12:45        | 18:57      |             | Today/this week blades            |
+|          |                  |              |            |             |                                   |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
@@ -65,6 +66,17 @@ Some gaps may occur in preview: check
 **TODO**
 Rest of yday task 
 Fixing perms for editor/approvers
+
+### 09.08.25
+No meeting
+Created layouts:
+- JAZZ 922week1&2
+- JUIL 922week1&2
+- Today1-925
+- 925-bladePromo-Informational/Today-925-bladePromo-Informational (duplicates)
+- FILM-922week1&2
+- LCP 922week1&2
+- 13-wide-922Week
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
