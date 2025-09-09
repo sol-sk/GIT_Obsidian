@@ -52,12 +52,12 @@ Layouts eventually for 13 blades 3 set up for 25th demo
 "this week" calendars 1 per consitn.t org.
 
 **TODO**
-- [ ] Pair of layouts for each org inc. LC_, info at top and info at bottom
-	- [ ] "low" layouts
+- [x] Pair of layouts for each org inc. LC_, info at top and info at bottom
+	- [x] "low" layouts
 		- [x] Created
-		- [ ] Finished
-	- [ ] "high" layouts
-- [ ] Make 13 wide 
+		- [x] Finished
+	- [x] "high" layouts
+- [x] Make 13 wide 
 
 ### 09.04.25
 Adding gradients + building rest of "high" style
