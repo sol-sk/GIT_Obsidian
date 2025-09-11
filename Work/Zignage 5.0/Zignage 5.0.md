@@ -88,6 +88,14 @@ Created layouts:
 - PLPAweek
 - NYPHweek
 - SPECweek
+### 09.11.25
+cfuat = testing server
+4.5/5.0 comparisons
+- Test 5.0 to see if video being shorter than layout actually works rather than video looping 
+- Test mark in mark out for starting and stopping vid at mid points
+- Compare media and widgets tabs in layout editing pages
+- Compare **easing**
+- 
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
