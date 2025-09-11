@@ -95,7 +95,11 @@ cfuat = testing server
 - Test mark in mark out for starting and stopping vid at mid points
 - Compare media and widgets tabs in layout editing pages
 - Compare **easing**
-- 
+
+*List of features 4.5 has that 5.0 lacks*
+*Flag 5.0 bugs*
+*Check which features + 5.0 bugs are already ticketed in Jira and add tickets for missing; assign to self*
+
 
 **BUGS**
 - Lag when creating tags on media page (after editing/creating permissions)
