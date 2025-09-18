@@ -11,8 +11,8 @@
 | 09.09.25 | 2                | 14:44        | 16:11      |             | ^                                        |
 | 09.10.25 | .5               | 12:00        | 12:30      |             | Met layout                               |
 | 09.11.25 | .5               |              |            |             | Meeting                                  |
-| 09.16.25 |                  | 13:00        |            |             | 5.0 bug/feature reporting, comparing 4.5 |
-|          |                  |              |            |             |                                          |
+| 09.16.25 | 1                | 13:00        | 14:00      |             | 5.0 bug/feature reporting, comparing 4.5 |
+| 09.18.25 |                  | 11:50        |            |             |                                          |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
