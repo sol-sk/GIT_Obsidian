@@ -1,19 +1,20 @@
 
-| Date     | Total Time (hrs) | Time started | Time ended | Time* ended | Task                                          |
-| -------- | ---------------- | ------------ | ---------- | ----------- | --------------------------------------------- |
-| 09.02.25 | 1                | 11:00        | 11:38      |             | Carl meeting                                  |
-| 09.02.25 | 2                | 11:38        | 12:33      | 1:33        | Building user taxonomy                        |
-| 09.03.25 | .5               | 12:15        | 12:40      |             | Carl meetin                                   |
-| 09.03.25 | 3                | 12:40        |            | 15:19       | Tentant org layouts                           |
-| 09.04.25 | 5                | 10:15        | 15:01      |             | ^ cont. Fixing low, creating high             |
-| 09.05.25 | .5               | 08:41        | 09:15      |             | ^cont.                                        |
-| 09.08.25 | 6.5              | 12:45        | 18:57      |             | Today/this week blades                        |
-| 09.09.25 | 2                | 14:44        | 16:11      |             | ^                                             |
-| 09.10.25 | .5               | 12:00        | 12:30      |             | Met layout                                    |
-| 09.11.25 | .5               |              |            |             | Meeting                                       |
-| 09.16.25 | 1                | 13:00        | 14:00      |             | 5.0 bug/feature reporting, comparing 4.5      |
-| 09.18.25 | .5               | 11:50        | 12:20      |             | Beginning cf migration; downloading all files |
-|          |                  |              |            |             |                                               |
+| Date     | Task                                          | Time started | Time ended | Total Time (hrs) |
+| -------- | --------------------------------------------- | ------------ | ---------- | ---------------- |
+| 09.02.25 | Carl meeting                                  | 11:00        | 11:38      | 1                |
+| 09.02.25 | Building user taxonomy                        | 11:38        | 12:33      | 2                |
+| 09.03.25 | Carl meetin                                   | 12:15        | 12:40      | .5               |
+| 09.03.25 | Tentant org layouts                           | 12:40        |            | 3                |
+| 09.04.25 | ^ cont. Fixing low, creating high             | 10:15        | 15:01      | 5                |
+| 09.05.25 | ^cont.                                        | 08:41        | 09:15      | .5               |
+| 09.08.25 | Today/this week blades                        | 12:45        | 18:57      | 6.5              |
+| 09.09.25 | ^                                             | 14:44        | 16:11      | 2                |
+| 09.10.25 | Met layout                                    | 12:00        | 12:30      | .5               |
+| 09.11.25 | Meeting                                       |              |            | .5               |
+| 09.16.25 | 5.0 bug/feature reporting, comparing 4.5      | 13:00        | 14:00      | 1                |
+| 09.18.25 | Beginning cf migration; downloading all files | 11:50        | 12:20      | .5               |
+|          |                                               |              |            |                  |
+|          |                                               |              |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
