@@ -13,7 +13,7 @@
 | 09.11.25 | Meeting                                       |              |            | .5               |
 | 09.16.25 | 5.0 bug/feature reporting, comparing 4.5      | 13:00        | 14:00      | 1                |
 | 09.18.25 | Beginning cf migration; downloading all files | 11:50        | 12:20      | .5               |
-|          |                                               |              |            |                  |
+| 09.19.25 |                                               | 15:13        |            |                  |
 |          |                                               |              |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
@@ -106,8 +106,10 @@ cfuat = testing server
 
 
 **BUGS**
-- Lag when creating tags on media page (after editing/creating permissions)
-- Can't delete tags on media page
-- Can't enter negative value for pos in layout
-- Can't resize timeline window in layouts page
-- When adding multiple layouts into another layout, layout often replaces previously existing layout
+- [x] Lag when creating tags on media page (after editing/creating permissions)
+- [x] Can't delete tags on media page
+- [x] Can't enter negative value for pos in layout
+- [x] Can't resize timeline window in layouts page
+- [x] When adding multiple layouts into another layout, layout often replaces previously existing layout
+- [ ] Filter by media type does not work
+- [ ] 
