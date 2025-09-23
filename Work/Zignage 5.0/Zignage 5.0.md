@@ -14,7 +14,7 @@
 | 09.16.25 | 5.0 bug/feature reporting, comparing 4.5      | 13:00        | 14:00      | 1                |
 | 09.18.25 | Beginning cf migration; downloading all files | 11:50        | 12:20      | .5               |
 | 09.19.25 |                                               | 15:13        |            |                  |
-|          |                                               |              |            |                  |
+| 09.23.25 |                                               | 13:11        |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
