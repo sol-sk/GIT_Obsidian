@@ -1,11 +1,6 @@
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - '!file.name.contains("m4a")'
-        - '!file.name.contains("pdf")'
-        - '!file.name.contains("png")'
     order:
       - file.name
       - file.folder
