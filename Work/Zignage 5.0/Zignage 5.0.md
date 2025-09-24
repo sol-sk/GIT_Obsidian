@@ -113,4 +113,4 @@ cfuat = testing server
 - [x] Can't resize timeline window in layouts page
 - [x] When adding multiple layouts into another layout, layout often replaces previously existing layout
 - [ ] Filter by media type does not work
-- [ ] 
+
