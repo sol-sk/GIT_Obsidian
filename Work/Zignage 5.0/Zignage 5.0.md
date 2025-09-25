@@ -105,6 +105,9 @@ cfuat = testing server
 *Flag 5.0 bugs*
 *Check which features + 5.0 bugs are already ticketed in Jira and add tickets for missing; assign to self*
 
+### 09.25.25
+*- Test 5.0 to see if video being shorter than layout actually works rather than video looping* - Video ends and does not loop
+
 
 **BUGS**
 - [x] Lag when creating tags on media page (after editing/creating permissions)
