@@ -15,7 +15,7 @@
 | 09.18.25 | Beginning cf migration; downloading all files | 11:50        | 12:20      | .5               |
 | 09.19.25 |                                               | 15:13        | 16:00      | .75              |
 | 09.23.25 | Bug reporting                                 | 13:11        | 14:39      | 1.5              |
-| 09.25.25 |                                               | 09:32        |            |                  |
+| 09.25.25 | Uploading cf assets to gorgon                 | 09:32        |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
