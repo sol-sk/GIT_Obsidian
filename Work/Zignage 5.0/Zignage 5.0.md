@@ -18,7 +18,9 @@
 | 09.25.25 | Uploading cf assets to gorgon                 | 09:32        | 12:00      | 2.5              |
 | 09.26.25 | cfprod layouts migration to gorgon            | 10:57        | 12:47      |                  |
 |          | break to not kms                              |              |            |                  |
-| 09.26.25 | cont.                                         | 15:43        |            |                  |
+| 09.26.25 | cont.                                         | 15:43        | 16:00      |                  |
+| 09.28.25 |                                               | 09:00        |            |                  |
+|          |                                               |              |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
