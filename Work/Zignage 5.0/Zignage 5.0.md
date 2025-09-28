@@ -1,26 +1,26 @@
 
-| Date     | Task                                          | Time started | Time ended | Total Time (hrs) |
-| -------- | --------------------------------------------- | ------------ | ---------- | ---------------- |
-| 09.02.25 | Carl meeting                                  | 11:00        | 11:38      | 1                |
-| 09.02.25 | Building user taxonomy                        | 11:38        | 12:33      | 2                |
-| 09.03.25 | Carl meetin                                   | 12:15        | 12:40      | .5               |
-| 09.03.25 | Tentant org layouts                           | 12:40        |            | 3                |
-| 09.04.25 | ^ cont. Fixing low, creating high             | 10:15        | 15:01      | 5                |
-| 09.05.25 | ^cont.                                        | 08:41        | 09:15      | .5               |
-| 09.08.25 | Today/this week blades                        | 12:45        | 18:57      | 6.5              |
-| 09.09.25 | ^                                             | 14:44        | 16:11      | 2                |
-| 09.10.25 | Met layout                                    | 12:00        | 12:30      | .5               |
-| 09.11.25 | Meeting                                       |              |            | .5               |
-| 09.16.25 | 5.0 bug/feature reporting, comparing 4.5      | 13:00        | 14:00      | 1                |
-| 09.18.25 | Beginning cf migration; downloading all files | 11:50        | 12:20      | .5               |
-| 09.19.25 |                                               | 15:13        | 16:00      | .75              |
-| 09.23.25 | Bug reporting                                 | 13:11        | 14:39      | 1.5              |
-| 09.25.25 | Uploading cf assets to gorgon                 | 09:32        | 12:00      | 2.5              |
-| 09.26.25 | cfprod layouts migration to gorgon            | 10:57        | 12:47      |                  |
-|          | break to not kms                              |              |            |                  |
-| 09.26.25 | cont.                                         | 15:43        | 16:00      |                  |
-| 09.28.25 |                                               | 09:00        |            |                  |
-|          |                                               |              |            |                  |
+| Date     | Task                                                                                                                        | Time started | Time ended | Total Time (hrs) |
+| -------- | --------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- | ---------------- |
+| 09.02.25 | Carl meeting                                                                                                                | 11:00        | 11:38      | 1                |
+| 09.02.25 | Building user taxonomy                                                                                                      | 11:38        | 12:33      | 2                |
+| 09.03.25 | Carl meetin                                                                                                                 | 12:15        | 12:40      | .5               |
+| 09.03.25 | Tentant org layouts                                                                                                         | 12:40        |            | 3                |
+| 09.04.25 | ^ cont. Fixing low, creating high                                                                                           | 10:15        | 15:01      | 5                |
+| 09.05.25 | ^cont.                                                                                                                      | 08:41        | 09:15      | .5               |
+| 09.08.25 | Today/this week blades                                                                                                      | 12:45        | 18:57      | 6.5              |
+| 09.09.25 | ^                                                                                                                           | 14:44        | 16:11      | 2                |
+| 09.10.25 | Met layout                                                                                                                  | 12:00        | 12:30      | .5               |
+| 09.11.25 | Meeting                                                                                                                     |              |            | .5               |
+| 09.16.25 | 5.0 bug/feature reporting, comparing 4.5                                                                                    | 13:00        | 14:00      | 1                |
+| 09.18.25 | Beginning cf migration; downloading all files                                                                               | 11:50        | 12:20      | .5               |
+| 09.19.25 |                                                                                                                             | 15:13        | 16:00      | .75              |
+| 09.23.25 | Bug reporting                                                                                                               | 13:11        | 14:39      | 1.5              |
+| 09.25.25 | Uploading cf assets to gorgon                                                                                               | 09:32        | 12:00      | 2.5              |
+| 09.26.25 | cfprod layouts migration to gorgon                                                                                          | 10:57        | 12:47      |                  |
+|          | break to not kms                                                                                                            |              |            |                  |
+| 09.26.25 | cont.                                                                                                                       | 15:43        | 16:00      |                  |
+| 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        |            |                  |
+|          |                                                                                                                             |              |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
