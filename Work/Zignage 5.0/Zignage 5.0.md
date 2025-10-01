@@ -20,7 +20,7 @@
 |          | break to not kms                                                                                                            |              |            |                  |
 | 09.26.25 | cont. migration                                                                                                             | 15:33        | 16:00      | .5               |
 | 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        | 12:00      | 3                |
-| 10.01.25 |                                                                                                                             |              |            |                  |
+| 10.01.25 |                                                                                                                             | 9:03         |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
