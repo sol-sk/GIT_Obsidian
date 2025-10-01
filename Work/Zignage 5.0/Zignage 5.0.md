@@ -19,7 +19,7 @@
 | 09.26.25 | cfprod layouts migration to gorgon                                                                                          | 10:57        | 12:47      |                  |
 |          | break to not kms                                                                                                            |              |            |                  |
 | 09.26.25 | cont.                                                                                                                       | 15:43        | 16:00      |                  |
-| 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        |            |                  |
+| 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        | 12:00      | 3                |
 |          |                                                                                                                             |              |            |                  |
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
