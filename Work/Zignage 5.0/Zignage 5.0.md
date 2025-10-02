@@ -16,12 +16,12 @@
 | 09.19.25 |                                                                                                                             | 15:13        | 16:00      | .75              |
 | 09.23.25 | Bug reporting                                                                                                               | 13:11        | 14:39      | 1.5              |
 | 09.25.25 | Uploading cf assets to gorgon                                                                                               | 09:32        | 12:00      | 2.5              |
-| 09.26.25 | cfprod layouts migration to gorgon                                                                                          | 10:57        | 12:47      |                  |
-|          | break to not kms                                                                                                            |              |            |                  |
+| 09.26.25 | cfprod layouts migration to gorgon                                                                                          | 10:47        | 12:47      | 2                |
 | 09.26.25 | cont. migration                                                                                                             | 15:33        | 16:00      | .5               |
 | 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        | 12:00      | 3                |
-| 10.01.25 |                                                                                                                             | 9:03         | 13:00      | 4                |
-| 10.01.25 |                                                                                                                             | 16:45        |            |                  |
+| 10.01.25 | Working on layouts, reuploading dysfunctional content                                                                       | 9:03         | 13:00      | 4                |
+| 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
+
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
 **TODO**
