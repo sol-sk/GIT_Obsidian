@@ -21,6 +21,7 @@
 | 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        | 12:00      | 3                |
 | 10.01.25 | Working on layouts, reuploading dysfunctional content                                                                       | 9:03         | 13:00      | 4                |
 | 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
+| 10.02.25 |                                                                                                                             | 09:45        |            |                  |
 
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
