@@ -21,7 +21,7 @@
 | 09.28.25 | Created layouts 'brian north&south,' 'b2b north&south,' and testing 'with care' on gorgon.zignage.com + cont. bug reporting | 09:00        | 12:00      | 3                |
 | 10.01.25 | Working on layouts, reuploading dysfunctional content                                                                       | 9:03         | 13:00      | 4                |
 | 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
-| 10.02.25 | Carl meeting                                                                                                                | 09:45        |            |                  |
+| 10.02.25 | Carl meeting, South half of with care                                                                                       | 09:00        |            |                  |
 
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
@@ -114,6 +114,11 @@ cfuat = testing server
 
 ### 09.25.25
 *- Test 5.0 to see if video being shorter than layout actually works rather than video looping* - Video ends and does not loop
+
+
+### 10.02.25
+User manual for 5.0 - flag 4.5.2 features that aren't yet in 5.0, just flag and keep it pushing
+- Need by **11.22.25**
 
 
 **BUGS**
