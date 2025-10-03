@@ -22,7 +22,7 @@
 | 10.01.25 | Working on layouts, reuploading dysfunctional content                                                                       | 9:03         | 13:00      | 4                |
 | 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
 | 10.02.25 | Carl meeting, South half of 'with care,' starting manual                                                                    | 10:05        | 13:08      | 3                |
-| 10.03.25 | Manual                                                                                                                      |              |            |                  |
+| 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
 
 [[Zignage 5.0 Bugs]]
 ### 09.02.25 
