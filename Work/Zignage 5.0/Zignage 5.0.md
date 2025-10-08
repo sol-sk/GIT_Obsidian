@@ -26,7 +26,7 @@
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
 | 10.08.25 | cont.: Templates and Status                                                                                                 | 13:13        | 14:52      |                  |
-|          | carl meeting                                                                                                                | 15:00        |            |                  |
+|          | carl meeting                                                                                                                | 15:00        | 15:17      |                  |
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
 ### 09.02.25 
@@ -124,6 +124,14 @@ cfuat = testing server
 ### 10.02.25
 User manual for 5.0 - flag 4.5.2 features that aren't yet in 5.0, just flag and keep it pushing
 - Need by **11.22.25**
+
+### 10.08.25
+Meeting with Carl @ 15:00
+
+**Next up: Video tutorials**
+
+
+**Next up: Lincoln Center - NEEDS SOSO CONFIRMATION**
 
 
 **BUGS**
