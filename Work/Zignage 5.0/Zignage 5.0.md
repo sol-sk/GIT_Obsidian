@@ -24,7 +24,7 @@
 | 10.02.25 | Carl meeting, South half of 'with care,' starting manual                                                                    | 10:05        | 13:08      | 3                |
 | 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
 
-[[Zignage 5.0 Bugs]]
+[Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
 ### 09.02.25 
 **TODO**
 *Build user taxonomy*
