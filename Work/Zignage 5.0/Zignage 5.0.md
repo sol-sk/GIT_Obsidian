@@ -23,6 +23,8 @@
 | 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
 | 10.02.25 | Carl meeting, South half of 'with care,' starting manual                                                                    | 10:05        | 13:08      | 3                |
 | 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
+| 10.06.25 | cont.                                                                                                                       | 10:12        | 12:15      | 2                |
+| 10.08.25 | cont.                                                                                                                       | 13:13        |            |                  |
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
 ### 09.02.25 
