@@ -25,7 +25,8 @@
 | 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
-| 10.08.25 | cont.: Templates and Status                                                                                                 | 13:13        | 14:52      | 3                |
+| 10.08.25 | cont.: Templates and Status                                                                                                 | 13:13        | 14:52      |                  |
+|          | carl meeting                                                                                                                | 15:00        |            |                  |
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
 ### 09.02.25 
