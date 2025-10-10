@@ -26,6 +26,7 @@
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
 | 10.08.25 | cont.: Templates and Status; Carl meeting re: 5.0 manual                                                                    | 13:01        | 15:17      | 2.25             |
+| 10.10.25 | Optisign                                                                                                                    | 12:06        |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
@@ -133,6 +134,11 @@ Meeting with Carl @ 15:00
 
 **Next up: Lincoln Center - NEEDS SOSO CONFIRMATION**
 
+
+### 10.10.25
+Meeting with Carl 11:35-11:45
+
+[[Optisigns]]
 
 **BUGS**
 - [x] Lag when creating tags on media page (after editing/creating permissions)
