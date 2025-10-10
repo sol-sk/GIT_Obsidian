@@ -54,7 +54,7 @@ Buttons: reboot, "screen", wifi, info, timeline, info, go back
 ![[Pasted image 20251010123526.png]]
 **Toolbar:** 
 - Checkbox to select all 
-- "Home" button unclear purpose
+- Directory 
 - New folder icon
 	- New folder: Name, 'Advanced' -- security options for who can access folder
 - List view/grid view toggle
@@ -67,10 +67,11 @@ Buttons: reboot, "screen", wifi, info, timeline, info, go back
 
 **File info:**
 ![[Pasted image 20251010123753.png]]
+**Push to screens, add to playlists, show playlists using this**
 
-
-Get info: 
-![[Pasted image 20251010123905.png|300]]
+When file/asset is selected: toolbar
+![[Pasted image 20251010124928.png]]
+Open, add to playlist, set assets to live/expire, tags, move to, delete, 
 ### Templates
 - Literally Canva
 

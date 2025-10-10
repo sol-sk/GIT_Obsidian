@@ -25,8 +25,8 @@
 | 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
-| 10.08.25 | cont.: Templates and Status; Carl meeting re: 5.0 manual                                                                    | 13:01        | 15:17      | 2.25             |
-| 10.10.25 | Optisign                                                                                                                    | 12:06        |            |                  |
+| 10.08.25 | cont.: Templates and Status; Carl meeting re: 5.0 manual                                                                    | 13:01        | 15:17      | 2.5              |
+| 10.10.25 | Optisign                                                                                                                    | 12:06        | 13:06      | 1                |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
