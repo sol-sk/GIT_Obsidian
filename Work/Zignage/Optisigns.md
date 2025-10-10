@@ -24,6 +24,7 @@ Buttons: reboot, "screen", wifi, info, timeline, info, go back
 
 ### Files/Assets
 **Left menu:** 
+![[Pasted image 20251010123542.png|300]]
 - Search
 	- Automatically updates within a few seconds
 - Upload files
@@ -50,17 +51,26 @@ Buttons: reboot, "screen", wifi, info, timeline, info, go back
 	- All, images, videos, docs, apps, and shared with me 
 
 **Main menu:** 
-Toolbar: 
+![[Pasted image 20251010123526.png]]
+**Toolbar:** 
 - Checkbox to select all 
 - "Home" button unclear purpose
 - New folder icon
 	- New folder: Name, 'Advanced' -- security options for who can access folder
 - List view/grid view toggle
 - Sort button: date created, updated, name asc/desc
-- 
 
-List of files
+**Files:**
+- Checkbox 
+- File name, icon indicating file type, date/time uploaded, download button (file)/preview button (asset), file info button 
+- Clicking on file opens upload menu
 
+**File info:**
+![[Pasted image 20251010123753.png]]
+
+
+Get info: 
+![[Pasted image 20251010123905.png|300]]
 ### Templates
 - Literally Canva
 
