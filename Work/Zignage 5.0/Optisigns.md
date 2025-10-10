@@ -23,18 +23,43 @@
 Buttons: reboot, "screen", wifi, info, timeline, info, go back
 
 ### Files/Assets
-Left menu: 
+**Left menu:** 
 - Search
+	- Automatically updates within a few seconds
 - Upload files
+	- Drag and drop, browse local library, or import from "my device" (same as browse), camera, dropbox, and onedrive 
+	- "Images, Documents, Audio and Video only, 1024 MB or less"
 - Apps 
+	- Optisigns compatibility with dozens of apps which allows content to be easily imported and converted into a new playlist
 - Templates
 - Feeds
+	- Generic themed content
+	- Contains info: 
+		- Feed Name: Group of Six Conference Football Feed
+		- Author: OptiSigns
+	- Description: Weeknights to wild finishes, it’s Group of Six college football. Get live scores, standings, schedules, and results for the AAC, C-USA, MAC, Mountain West, Pac-12, and Sun Belt. Upsets, comebacks, and clutch moments—delivered in real time.
+- Total Duration: 450s
+	- Recommended Duration: 45s
+	-  # of items: 10
+	- Type: Video
+	- Supported Orientation: Landscape & Portrait
+	- Shuffle: No
+	- Resume On Next Play: Yes
+- Type
+	- Filters by asset type
+	- All, images, videos, docs, apps, and shared with me 
+
+**Main menu:** 
+Toolbar: 
+- Checkbox to select all 
+- "Home" button unclear purpose
+- New folder icon
+	- New folder: Name, 'Advanced' -- security options for who can access folder
+- List view/grid view toggle
+- Sort button: date created, updated, name asc/desc
 - 
 
-
-
-
-
+List of files
 
 ### Templates
 - Literally Canva
@@ -43,6 +68,8 @@ Left menu:
 Continuous loop 
 Saves automatically
 Drag and drop content
+
+
 
 ### Schedule
 Playlist or asset
