@@ -85,6 +85,16 @@ Gives calendar view of when content will play
 Individual assets can be scheduled to only play certain dates or times on files/assets page
 
 
+
+### Screens
+Connecting the first screen: the Optisigns app can be downloaded and launched on a user PC to use as a test screen. I downloaded the Mac OS app Optisigns Digital Signage and used my computer as the "screen" to push content to. I selected "schedule" as the type.
+![[Pasted image 20251014150141.png]]
+
+
 ## Optisigns/ZCast
 
-- Media page is organized 
+**Key differences in workflow**
+- Optisigns does not offer a layout design workspace; files/media assets are played as is, apps and feeds allow users to use design interfaces they are already comfortable/familiar with to make designs. 
+- Because media files go straight into playlists as is to be pushed, it is *very* easy to see what playlists have what media, and to push *straight* from the media page
+Single media asset selected: **target** can be set to Screens, tags, or tag rules
+![[Pasted image 20251014145921.png]]
