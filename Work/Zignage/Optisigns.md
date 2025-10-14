@@ -84,6 +84,9 @@ Playlist or asset
 Gives calendar view of when content will play
 Individual assets can be scheduled to only play certain dates or times on files/assets page
 
+**Creating a schedule**
+![[Pasted image 20251014150331.png]]
+Type: asset or playlist
 
 
 ### Screens
