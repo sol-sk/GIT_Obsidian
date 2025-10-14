@@ -27,6 +27,7 @@
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
 | 10.08.25 | cont.: Templates and Status; Carl meeting re: 5.0 manual                                                                    | 13:01        | 15:17      | 2.5              |
 | 10.10.25 | Optisign                                                                                                                    | 12:06        | 13:06      | 1                |
+| 10.14.25 | cont. Optisign                                                                                                              | 12:05        |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
@@ -130,13 +131,11 @@ User manual for 5.0 - flag 4.5.2 features that aren't yet in 5.0, just flag and 
 Meeting with Carl @ 15:00
 
 **Next up: Video tutorials**
-
-
 **Next up: Lincoln Center - NEEDS SOSO CONFIRMATION**
-
-
 ### 10.10.25
 Meeting with Carl 11:35-11:45
+**Next up: Optisign**
+
 
 [[Optisigns]]
 
