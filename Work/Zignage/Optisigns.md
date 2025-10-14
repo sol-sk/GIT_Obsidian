@@ -79,10 +79,12 @@ Open, add to playlist, set assets to live/expire, tags, move to, delete,
 Continuous loop 
 Saves automatically
 Drag and drop content
-
-
-
 ### Schedule
 Playlist or asset
 Gives calendar view of when content will play
 Individual assets can be scheduled to only play certain dates or times on files/assets page
+
+
+## Optisigns/ZCast
+
+- Media page is organized 
