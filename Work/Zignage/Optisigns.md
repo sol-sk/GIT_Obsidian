@@ -35,9 +35,6 @@
 
 
 
-
-
-
 ## Optisigns Pages
 
 Pair device quickly and easily with pairing code

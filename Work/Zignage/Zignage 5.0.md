@@ -159,3 +159,14 @@ Mockup schedule page in ZCast graphic style
 Don't expand Zcast current functionality, just edit interface 
 
 Map actions that do exist
+- Media asset incept&expiry will be implemented in 5.0 -- call out as "not yet"
+
+"Look and feel" of Zcast over top of Optisigns interface, *highlighting Optisigns features that ZCast has* 
+
+Due **10.23.25**
+
+
+basement facing garden
+246 e 46th
+
+
