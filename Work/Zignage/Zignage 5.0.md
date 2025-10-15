@@ -152,3 +152,10 @@ Meeting with Carl 11:35-11:45
 - [x] When adding multiple layouts into another layout, layout often replaces previously existing layout
 - [ ] Filter by media type does not work
 
+### 10.15.25
+Next: Mockup media/layout page in ZCast graphic style
+Mockup playlist page in ZCast graphic style
+Mockup schedule page in ZCast graphic style
+Don't expand Zcast current functionality, just edit interface 
+
+Map actions that do exist
