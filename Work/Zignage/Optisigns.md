@@ -8,18 +8,6 @@
 - *Shared/combined functionality across pages* - Files can be uploaded on playlist page, content can be pushed or added to playlists directly from media page
 Single media asset selected: **target** can be set to Screens, tags, or tag rules
 ![[Pasted image 20251014145921.png]]
-
-
-
-### Optisigns
-IMO for improved workflow: be able to create a new playlist on media page when adding media to playlist
-![[Pasted image 20251015094654.png]]
-*Easy to apply transition to all* 
-
-
-**CHANGES AUTOMATICALLY SAVE**
-
-
 ## Full Overview
 **Optisigns/ZCast**
 
@@ -35,25 +23,25 @@ IMO for improved workflow: be able to create a new playlist on media page when a
 
 ### Pages Comparison
 
-| **Optisigns** | **ZCast**                | Functionality                                                   | Notes                                                                                                                                                                                                                                                                      |
-| ------------- | ------------------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Screens       | System                   | Viewing all registered devices                                  | Difficult to compare when 5.0 System hasn't been built. Optisigns offers easy "Operational Schedule": "Schedule Device, TV power on/off, Volume, Brightness This will largely depend on your devices and TV/Monitor selection." Rotation is easily performed in a dropdown |
-| Files/Assets  | Media, Layout, Templates | Viewing all media files, including layouts, and editing layouts |                                                                                                                                                                                                                                                                            |
-| Templates     |                          |                                                                 |                                                                                                                                                                                                                                                                            |
-| Playlists     | Playlist                 |                                                                 |                                                                                                                                                                                                                                                                            |
-| Schedules     | Schedule                 |                                                                 |                                                                                                                                                                                                                                                                            |
-| Engage        | -                        |                                                                 |                                                                                                                                                                                                                                                                            |
-| Analytics     | Analytics                |                                                                 |                                                                                                                                                                                                                                                                            |
-|               | Permissions              |                                                                 |                                                                                                                                                                                                                                                                            |
-|               |                          |                                                                 |                                                                                                                                                                                                                                                                            |
-|               |                          |                                                                 |                                                                                                                                                                                                                                                                            |
+| **Optisigns** | **ZCast**                | Functionality                                      | Notes                                                                                                                                                                                                                                                                          |
+| ------------- | ------------------------ | -------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Screens       | System                   | Viewing all registered devices                     | Difficult to compare when 5.0 System hasn't been built. **Optisigns** offers easy "Operational Schedule": "Schedule Device, TV power on/off, Volume, Brightness This will largely depend on your devices and TV/Monitor selection." Rotation is easily performed in a dropdown |
+| Files/Assets  | Media, Layout, Templates | Viewing and editing media files, including layouts | **Optisigns** offers design/editing apps *within media page*, as opposed to **ZCast** which fully separates *media files* from *layouts*                                                                                                                                       |
+| Templates     |                          |                                                    | Generic design templates offered                                                                                                                                                                                                                                               |
+| Playlists     | Playlist                 |                                                    | Creating a playlist of files/media assets/layouts with transitions between each.                                                                                                                                                                                               |
+| Schedules     | Schedule                 |                                                    |                                                                                                                                                                                                                                                                                |
+| Engage        | -                        |                                                    |                                                                                                                                                                                                                                                                                |
+| Analytics     | Analytics                |                                                    |                                                                                                                                                                                                                                                                                |
+|               | Permissions              |                                                    |                                                                                                                                                                                                                                                                                |
 
 
 
 
 
-- Pair device quickly and easily with pairing code
 
+## Optisigns Pages
+
+Pair device quickly and easily with pairing code
 ### Screens
 **Screen info:** 
 *Basic settings*
