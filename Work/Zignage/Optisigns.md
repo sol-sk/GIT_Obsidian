@@ -1,3 +1,57 @@
+## Optisigns/ZCast
+
+**Key differences in workflow**
+- Optisigns does not offer a layout design workspace; files/media assets are played as is, apps and feeds allow users to use design interfaces they are already comfortable/familiar with to make designs. **EDIT** "Designer", under apps, is Optisigns but it is almost identical to Canva
+	![[Pasted image 20251015095609.png]]
+	Alerts for unsaved changes
+- Because media files go straight into playlists as is to be pushed, it is *very* easy to see what playlists have what media, and to push *straight* from the media page
+- *Shared/combined functionality across pages* - Files can be uploaded on playlist page, content can be pushed or added to playlists directly from media page
+Single media asset selected: **target** can be set to Screens, tags, or tag rules
+![[Pasted image 20251014145921.png]]
+
+
+
+### Optisigns
+IMO for improved workflow: be able to create a new playlist on media page when adding media to playlist
+![[Pasted image 20251015094654.png]]
+*Easy to apply transition to all* 
+
+
+**CHANGES AUTOMATICALLY SAVE**
+
+
+## Full Overview
+**Optisigns/ZCast**
+
+- *Assets to live/expire:* A time/season-specific asset can be individually scheduled within the playlist/overall schedule
+- *Cross-functionality from media page:* assets can be pushed to screens, added to playlists, and the playlists they are already in can be viewed *from the media page*
+- *App compatibility:* Layout design can be done in dozens of different apps and easily imported from the media page. 
+- *Scheduling:* Calendar view for schedule, resembling calendar apps like Google Calendar
+- *Canva is everywhere:* Templates page is all basic Canva templates, and Optisigns layout "Designer" is also basically Canva. 
+- *Playlists:* "Default transition" makes it much easier to create custom playlists; each asset automatically is set to the default transition, which can be changed easily and all assets will update. Indiviudal assets can also be edited to particular transitions. 
+- *Layouts = media assets:* There is no distinction made between a "layout" and any other media assets.
+- *Interface:* Optisigns feels much more generic, ZCast more "tech-y"
+
+
+### Pages Comparison
+
+| **Optisigns** | **ZCast**                | Functionality                                                   | Notes                                                                                                                                                                                                                                                                      |
+| ------------- | ------------------------ | --------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Screens       | System                   | Viewing all registered devices                                  | Difficult to compare when 5.0 System hasn't been built. Optisigns offers easy "Operational Schedule": "Schedule Device, TV power on/off, Volume, Brightness This will largely depend on your devices and TV/Monitor selection." Rotation is easily performed in a dropdown |
+| Files/Assets  | Media, Layout, Templates | Viewing all media files, including layouts, and editing layouts |                                                                                                                                                                                                                                                                            |
+| Templates     |                          |                                                                 |                                                                                                                                                                                                                                                                            |
+| Playlists     | Playlist                 |                                                                 |                                                                                                                                                                                                                                                                            |
+| Schedules     | Schedule                 |                                                                 |                                                                                                                                                                                                                                                                            |
+| Engage        | -                        |                                                                 |                                                                                                                                                                                                                                                                            |
+| Analytics     | Analytics                |                                                                 |                                                                                                                                                                                                                                                                            |
+|               | Permissions              |                                                                 |                                                                                                                                                                                                                                                                            |
+|               |                          |                                                                 |                                                                                                                                                                                                                                                                            |
+|               |                          |                                                                 |                                                                                                                                                                                                                                                                            |
+
+
+
+
+
 - Pair device quickly and easily with pairing code
 
 ### Screens
@@ -98,38 +152,3 @@ Connecting the first screen: the Optisigns app can be downloaded and launched on
 ![[Pasted image 20251014150141.png]]
 
 
-## Optisigns/ZCast
-
-**Key differences in workflow**
-- Optisigns does not offer a layout design workspace; files/media assets are played as is, apps and feeds allow users to use design interfaces they are already comfortable/familiar with to make designs. **EDIT** "Designer", under apps, is Optisigns but it is almost identical to Canva
-	![[Pasted image 20251015095609.png]]
-	Alerts for unsaved changes
-- Because media files go straight into playlists as is to be pushed, it is *very* easy to see what playlists have what media, and to push *straight* from the media page
-- *Shared/combined functionality across pages* - Files can be uploaded on playlist page, content can be pushed or added to playlists directly from media page
-Single media asset selected: **target** can be set to Screens, tags, or tag rules
-![[Pasted image 20251014145921.png]]
-
-
-
-
-## 10.15.25
-### Optisigns
-IMO for improved workflow: be able to create a new playlist on media page when adding media to playlist
-![[Pasted image 20251015094654.png]]
-*Easy to apply transition to all* 
-
-
-**CHANGES AUTOMATICALLY SAVE**
-
-
-## Full Overview
-**Optisigns/ZCast**
-
-- *Assets to live/expire:* A time/season-specific asset can be individually scheduled within the playlist/overall schedule
-- *Cross-functionality from media page:* assets can be pushed to screens, added to playlists, and the playlists they are already in can be viewed *from the media page*
-- *App compatibility:* Layout design can be done in dozens of different apps and easily imported from the media page. 
-- *Scheduling:* Calendar view for schedule, resembling calendar apps like Google Calendar
-- *Canva is everywhere:* Templates page is all basic Canva templates, and Optisigns layout "Designer" is also basically Canva. 
-- *Playlists:* "Default transition" makes it much easier to create custom playlists; each asset automatically is set to the default transition, which can be changed easily and all assets will update. Indiviudal assets can also be edited to particular transitions. 
-- *Layouts = media assets:* There is no distinction made between a "layout" and any other media assets.
-- *Interface:* Optisigns feels much more generic, ZCast more "tech-y"
