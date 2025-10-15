@@ -125,3 +125,7 @@ IMO for improved workflow: be able to create a new playlist on media page when a
 ## Full Overview
 **Optisigns/ZCast**
 
+- *Assets to live/expire:* A time/season-specific asset can be individually scheduled within the playlist/overall schedule
+- *Cross-functionality from media page:* assets can be pushed to screens, added to playlists, and the playlists they are already in can be viewed *from the media page*
+- *App compatibility:* Layout design can be done in dozens of different apps and easily imported from the media page. 
+- *SChed*
