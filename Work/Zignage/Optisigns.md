@@ -106,3 +106,16 @@ Connecting the first screen: the Optisigns app can be downloaded and launched on
 - *Shared/combined functionality across pages* - Files can be uploaded on playlist page, content can be pushed or added to playlists directly from media page
 Single media asset selected: **target** can be set to Screens, tags, or tag rules
 ![[Pasted image 20251014145921.png]]
+
+
+
+
+## 10.15.25
+### Optisigns
+IMO for improved workflow: be able to create a new playlist on media page when adding media to playlist
+![[Pasted image 20251015094654.png]]
+*Easy to apply transition to all* 
+
+
+**CHANGES AUTOMATICALLY SAVE**
+
