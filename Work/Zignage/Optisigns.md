@@ -72,6 +72,10 @@ Buttons: reboot, "screen", wifi, info, timeline, info, go back
 When file/asset is selected: toolbar
 ![[Pasted image 20251010124928.png]]
 Open, add to playlist, set assets to live/expire, tags, move to, delete, 
+
+
+![[Pasted image 20251014152718.png]]
+Media→ Push to → temp takeover → these options
 ### Templates
 - Literally Canva
 
