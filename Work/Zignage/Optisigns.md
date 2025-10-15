@@ -128,4 +128,8 @@ IMO for improved workflow: be able to create a new playlist on media page when a
 - *Assets to live/expire:* A time/season-specific asset can be individually scheduled within the playlist/overall schedule
 - *Cross-functionality from media page:* assets can be pushed to screens, added to playlists, and the playlists they are already in can be viewed *from the media page*
 - *App compatibility:* Layout design can be done in dozens of different apps and easily imported from the media page. 
-- *SChed*
+- *Scheduling:* Calendar view for schedule, resembling calendar apps like Google Calendar
+- *Canva is everywhere:* Templates page is all basic Canva templates, and Optisigns layout "Designer" is also basically Canva. 
+- *Playlists:* "Default transition" makes it much easier to create custom playlists; each asset automatically is set to the default transition, which can be changed easily and all assets will update. Indiviudal assets can also be edited to particular transitions. 
+- *Layouts = media assets:* There is no distinction made between a "layout" and any other media assets.
+- *Interface:* Optisigns feels much more generic, ZCast more "tech-y"
