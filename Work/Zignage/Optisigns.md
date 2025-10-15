@@ -101,7 +101,9 @@ Connecting the first screen: the Optisigns app can be downloaded and launched on
 ## Optisigns/ZCast
 
 **Key differences in workflow**
-- Optisigns does not offer a layout design workspace; files/media assets are played as is, apps and feeds allow users to use design interfaces they are already comfortable/familiar with to make designs. 
+- Optisigns does not offer a layout design workspace; files/media assets are played as is, apps and feeds allow users to use design interfaces they are already comfortable/familiar with to make designs. **EDIT** "Designer", under apps, is Optisigns but it is almost identical to Canva
+	![[Pasted image 20251015095609.png]]
+	Alerts for unsaved changes
 - Because media files go straight into playlists as is to be pushed, it is *very* easy to see what playlists have what media, and to push *straight* from the media page
 - *Shared/combined functionality across pages* - Files can be uploaded on playlist page, content can be pushed or added to playlists directly from media page
 Single media asset selected: **target** can be set to Screens, tags, or tag rules
