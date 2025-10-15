@@ -29,7 +29,10 @@
 | 10.10.25 | Optisign                                                                                                                    | 12:06        | 13:06      | 1                |
 | 10.14.25 | cont. Optisign                                                                                                              | 12:05        | 13:00      | 1                |
 | 10.14.25 | cont. Optisign                                                                                                              | 14:56        | 15:45      | 1                |
-| 10.15.25 | cont. Optisign                                                                                                              |              |            |                  |
+| 10.15.25 | cont. Optisign                                                                                                              |              |            | 6                |
+| 10.16.25 |                                                                                                                             |              |            | 6                |
+| 10.17.25 |                                                                                                                             |              |            | 6                |
+|          | Invoice                                                                                                                     |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
