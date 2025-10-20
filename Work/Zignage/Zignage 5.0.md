@@ -32,7 +32,7 @@
 | 10.15.25 | cont. Optisign                                                                                                              | 9:02         | 13:53      | 5                |
 | 10.16.25 | XPress                                                                                                                      | 9:05         | 17:51      | 8.5              |
 | 10.17.25 | XPress                                                                                                                      | 09:08        | 16:59      | 7.5              |
-| 10.19.25 | XPress                                                                                                                      | 11:50        |            |                  |
+| 10.19.25 | XPress                                                                                                                      | 11:50        | 17:52      | 6                |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
