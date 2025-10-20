@@ -29,12 +29,13 @@
 | 10.10.25 | Optisign                                                                                                                    | 12:06        | 13:06      | 1                |
 | 10.14.25 | cont. Optisign                                                                                                              | 12:05        | 13:00      | 1                |
 | 10.14.25 | cont. Optisign                                                                                                              | 14:56        | 15:45      | 1                |
-| 10.15.25 | cont. Optisign                                                                                                              | 9:02         | 13:53      | 5                |
-| 10.16.25 | XPress                                                                                                                      | 9:05         | 17:51      | 8.5              |
+| 10.15.25 | cont. Optisign                                                                                                              | 09:02        | 13:53      | 5                |
+| 10.16.25 | XPress                                                                                                                      | 09:05        | 17:51      | 8.5              |
 | 10.17.25 | XPress                                                                                                                      | 09:08        | 16:59      | 7.5              |
 | 10.19.25 | XPress                                                                                                                      | 11:50        | 17:52      | 6                |
 |          | Invoice sent                                                                                                                |              |            |                  |
-| 10.20.25 |                                                                                                                             | 10:37        |            |                  |
+| 10.20.25 | Finishing up presentation, Meeting w/ Carl & Alex                                                                           | 09:37        | 15:30      | 6                |
+|          |                                                                                                                             |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
@@ -171,3 +172,4 @@ Due **10.23.25**
 https://zignage.atlassian.net/browse/ZC5-240
 
 ### 10.20.25
+Meeting at 2:00 PST
