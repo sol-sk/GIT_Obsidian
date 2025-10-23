@@ -173,3 +173,7 @@ https://zignage.atlassian.net/browse/ZC5-240
 
 ### 10.20.25
 Meeting at 2:00 PST
+
+
+### 10.23.25
+Meeting at 12:06 w/ Carl
