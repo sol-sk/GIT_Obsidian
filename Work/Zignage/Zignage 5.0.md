@@ -35,7 +35,7 @@
 | 10.19.25 | XPress                                                                                                                      | 11:50        | 17:52      | 6                |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.20.25 | Finishing up presentation, Meeting w/ Carl & Alex                                                                           | 09:37        | 15:30      | 6                |
-|          |                                                                                                                             |              |            |                  |
+| 10.23.25 |                                                                                                                             | 10:09        |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
