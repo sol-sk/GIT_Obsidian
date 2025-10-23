@@ -178,11 +178,8 @@ Meeting at 2:00 PST
 ### 10.23.25
 Meeting at 12:06 w/ Carl
 Lincoln center going live
-SSO - Update manual
-Figma full mockup for express and 5.0 workflow edits
-
 Playlists and analytics permissions for everyone at LC
-
 1. Build xpress workflow in figma as simulation w/o annotation
-2. 
+2. Illustrated doc of all proposed changes to 5.0 
+3. SSO update once it's working
 
