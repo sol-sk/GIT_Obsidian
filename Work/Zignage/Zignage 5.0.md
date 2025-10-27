@@ -35,10 +35,11 @@
 | 10.19.25 | XPress                                                                                                                      | 11:50        | 17:52      | 6                |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 10.20.25 | Finishing up presentation, Meeting w/ Carl & Alex                                                                           | 09:37        | 15:30      | 6                |
-| 10.23.25 |                                                                                                                             | 10:09        | 12:00      | 2                |
-| 10.24.25 |                                                                                                                             | 17:34        | 18:36      | 1                |
-| 10.27.25 |                                                                                                                             | 09:02        | 10:50      | 1.8              |
-| 10.27.25 |                                                                                                                             | 12:30        | 16:30      | 4                |
+| 10.23.25 | Figma XPress workflow simulation                                                                                            | 10:09        | 12:00      | 2                |
+| 10.24.25 | cont.                                                                                                                       | 17:34        | 18:36      | 1                |
+| 10.27.25 | cont.                                                                                                                       | 09:02        | 10:50      | 1.8              |
+| 10.27.25 | cont. & compiling 5.0 Proposed changes                                                                                      | 12:30        | 14:51      | 2.3              |
+| 10.27.25 |                                                                                                                             |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
