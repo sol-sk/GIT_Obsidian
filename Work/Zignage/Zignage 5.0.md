@@ -182,7 +182,7 @@ Meeting at 2:00 PST
 Meeting at 12:06 w/ Carl
 Lincoln center going live
 Playlists and analytics permissions for everyone at LC
-1. Build xpress workflow in figma as simulation w/o annotation
-2. Illustrated doc of all proposed changes to 5.0 
-3. SSO update once it's working
+1. [x] Build xpress workflow in figma as simulation w/o annotation
+2. [ ] Illustrated doc of all proposed changes to 5.0 
+3. [ ] SSO update once it's working
 
