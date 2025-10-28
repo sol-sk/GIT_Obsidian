@@ -40,6 +40,7 @@
 | 10.27.25 | cont.                                                                                                                       | 09:02        | 10:50      | 1.8              |
 | 10.27.25 | cont. & compiling 5.0 Proposed changes                                                                                      | 12:30        | 14:51      | 2.3              |
 | 10.28.25 | Meeting w/ Carl & Alex                                                                                                      | 09:30        | 15:30      | 6                |
+|          |                                                                                                                             |              | 12:57      |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
