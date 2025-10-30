@@ -41,7 +41,7 @@
 | 10.27.25 | cont. & compiling 5.0 Proposed changes                                                                                      | 12:30        | 14:51      | 2.3              |
 | 10.28.25 | Meeting w/ Carl & Alex                                                                                                      | 09:30        | 15:30      | 6                |
 |          | LC templates                                                                                                                |              | 12:57      |                  |
-| 10.29.25 | Lincoln                                                                                                                     | 12:35        |            |                  |
+| 10.29.25 | Lincoln                                                                                                                     | 12:35        | 17:01      |                  |
 |          |                                                                                                                             |              |            |                  |
 
 
