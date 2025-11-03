@@ -45,6 +45,7 @@
 | 10.30.25 | Demo video, LC templates                                                                                                    | 10:04        | 16:22      | 6                |
 | 10.31.25 |                                                                                                                             |              |            |                  |
 |          | Invoice sent                                                                                                                |              |            |                  |
+| 11.03.25 |                                                                                                                             | 12:00        |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
