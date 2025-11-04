@@ -46,7 +46,7 @@
 | 10.31.25 |                                                                                                                             |              |            |                  |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 11.03.25 | LC layouts                                                                                                                  | 12:20        | 16:26      | 6                |
-|          |                                                                                                                             |              |            |                  |
+| 11.04.25 |                                                                                                                             |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
