@@ -1,0 +1,26 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "file": "Files/Pasted image 20251104185104.png",
+      "height": 400,
+      "id": "e51914231e27ec73",
+      "type": "file",
+      "width": 400,
+      "x": -480,
+      "y": -80
+    },
+    {
+      "height": 60,
+      "id": "7ee22e5b7ba083df",
+      "styleAttributes": {
+      },
+      "text": "[Vihals Gateleg Table](https://www.ikea.com/ca/en/p/vihals-gateleg-table-white-70593574/)",
+      "type": "text",
+      "width": 260,
+      "x": -480,
+      "y": 340
+    }
+  ]
+}
