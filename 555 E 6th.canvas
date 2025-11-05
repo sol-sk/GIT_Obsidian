@@ -23,13 +23,26 @@
       "y": 340
     },
     {
-      "height": 400,
-      "id": "8b4b5bd175a8ba54",
-      "type": "link",
-      "url": "https://www.amazon.ca/s?k=smart+bulb&crid=74815KJK13NK&geniuslink=true&linkId=4a5a7f3398261e6d91ce36593d8c7e43&sprefix=smart+bulb%2Caps%2C155&tag=danieltitch08-20&ref=as_li_ss_tl",
-      "width": 400,
-      "x": -480,
-      "y": 440
+      "height": 202,
+      "id": "a5c3d799f4f6d792",
+      "styleAttributes": {
+      },
+      "text": "Smart bulbs - https://www.amazon.ca/s?k=smart+bulb&crid=74815KJK13NK&geniuslink=true&linkId=4a5a7f3398261e6d91ce36593d8c7e43&sprefix=smart+bulb%2Caps%2C155&tag=danieltitch08-20&ref=as_li_ss_tl",
+      "type": "text",
+      "width": 260,
+      "x": -500,
+      "y": 460
+    },
+    {
+      "height": 100,
+      "id": "58ba0ed832ce5130",
+      "styleAttributes": {
+      },
+      "text": "Socket cover - \nhttps://www.amazon.ca/dp/B07S8DZ1T5?tag=danieltitch08-20&th=1&geniuslink=true",
+      "type": "text",
+      "width": 260,
+      "x": -500,
+      "y": 680
     }
   ]
 }
