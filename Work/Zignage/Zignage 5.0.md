@@ -46,9 +46,11 @@
 | 10.31.25 |                                                                                                                             |              |            |                  |
 |          | Invoice sent                                                                                                                |              |            |                  |
 | 11.03.25 | LC layouts                                                                                                                  | 12:20        | 16:26      | 6                |
-| 11.04.25 | Meeting w/ Carl                                                                                                             |              |            |                  |
-| 11.05.25 | Meeting w/ Carl                                                                                                             | 13:12        | 13:45      |                  |
-| 11.07.25 | Express demo updated and video re-recorded                                                                                  | 13:48        | 15:48      |                  |
+| 11.04.25 | Meeting w/ Carl                                                                                                             |              |            | .5               |
+| 11.05.25 | Meeting w/ Carl                                                                                                             | 13:12        | 13:45      | .5               |
+| 11.07.25 | Express demo                                                                                                                | 13:48        | 15:48      | 2                |
+| 11.10.25 | Express demo updated and video re-recorded                                                                                  | 09:30        | 10:00      | .5               |
+|          |                                                                                                                             |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
