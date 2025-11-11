@@ -14,7 +14,7 @@
 | 09.16.25 | 5.0 bug/feature reporting, comparing 4.5                                                                                    | 13:00        | 14:00      | 1                |
 | 09.18.25 | Beginning cf migration; downloading all files                                                                               | 11:50        | 12:20      | .5               |
 | 09.19.25 |                                                                                                                             | 15:13        | 16:00      | .75              |
-|          | Invoice sent - paid                                                                                                         |              |            |                  |
+|          | **Invoice sent - paid**                                                                                                     |              |            |                  |
 | 09.23.25 | Bug reporting                                                                                                               | 13:11        | 14:39      | 1.5              |
 | 09.25.25 | Uploading cf assets to gorgon                                                                                               | 09:32        | 12:00      | 2.5              |
 | 09.26.25 | cfprod layouts migration to gorgon                                                                                          | 10:47        | 12:47      | 2                |
@@ -24,7 +24,7 @@
 | 10.01.25 | Completing higher priority layouts (with care, arena, values, impact) inc. CF Animation playlist                            | 16:45        | 18:40      | 2                |
 | 10.02.25 | Carl meeting, South half of 'with care,' starting manual                                                                    | 10:05        | 13:08      | 3                |
 | 10.03.25 | 5.0 Manual                                                                                                                  | 9:17         | 11:58      |                  |
-|          | Invoice sent - paid                                                                                                         |              |            |                  |
+|          | **Invoice sent - paid**                                                                                                     |              |            |                  |
 | 10.06.25 | cont.: Layouts                                                                                                              | 10:12        | 12:15      | 2                |
 | 10.08.25 | cont.: Templates and Status; Carl meeting re: 5.0 manual                                                                    | 13:01        | 15:17      | 2.5              |
 | 10.10.25 | Optisign                                                                                                                    | 12:06        | 13:06      | 1                |
@@ -34,7 +34,7 @@
 | 10.16.25 | XPress                                                                                                                      | 09:05        | 17:51      | 8.5              |
 | 10.17.25 | XPress                                                                                                                      | 09:08        | 16:59      | 7.5              |
 | 10.19.25 | XPress                                                                                                                      | 11:50        | 17:52      | 6                |
-|          | Invoice sent                                                                                                                |              |            |                  |
+|          | **Invoice sent - paid**                                                                                                     |              |            |                  |
 | 10.20.25 | Finishing up presentation, Meeting w/ Carl & Alex                                                                           | 09:37        | 15:30      | 6                |
 | 10.23.25 | Figma XPress workflow simulation                                                                                            | 10:09        | 12:00      | 2                |
 | 10.24.25 | cont.                                                                                                                       | 17:34        | 18:36      | 1                |
@@ -44,7 +44,7 @@
 | 10.29.25 | LC templates                                                                                                                | 12:35        | 17:01      | 5                |
 | 10.30.25 | Demo video, LC templates                                                                                                    | 10:04        | 16:22      | 6                |
 | 10.31.25 |                                                                                                                             |              |            |                  |
-|          | Invoice sent                                                                                                                |              |            |                  |
+|          | **Invoice sent - paid**                                                                                                     |              |            |                  |
 | 11.03.25 | LC layouts                                                                                                                  | 12:20        | 16:26      | 6                |
 | 11.04.25 | Meeting w/ Carl                                                                                                             |              |            | .5               |
 | 11.05.25 | Meeting w/ Carl                                                                                                             | 13:12        | 13:45      | .5               |
