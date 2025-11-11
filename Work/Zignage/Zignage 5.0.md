@@ -50,7 +50,7 @@
 | 11.05.25 | Meeting w/ Carl                                                                                                             | 13:12        | 13:45      | .5               |
 | 11.07.25 | Express demo                                                                                                                | 13:48        | 15:48      | 2                |
 | 11.10.25 | Last tweak to express, creating LC Bollard layouts                                                                          | 09:30        | 17:36      | 8                |
-|          |                                                                                                                             |              |            |                  |
+| 11.11.25 |                                                                                                                             | 10:19        |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
