@@ -50,7 +50,8 @@
 | 11.05.25 | Meeting w/ Carl                                                                                                             | 13:12        | 13:45      | .5               |
 | 11.07.25 | Express demo                                                                                                                | 13:48        | 15:48      | 2                |
 | 11.10.25 | Last tweak to express, creating LC Bollard layouts                                                                          | 09:30        | 17:36      | 8                |
-| 11.11.25 |                                                                                                                             | 10:19        | 10:59      | .75              |
+| 11.11.25 | LC Bollard finishing touches                                                                                                | 10:19        | 10:59      | .75              |
+| 11.13.25 | LCPA Layouts                                                                                                                | 11:10        |            |                  |
 |          |                                                                                                                             |              |            |                  |
 
 
@@ -200,6 +201,6 @@ Playlists and analytics permissions for everyone at LC
 2. [ ] Illustrated doc of all proposed changes to 5.0 - *in progress*
 3. [ ] SSO update once it's working
 
+### 11.13.25
 
-
-### 10.29.25
+LCPA Layouts list
