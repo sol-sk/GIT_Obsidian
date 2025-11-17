@@ -209,5 +209,3 @@ LCPA Layouts list
 
 ### 11.17.25
 **Tutorials**
-- [ ] Systems
-- [ ] 
