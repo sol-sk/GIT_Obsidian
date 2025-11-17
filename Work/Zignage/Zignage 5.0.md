@@ -204,5 +204,6 @@ Playlists and analytics permissions for everyone at LC
 3. [ ] SSO update once it's working
 
 ### 11.13.25
-
 LCPA Layouts list
+
+
