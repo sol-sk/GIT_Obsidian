@@ -52,7 +52,9 @@
 | 11.10.25 | Last tweak to express, creating LC Bollard layouts                                                                          | 09:30        | 17:36      | 8                |
 | 11.11.25 | LC Bollard finishing touches                                                                                                | 10:02        | 10:59      | 1                |
 | 11.13.25 | LCPA Layouts                                                                                                                | 11:01        | 14:00      | 3                |
-| 11.17.25 | 5.0 tutorials                                                                                                               | 08:00        |            |                  |
+| 11.17.25 | Cleaning up 5.0 manual                                                                                                      | 08:00        | 12:00      | 4                |
+| 11.17.25 | Editing 5.0 tutorials                                                                                                       | 14:00        | 16:00      | 2                |
+|          | Invoice sent                                                                                                                |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
