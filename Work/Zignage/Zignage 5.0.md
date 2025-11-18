@@ -54,7 +54,8 @@
 | 11.13.25 | LCPA Layouts                                                                                                                | 11:01        | 14:00      | 3                |
 | 11.17.25 | Cleaning up 5.0 manual                                                                                                      | 08:00        | 12:00      | 4                |
 | 11.17.25 | Editing 5.0 tutorials                                                                                                       | 14:00        | 16:00      | 2                |
-|          | Invoice sent                                                                                                                |              |            |                  |
+|          | **Invoice sent**                                                                                                            |              |            |                  |
+|          |                                                                                                                             |              |            |                  |
 
 
 [Spreadsheet](https://docs.google.com/spreadsheets/d/1QQ2sX_B2eUmquN8UKz4Mx0imZfvT5QY4BoU8HzEHvGY/edit?gid=128608435#gid=128608435)
@@ -208,4 +209,5 @@ LCPA Layouts list
 
 
 ### 11.17.25
-**Tutorials**
+TODO: **Generic Tutorials Planning**
+
